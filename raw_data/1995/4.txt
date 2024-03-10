@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Newcastle United
+6	5	0	1	12	3	9	15	
+W
+Tuesday 22 August 1995
+BOL
+
+1
+-
+3
+
+NEW
+ 
+W
+Sunday 27 August 1995
+SHW
+
+0
+-
+2
+
+NEW
+ 
+W
+Wednesday 30 August 1995
+NEW
+
+1
+-
+0
+
+MID
+ 
+L
+Saturday 9 September 1995
+SOU
+
+1
+-
+0
+
+NEW
+ 
+W
+Saturday 16 September 1995
+NEW
+
+3
+-
+1
+
+MCI
+2 
+Previous Position 2
+
+Manchester United
+6	5	0	1	14	8	6	15	
+W
+Wednesday 23 August 1995
+MUN
+
+2
+-
+1
+
+WHU
+ 
+W
+Saturday 26 August 1995
+MUN
+
+3
+-
+1
+
+WIM
+ 
+W
+Monday 28 August 1995
+BLB
+
+1
+-
+2
+
+MUN
+ 
+W
+Saturday 9 September 1995
+EVE
+
+2
+-
+3
+
+MUN
+ 
+W
+Saturday 16 September 1995
+MUN
+
+3
+-
+0
+
+BOL
+3 
+Previous Position 5
+
+Aston Villa
+6	4	1	1	8	4	4	13	
+W
+Wednesday 23 August 1995
+TOT
+
+0
+-
+1
+
+AVL
+ 
+L
+Saturday 26 August 1995
+LEE
+
+2
+-
+0
+
+AVL
+ 
+W
+Wednesday 30 August 1995
+AVL
+
+1
+-
+0
+
+BOL
+ 
+D
+Saturday 9 September 1995
+BLB
+
+1
+-
+1
+
+AVL
+ 
+W
+Saturday 16 September 1995
+AVL
+
+2
+-
+0
+
+WIM
+4 
+Previous Position 7
+
+Liverpool
+6	4	0	2	8	3	5	12	
+L
+Monday 21 August 1995
+LEE
+
+1
+-
+0
+
+LIV
+ 
+W
+Saturday 26 August 1995
+TOT
+
+1
+-
+3
+
+LIV
+ 
+W
+Wednesday 30 August 1995
+LIV
+
+1
+-
+0
+
+QPR
+ 
+L
+Saturday 9 September 1995
+WIM
+
+1
+-
+0
+
+LIV
+ 
+W
+Saturday 16 September 1995
+LIV
+
+3
+-
+0
+
+BLB
+5 
+Previous Position 6
+
+Arsenal
+6	3	3	0	6	2	4	12	
+W
+Wednesday 23 August 1995
+EVE
+
+0
+-
+2
+
+ARS
+ 
+D
+Saturday 26 August 1995
+COV
+
+0
+-
+0
+
+ARS
+ 
+D
+Tuesday 29 August 1995
+ARS
+
+1
+-
+1
+
+NFO
+ 
+W
+Sunday 10 September 1995
+MCI
+
+0
+-
+1
+
+ARS
+ 
+W
+Saturday 16 September 1995
+ARS
+
+1
+-
+0
+
+WHU
+6 
+Previous Position 8
+
+Nottingham Forest
+6	2	4	0	10	8	2	10	
+D
+Wednesday 23 August 1995
+NFO
+
+0
+-
+0
+
+CHE
+ 
+D
+Saturday 26 August 1995
+NFO
+
+1
+-
+1
+
+WHU
+ 
+D
+Tuesday 29 August 1995
+ARS
+
+1
+-
+1
+
+NFO
+ 
+D
+Saturday 9 September 1995
+COV
+
+1
+-
+1
+
+NFO
+ 
+W
+Sunday 17 September 1995
+NFO
+
+3
+-
+2
+
+EVE
+7 
+Previous Position 3
+
+Wimbledon
+6	3	1	2	10	9	1	10	
+W
+Wednesday 23 August 1995
+QPR
+
+0
+-
+3
+
+WIM
+ 
+L
+Saturday 26 August 1995
+MUN
+
+3
+-
+1
+
+WIM
+ 
+D
+Wednesday 30 August 1995
+WIM
+
+2
+-
+2
+
+SHW
+ 
+W
+Saturday 9 September 1995
+WIM
+
+1
+-
+0
+
+LIV
+ 
+L
+Saturday 16 September 1995
+AVL
+
+2
+-
+0
+
+WIM
+8 
+Previous Position 4
+
+Leeds United
+6	3	1	2	8	7	1	10	
+W
+Monday 21 August 1995
+LEE
+
+1
+-
+0
+
+LIV
+ 
+W
+Saturday 26 August 1995
+LEE
+
+2
+-
+0
+
+AVL
+ 
+D
+Wednesday 30 August 1995
+SOU
+
+1
+-
+1
+
+LEE
+ 
+L
+Saturday 9 September 1995
+TOT
+
+2
+-
+1
+
+LEE
+ 
+L
+Saturday 16 September 1995
+LEE
+
+1
+-
+3
+
+QPR
+9 
+Previous Position 12
+
+Chelsea
+6	2	3	1	8	5	3	9	
+D
+Wednesday 23 August 1995
+NFO
+
+0
+-
+0
+
+CHE
+ 
+L
+Saturday 26 August 1995
+MID
+
+2
+-
+0
+
+CHE
+ 
+D
+Wednesday 30 August 1995
+CHE
+
+2
+-
+2
+
+COV
+ 
+W
+Monday 11 September 1995
+WHU
+
+1
+-
+3
+
+CHE
+ 
+W
+Saturday 16 September 1995
+CHE
+
+3
+-
+0
+
+SOU
+10 
+Previous Position 11
+
+Middlesbrough
+6	2	3	1	6	4	2	9	
+W
+Saturday 26 August 1995
+MID
+
+2
+-
+0
+
+CHE
+ 
+L
+Wednesday 30 August 1995
+NEW
+
+1
+-
+0
+
+MID
+ 
+D
+Saturday 9 September 1995
+BOL
+
+1
+-
+1
+
+MID
+ 
+D
+Tuesday 12 September 1995
+MID
+
+0
+-
+0
+
+SOU
+ 
+W
+Saturday 16 September 1995
+MID
+
+2
+-
+1
+
+COV
+11 
+Previous Position 15
+
+Tottenham Hotspur
+6	2	2	2	8	8	0	8	
+L
+Wednesday 23 August 1995
+TOT
+
+0
+-
+1
+
+AVL
+ 
+L
+Saturday 26 August 1995
+TOT
+
+1
+-
+3
+
+LIV
+ 
+D
+Wednesday 30 August 1995
+WHU
+
+1
+-
+1
+
+TOT
+ 
+W
+Saturday 9 September 1995
+TOT
+
+2
+-
+1
+
+LEE
+ 
+W
+Saturday 16 September 1995
+SHW
+
+1
+-
+3
+
+TOT
+12 
+Previous Position 10
+
+Everton
+6	2	1	3	8	8	0	7	
+L
+Wednesday 23 August 1995
+EVE
+
+0
+-
+2
+
+ARS
+ 
+W
+Saturday 26 August 1995
+EVE
+
+2
+-
+0
+
+SOU
+ 
+W
+Wednesday 30 August 1995
+MCI
+
+0
+-
+2
+
+EVE
+ 
+L
+Saturday 9 September 1995
+EVE
+
+2
+-
+3
+
+MUN
+ 
+L
+Sunday 17 September 1995
+NFO
+
+3
+-
+2
+
+EVE
+13 
+Previous Position 9
+
+Sheffield Wednesday
+6	2	1	3	8	9	-1	7	
+W
+Wednesday 23 August 1995
+SHW
+
+2
+-
+1
+
+BLB
+ 
+L
+Sunday 27 August 1995
+SHW
+
+0
+-
+2
+
+NEW
+ 
+D
+Wednesday 30 August 1995
+WIM
+
+2
+-
+2
+
+SHW
+ 
+W
+Saturday 9 September 1995
+QPR
+
+0
+-
+3
+
+SHW
+ 
+L
+Saturday 16 September 1995
+SHW
+
+1
+-
+3
+
+TOT
+14 
+Previous Position 13
+
+Coventry City
+6	1	3	2	6	9	-3	6	
+W
+Wednesday 23 August 1995
+COV
+
+2
+-
+1
+
+MCI
+ 
+D
+Saturday 26 August 1995
+COV
+
+0
+-
+0
+
+ARS
+ 
+D
+Wednesday 30 August 1995
+CHE
+
+2
+-
+2
+
+COV
+ 
+D
+Saturday 9 September 1995
+COV
+
+1
+-
+1
+
+NFO
+ 
+L
+Saturday 16 September 1995
+MID
+
+2
+-
+1
+
+COV
+15 
+Previous Position 18
+
+Queens Park Rangers
+6	2	0	4	4	9	-5	6	
+L
+Wednesday 23 August 1995
+QPR
+
+0
+-
+3
+
+WIM
+ 
+W
+Saturday 26 August 1995
+QPR
+
+1
+-
+0
+
+MCI
+ 
+L
+Wednesday 30 August 1995
+LIV
+
+1
+-
+0
+
+QPR
+ 
+L
+Saturday 9 September 1995
+QPR
+
+0
+-
+3
+
+SHW
+ 
+W
+Saturday 16 September 1995
+LEE
+
+1
+-
+3
+
+QPR
+16 
+Previous Position 14
+
+Southampton
+6	1	2	3	5	10	-5	5	
+L
+Saturday 26 August 1995
+EVE
+
+2
+-
+0
+
+SOU
+ 
+D
+Wednesday 30 August 1995
+SOU
+
+1
+-
+1
+
+LEE
+ 
+W
+Saturday 9 September 1995
+SOU
+
+1
+-
+0
+
+NEW
+ 
+D
+Tuesday 12 September 1995
+MID
+
+0
+-
+0
+
+SOU
+ 
+L
+Saturday 16 September 1995
+CHE
+
+3
+-
+0
+
+SOU
+17 
+Previous Position 16
+
+Blackburn Rovers
+6	1	1	4	5	10	-5	4	
+L
+Wednesday 23 August 1995
+SHW
+
+2
+-
+1
+
+BLB
+ 
+L
+Saturday 26 August 1995
+BOL
+
+2
+-
+1
+
+BLB
+ 
+L
+Monday 28 August 1995
+BLB
+
+1
+-
+2
+
+MUN
+ 
+D
+Saturday 9 September 1995
+BLB
+
+1
+-
+1
+
+AVL
+ 
+L
+Saturday 16 September 1995
+LIV
+
+3
+-
+0
+
+BLB
+18 
+Previous Position 17
+
+Bolton Wanderers
+6	1	1	4	6	12	-6	4	
+L
+Tuesday 22 August 1995
+BOL
+
+1
+-
+3
+
+NEW
+ 
+W
+Saturday 26 August 1995
+BOL
+
+2
+-
+1
+
+BLB
+ 
+L
+Wednesday 30 August 1995
+AVL
+
+1
+-
+0
+
+BOL
+ 
+D
+Saturday 9 September 1995
+BOL
+
+1
+-
+1
+
+MID
+ 
+L
+Saturday 16 September 1995
+MUN
+
+3
+-
+0
+
+BOL
+19 
+Previous Position 19
+
+West Ham United
+6	0	2	4	5	10	-5	2	
+L
+Wednesday 23 August 1995
+MUN
+
+2
+-
+1
+
+WHU
+ 
+D
+Saturday 26 August 1995
+NFO
+
+1
+-
+1
+
+WHU
+ 
+D
+Wednesday 30 August 1995
+WHU
+
+1
+-
+1
+
+TOT
+ 
+L
+Monday 11 September 1995
+WHU
+
+1
+-
+3
+
+CHE
+ 
+L
+Saturday 16 September 1995
+ARS
+
+1
+-
+0
+
+WHU
+20 
+Previous Position 20
+
+Manchester City
+6	0	1	5	3	10	-7	1	
+L
+Wednesday 23 August 1995
+COV
+
+2
+-
+1
+
+MCI
+ 
+L
+Saturday 26 August 1995
+QPR
+
+1
+-
+0
+
+MCI
+ 
+L
+Wednesday 30 August 1995
+MCI
+
+0
+-
+2
+
+EVE
+ 
+L
+Sunday 10 September 1995
+MCI
+
+0
+-
+1
+
+ARS
+ 
+L
+Saturday 16 September 1995
+NEW
+
+3
+-
+1
+
+MCI

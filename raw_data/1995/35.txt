@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Manchester United
+36	23	7	6	65	35	30	76	
+W
+Sunday 24 March 1996
+MUN
+
+1
+-
+0
+
+TOT
+ 
+W
+Saturday 6 April 1996
+MCI
+
+2
+-
+3
+
+MUN
+ 
+W
+Monday 8 April 1996
+MUN
+
+1
+-
+0
+
+COV
+ 
+L
+Saturday 13 April 1996
+SOU
+
+3
+-
+1
+
+MUN
+ 
+W
+Wednesday 17 April 1996
+MUN
+
+1
+-
+0
+
+LEE
+2 
+Previous Position 2
+
+Newcastle United
+35	23	4	8	63	35	28	73	
+L
+Wednesday 3 April 1996
+LIV
+
+4
+-
+3
+
+NEW
+ 
+W
+Saturday 6 April 1996
+NEW
+
+2
+-
+1
+
+QPR
+ 
+L
+Monday 8 April 1996
+BLB
+
+2
+-
+1
+
+NEW
+ 
+W
+Sunday 14 April 1996
+NEW
+
+1
+-
+0
+
+AVL
+ 
+W
+Wednesday 17 April 1996
+NEW
+
+1
+-
+0
+
+SOU
+3 
+Previous Position 3
+
+Liverpool
+35	19	9	7	67	32	35	66	
+L
+Saturday 23 March 1996
+NFO
+
+1
+-
+0
+
+LIV
+ 
+W
+Wednesday 3 April 1996
+LIV
+
+4
+-
+3
+
+NEW
+ 
+L
+Saturday 6 April 1996
+COV
+
+1
+-
+0
+
+LIV
+ 
+W
+Monday 8 April 1996
+LIV
+
+2
+-
+0
+
+WHU
+ 
+D
+Tuesday 16 April 1996
+EVE
+
+1
+-
+1
+
+LIV
+4 
+Previous Position 4
+
+Aston Villa
+36	18	9	9	52	33	19	63	
+D
+Tuesday 19 March 1996
+AVL
+
+0
+-
+0
+
+MID
+ 
+W
+Saturday 6 April 1996
+CHE
+
+1
+-
+2
+
+AVL
+ 
+W
+Monday 8 April 1996
+AVL
+
+3
+-
+0
+
+SOU
+ 
+L
+Sunday 14 April 1996
+NEW
+
+1
+-
+0
+
+AVL
+ 
+D
+Wednesday 17 April 1996
+AVL
+
+1
+-
+1
+
+WHU
+5 
+Previous Position 5
+
+Arsenal
+35	16	10	9	46	30	16	58	
+L
+Wednesday 20 March 1996
+MUN
+
+1
+-
+0
+
+ARS
+ 
+W
+Saturday 23 March 1996
+ARS
+
+2
+-
+0
+
+NEW
+ 
+W
+Saturday 6 April 1996
+ARS
+
+2
+-
+1
+
+LEE
+ 
+L
+Monday 8 April 1996
+SHW
+
+1
+-
+0
+
+ARS
+ 
+D
+Monday 15 April 1996
+ARS
+
+0
+-
+0
+
+TOT
+6 
+Previous Position 9
+
+Blackburn Rovers
+36	17	6	13	57	44	13	57	
+L
+Saturday 30 March 1996
+BLB
+
+0
+-
+3
+
+EVE
+ 
+L
+Saturday 6 April 1996
+SOU
+
+1
+-
+0
+
+BLB
+ 
+W
+Monday 8 April 1996
+BLB
+
+2
+-
+1
+
+NEW
+ 
+W
+Saturday 13 April 1996
+NFO
+
+1
+-
+5
+
+BLB
+ 
+W
+Wednesday 17 April 1996
+BLB
+
+3
+-
+2
+
+WIM
+7 
+Previous Position 6
+
+Tottenham Hotspur
+35	15	11	9	45	35	10	56	
+L
+Sunday 24 March 1996
+MUN
+
+1
+-
+0
+
+TOT
+ 
+W
+Saturday 30 March 1996
+TOT
+
+3
+-
+1
+
+COV
+ 
+L
+Saturday 6 April 1996
+NFO
+
+2
+-
+1
+
+TOT
+ 
+D
+Monday 8 April 1996
+TOT
+
+1
+-
+1
+
+MID
+ 
+D
+Monday 15 April 1996
+ARS
+
+0
+-
+0
+
+TOT
+8 
+Previous Position 7
+
+Everton
+36	15	10	11	58	42	16	55	
+L
+Saturday 23 March 1996
+EVE
+
+2
+-
+4
+
+WIM
+ 
+W
+Saturday 30 March 1996
+BLB
+
+0
+-
+3
+
+EVE
+ 
+W
+Saturday 6 April 1996
+EVE
+
+3
+-
+0
+
+BOL
+ 
+L
+Monday 8 April 1996
+QPR
+
+3
+-
+1
+
+EVE
+ 
+D
+Tuesday 16 April 1996
+EVE
+
+1
+-
+1
+
+LIV
+9 
+Previous Position 8
+
+Nottingham Forest
+35	14	12	9	46	48	-2	54	
+L
+Saturday 30 March 1996
+WIM
+
+1
+-
+0
+
+NFO
+ 
+W
+Saturday 6 April 1996
+NFO
+
+2
+-
+1
+
+TOT
+ 
+W
+Monday 8 April 1996
+LEE
+
+1
+-
+3
+
+NFO
+ 
+L
+Saturday 13 April 1996
+NFO
+
+1
+-
+5
+
+BLB
+ 
+D
+Wednesday 17 April 1996
+NFO
+
+0
+-
+0
+
+COV
+10 
+Previous Position 10
+
+West Ham United
+36	14	8	14	42	48	-6	50	
+W
+Saturday 23 March 1996
+WHU
+
+4
+-
+2
+
+MCI
+ 
+D
+Saturday 6 April 1996
+WHU
+
+1
+-
+1
+
+WIM
+ 
+L
+Monday 8 April 1996
+LIV
+
+2
+-
+0
+
+WHU
+ 
+W
+Saturday 13 April 1996
+WHU
+
+1
+-
+0
+
+BOL
+ 
+D
+Wednesday 17 April 1996
+AVL
+
+1
+-
+1
+
+WHU
+11 
+Previous Position 11
+
+Chelsea
+36	12	13	11	43	40	3	49	
+D
+Saturday 23 March 1996
+CHE
+
+1
+-
+1
+
+QPR
+ 
+L
+Saturday 6 April 1996
+CHE
+
+1
+-
+2
+
+AVL
+ 
+L
+Monday 8 April 1996
+BOL
+
+2
+-
+1
+
+CHE
+ 
+W
+Saturday 13 April 1996
+CHE
+
+4
+-
+1
+
+LEE
+ 
+D
+Wednesday 17 April 1996
+SHW
+
+0
+-
+0
+
+CHE
+12 
+Previous Position 12
+
+Middlesbrough
+36	11	10	15	35	46	-11	43	
+D
+Tuesday 19 March 1996
+AVL
+
+0
+-
+0
+
+MID
+ 
+W
+Saturday 30 March 1996
+LEE
+
+0
+-
+1
+
+MID
+ 
+W
+Friday 5 April 1996
+MID
+
+3
+-
+1
+
+SHW
+ 
+D
+Monday 8 April 1996
+TOT
+
+1
+-
+1
+
+MID
+ 
+L
+Saturday 13 April 1996
+MID
+
+1
+-
+2
+
+WIM
+13 
+Previous Position 13
+
+Leeds United
+35	12	6	17	39	53	-14	42	
+W
+Wednesday 3 April 1996
+LEE
+
+1
+-
+0
+
+SOU
+ 
+L
+Saturday 6 April 1996
+ARS
+
+2
+-
+1
+
+LEE
+ 
+L
+Monday 8 April 1996
+LEE
+
+1
+-
+3
+
+NFO
+ 
+L
+Saturday 13 April 1996
+CHE
+
+4
+-
+1
+
+LEE
+ 
+L
+Wednesday 17 April 1996
+MUN
+
+1
+-
+0
+
+LEE
+14 
+Previous Position 15
+
+Wimbledon
+36	10	10	16	55	68	-13	40	
+W
+Saturday 30 March 1996
+WIM
+
+1
+-
+0
+
+NFO
+ 
+D
+Saturday 6 April 1996
+WHU
+
+1
+-
+1
+
+WIM
+ 
+W
+Monday 8 April 1996
+WIM
+
+3
+-
+0
+
+MCI
+ 
+W
+Saturday 13 April 1996
+MID
+
+1
+-
+2
+
+WIM
+ 
+L
+Wednesday 17 April 1996
+BLB
+
+3
+-
+2
+
+WIM
+15 
+Previous Position 14
+
+Sheffield Wednesday
+36	10	9	17	45	55	-10	39	
+L
+Saturday 23 March 1996
+BOL
+
+2
+-
+1
+
+SHW
+ 
+L
+Friday 5 April 1996
+MID
+
+3
+-
+1
+
+SHW
+ 
+W
+Monday 8 April 1996
+SHW
+
+1
+-
+0
+
+ARS
+ 
+L
+Saturday 13 April 1996
+MCI
+
+1
+-
+0
+
+SHW
+ 
+D
+Wednesday 17 April 1996
+SHW
+
+0
+-
+0
+
+CHE
+16 
+Previous Position 16
+
+Southampton
+36	8	10	18	33	52	-19	34	
+L
+Wednesday 3 April 1996
+LEE
+
+1
+-
+0
+
+SOU
+ 
+W
+Saturday 6 April 1996
+SOU
+
+1
+-
+0
+
+BLB
+ 
+L
+Monday 8 April 1996
+AVL
+
+3
+-
+0
+
+SOU
+ 
+W
+Saturday 13 April 1996
+SOU
+
+3
+-
+1
+
+MUN
+ 
+L
+Wednesday 17 April 1996
+NEW
+
+1
+-
+0
+
+SOU
+17 
+Previous Position 19
+
+Coventry City
+36	7	13	16	40	60	-20	34	
+L
+Saturday 30 March 1996
+TOT
+
+3
+-
+1
+
+COV
+ 
+W
+Saturday 6 April 1996
+COV
+
+1
+-
+0
+
+LIV
+ 
+L
+Monday 8 April 1996
+MUN
+
+1
+-
+0
+
+COV
+ 
+W
+Saturday 13 April 1996
+COV
+
+1
+-
+0
+
+QPR
+ 
+D
+Wednesday 17 April 1996
+NFO
+
+0
+-
+0
+
+COV
+18 
+Previous Position 17
+
+Manchester City
+36	8	10	18	30	56	-26	34	
+L
+Saturday 23 March 1996
+WHU
+
+4
+-
+2
+
+MCI
+ 
+D
+Saturday 30 March 1996
+BOL
+
+1
+-
+1
+
+MCI
+ 
+L
+Saturday 6 April 1996
+MCI
+
+2
+-
+3
+
+MUN
+ 
+L
+Monday 8 April 1996
+WIM
+
+3
+-
+0
+
+MCI
+ 
+W
+Saturday 13 April 1996
+MCI
+
+1
+-
+0
+
+SHW
+19 
+Previous Position 18
+
+Queens Park Rangers
+36	8	6	22	35	54	-19	30	
+D
+Saturday 23 March 1996
+CHE
+
+1
+-
+1
+
+QPR
+ 
+W
+Saturday 30 March 1996
+QPR
+
+3
+-
+0
+
+SOU
+ 
+L
+Saturday 6 April 1996
+NEW
+
+2
+-
+1
+
+QPR
+ 
+W
+Monday 8 April 1996
+QPR
+
+3
+-
+1
+
+EVE
+ 
+L
+Saturday 13 April 1996
+COV
+
+1
+-
+0
+
+QPR
+20 
+Previous Position 20
+
+Bolton Wanderers
+36	8	5	23	38	68	-30	29	
+W
+Saturday 23 March 1996
+BOL
+
+2
+-
+1
+
+SHW
+ 
+D
+Saturday 30 March 1996
+BOL
+
+1
+-
+1
+
+MCI
+ 
+L
+Saturday 6 April 1996
+EVE
+
+3
+-
+0
+
+BOL
+ 
+W
+Monday 8 April 1996
+BOL
+
+2
+-
+1
+
+CHE
+ 
+L
+Saturday 13 April 1996
+WHU
+
+1
+-
+0
+
+BOL
