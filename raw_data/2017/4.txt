@@ -1,0 +1,880 @@
+1 
+Previous Position 1
+
+Manchester United
+4	3	1	0	12	2	10	10	
+W
+Sunday 13 August 2017
+MUN
+
+4
+-
+0
+
+WHU
+ 
+W
+Saturday 19 August 2017
+SWA
+
+0
+-
+4
+
+MUN
+ 
+W
+Saturday 26 August 2017
+MUN
+
+2
+-
+0
+
+LEI
+ 
+D
+Saturday 9 September 2017
+STK
+
+2
+-
+2
+
+MUN
+2 
+Previous Position 4
+
+Manchester City
+4	3	1	0	10	2	8	10	
+W
+Saturday 12 August 2017
+BHA
+
+0
+-
+2
+
+MCI
+ 
+D
+Monday 21 August 2017
+MCI
+
+1
+-
+1
+
+EVE
+ 
+W
+Saturday 26 August 2017
+BOU
+
+1
+-
+2
+
+MCI
+ 
+W
+Saturday 9 September 2017
+MCI
+
+5
+-
+0
+
+LIV
+3 
+Previous Position 6
+
+Chelsea
+4	3	0	1	8	5	3	9	
+L
+Saturday 12 August 2017
+CHE
+
+2
+-
+3
+
+BUR
+ 
+W
+Sunday 20 August 2017
+TOT
+
+1
+-
+2
+
+CHE
+ 
+W
+Sunday 27 August 2017
+CHE
+
+2
+-
+0
+
+EVE
+ 
+W
+Saturday 9 September 2017
+LEI
+
+1
+-
+2
+
+CHE
+4 
+Previous Position 7
+
+Watford
+4	2	2	0	7	3	4	8	
+D
+Saturday 12 August 2017
+WAT
+
+3
+-
+3
+
+LIV
+ 
+W
+Saturday 19 August 2017
+BOU
+
+0
+-
+2
+
+WAT
+ 
+D
+Saturday 26 August 2017
+WAT
+
+0
+-
+0
+
+BHA
+ 
+W
+Saturday 9 September 2017
+SOU
+
+0
+-
+2
+
+WAT
+5 
+Previous Position 9
+
+Tottenham Hotspur
+4	2	1	1	7	3	4	7	
+W
+Sunday 13 August 2017
+NEW
+
+0
+-
+2
+
+TOT
+ 
+L
+Sunday 20 August 2017
+TOT
+
+1
+-
+2
+
+CHE
+ 
+D
+Sunday 27 August 2017
+TOT
+
+1
+-
+1
+
+BUR
+ 
+W
+Saturday 9 September 2017
+EVE
+
+0
+-
+3
+
+TOT
+6 
+Previous Position 3
+
+Huddersfield Town
+4	2	1	1	4	2	2	7	
+W
+Saturday 12 August 2017
+CRY
+
+0
+-
+3
+
+HUD
+ 
+W
+Sunday 20 August 2017
+HUD
+
+1
+-
+0
+
+NEW
+ 
+D
+Saturday 26 August 2017
+HUD
+
+0
+-
+0
+
+SOU
+ 
+L
+Monday 11 September 2017
+WHU
+
+2
+-
+0
+
+HUD
+7 
+Previous Position 10
+
+Burnley
+4	2	1	1	5	4	1	7	
+W
+Saturday 12 August 2017
+CHE
+
+2
+-
+3
+
+BUR
+ 
+L
+Saturday 19 August 2017
+BUR
+
+0
+-
+1
+
+WBA
+ 
+D
+Sunday 27 August 2017
+TOT
+
+1
+-
+1
+
+BUR
+ 
+W
+Sunday 10 September 2017
+BUR
+
+1
+-
+0
+
+CRY
+8 
+Previous Position 2
+
+Liverpool
+4	2	1	1	8	8	0	7	
+D
+Saturday 12 August 2017
+WAT
+
+3
+-
+3
+
+LIV
+ 
+W
+Saturday 19 August 2017
+LIV
+
+1
+-
+0
+
+CRY
+ 
+W
+Sunday 27 August 2017
+LIV
+
+4
+-
+0
+
+ARS
+ 
+L
+Saturday 9 September 2017
+MCI
+
+5
+-
+0
+
+LIV
+9 
+Previous Position 5
+
+West Bromwich Albion
+4	2	1	1	4	4	0	7	
+W
+Saturday 12 August 2017
+WBA
+
+1
+-
+0
+
+BOU
+ 
+W
+Saturday 19 August 2017
+BUR
+
+0
+-
+1
+
+WBA
+ 
+D
+Sunday 27 August 2017
+WBA
+
+1
+-
+1
+
+STK
+ 
+L
+Saturday 9 September 2017
+BHA
+
+3
+-
+1
+
+WBA
+10 
+Previous Position 14
+
+Newcastle United
+4	2	0	2	4	3	1	6	
+L
+Sunday 13 August 2017
+NEW
+
+0
+-
+2
+
+TOT
+ 
+L
+Sunday 20 August 2017
+HUD
+
+1
+-
+0
+
+NEW
+ 
+W
+Saturday 26 August 2017
+NEW
+
+3
+-
+0
+
+WHU
+ 
+W
+Sunday 10 September 2017
+SWA
+
+0
+-
+1
+
+NEW
+11 
+Previous Position 16
+
+Arsenal
+4	2	0	2	7	8	-1	6	
+W
+Friday 11 August 2017
+ARS
+
+4
+-
+3
+
+LEI
+ 
+L
+Saturday 19 August 2017
+STK
+
+1
+-
+0
+
+ARS
+ 
+L
+Sunday 27 August 2017
+LIV
+
+4
+-
+0
+
+ARS
+ 
+W
+Saturday 9 September 2017
+ARS
+
+3
+-
+0
+
+BOU
+12 
+Previous Position 11
+
+Stoke City
+4	1	2	1	4	4	0	5	
+L
+Saturday 12 August 2017
+EVE
+
+1
+-
+0
+
+STK
+ 
+W
+Saturday 19 August 2017
+STK
+
+1
+-
+0
+
+ARS
+ 
+D
+Sunday 27 August 2017
+WBA
+
+1
+-
+1
+
+STK
+ 
+D
+Saturday 9 September 2017
+STK
+
+2
+-
+2
+
+MUN
+13 
+Previous Position 8
+
+Southampton
+4	1	2	1	3	4	-1	5	
+D
+Saturday 12 August 2017
+SOU
+
+0
+-
+0
+
+SWA
+ 
+W
+Saturday 19 August 2017
+SOU
+
+3
+-
+2
+
+WHU
+ 
+D
+Saturday 26 August 2017
+HUD
+
+0
+-
+0
+
+SOU
+ 
+L
+Saturday 9 September 2017
+SOU
+
+0
+-
+2
+
+WAT
+14 
+Previous Position 17
+
+Brighton And Hove Albion
+4	1	1	2	3	5	-2	4	
+L
+Saturday 12 August 2017
+BHA
+
+0
+-
+2
+
+MCI
+ 
+L
+Saturday 19 August 2017
+LEI
+
+2
+-
+0
+
+BHA
+ 
+D
+Saturday 26 August 2017
+WAT
+
+0
+-
+0
+
+BHA
+ 
+W
+Saturday 9 September 2017
+BHA
+
+3
+-
+1
+
+WBA
+15 
+Previous Position 13
+
+Swansea City
+4	1	1	2	2	5	-3	4	
+D
+Saturday 12 August 2017
+SOU
+
+0
+-
+0
+
+SWA
+ 
+L
+Saturday 19 August 2017
+SWA
+
+0
+-
+4
+
+MUN
+ 
+W
+Saturday 26 August 2017
+CRY
+
+0
+-
+2
+
+SWA
+ 
+L
+Sunday 10 September 2017
+SWA
+
+0
+-
+1
+
+NEW
+16 
+Previous Position 12
+
+Everton
+4	1	1	2	2	6	-4	4	
+W
+Saturday 12 August 2017
+EVE
+
+1
+-
+0
+
+STK
+ 
+D
+Monday 21 August 2017
+MCI
+
+1
+-
+1
+
+EVE
+ 
+L
+Sunday 27 August 2017
+CHE
+
+2
+-
+0
+
+EVE
+ 
+L
+Saturday 9 September 2017
+EVE
+
+0
+-
+3
+
+TOT
+17 
+Previous Position 15
+
+Leicester City
+4	1	0	3	6	8	-2	3	
+L
+Friday 11 August 2017
+ARS
+
+4
+-
+3
+
+LEI
+ 
+W
+Saturday 19 August 2017
+LEI
+
+2
+-
+0
+
+BHA
+ 
+L
+Saturday 26 August 2017
+MUN
+
+2
+-
+0
+
+LEI
+ 
+L
+Saturday 9 September 2017
+LEI
+
+1
+-
+2
+
+CHE
+18 
+Previous Position 20
+
+West Ham United
+4	1	0	3	4	10	-6	3	
+L
+Sunday 13 August 2017
+MUN
+
+4
+-
+0
+
+WHU
+ 
+L
+Saturday 19 August 2017
+SOU
+
+3
+-
+2
+
+WHU
+ 
+L
+Saturday 26 August 2017
+NEW
+
+3
+-
+0
+
+WHU
+ 
+W
+Monday 11 September 2017
+WHU
+
+2
+-
+0
+
+HUD
+19 
+Previous Position 18
+
+Bournemouth
+4	0	0	4	1	8	-7	0	
+L
+Saturday 12 August 2017
+WBA
+
+1
+-
+0
+
+BOU
+ 
+L
+Saturday 19 August 2017
+BOU
+
+0
+-
+2
+
+WAT
+ 
+L
+Saturday 26 August 2017
+BOU
+
+1
+-
+2
+
+MCI
+ 
+L
+Saturday 9 September 2017
+ARS
+
+3
+-
+0
+
+BOU
+20 
+Previous Position 19
+
+Crystal Palace
+4	0	0	4	0	7	-7	0	
+L
+Saturday 12 August 2017
+CRY
+
+0
+-
+3
+
+HUD
+ 
+L
+Saturday 19 August 2017
+LIV
+
+1
+-
+0
+
+CRY
+ 
+L
+Saturday 26 August 2017
+CRY
+
+0
+-
+2
+
+SWA
+ 
+L
+Sunday 10 September 2017
+BUR
+
+1
+-
+0
+
+CRY

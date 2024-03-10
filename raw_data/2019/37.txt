@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Liverpool
+37	31	3	3	82	32	50	96	
+W
+Sunday 5 July 2020
+LIV
+
+2
+-
+0
+
+AVL
+ 
+W
+Wednesday 8 July 2020
+BHA
+
+1
+-
+3
+
+LIV
+ 
+D
+Saturday 11 July 2020
+LIV
+
+1
+-
+1
+
+BUR
+ 
+L
+Wednesday 15 July 2020
+ARS
+
+2
+-
+1
+
+LIV
+ 
+W
+Wednesday 22 July 2020
+LIV
+
+5
+-
+3
+
+CHE
+2 
+Previous Position 2
+
+Manchester City
+37	25	3	9	97	35	62	78	
+L
+Sunday 5 July 2020
+SOU
+
+1
+-
+0
+
+MCI
+ 
+W
+Wednesday 8 July 2020
+MCI
+
+5
+-
+0
+
+NEW
+ 
+W
+Saturday 11 July 2020
+BHA
+
+0
+-
+5
+
+MCI
+ 
+W
+Wednesday 15 July 2020
+MCI
+
+2
+-
+1
+
+BOU
+ 
+W
+Tuesday 21 July 2020
+WAT
+
+0
+-
+4
+
+MCI
+3 
+Previous Position 5
+
+Manchester United
+37	17	12	8	64	36	28	63	
+W
+Saturday 4 July 2020
+MUN
+
+5
+-
+2
+
+BOU
+ 
+W
+Thursday 9 July 2020
+AVL
+
+0
+-
+3
+
+MUN
+ 
+D
+Monday 13 July 2020
+MUN
+
+2
+-
+2
+
+SOU
+ 
+W
+Thursday 16 July 2020
+CRY
+
+0
+-
+2
+
+MUN
+ 
+D
+Wednesday 22 July 2020
+MUN
+
+1
+-
+1
+
+WHU
+4 
+Previous Position 3
+
+Chelsea
+37	19	6	12	67	54	13	63	
+W
+Saturday 4 July 2020
+CHE
+
+3
+-
+0
+
+WAT
+ 
+W
+Tuesday 7 July 2020
+CRY
+
+2
+-
+3
+
+CHE
+ 
+L
+Saturday 11 July 2020
+SHU
+
+3
+-
+0
+
+CHE
+ 
+W
+Tuesday 14 July 2020
+CHE
+
+1
+-
+0
+
+NOR
+ 
+L
+Wednesday 22 July 2020
+LIV
+
+5
+-
+3
+
+CHE
+5 
+Previous Position 4
+
+Leicester City
+37	18	8	11	67	39	28	62	
+W
+Saturday 4 July 2020
+LEI
+
+3
+-
+0
+
+CRY
+ 
+D
+Tuesday 7 July 2020
+ARS
+
+1
+-
+1
+
+LEI
+ 
+L
+Sunday 12 July 2020
+BOU
+
+4
+-
+1
+
+LEI
+ 
+W
+Thursday 16 July 2020
+LEI
+
+2
+-
+0
+
+SHU
+ 
+L
+Sunday 19 July 2020
+TOT
+
+3
+-
+0
+
+LEI
+6 
+Previous Position 6
+
+Wolverhampton Wanderers
+37	15	14	8	51	38	13	59	
+L
+Saturday 4 July 2020
+WOL
+
+0
+-
+2
+
+ARS
+ 
+L
+Wednesday 8 July 2020
+SHU
+
+1
+-
+0
+
+WOL
+ 
+W
+Sunday 12 July 2020
+WOL
+
+3
+-
+0
+
+EVE
+ 
+D
+Wednesday 15 July 2020
+BUR
+
+1
+-
+1
+
+WOL
+ 
+W
+Monday 20 July 2020
+WOL
+
+2
+-
+0
+
+CRY
+7 
+Previous Position 7
+
+Tottenham Hotspur
+37	16	10	11	60	46	14	58	
+W
+Monday 6 July 2020
+TOT
+
+1
+-
+0
+
+EVE
+ 
+D
+Thursday 9 July 2020
+BOU
+
+0
+-
+0
+
+TOT
+ 
+W
+Sunday 12 July 2020
+TOT
+
+2
+-
+1
+
+ARS
+ 
+W
+Wednesday 15 July 2020
+NEW
+
+1
+-
+3
+
+TOT
+ 
+W
+Sunday 19 July 2020
+TOT
+
+3
+-
+0
+
+LEI
+8 
+Previous Position 8
+
+Sheffield United
+37	14	12	11	38	36	2	54	
+D
+Sunday 5 July 2020
+BUR
+
+1
+-
+1
+
+SHU
+ 
+W
+Wednesday 8 July 2020
+SHU
+
+1
+-
+0
+
+WOL
+ 
+W
+Saturday 11 July 2020
+SHU
+
+3
+-
+0
+
+CHE
+ 
+L
+Thursday 16 July 2020
+LEI
+
+2
+-
+0
+
+SHU
+ 
+L
+Monday 20 July 2020
+SHU
+
+0
+-
+1
+
+EVE
+9 
+Previous Position 10
+
+Burnley
+37	15	9	13	42	48	-6	54	
+D
+Sunday 5 July 2020
+BUR
+
+1
+-
+1
+
+SHU
+ 
+W
+Wednesday 8 July 2020
+WHU
+
+0
+-
+1
+
+BUR
+ 
+D
+Saturday 11 July 2020
+LIV
+
+1
+-
+1
+
+BUR
+ 
+D
+Wednesday 15 July 2020
+BUR
+
+1
+-
+1
+
+WOL
+ 
+W
+Saturday 18 July 2020
+NOR
+
+0
+-
+2
+
+BUR
+10 
+Previous Position 9
+
+Arsenal
+37	13	14	10	53	46	7	53	
+W
+Saturday 4 July 2020
+WOL
+
+0
+-
+2
+
+ARS
+ 
+D
+Tuesday 7 July 2020
+ARS
+
+1
+-
+1
+
+LEI
+ 
+L
+Sunday 12 July 2020
+TOT
+
+2
+-
+1
+
+ARS
+ 
+W
+Wednesday 15 July 2020
+ARS
+
+2
+-
+1
+
+LIV
+ 
+L
+Tuesday 21 July 2020
+AVL
+
+1
+-
+0
+
+ARS
+11 
+Previous Position 11
+
+Everton
+37	13	10	14	43	53	-10	49	
+L
+Monday 6 July 2020
+TOT
+
+1
+-
+0
+
+EVE
+ 
+D
+Thursday 9 July 2020
+EVE
+
+1
+-
+1
+
+SOU
+ 
+L
+Sunday 12 July 2020
+WOL
+
+3
+-
+0
+
+EVE
+ 
+D
+Thursday 16 July 2020
+EVE
+
+1
+-
+1
+
+AVL
+ 
+W
+Monday 20 July 2020
+SHU
+
+0
+-
+1
+
+EVE
+12 
+Previous Position 12
+
+Southampton
+37	14	7	16	48	59	-11	49	
+W
+Sunday 5 July 2020
+SOU
+
+1
+-
+0
+
+MCI
+ 
+D
+Thursday 9 July 2020
+EVE
+
+1
+-
+1
+
+SOU
+ 
+D
+Monday 13 July 2020
+MUN
+
+2
+-
+2
+
+SOU
+ 
+D
+Thursday 16 July 2020
+SOU
+
+1
+-
+1
+
+BHA
+ 
+W
+Sunday 19 July 2020
+BOU
+
+0
+-
+2
+
+SOU
+13 
+Previous Position 13
+
+Newcastle United
+37	11	11	15	37	55	-18	44	
+D
+Sunday 5 July 2020
+NEW
+
+2
+-
+2
+
+WHU
+ 
+L
+Wednesday 8 July 2020
+MCI
+
+5
+-
+0
+
+NEW
+ 
+L
+Saturday 11 July 2020
+WAT
+
+2
+-
+1
+
+NEW
+ 
+L
+Wednesday 15 July 2020
+NEW
+
+1
+-
+3
+
+TOT
+ 
+D
+Monday 20 July 2020
+BHA
+
+0
+-
+0
+
+NEW
+14 
+Previous Position 14
+
+Crystal Palace
+37	11	9	17	30	49	-19	42	
+L
+Saturday 4 July 2020
+LEI
+
+3
+-
+0
+
+CRY
+ 
+L
+Tuesday 7 July 2020
+CRY
+
+2
+-
+3
+
+CHE
+ 
+L
+Sunday 12 July 2020
+AVL
+
+2
+-
+0
+
+CRY
+ 
+L
+Thursday 16 July 2020
+CRY
+
+0
+-
+2
+
+MUN
+ 
+L
+Monday 20 July 2020
+WOL
+
+2
+-
+0
+
+CRY
+15 
+Previous Position 15
+
+West Ham United
+37	10	8	19	48	61	-13	38	
+D
+Sunday 5 July 2020
+NEW
+
+2
+-
+2
+
+WHU
+ 
+L
+Wednesday 8 July 2020
+WHU
+
+0
+-
+1
+
+BUR
+ 
+W
+Saturday 11 July 2020
+NOR
+
+0
+-
+4
+
+WHU
+ 
+W
+Friday 17 July 2020
+WHU
+
+3
+-
+1
+
+WAT
+ 
+D
+Wednesday 22 July 2020
+MUN
+
+1
+-
+1
+
+WHU
+16 
+Previous Position 16
+
+Brighton And Hove Albion
+37	8	14	15	37	53	-16	38	
+W
+Saturday 4 July 2020
+NOR
+
+0
+-
+1
+
+BHA
+ 
+L
+Wednesday 8 July 2020
+BHA
+
+1
+-
+3
+
+LIV
+ 
+L
+Saturday 11 July 2020
+BHA
+
+0
+-
+5
+
+MCI
+ 
+D
+Thursday 16 July 2020
+SOU
+
+1
+-
+1
+
+BHA
+ 
+D
+Monday 20 July 2020
+BHA
+
+0
+-
+0
+
+NEW
+17 
+Previous Position 19
+
+Aston Villa
+37	9	7	21	40	66	-26	34	
+L
+Sunday 5 July 2020
+LIV
+
+2
+-
+0
+
+AVL
+ 
+L
+Thursday 9 July 2020
+AVL
+
+0
+-
+3
+
+MUN
+ 
+W
+Sunday 12 July 2020
+AVL
+
+2
+-
+0
+
+CRY
+ 
+D
+Thursday 16 July 2020
+EVE
+
+1
+-
+1
+
+AVL
+ 
+W
+Tuesday 21 July 2020
+AVL
+
+1
+-
+0
+
+ARS
+18 
+Previous Position 17
+
+Watford
+37	8	10	19	34	61	-27	34	
+L
+Saturday 4 July 2020
+CHE
+
+3
+-
+0
+
+WAT
+ 
+W
+Tuesday 7 July 2020
+WAT
+
+2
+-
+1
+
+NOR
+ 
+W
+Saturday 11 July 2020
+WAT
+
+2
+-
+1
+
+NEW
+ 
+L
+Friday 17 July 2020
+WHU
+
+3
+-
+1
+
+WAT
+ 
+L
+Tuesday 21 July 2020
+WAT
+
+0
+-
+4
+
+MCI
+19 
+Previous Position 18
+
+Bournemouth
+37	8	7	22	37	64	-27	31	
+L
+Saturday 4 July 2020
+MUN
+
+5
+-
+2
+
+BOU
+ 
+D
+Thursday 9 July 2020
+BOU
+
+0
+-
+0
+
+TOT
+ 
+W
+Sunday 12 July 2020
+BOU
+
+4
+-
+1
+
+LEI
+ 
+L
+Wednesday 15 July 2020
+MCI
+
+2
+-
+1
+
+BOU
+ 
+L
+Sunday 19 July 2020
+BOU
+
+0
+-
+2
+
+SOU
+20 
+Previous Position 20
+
+Norwich City
+37	5	6	26	26	70	-44	21	
+L
+Saturday 4 July 2020
+NOR
+
+0
+-
+1
+
+BHA
+ 
+L
+Tuesday 7 July 2020
+WAT
+
+2
+-
+1
+
+NOR
+ 
+L
+Saturday 11 July 2020
+NOR
+
+0
+-
+4
+
+WHU
+ 
+L
+Tuesday 14 July 2020
+CHE
+
+1
+-
+0
+
+NOR
+ 
+L
+Saturday 18 July 2020
+NOR
+
+0
+-
+2
+
+BUR

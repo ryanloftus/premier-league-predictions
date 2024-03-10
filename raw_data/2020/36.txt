@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Manchester City
+36	26	5	5	76	29	47	83	
+L
+Saturday 10 April 2021
+MCI
+
+1
+-
+2
+
+LEE
+ 
+W
+Wednesday 21 April 2021
+AVL
+
+1
+-
+2
+
+MCI
+ 
+W
+Saturday 1 May 2021
+CRY
+
+0
+-
+2
+
+MCI
+ 
+L
+Saturday 8 May 2021
+MCI
+
+1
+-
+2
+
+CHE
+ 
+W
+Friday 14 May 2021
+NEW
+
+3
+-
+4
+
+MCI
+2 
+Previous Position 2
+
+Manchester United
+36	20	10	6	70	42	28	70	
+W
+Sunday 18 April 2021
+MUN
+
+3
+-
+1
+
+BUR
+ 
+D
+Sunday 25 April 2021
+LEE
+
+0
+-
+0
+
+MUN
+ 
+W
+Sunday 9 May 2021
+AVL
+
+1
+-
+3
+
+MUN
+ 
+L
+Tuesday 11 May 2021
+MUN
+
+1
+-
+2
+
+LEI
+ 
+L
+Thursday 13 May 2021
+MUN
+
+2
+-
+4
+
+LIV
+3 
+Previous Position 3
+
+Leicester City
+36	20	6	10	65	44	21	66	
+W
+Thursday 22 April 2021
+LEI
+
+3
+-
+0
+
+WBA
+ 
+W
+Monday 26 April 2021
+LEI
+
+2
+-
+1
+
+CRY
+ 
+D
+Friday 30 April 2021
+SOU
+
+1
+-
+1
+
+LEI
+ 
+L
+Friday 7 May 2021
+LEI
+
+2
+-
+4
+
+NEW
+ 
+W
+Tuesday 11 May 2021
+MUN
+
+1
+-
+2
+
+LEI
+4 
+Previous Position 4
+
+Chelsea
+36	18	10	8	55	33	22	64	
+D
+Tuesday 20 April 2021
+CHE
+
+0
+-
+0
+
+BHA
+ 
+W
+Saturday 24 April 2021
+WHU
+
+0
+-
+1
+
+CHE
+ 
+W
+Saturday 1 May 2021
+CHE
+
+2
+-
+0
+
+FUL
+ 
+W
+Saturday 8 May 2021
+MCI
+
+1
+-
+2
+
+CHE
+ 
+L
+Wednesday 12 May 2021
+CHE
+
+0
+-
+1
+
+ARS
+5 
+Previous Position 5
+
+Liverpool
+36	18	9	9	63	42	21	63	
+D
+Monday 19 April 2021
+LEE
+
+1
+-
+1
+
+LIV
+ 
+D
+Saturday 24 April 2021
+LIV
+
+1
+-
+1
+
+NEW
+ 
+W
+Saturday 8 May 2021
+LIV
+
+2
+-
+0
+
+SOU
+ 
+W
+Thursday 13 May 2021
+MUN
+
+2
+-
+4
+
+LIV
+ 
+W
+Sunday 16 May 2021
+WBA
+
+1
+-
+2
+
+LIV
+6 
+Previous Position 7
+
+Tottenham Hotspur
+36	17	8	11	63	41	22	59	
+D
+Friday 16 April 2021
+EVE
+
+2
+-
+2
+
+TOT
+ 
+W
+Wednesday 21 April 2021
+TOT
+
+2
+-
+1
+
+SOU
+ 
+W
+Sunday 2 May 2021
+TOT
+
+4
+-
+0
+
+SHU
+ 
+L
+Saturday 8 May 2021
+LEE
+
+3
+-
+1
+
+TOT
+ 
+W
+Sunday 16 May 2021
+TOT
+
+2
+-
+0
+
+WOL
+7 
+Previous Position 6
+
+West Ham United
+36	17	8	11	56	46	10	59	
+L
+Saturday 17 April 2021
+NEW
+
+3
+-
+2
+
+WHU
+ 
+L
+Saturday 24 April 2021
+WHU
+
+0
+-
+1
+
+CHE
+ 
+W
+Monday 3 May 2021
+BUR
+
+1
+-
+2
+
+WHU
+ 
+L
+Sunday 9 May 2021
+WHU
+
+0
+-
+1
+
+EVE
+ 
+D
+Saturday 15 May 2021
+BHA
+
+1
+-
+1
+
+WHU
+8 
+Previous Position 8
+
+Everton
+36	16	8	12	46	43	3	56	
+W
+Friday 23 April 2021
+ARS
+
+0
+-
+1
+
+EVE
+ 
+L
+Saturday 1 May 2021
+EVE
+
+1
+-
+2
+
+AVL
+ 
+W
+Sunday 9 May 2021
+WHU
+
+0
+-
+1
+
+EVE
+ 
+D
+Thursday 13 May 2021
+AVL
+
+0
+-
+0
+
+EVE
+ 
+L
+Sunday 16 May 2021
+EVE
+
+0
+-
+1
+
+SHU
+9 
+Previous Position 9
+
+Arsenal
+36	16	7	13	50	38	12	55	
+D
+Sunday 18 April 2021
+ARS
+
+1
+-
+1
+
+FUL
+ 
+L
+Friday 23 April 2021
+ARS
+
+0
+-
+1
+
+EVE
+ 
+W
+Sunday 2 May 2021
+NEW
+
+0
+-
+2
+
+ARS
+ 
+W
+Sunday 9 May 2021
+ARS
+
+3
+-
+1
+
+WBA
+ 
+W
+Wednesday 12 May 2021
+CHE
+
+0
+-
+1
+
+ARS
+10 
+Previous Position 10
+
+Leeds United
+36	16	5	15	57	53	4	53	
+D
+Monday 19 April 2021
+LEE
+
+1
+-
+1
+
+LIV
+ 
+D
+Sunday 25 April 2021
+LEE
+
+0
+-
+0
+
+MUN
+ 
+L
+Saturday 1 May 2021
+BHA
+
+2
+-
+0
+
+LEE
+ 
+W
+Saturday 8 May 2021
+LEE
+
+3
+-
+1
+
+TOT
+ 
+W
+Saturday 15 May 2021
+BUR
+
+0
+-
+4
+
+LEE
+11 
+Previous Position 11
+
+Aston Villa
+36	14	7	15	51	44	7	49	
+D
+Sunday 25 April 2021
+AVL
+
+2
+-
+2
+
+WBA
+ 
+W
+Saturday 1 May 2021
+EVE
+
+1
+-
+2
+
+AVL
+ 
+L
+Sunday 9 May 2021
+AVL
+
+1
+-
+3
+
+MUN
+ 
+D
+Thursday 13 May 2021
+AVL
+
+0
+-
+0
+
+EVE
+ 
+L
+Sunday 16 May 2021
+CRY
+
+3
+-
+2
+
+AVL
+12 
+Previous Position 12
+
+Wolverhampton Wanderers
+36	12	9	15	35	49	-14	45	
+W
+Saturday 17 April 2021
+WOL
+
+1
+-
+0
+
+SHU
+ 
+L
+Sunday 25 April 2021
+WOL
+
+0
+-
+4
+
+BUR
+ 
+D
+Monday 3 May 2021
+WBA
+
+1
+-
+1
+
+WOL
+ 
+W
+Sunday 9 May 2021
+WOL
+
+2
+-
+1
+
+BHA
+ 
+L
+Sunday 16 May 2021
+TOT
+
+2
+-
+0
+
+WOL
+13 
+Previous Position 13
+
+Crystal Palace
+36	12	8	16	40	61	-21	44	
+L
+Monday 26 April 2021
+LEI
+
+2
+-
+1
+
+CRY
+ 
+L
+Saturday 1 May 2021
+CRY
+
+0
+-
+2
+
+MCI
+ 
+W
+Saturday 8 May 2021
+SHU
+
+0
+-
+2
+
+CRY
+ 
+L
+Tuesday 11 May 2021
+SOU
+
+3
+-
+1
+
+CRY
+ 
+W
+Sunday 16 May 2021
+CRY
+
+3
+-
+2
+
+AVL
+14 
+Previous Position 14
+
+Southampton
+36	12	7	17	47	63	-16	43	
+L
+Wednesday 21 April 2021
+TOT
+
+2
+-
+1
+
+SOU
+ 
+D
+Friday 30 April 2021
+SOU
+
+1
+-
+1
+
+LEI
+ 
+L
+Saturday 8 May 2021
+LIV
+
+2
+-
+0
+
+SOU
+ 
+W
+Tuesday 11 May 2021
+SOU
+
+3
+-
+1
+
+CRY
+ 
+W
+Saturday 15 May 2021
+SOU
+
+3
+-
+1
+
+FUL
+15 
+Previous Position 15
+
+Burnley
+36	10	9	17	33	51	-18	39	
+L
+Sunday 18 April 2021
+MUN
+
+3
+-
+1
+
+BUR
+ 
+W
+Sunday 25 April 2021
+WOL
+
+0
+-
+4
+
+BUR
+ 
+L
+Monday 3 May 2021
+BUR
+
+1
+-
+2
+
+WHU
+ 
+W
+Monday 10 May 2021
+FUL
+
+0
+-
+2
+
+BUR
+ 
+L
+Saturday 15 May 2021
+BUR
+
+0
+-
+4
+
+LEE
+16 
+Previous Position 16
+
+Newcastle United
+36	10	9	17	43	62	-19	39	
+W
+Saturday 17 April 2021
+NEW
+
+3
+-
+2
+
+WHU
+ 
+D
+Saturday 24 April 2021
+LIV
+
+1
+-
+1
+
+NEW
+ 
+L
+Sunday 2 May 2021
+NEW
+
+0
+-
+2
+
+ARS
+ 
+W
+Friday 7 May 2021
+LEI
+
+2
+-
+4
+
+NEW
+ 
+L
+Friday 14 May 2021
+NEW
+
+3
+-
+4
+
+MCI
+17 
+Previous Position 17
+
+Brighton And Hove Albion
+36	8	14	14	37	42	-5	38	
+D
+Tuesday 20 April 2021
+CHE
+
+0
+-
+0
+
+BHA
+ 
+L
+Saturday 24 April 2021
+SHU
+
+1
+-
+0
+
+BHA
+ 
+W
+Saturday 1 May 2021
+BHA
+
+2
+-
+0
+
+LEE
+ 
+L
+Sunday 9 May 2021
+WOL
+
+2
+-
+1
+
+BHA
+ 
+D
+Saturday 15 May 2021
+BHA
+
+1
+-
+1
+
+WHU
+18 
+Previous Position 18
+
+Fulham
+36	5	12	19	26	50	-24	27	
+L
+Friday 9 April 2021
+FUL
+
+0
+-
+1
+
+WOL
+ 
+D
+Sunday 18 April 2021
+ARS
+
+1
+-
+1
+
+FUL
+ 
+L
+Saturday 1 May 2021
+CHE
+
+2
+-
+0
+
+FUL
+ 
+L
+Monday 10 May 2021
+FUL
+
+0
+-
+2
+
+BUR
+ 
+L
+Saturday 15 May 2021
+SOU
+
+3
+-
+1
+
+FUL
+19 
+Previous Position 19
+
+West Bromwich Albion
+36	5	11	20	33	70	-37	26	
+L
+Thursday 22 April 2021
+LEI
+
+3
+-
+0
+
+WBA
+ 
+D
+Sunday 25 April 2021
+AVL
+
+2
+-
+2
+
+WBA
+ 
+D
+Monday 3 May 2021
+WBA
+
+1
+-
+1
+
+WOL
+ 
+L
+Sunday 9 May 2021
+ARS
+
+3
+-
+1
+
+WBA
+ 
+L
+Sunday 16 May 2021
+WBA
+
+1
+-
+2
+
+LIV
+20 
+Previous Position 20
+
+Sheffield United
+36	6	2	28	19	62	-43	20	
+L
+Saturday 17 April 2021
+WOL
+
+1
+-
+0
+
+SHU
+ 
+W
+Saturday 24 April 2021
+SHU
+
+1
+-
+0
+
+BHA
+ 
+L
+Sunday 2 May 2021
+TOT
+
+4
+-
+0
+
+SHU
+ 
+L
+Saturday 8 May 2021
+SHU
+
+0
+-
+2
+
+CRY
+ 
+W
+Sunday 16 May 2021
+EVE
+
+0
+-
+1
+
+SHU

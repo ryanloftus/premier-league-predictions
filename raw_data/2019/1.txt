@@ -1,0 +1,280 @@
+1 
+Previous Position
+
+Manchester City
+1	1	0	0	5	0	5	3	
+W
+Saturday 10 August 2019
+WHU
+
+0
+-
+5
+
+MCI
+2 
+Previous Position
+
+Manchester United
+1	1	0	0	4	0	4	3	
+W
+Sunday 11 August 2019
+MUN
+
+4
+-
+0
+
+CHE
+3 
+Previous Position
+
+Liverpool
+1	1	0	0	4	1	3	3	
+W
+Friday 9 August 2019
+LIV
+
+4
+-
+1
+
+NOR
+4 
+Previous Position
+
+Brighton And Hove Albion
+1	1	0	0	3	0	3	3	
+W
+Saturday 10 August 2019
+WAT
+
+0
+-
+3
+
+BHA
+5 
+Previous Position
+
+Burnley
+1	1	0	0	3	0	3	3	
+W
+Saturday 10 August 2019
+BUR
+
+3
+-
+0
+
+SOU
+6 
+Previous Position
+
+Tottenham Hotspur
+1	1	0	0	3	1	2	3	
+W
+Saturday 10 August 2019
+TOT
+
+3
+-
+1
+
+AVL
+7 
+Previous Position
+
+Arsenal
+1	1	0	0	1	0	1	3	
+W
+Sunday 11 August 2019
+NEW
+
+0
+-
+1
+
+ARS
+8 
+Previous Position
+
+Bournemouth
+1	0	1	0	1	1	0	1	
+D
+Saturday 10 August 2019
+BOU
+
+1
+-
+1
+
+SHU
+9 
+Previous Position
+
+Sheffield United
+1	0	1	0	1	1	0	1	
+D
+Saturday 10 August 2019
+BOU
+
+1
+-
+1
+
+SHU
+10 
+Previous Position
+
+Crystal Palace
+1	0	1	0	0	0	0	1	
+D
+Saturday 10 August 2019
+CRY
+
+0
+-
+0
+
+EVE
+11 
+Previous Position
+
+Everton
+1	0	1	0	0	0	0	1	
+D
+Saturday 10 August 2019
+CRY
+
+0
+-
+0
+
+EVE
+12 
+Previous Position
+
+Leicester City
+1	0	1	0	0	0	0	1	
+D
+Sunday 11 August 2019
+LEI
+
+0
+-
+0
+
+WOL
+13 
+Previous Position
+
+Wolverhampton Wanderers
+1	0	1	0	0	0	0	1	
+D
+Sunday 11 August 2019
+LEI
+
+0
+-
+0
+
+WOL
+14 
+Previous Position
+
+Newcastle United
+1	0	0	1	0	1	-1	0	
+L
+Sunday 11 August 2019
+NEW
+
+0
+-
+1
+
+ARS
+15 
+Previous Position
+
+Aston Villa
+1	0	0	1	1	3	-2	0	
+L
+Saturday 10 August 2019
+TOT
+
+3
+-
+1
+
+AVL
+16 
+Previous Position
+
+Norwich City
+1	0	0	1	1	4	-3	0	
+L
+Friday 9 August 2019
+LIV
+
+4
+-
+1
+
+NOR
+17 
+Previous Position
+
+Southampton
+1	0	0	1	0	3	-3	0	
+L
+Saturday 10 August 2019
+BUR
+
+3
+-
+0
+
+SOU
+18 
+Previous Position
+
+Watford
+1	0	0	1	0	3	-3	0	
+L
+Saturday 10 August 2019
+WAT
+
+0
+-
+3
+
+BHA
+19 
+Previous Position
+
+Chelsea
+1	0	0	1	0	4	-4	0	
+L
+Sunday 11 August 2019
+MUN
+
+4
+-
+0
+
+CHE
+20 
+Previous Position
+
+West Ham United
+1	0	0	1	0	5	-5	0	
+L
+Saturday 10 August 2019
+WHU
+
+0
+-
+5
+
+MCI

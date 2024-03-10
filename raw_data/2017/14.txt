@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Manchester City
+14	13	1	0	44	9	35	40	
+W
+Saturday 28 October 2017
+WBA
+
+2
+-
+3
+
+MCI
+ 
+W
+Sunday 5 November 2017
+MCI
+
+3
+-
+1
+
+ARS
+ 
+W
+Saturday 18 November 2017
+LEI
+
+0
+-
+2
+
+MCI
+ 
+W
+Sunday 26 November 2017
+HUD
+
+1
+-
+2
+
+MCI
+ 
+W
+Wednesday 29 November 2017
+MCI
+
+2
+-
+1
+
+SOU
+2 
+Previous Position 2
+
+Manchester United
+14	10	2	2	32	8	24	32	
+W
+Saturday 28 October 2017
+MUN
+
+1
+-
+0
+
+TOT
+ 
+L
+Sunday 5 November 2017
+CHE
+
+1
+-
+0
+
+MUN
+ 
+W
+Saturday 18 November 2017
+MUN
+
+4
+-
+1
+
+NEW
+ 
+W
+Saturday 25 November 2017
+MUN
+
+1
+-
+0
+
+BHA
+ 
+W
+Tuesday 28 November 2017
+WAT
+
+2
+-
+4
+
+MUN
+3 
+Previous Position 3
+
+Chelsea
+14	9	2	3	25	11	14	29	
+W
+Saturday 28 October 2017
+BOU
+
+0
+-
+1
+
+CHE
+ 
+W
+Sunday 5 November 2017
+CHE
+
+1
+-
+0
+
+MUN
+ 
+W
+Saturday 18 November 2017
+WBA
+
+0
+-
+4
+
+CHE
+ 
+D
+Saturday 25 November 2017
+LIV
+
+1
+-
+1
+
+CHE
+ 
+W
+Wednesday 29 November 2017
+CHE
+
+1
+-
+0
+
+SWA
+4 
+Previous Position 4
+
+Arsenal
+14	9	1	4	28	16	12	28	
+W
+Saturday 28 October 2017
+ARS
+
+2
+-
+1
+
+SWA
+ 
+L
+Sunday 5 November 2017
+MCI
+
+3
+-
+1
+
+ARS
+ 
+W
+Saturday 18 November 2017
+ARS
+
+2
+-
+0
+
+TOT
+ 
+W
+Sunday 26 November 2017
+BUR
+
+0
+-
+1
+
+ARS
+ 
+W
+Wednesday 29 November 2017
+ARS
+
+5
+-
+0
+
+HUD
+5 
+Previous Position 6
+
+Liverpool
+14	7	5	2	28	18	10	26	
+W
+Saturday 28 October 2017
+LIV
+
+3
+-
+0
+
+HUD
+ 
+W
+Saturday 4 November 2017
+WHU
+
+1
+-
+4
+
+LIV
+ 
+W
+Saturday 18 November 2017
+LIV
+
+3
+-
+0
+
+SOU
+ 
+D
+Saturday 25 November 2017
+LIV
+
+1
+-
+1
+
+CHE
+ 
+W
+Wednesday 29 November 2017
+STK
+
+0
+-
+3
+
+LIV
+6 
+Previous Position 7
+
+Burnley
+14	7	4	3	14	11	3	25	
+W
+Monday 30 October 2017
+BUR
+
+1
+-
+0
+
+NEW
+ 
+W
+Saturday 4 November 2017
+SOU
+
+0
+-
+1
+
+BUR
+ 
+W
+Saturday 18 November 2017
+BUR
+
+2
+-
+0
+
+SWA
+ 
+L
+Sunday 26 November 2017
+BUR
+
+0
+-
+1
+
+ARS
+ 
+W
+Wednesday 29 November 2017
+BOU
+
+1
+-
+2
+
+BUR
+7 
+Previous Position 5
+
+Tottenham Hotspur
+14	7	3	4	22	12	10	24	
+L
+Saturday 28 October 2017
+MUN
+
+1
+-
+0
+
+TOT
+ 
+W
+Sunday 5 November 2017
+TOT
+
+1
+-
+0
+
+CRY
+ 
+L
+Saturday 18 November 2017
+ARS
+
+2
+-
+0
+
+TOT
+ 
+D
+Saturday 25 November 2017
+TOT
+
+1
+-
+1
+
+WBA
+ 
+L
+Tuesday 28 November 2017
+LEI
+
+2
+-
+1
+
+TOT
+8 
+Previous Position 8
+
+Watford
+14	6	3	5	24	25	-1	21	
+L
+Saturday 28 October 2017
+WAT
+
+0
+-
+1
+
+STK
+ 
+L
+Sunday 5 November 2017
+EVE
+
+3
+-
+2
+
+WAT
+ 
+W
+Sunday 19 November 2017
+WAT
+
+2
+-
+0
+
+WHU
+ 
+W
+Saturday 25 November 2017
+NEW
+
+0
+-
+3
+
+WAT
+ 
+L
+Tuesday 28 November 2017
+WAT
+
+2
+-
+4
+
+MUN
+9 
+Previous Position 12
+
+Leicester City
+14	4	5	5	19	20	-1	17	
+W
+Sunday 29 October 2017
+LEI
+
+2
+-
+0
+
+EVE
+ 
+D
+Saturday 4 November 2017
+STK
+
+2
+-
+2
+
+LEI
+ 
+L
+Saturday 18 November 2017
+LEI
+
+0
+-
+2
+
+MCI
+ 
+D
+Friday 24 November 2017
+WHU
+
+1
+-
+1
+
+LEI
+ 
+W
+Tuesday 28 November 2017
+LEI
+
+2
+-
+1
+
+TOT
+10 
+Previous Position 9
+
+Brighton And Hove Albion
+14	4	5	5	13	14	-1	17	
+D
+Sunday 29 October 2017
+BHA
+
+1
+-
+1
+
+SOU
+ 
+W
+Saturday 4 November 2017
+SWA
+
+0
+-
+1
+
+BHA
+ 
+D
+Monday 20 November 2017
+BHA
+
+2
+-
+2
+
+STK
+ 
+L
+Saturday 25 November 2017
+MUN
+
+1
+-
+0
+
+BHA
+ 
+D
+Tuesday 28 November 2017
+BHA
+
+0
+-
+0
+
+CRY
+11 
+Previous Position 10
+
+Southampton
+14	4	4	6	14	17	-3	16	
+D
+Sunday 29 October 2017
+BHA
+
+1
+-
+1
+
+SOU
+ 
+L
+Saturday 4 November 2017
+SOU
+
+0
+-
+1
+
+BUR
+ 
+L
+Saturday 18 November 2017
+LIV
+
+3
+-
+0
+
+SOU
+ 
+W
+Sunday 26 November 2017
+SOU
+
+4
+-
+1
+
+EVE
+ 
+L
+Wednesday 29 November 2017
+MCI
+
+2
+-
+1
+
+SOU
+12 
+Previous Position 14
+
+Newcastle United
+14	4	3	7	13	19	-6	15	
+L
+Monday 30 October 2017
+BUR
+
+1
+-
+0
+
+NEW
+ 
+L
+Saturday 4 November 2017
+NEW
+
+0
+-
+1
+
+BOU
+ 
+L
+Saturday 18 November 2017
+MUN
+
+4
+-
+1
+
+NEW
+ 
+L
+Saturday 25 November 2017
+NEW
+
+0
+-
+3
+
+WAT
+ 
+D
+Tuesday 28 November 2017
+WBA
+
+2
+-
+2
+
+NEW
+13 
+Previous Position 16
+
+Everton
+14	4	3	7	17	28	-11	15	
+L
+Sunday 29 October 2017
+LEI
+
+2
+-
+0
+
+EVE
+ 
+W
+Sunday 5 November 2017
+EVE
+
+3
+-
+2
+
+WAT
+ 
+D
+Saturday 18 November 2017
+CRY
+
+2
+-
+2
+
+EVE
+ 
+L
+Sunday 26 November 2017
+SOU
+
+4
+-
+1
+
+EVE
+ 
+W
+Wednesday 29 November 2017
+EVE
+
+4
+-
+0
+
+WHU
+14 
+Previous Position 11
+
+Huddersfield Town
+14	4	3	7	9	24	-15	15	
+L
+Saturday 28 October 2017
+LIV
+
+3
+-
+0
+
+HUD
+ 
+W
+Saturday 4 November 2017
+HUD
+
+1
+-
+0
+
+WBA
+ 
+L
+Saturday 18 November 2017
+BOU
+
+4
+-
+0
+
+HUD
+ 
+L
+Sunday 26 November 2017
+HUD
+
+1
+-
+2
+
+MCI
+ 
+L
+Wednesday 29 November 2017
+ARS
+
+5
+-
+0
+
+HUD
+15 
+Previous Position 13
+
+Bournemouth
+14	4	2	8	12	16	-4	14	
+L
+Saturday 28 October 2017
+BOU
+
+0
+-
+1
+
+CHE
+ 
+W
+Saturday 4 November 2017
+NEW
+
+0
+-
+1
+
+BOU
+ 
+W
+Saturday 18 November 2017
+BOU
+
+4
+-
+0
+
+HUD
+ 
+D
+Saturday 25 November 2017
+SWA
+
+0
+-
+0
+
+BOU
+ 
+L
+Wednesday 29 November 2017
+BOU
+
+1
+-
+2
+
+BUR
+16 
+Previous Position 15
+
+Stoke City
+14	3	4	7	16	29	-13	13	
+W
+Saturday 28 October 2017
+WAT
+
+0
+-
+1
+
+STK
+ 
+D
+Saturday 4 November 2017
+STK
+
+2
+-
+2
+
+LEI
+ 
+D
+Monday 20 November 2017
+BHA
+
+2
+-
+2
+
+STK
+ 
+L
+Saturday 25 November 2017
+CRY
+
+2
+-
+1
+
+STK
+ 
+L
+Wednesday 29 November 2017
+STK
+
+0
+-
+3
+
+LIV
+17 
+Previous Position 17
+
+West Bromwich Albion
+14	2	6	6	12	21	-9	12	
+L
+Saturday 28 October 2017
+WBA
+
+2
+-
+3
+
+MCI
+ 
+L
+Saturday 4 November 2017
+HUD
+
+1
+-
+0
+
+WBA
+ 
+L
+Saturday 18 November 2017
+WBA
+
+0
+-
+4
+
+CHE
+ 
+D
+Saturday 25 November 2017
+TOT
+
+1
+-
+1
+
+WBA
+ 
+D
+Tuesday 28 November 2017
+WBA
+
+2
+-
+2
+
+NEW
+18 
+Previous Position 18
+
+West Ham United
+14	2	4	8	12	30	-18	10	
+D
+Saturday 28 October 2017
+CRY
+
+2
+-
+2
+
+WHU
+ 
+L
+Saturday 4 November 2017
+WHU
+
+1
+-
+4
+
+LIV
+ 
+L
+Sunday 19 November 2017
+WAT
+
+2
+-
+0
+
+WHU
+ 
+D
+Friday 24 November 2017
+WHU
+
+1
+-
+1
+
+LEI
+ 
+L
+Wednesday 29 November 2017
+EVE
+
+4
+-
+0
+
+WHU
+19 
+Previous Position 19
+
+Swansea City
+14	2	3	9	7	16	-9	9	
+L
+Saturday 28 October 2017
+ARS
+
+2
+-
+1
+
+SWA
+ 
+L
+Saturday 4 November 2017
+SWA
+
+0
+-
+1
+
+BHA
+ 
+L
+Saturday 18 November 2017
+BUR
+
+2
+-
+0
+
+SWA
+ 
+D
+Saturday 25 November 2017
+SWA
+
+0
+-
+0
+
+BOU
+ 
+L
+Wednesday 29 November 2017
+CHE
+
+1
+-
+0
+
+SWA
+20 
+Previous Position 20
+
+Crystal Palace
+14	2	3	9	8	25	-17	9	
+D
+Saturday 28 October 2017
+CRY
+
+2
+-
+2
+
+WHU
+ 
+L
+Sunday 5 November 2017
+TOT
+
+1
+-
+0
+
+CRY
+ 
+D
+Saturday 18 November 2017
+CRY
+
+2
+-
+2
+
+EVE
+ 
+W
+Saturday 25 November 2017
+CRY
+
+2
+-
+1
+
+STK
+ 
+D
+Tuesday 28 November 2017
+BHA
+
+0
+-
+0
+
+CRY

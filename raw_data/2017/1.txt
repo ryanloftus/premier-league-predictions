@@ -1,0 +1,280 @@
+1 
+Previous Position
+
+Manchester United
+1	1	0	0	4	0	4	3	
+W
+Sunday 13 August 2017
+MUN
+
+4
+-
+0
+
+WHU
+2 
+Previous Position
+
+Huddersfield Town
+1	1	0	0	3	0	3	3	
+W
+Saturday 12 August 2017
+CRY
+
+0
+-
+3
+
+HUD
+3 
+Previous Position
+
+Manchester City
+1	1	0	0	2	0	2	3	
+W
+Saturday 12 August 2017
+BHA
+
+0
+-
+2
+
+MCI
+4 
+Previous Position
+
+Tottenham Hotspur
+1	1	0	0	2	0	2	3	
+W
+Sunday 13 August 2017
+NEW
+
+0
+-
+2
+
+TOT
+5 
+Previous Position
+
+Arsenal
+1	1	0	0	4	3	1	3	
+W
+Friday 11 August 2017
+ARS
+
+4
+-
+3
+
+LEI
+6 
+Previous Position
+
+Burnley
+1	1	0	0	3	2	1	3	
+W
+Saturday 12 August 2017
+CHE
+
+2
+-
+3
+
+BUR
+7 
+Previous Position
+
+Everton
+1	1	0	0	1	0	1	3	
+W
+Saturday 12 August 2017
+EVE
+
+1
+-
+0
+
+STK
+8 
+Previous Position
+
+West Bromwich Albion
+1	1	0	0	1	0	1	3	
+W
+Saturday 12 August 2017
+WBA
+
+1
+-
+0
+
+BOU
+9 
+Previous Position
+
+Liverpool
+1	0	1	0	3	3	0	1	
+D
+Saturday 12 August 2017
+WAT
+
+3
+-
+3
+
+LIV
+10 
+Previous Position
+
+Watford
+1	0	1	0	3	3	0	1	
+D
+Saturday 12 August 2017
+WAT
+
+3
+-
+3
+
+LIV
+11 
+Previous Position
+
+Southampton
+1	0	1	0	0	0	0	1	
+D
+Saturday 12 August 2017
+SOU
+
+0
+-
+0
+
+SWA
+12 
+Previous Position
+
+Swansea City
+1	0	1	0	0	0	0	1	
+D
+Saturday 12 August 2017
+SOU
+
+0
+-
+0
+
+SWA
+13 
+Previous Position
+
+Leicester City
+1	0	0	1	3	4	-1	0	
+L
+Friday 11 August 2017
+ARS
+
+4
+-
+3
+
+LEI
+14 
+Previous Position
+
+Chelsea
+1	0	0	1	2	3	-1	0	
+L
+Saturday 12 August 2017
+CHE
+
+2
+-
+3
+
+BUR
+15 
+Previous Position
+
+Bournemouth
+1	0	0	1	0	1	-1	0	
+L
+Saturday 12 August 2017
+WBA
+
+1
+-
+0
+
+BOU
+16 
+Previous Position
+
+Stoke City
+1	0	0	1	0	1	-1	0	
+L
+Saturday 12 August 2017
+EVE
+
+1
+-
+0
+
+STK
+17 
+Previous Position
+
+Brighton And Hove Albion
+1	0	0	1	0	2	-2	0	
+L
+Saturday 12 August 2017
+BHA
+
+0
+-
+2
+
+MCI
+18 
+Previous Position
+
+Newcastle United
+1	0	0	1	0	2	-2	0	
+L
+Sunday 13 August 2017
+NEW
+
+0
+-
+2
+
+TOT
+19 
+Previous Position
+
+Crystal Palace
+1	0	0	1	0	3	-3	0	
+L
+Saturday 12 August 2017
+CRY
+
+0
+-
+3
+
+HUD
+20 
+Previous Position
+
+West Ham United
+1	0	0	1	0	4	-4	0	
+L
+Sunday 13 August 2017
+MUN
+
+4
+-
+0
+
+WHU

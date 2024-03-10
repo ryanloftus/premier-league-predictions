@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Manchester City
+13	11	2	0	40	5	35	35	
+W
+Saturday 20 October 2018
+MCI
+
+5
+-
+0
+
+BUR
+ 
+W
+Monday 29 October 2018
+TOT
+
+0
+-
+1
+
+MCI
+ 
+W
+Sunday 4 November 2018
+MCI
+
+6
+-
+1
+
+SOU
+ 
+W
+Sunday 11 November 2018
+MCI
+
+3
+-
+1
+
+MUN
+ 
+W
+Saturday 24 November 2018
+WHU
+
+0
+-
+4
+
+MCI
+2 
+Previous Position 2
+
+Liverpool
+13	10	3	0	26	5	21	33	
+W
+Saturday 20 October 2018
+HUD
+
+0
+-
+1
+
+LIV
+ 
+W
+Saturday 27 October 2018
+LIV
+
+4
+-
+1
+
+CAR
+ 
+D
+Saturday 3 November 2018
+ARS
+
+1
+-
+1
+
+LIV
+ 
+W
+Sunday 11 November 2018
+LIV
+
+2
+-
+0
+
+FUL
+ 
+W
+Saturday 24 November 2018
+WAT
+
+0
+-
+3
+
+LIV
+3 
+Previous Position 4
+
+Tottenham Hotspur
+13	10	0	3	23	11	12	30	
+W
+Saturday 20 October 2018
+WHU
+
+0
+-
+1
+
+TOT
+ 
+L
+Monday 29 October 2018
+TOT
+
+0
+-
+1
+
+MCI
+ 
+W
+Saturday 3 November 2018
+WOL
+
+2
+-
+3
+
+TOT
+ 
+W
+Saturday 10 November 2018
+CRY
+
+0
+-
+1
+
+TOT
+ 
+W
+Saturday 24 November 2018
+TOT
+
+3
+-
+1
+
+CHE
+4 
+Previous Position 3
+
+Chelsea
+13	8	4	1	28	11	17	28	
+D
+Saturday 20 October 2018
+CHE
+
+2
+-
+2
+
+MUN
+ 
+W
+Sunday 28 October 2018
+BUR
+
+0
+-
+4
+
+CHE
+ 
+W
+Sunday 4 November 2018
+CHE
+
+3
+-
+1
+
+CRY
+ 
+D
+Sunday 11 November 2018
+CHE
+
+0
+-
+0
+
+EVE
+ 
+L
+Saturday 24 November 2018
+TOT
+
+3
+-
+1
+
+CHE
+5 
+Previous Position 5
+
+Arsenal
+13	8	3	2	28	16	12	27	
+W
+Monday 22 October 2018
+ARS
+
+3
+-
+1
+
+LEI
+ 
+D
+Sunday 28 October 2018
+CRY
+
+2
+-
+2
+
+ARS
+ 
+D
+Saturday 3 November 2018
+ARS
+
+1
+-
+1
+
+LIV
+ 
+D
+Sunday 11 November 2018
+ARS
+
+1
+-
+1
+
+WOL
+ 
+W
+Sunday 25 November 2018
+BOU
+
+1
+-
+2
+
+ARS
+6 
+Previous Position 9
+
+Everton
+13	6	4	3	20	15	5	22	
+W
+Sunday 21 October 2018
+EVE
+
+2
+-
+0
+
+CRY
+ 
+L
+Sunday 28 October 2018
+MUN
+
+2
+-
+1
+
+EVE
+ 
+W
+Saturday 3 November 2018
+EVE
+
+3
+-
+1
+
+BHA
+ 
+D
+Sunday 11 November 2018
+CHE
+
+0
+-
+0
+
+EVE
+ 
+W
+Saturday 24 November 2018
+EVE
+
+1
+-
+0
+
+CAR
+7 
+Previous Position 8
+
+Manchester United
+13	6	3	4	20	21	-1	21	
+D
+Saturday 20 October 2018
+CHE
+
+2
+-
+2
+
+MUN
+ 
+W
+Sunday 28 October 2018
+MUN
+
+2
+-
+1
+
+EVE
+ 
+W
+Saturday 3 November 2018
+BOU
+
+1
+-
+2
+
+MUN
+ 
+L
+Sunday 11 November 2018
+MCI
+
+3
+-
+1
+
+MUN
+ 
+D
+Saturday 24 November 2018
+MUN
+
+0
+-
+0
+
+CRY
+8 
+Previous Position 6
+
+Bournemouth
+13	6	2	5	22	18	4	20	
+D
+Saturday 20 October 2018
+BOU
+
+0
+-
+0
+
+SOU
+ 
+W
+Saturday 27 October 2018
+FUL
+
+0
+-
+3
+
+BOU
+ 
+L
+Saturday 3 November 2018
+BOU
+
+1
+-
+2
+
+MUN
+ 
+L
+Saturday 10 November 2018
+NEW
+
+2
+-
+1
+
+BOU
+ 
+L
+Sunday 25 November 2018
+BOU
+
+1
+-
+2
+
+ARS
+9 
+Previous Position 7
+
+Watford
+13	6	2	5	17	17	0	20	
+W
+Saturday 20 October 2018
+WOL
+
+0
+-
+2
+
+WAT
+ 
+W
+Saturday 27 October 2018
+WAT
+
+3
+-
+0
+
+HUD
+ 
+L
+Saturday 3 November 2018
+NEW
+
+1
+-
+0
+
+WAT
+ 
+D
+Saturday 10 November 2018
+SOU
+
+1
+-
+1
+
+WAT
+ 
+L
+Saturday 24 November 2018
+WAT
+
+0
+-
+3
+
+LIV
+10 
+Previous Position 10
+
+Leicester City
+13	5	3	5	18	17	1	18	
+L
+Monday 22 October 2018
+ARS
+
+3
+-
+1
+
+LEI
+ 
+D
+Saturday 27 October 2018
+LEI
+
+1
+-
+1
+
+WHU
+ 
+W
+Saturday 3 November 2018
+CAR
+
+0
+-
+1
+
+LEI
+ 
+D
+Saturday 10 November 2018
+LEI
+
+0
+-
+0
+
+BUR
+ 
+D
+Saturday 24 November 2018
+BHA
+
+1
+-
+1
+
+LEI
+11 
+Previous Position 11
+
+Wolverhampton Wanderers
+13	4	4	5	12	15	-3	16	
+L
+Saturday 20 October 2018
+WOL
+
+0
+-
+2
+
+WAT
+ 
+L
+Saturday 27 October 2018
+BHA
+
+1
+-
+0
+
+WOL
+ 
+L
+Saturday 3 November 2018
+WOL
+
+2
+-
+3
+
+TOT
+ 
+D
+Sunday 11 November 2018
+ARS
+
+1
+-
+1
+
+WOL
+ 
+L
+Sunday 25 November 2018
+WOL
+
+0
+-
+2
+
+HUD
+12 
+Previous Position 12
+
+Brighton And Hove Albion
+13	4	3	6	14	19	-5	15	
+W
+Saturday 20 October 2018
+NEW
+
+0
+-
+1
+
+BHA
+ 
+W
+Saturday 27 October 2018
+BHA
+
+1
+-
+0
+
+WOL
+ 
+L
+Saturday 3 November 2018
+EVE
+
+3
+-
+1
+
+BHA
+ 
+L
+Saturday 10 November 2018
+CAR
+
+2
+-
+1
+
+BHA
+ 
+D
+Saturday 24 November 2018
+BHA
+
+1
+-
+1
+
+LEI
+13 
+Previous Position 14
+
+Newcastle United
+13	3	3	7	11	16	-5	12	
+L
+Saturday 20 October 2018
+NEW
+
+0
+-
+1
+
+BHA
+ 
+D
+Saturday 27 October 2018
+SOU
+
+0
+-
+0
+
+NEW
+ 
+W
+Saturday 3 November 2018
+NEW
+
+1
+-
+0
+
+WAT
+ 
+W
+Saturday 10 November 2018
+NEW
+
+2
+-
+1
+
+BOU
+ 
+W
+Monday 26 November 2018
+BUR
+
+1
+-
+2
+
+NEW
+14 
+Previous Position 13
+
+West Ham United
+13	3	3	7	14	22	-8	12	
+L
+Saturday 20 October 2018
+WHU
+
+0
+-
+1
+
+TOT
+ 
+D
+Saturday 27 October 2018
+LEI
+
+1
+-
+1
+
+WHU
+ 
+W
+Saturday 3 November 2018
+WHU
+
+4
+-
+2
+
+BUR
+ 
+D
+Saturday 10 November 2018
+HUD
+
+1
+-
+1
+
+WHU
+ 
+L
+Saturday 24 November 2018
+WHU
+
+0
+-
+4
+
+MCI
+15 
+Previous Position 19
+
+Huddersfield Town
+13	2	4	7	8	22	-14	10	
+L
+Saturday 20 October 2018
+HUD
+
+0
+-
+1
+
+LIV
+ 
+L
+Saturday 27 October 2018
+WAT
+
+3
+-
+0
+
+HUD
+ 
+W
+Monday 5 November 2018
+HUD
+
+1
+-
+0
+
+FUL
+ 
+D
+Saturday 10 November 2018
+HUD
+
+1
+-
+1
+
+WHU
+ 
+W
+Sunday 25 November 2018
+WOL
+
+0
+-
+2
+
+HUD
+16 
+Previous Position 16
+
+Crystal Palace
+13	2	3	8	8	17	-9	9	
+L
+Sunday 21 October 2018
+EVE
+
+2
+-
+0
+
+CRY
+ 
+D
+Sunday 28 October 2018
+CRY
+
+2
+-
+2
+
+ARS
+ 
+L
+Sunday 4 November 2018
+CHE
+
+3
+-
+1
+
+CRY
+ 
+L
+Saturday 10 November 2018
+CRY
+
+0
+-
+1
+
+TOT
+ 
+D
+Saturday 24 November 2018
+MUN
+
+0
+-
+0
+
+CRY
+17 
+Previous Position 15
+
+Burnley
+13	2	3	8	13	27	-14	9	
+L
+Saturday 20 October 2018
+MCI
+
+5
+-
+0
+
+BUR
+ 
+L
+Sunday 28 October 2018
+BUR
+
+0
+-
+4
+
+CHE
+ 
+L
+Saturday 3 November 2018
+WHU
+
+4
+-
+2
+
+BUR
+ 
+D
+Saturday 10 November 2018
+LEI
+
+0
+-
+0
+
+BUR
+ 
+L
+Monday 26 November 2018
+BUR
+
+1
+-
+2
+
+NEW
+18 
+Previous Position 17
+
+Southampton
+13	1	5	7	10	24	-14	8	
+D
+Saturday 20 October 2018
+BOU
+
+0
+-
+0
+
+SOU
+ 
+D
+Saturday 27 October 2018
+SOU
+
+0
+-
+0
+
+NEW
+ 
+L
+Sunday 4 November 2018
+MCI
+
+6
+-
+1
+
+SOU
+ 
+D
+Saturday 10 November 2018
+SOU
+
+1
+-
+1
+
+WAT
+ 
+L
+Saturday 24 November 2018
+FUL
+
+3
+-
+2
+
+SOU
+19 
+Previous Position 18
+
+Cardiff City
+13	2	2	9	11	26	-15	8	
+W
+Saturday 20 October 2018
+CAR
+
+4
+-
+2
+
+FUL
+ 
+L
+Saturday 27 October 2018
+LIV
+
+4
+-
+1
+
+CAR
+ 
+L
+Saturday 3 November 2018
+CAR
+
+0
+-
+1
+
+LEI
+ 
+W
+Saturday 10 November 2018
+CAR
+
+2
+-
+1
+
+BHA
+ 
+L
+Saturday 24 November 2018
+EVE
+
+1
+-
+0
+
+CAR
+20 
+Previous Position 20
+
+Fulham
+13	2	2	9	14	33	-19	8	
+L
+Saturday 20 October 2018
+CAR
+
+4
+-
+2
+
+FUL
+ 
+L
+Saturday 27 October 2018
+FUL
+
+0
+-
+3
+
+BOU
+ 
+L
+Monday 5 November 2018
+HUD
+
+1
+-
+0
+
+FUL
+ 
+L
+Sunday 11 November 2018
+LIV
+
+2
+-
+0
+
+FUL
+ 
+W
+Saturday 24 November 2018
+FUL
+
+3
+-
+2
+
+SOU

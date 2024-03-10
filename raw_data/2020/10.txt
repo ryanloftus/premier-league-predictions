@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Tottenham Hotspur
+10	6	3	1	21	9	12	21	
+W
+Monday 26 October 2020
+BUR
+
+0
+-
+1
+
+TOT
+ 
+W
+Sunday 1 November 2020
+TOT
+
+2
+-
+1
+
+BHA
+ 
+W
+Sunday 8 November 2020
+WBA
+
+0
+-
+1
+
+TOT
+ 
+W
+Saturday 21 November 2020
+TOT
+
+2
+-
+0
+
+MCI
+ 
+D
+Sunday 29 November 2020
+CHE
+
+0
+-
+0
+
+TOT
+2 
+Previous Position 2
+
+Liverpool
+10	6	3	1	22	17	5	21	
+W
+Saturday 24 October 2020
+LIV
+
+2
+-
+1
+
+SHU
+ 
+W
+Saturday 31 October 2020
+LIV
+
+2
+-
+1
+
+WHU
+ 
+D
+Sunday 8 November 2020
+MCI
+
+1
+-
+1
+
+LIV
+ 
+W
+Sunday 22 November 2020
+LIV
+
+3
+-
+0
+
+LEI
+ 
+D
+Saturday 28 November 2020
+BHA
+
+1
+-
+1
+
+LIV
+3 
+Previous Position 3
+
+Chelsea
+10	5	4	1	22	10	12	19	
+D
+Saturday 24 October 2020
+MUN
+
+0
+-
+0
+
+CHE
+ 
+W
+Saturday 31 October 2020
+BUR
+
+0
+-
+3
+
+CHE
+ 
+W
+Saturday 7 November 2020
+CHE
+
+4
+-
+1
+
+SHU
+ 
+W
+Saturday 21 November 2020
+NEW
+
+0
+-
+2
+
+CHE
+ 
+D
+Sunday 29 November 2020
+CHE
+
+0
+-
+0
+
+TOT
+4 
+Previous Position 4
+
+Leicester City
+10	6	0	4	19	14	5	18	
+W
+Sunday 25 October 2020
+ARS
+
+0
+-
+1
+
+LEI
+ 
+W
+Monday 2 November 2020
+LEE
+
+1
+-
+4
+
+LEI
+ 
+W
+Sunday 8 November 2020
+LEI
+
+1
+-
+0
+
+WOL
+ 
+L
+Sunday 22 November 2020
+LIV
+
+3
+-
+0
+
+LEI
+ 
+L
+Monday 30 November 2020
+LEI
+
+1
+-
+2
+
+FUL
+5 
+Previous Position 8
+
+West Ham United
+10	5	2	3	17	11	6	17	
+D
+Saturday 24 October 2020
+WHU
+
+1
+-
+1
+
+MCI
+ 
+L
+Saturday 31 October 2020
+LIV
+
+2
+-
+1
+
+WHU
+ 
+W
+Saturday 7 November 2020
+WHU
+
+1
+-
+0
+
+FUL
+ 
+W
+Sunday 22 November 2020
+SHU
+
+0
+-
+1
+
+WHU
+ 
+W
+Monday 30 November 2020
+WHU
+
+2
+-
+1
+
+AVL
+6 
+Previous Position 5
+
+Southampton
+10	5	2	3	19	16	3	17	
+W
+Sunday 25 October 2020
+SOU
+
+2
+-
+0
+
+EVE
+ 
+W
+Sunday 1 November 2020
+AVL
+
+3
+-
+4
+
+SOU
+ 
+W
+Friday 6 November 2020
+SOU
+
+2
+-
+0
+
+NEW
+ 
+D
+Monday 23 November 2020
+WOL
+
+1
+-
+1
+
+SOU
+ 
+L
+Sunday 29 November 2020
+SOU
+
+2
+-
+3
+
+MUN
+7 
+Previous Position 9
+
+Wolverhampton Wanderers
+10	5	2	3	11	11	0	17	
+D
+Sunday 25 October 2020
+WOL
+
+1
+-
+1
+
+NEW
+ 
+W
+Friday 30 October 2020
+WOL
+
+2
+-
+0
+
+CRY
+ 
+L
+Sunday 8 November 2020
+LEI
+
+1
+-
+0
+
+WOL
+ 
+D
+Monday 23 November 2020
+WOL
+
+1
+-
+1
+
+SOU
+ 
+W
+Sunday 29 November 2020
+ARS
+
+1
+-
+2
+
+WOL
+8 
+Previous Position 6
+
+Everton
+10	5	1	4	19	17	2	16	
+L
+Sunday 25 October 2020
+SOU
+
+2
+-
+0
+
+EVE
+ 
+L
+Sunday 1 November 2020
+NEW
+
+2
+-
+1
+
+EVE
+ 
+L
+Saturday 7 November 2020
+EVE
+
+1
+-
+3
+
+MUN
+ 
+W
+Sunday 22 November 2020
+FUL
+
+2
+-
+3
+
+EVE
+ 
+L
+Saturday 28 November 2020
+EVE
+
+0
+-
+1
+
+LEE
+9 
+Previous Position 10
+
+Manchester United
+9	5	1	3	16	16	0	16	
+D
+Saturday 24 October 2020
+MUN
+
+0
+-
+0
+
+CHE
+ 
+L
+Sunday 1 November 2020
+MUN
+
+0
+-
+1
+
+ARS
+ 
+W
+Saturday 7 November 2020
+EVE
+
+1
+-
+3
+
+MUN
+ 
+W
+Saturday 21 November 2020
+MUN
+
+1
+-
+0
+
+WBA
+ 
+W
+Sunday 29 November 2020
+SOU
+
+2
+-
+3
+
+MUN
+10 
+Previous Position 7
+
+Aston Villa
+9	5	0	4	20	13	7	15	
+L
+Friday 23 October 2020
+AVL
+
+0
+-
+3
+
+LEE
+ 
+L
+Sunday 1 November 2020
+AVL
+
+3
+-
+4
+
+SOU
+ 
+W
+Sunday 8 November 2020
+ARS
+
+0
+-
+3
+
+AVL
+ 
+L
+Saturday 21 November 2020
+AVL
+
+1
+-
+2
+
+BHA
+ 
+L
+Monday 30 November 2020
+WHU
+
+2
+-
+1
+
+AVL
+11 
+Previous Position 13
+
+Manchester City
+9	4	3	2	15	11	4	15	
+D
+Saturday 24 October 2020
+WHU
+
+1
+-
+1
+
+MCI
+ 
+W
+Saturday 31 October 2020
+SHU
+
+0
+-
+1
+
+MCI
+ 
+D
+Sunday 8 November 2020
+MCI
+
+1
+-
+1
+
+LIV
+ 
+L
+Saturday 21 November 2020
+TOT
+
+2
+-
+0
+
+MCI
+ 
+W
+Saturday 28 November 2020
+MCI
+
+5
+-
+0
+
+BUR
+12 
+Previous Position 14
+
+Leeds United
+10	4	2	4	15	17	-2	14	
+W
+Friday 23 October 2020
+AVL
+
+0
+-
+3
+
+LEE
+ 
+L
+Monday 2 November 2020
+LEE
+
+1
+-
+4
+
+LEI
+ 
+L
+Saturday 7 November 2020
+CRY
+
+4
+-
+1
+
+LEE
+ 
+D
+Sunday 22 November 2020
+LEE
+
+0
+-
+0
+
+ARS
+ 
+W
+Saturday 28 November 2020
+EVE
+
+0
+-
+1
+
+LEE
+13 
+Previous Position 15
+
+Newcastle United
+10	4	2	4	12	15	-3	14	
+D
+Sunday 25 October 2020
+WOL
+
+1
+-
+1
+
+NEW
+ 
+W
+Sunday 1 November 2020
+NEW
+
+2
+-
+1
+
+EVE
+ 
+L
+Friday 6 November 2020
+SOU
+
+2
+-
+0
+
+NEW
+ 
+L
+Saturday 21 November 2020
+NEW
+
+0
+-
+2
+
+CHE
+ 
+W
+Friday 27 November 2020
+CRY
+
+0
+-
+2
+
+NEW
+14 
+Previous Position 12
+
+Arsenal
+10	4	1	5	10	12	-2	13	
+L
+Sunday 25 October 2020
+ARS
+
+0
+-
+1
+
+LEI
+ 
+W
+Sunday 1 November 2020
+MUN
+
+0
+-
+1
+
+ARS
+ 
+L
+Sunday 8 November 2020
+ARS
+
+0
+-
+3
+
+AVL
+ 
+D
+Sunday 22 November 2020
+LEE
+
+0
+-
+0
+
+ARS
+ 
+L
+Sunday 29 November 2020
+ARS
+
+1
+-
+2
+
+WOL
+15 
+Previous Position 11
+
+Crystal Palace
+10	4	1	5	12	15	-3	13	
+W
+Saturday 24 October 2020
+FUL
+
+1
+-
+2
+
+CRY
+ 
+L
+Friday 30 October 2020
+WOL
+
+2
+-
+0
+
+CRY
+ 
+W
+Saturday 7 November 2020
+CRY
+
+4
+-
+1
+
+LEE
+ 
+L
+Monday 23 November 2020
+BUR
+
+1
+-
+0
+
+CRY
+ 
+L
+Friday 27 November 2020
+CRY
+
+0
+-
+2
+
+NEW
+16 
+Previous Position 16
+
+Brighton And Hove Albion
+10	2	4	4	14	16	-2	10	
+D
+Monday 26 October 2020
+BHA
+
+1
+-
+1
+
+WBA
+ 
+L
+Sunday 1 November 2020
+TOT
+
+2
+-
+1
+
+BHA
+ 
+D
+Friday 6 November 2020
+BHA
+
+0
+-
+0
+
+BUR
+ 
+W
+Saturday 21 November 2020
+AVL
+
+1
+-
+2
+
+BHA
+ 
+D
+Saturday 28 November 2020
+BHA
+
+1
+-
+1
+
+LIV
+17 
+Previous Position 18
+
+Fulham
+10	2	1	7	11	19	-8	7	
+L
+Saturday 24 October 2020
+FUL
+
+1
+-
+2
+
+CRY
+ 
+W
+Monday 2 November 2020
+FUL
+
+2
+-
+0
+
+WBA
+ 
+L
+Saturday 7 November 2020
+WHU
+
+1
+-
+0
+
+FUL
+ 
+L
+Sunday 22 November 2020
+FUL
+
+2
+-
+3
+
+EVE
+ 
+W
+Monday 30 November 2020
+LEI
+
+1
+-
+2
+
+FUL
+18 
+Previous Position 19
+
+West Bromwich Albion
+10	1	3	6	7	18	-11	6	
+D
+Monday 26 October 2020
+BHA
+
+1
+-
+1
+
+WBA
+ 
+L
+Monday 2 November 2020
+FUL
+
+2
+-
+0
+
+WBA
+ 
+L
+Sunday 8 November 2020
+WBA
+
+0
+-
+1
+
+TOT
+ 
+L
+Saturday 21 November 2020
+MUN
+
+1
+-
+0
+
+WBA
+ 
+W
+Saturday 28 November 2020
+WBA
+
+1
+-
+0
+
+SHU
+19 
+Previous Position 17
+
+Burnley
+9	1	2	6	4	17	-13	5	
+L
+Monday 26 October 2020
+BUR
+
+0
+-
+1
+
+TOT
+ 
+L
+Saturday 31 October 2020
+BUR
+
+0
+-
+3
+
+CHE
+ 
+D
+Friday 6 November 2020
+BHA
+
+0
+-
+0
+
+BUR
+ 
+W
+Monday 23 November 2020
+BUR
+
+1
+-
+0
+
+CRY
+ 
+L
+Saturday 28 November 2020
+MCI
+
+5
+-
+0
+
+BUR
+20 
+Previous Position 20
+
+Sheffield United
+10	0	1	9	4	16	-12	1	
+L
+Saturday 24 October 2020
+LIV
+
+2
+-
+1
+
+SHU
+ 
+L
+Saturday 31 October 2020
+SHU
+
+0
+-
+1
+
+MCI
+ 
+L
+Saturday 7 November 2020
+CHE
+
+4
+-
+1
+
+SHU
+ 
+L
+Sunday 22 November 2020
+SHU
+
+0
+-
+1
+
+WHU
+ 
+L
+Saturday 28 November 2020
+WBA
+
+1
+-
+0
+
+SHU

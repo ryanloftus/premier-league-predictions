@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Liverpool
+10	9	1	0	23	8	15	28	
+W
+Sunday 22 September 2019
+CHE
+
+1
+-
+2
+
+LIV
+ 
+W
+Saturday 28 September 2019
+SHU
+
+0
+-
+1
+
+LIV
+ 
+W
+Saturday 5 October 2019
+LIV
+
+2
+-
+1
+
+LEI
+ 
+D
+Sunday 20 October 2019
+MUN
+
+1
+-
+1
+
+LIV
+ 
+W
+Sunday 27 October 2019
+LIV
+
+2
+-
+1
+
+TOT
+2 
+Previous Position 2
+
+Manchester City
+10	7	1	2	32	9	23	22	
+W
+Saturday 21 September 2019
+MCI
+
+8
+-
+0
+
+WAT
+ 
+W
+Saturday 28 September 2019
+EVE
+
+1
+-
+3
+
+MCI
+ 
+L
+Sunday 6 October 2019
+MCI
+
+0
+-
+2
+
+WOL
+ 
+W
+Saturday 19 October 2019
+CRY
+
+0
+-
+2
+
+MCI
+ 
+W
+Saturday 26 October 2019
+MCI
+
+3
+-
+0
+
+AVL
+3 
+Previous Position 3
+
+Leicester City
+10	6	2	2	25	8	17	20	
+W
+Saturday 21 September 2019
+LEI
+
+2
+-
+1
+
+TOT
+ 
+W
+Sunday 29 September 2019
+LEI
+
+5
+-
+0
+
+NEW
+ 
+L
+Saturday 5 October 2019
+LIV
+
+2
+-
+1
+
+LEI
+ 
+W
+Saturday 19 October 2019
+LEI
+
+2
+-
+1
+
+BUR
+ 
+W
+Friday 25 October 2019
+SOU
+
+0
+-
+9
+
+LEI
+4 
+Previous Position 4
+
+Chelsea
+10	6	2	2	23	16	7	20	
+L
+Sunday 22 September 2019
+CHE
+
+1
+-
+2
+
+LIV
+ 
+W
+Saturday 28 September 2019
+CHE
+
+2
+-
+0
+
+BHA
+ 
+W
+Sunday 6 October 2019
+SOU
+
+1
+-
+4
+
+CHE
+ 
+W
+Saturday 19 October 2019
+CHE
+
+1
+-
+0
+
+NEW
+ 
+W
+Saturday 26 October 2019
+BUR
+
+2
+-
+4
+
+CHE
+5 
+Previous Position 5
+
+Arsenal
+10	4	4	2	15	14	1	16	
+W
+Sunday 22 September 2019
+ARS
+
+3
+-
+2
+
+AVL
+ 
+D
+Monday 30 September 2019
+MUN
+
+1
+-
+1
+
+ARS
+ 
+W
+Sunday 6 October 2019
+ARS
+
+1
+-
+0
+
+BOU
+ 
+L
+Monday 21 October 2019
+SHU
+
+1
+-
+0
+
+ARS
+ 
+D
+Sunday 27 October 2019
+ARS
+
+2
+-
+2
+
+CRY
+6 
+Previous Position 6
+
+Crystal Palace
+10	4	3	3	10	12	-2	15	
+D
+Sunday 22 September 2019
+CRY
+
+1
+-
+1
+
+WOL
+ 
+W
+Saturday 28 September 2019
+CRY
+
+2
+-
+0
+
+NOR
+ 
+W
+Saturday 5 October 2019
+WHU
+
+1
+-
+2
+
+CRY
+ 
+L
+Saturday 19 October 2019
+CRY
+
+0
+-
+2
+
+MCI
+ 
+D
+Sunday 27 October 2019
+ARS
+
+2
+-
+2
+
+CRY
+7 
+Previous Position 14
+
+Manchester United
+10	3	4	3	13	10	3	13	
+L
+Sunday 22 September 2019
+WHU
+
+2
+-
+0
+
+MUN
+ 
+D
+Monday 30 September 2019
+MUN
+
+1
+-
+1
+
+ARS
+ 
+L
+Sunday 6 October 2019
+NEW
+
+1
+-
+0
+
+MUN
+ 
+D
+Sunday 20 October 2019
+MUN
+
+1
+-
+1
+
+LIV
+ 
+W
+Sunday 27 October 2019
+NOR
+
+1
+-
+3
+
+MUN
+8 
+Previous Position 9
+
+Sheffield United
+10	3	4	3	9	8	1	13	
+W
+Saturday 21 September 2019
+EVE
+
+0
+-
+2
+
+SHU
+ 
+L
+Saturday 28 September 2019
+SHU
+
+0
+-
+1
+
+LIV
+ 
+D
+Saturday 5 October 2019
+WAT
+
+0
+-
+0
+
+SHU
+ 
+W
+Monday 21 October 2019
+SHU
+
+1
+-
+0
+
+ARS
+ 
+D
+Saturday 26 October 2019
+WHU
+
+1
+-
+1
+
+SHU
+9 
+Previous Position 10
+
+Bournemouth
+10	3	4	3	13	13	0	13	
+W
+Friday 20 September 2019
+SOU
+
+1
+-
+3
+
+BOU
+ 
+D
+Saturday 28 September 2019
+BOU
+
+2
+-
+2
+
+WHU
+ 
+L
+Sunday 6 October 2019
+ARS
+
+1
+-
+0
+
+BOU
+ 
+D
+Saturday 19 October 2019
+BOU
+
+0
+-
+0
+
+NOR
+ 
+D
+Saturday 26 October 2019
+WAT
+
+0
+-
+0
+
+BOU
+10 
+Previous Position 11
+
+West Ham United
+10	3	4	3	12	14	-2	13	
+W
+Sunday 22 September 2019
+WHU
+
+2
+-
+0
+
+MUN
+ 
+D
+Saturday 28 September 2019
+BOU
+
+2
+-
+2
+
+WHU
+ 
+L
+Saturday 5 October 2019
+WHU
+
+1
+-
+2
+
+CRY
+ 
+L
+Saturday 19 October 2019
+EVE
+
+2
+-
+0
+
+WHU
+ 
+D
+Saturday 26 October 2019
+WHU
+
+1
+-
+1
+
+SHU
+11 
+Previous Position 7
+
+Tottenham Hotspur
+10	3	3	4	16	15	1	12	
+L
+Saturday 21 September 2019
+LEI
+
+2
+-
+1
+
+TOT
+ 
+W
+Saturday 28 September 2019
+TOT
+
+2
+-
+1
+
+SOU
+ 
+L
+Saturday 5 October 2019
+BHA
+
+3
+-
+0
+
+TOT
+ 
+D
+Saturday 19 October 2019
+TOT
+
+1
+-
+1
+
+WAT
+ 
+L
+Sunday 27 October 2019
+LIV
+
+2
+-
+1
+
+TOT
+12 
+Previous Position 13
+
+Wolverhampton Wanderers
+10	2	6	2	13	13	0	12	
+D
+Sunday 22 September 2019
+CRY
+
+1
+-
+1
+
+WOL
+ 
+W
+Saturday 28 September 2019
+WOL
+
+2
+-
+0
+
+WAT
+ 
+W
+Sunday 6 October 2019
+MCI
+
+0
+-
+2
+
+WOL
+ 
+D
+Saturday 19 October 2019
+WOL
+
+1
+-
+1
+
+SOU
+ 
+D
+Sunday 27 October 2019
+NEW
+
+1
+-
+1
+
+WOL
+13 
+Previous Position 8
+
+Burnley
+10	3	3	4	14	15	-1	12	
+W
+Saturday 21 September 2019
+BUR
+
+2
+-
+0
+
+NOR
+ 
+D
+Saturday 28 September 2019
+AVL
+
+2
+-
+2
+
+BUR
+ 
+W
+Saturday 5 October 2019
+BUR
+
+1
+-
+0
+
+EVE
+ 
+L
+Saturday 19 October 2019
+LEI
+
+2
+-
+1
+
+BUR
+ 
+L
+Saturday 26 October 2019
+BUR
+
+2
+-
+4
+
+CHE
+14 
+Previous Position 16
+
+Brighton And Hove Albion
+10	3	3	4	12	14	-2	12	
+D
+Saturday 21 September 2019
+NEW
+
+0
+-
+0
+
+BHA
+ 
+L
+Saturday 28 September 2019
+CHE
+
+2
+-
+0
+
+BHA
+ 
+W
+Saturday 5 October 2019
+BHA
+
+3
+-
+0
+
+TOT
+ 
+L
+Saturday 19 October 2019
+AVL
+
+2
+-
+1
+
+BHA
+ 
+W
+Saturday 26 October 2019
+BHA
+
+3
+-
+2
+
+EVE
+15 
+Previous Position 12
+
+Aston Villa
+10	3	2	5	15	16	-1	11	
+L
+Sunday 22 September 2019
+ARS
+
+3
+-
+2
+
+AVL
+ 
+D
+Saturday 28 September 2019
+AVL
+
+2
+-
+2
+
+BUR
+ 
+W
+Saturday 5 October 2019
+NOR
+
+1
+-
+5
+
+AVL
+ 
+W
+Saturday 19 October 2019
+AVL
+
+2
+-
+1
+
+BHA
+ 
+L
+Saturday 26 October 2019
+MCI
+
+3
+-
+0
+
+AVL
+16 
+Previous Position 15
+
+Everton
+10	3	1	6	10	16	-6	10	
+L
+Saturday 21 September 2019
+EVE
+
+0
+-
+2
+
+SHU
+ 
+L
+Saturday 28 September 2019
+EVE
+
+1
+-
+3
+
+MCI
+ 
+L
+Saturday 5 October 2019
+BUR
+
+1
+-
+0
+
+EVE
+ 
+W
+Saturday 19 October 2019
+EVE
+
+2
+-
+0
+
+WHU
+ 
+L
+Saturday 26 October 2019
+BHA
+
+3
+-
+2
+
+EVE
+17 
+Previous Position 18
+
+Newcastle United
+10	2	3	5	6	15	-9	9	
+D
+Saturday 21 September 2019
+NEW
+
+0
+-
+0
+
+BHA
+ 
+L
+Sunday 29 September 2019
+LEI
+
+5
+-
+0
+
+NEW
+ 
+W
+Sunday 6 October 2019
+NEW
+
+1
+-
+0
+
+MUN
+ 
+L
+Saturday 19 October 2019
+CHE
+
+1
+-
+0
+
+NEW
+ 
+D
+Sunday 27 October 2019
+NEW
+
+1
+-
+1
+
+WOL
+18 
+Previous Position 17
+
+Southampton
+10	2	2	6	9	25	-16	8	
+L
+Friday 20 September 2019
+SOU
+
+1
+-
+3
+
+BOU
+ 
+L
+Saturday 28 September 2019
+TOT
+
+2
+-
+1
+
+SOU
+ 
+L
+Sunday 6 October 2019
+SOU
+
+1
+-
+4
+
+CHE
+ 
+D
+Saturday 19 October 2019
+WOL
+
+1
+-
+1
+
+SOU
+ 
+L
+Friday 25 October 2019
+SOU
+
+0
+-
+9
+
+LEI
+19 
+Previous Position 19
+
+Norwich City
+10	2	1	7	11	24	-13	7	
+L
+Saturday 21 September 2019
+BUR
+
+2
+-
+0
+
+NOR
+ 
+L
+Saturday 28 September 2019
+CRY
+
+2
+-
+0
+
+NOR
+ 
+L
+Saturday 5 October 2019
+NOR
+
+1
+-
+5
+
+AVL
+ 
+D
+Saturday 19 October 2019
+BOU
+
+0
+-
+0
+
+NOR
+ 
+L
+Sunday 27 October 2019
+NOR
+
+1
+-
+3
+
+MUN
+20 
+Previous Position 20
+
+Watford
+10	0	5	5	5	21	-16	5	
+L
+Saturday 21 September 2019
+MCI
+
+8
+-
+0
+
+WAT
+ 
+L
+Saturday 28 September 2019
+WOL
+
+2
+-
+0
+
+WAT
+ 
+D
+Saturday 5 October 2019
+WAT
+
+0
+-
+0
+
+SHU
+ 
+D
+Saturday 19 October 2019
+TOT
+
+1
+-
+1
+
+WAT
+ 
+D
+Saturday 26 October 2019
+WAT
+
+0
+-
+0
+
+BOU

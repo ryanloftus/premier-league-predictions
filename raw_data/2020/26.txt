@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Manchester City
+27	20	5	2	56	17	39	65	
+W
+Saturday 13 February 2021
+MCI
+
+3
+-
+0
+
+TOT
+ 
+W
+Wednesday 17 February 2021
+EVE
+
+1
+-
+3
+
+MCI
+ 
+W
+Sunday 21 February 2021
+ARS
+
+0
+-
+1
+
+MCI
+ 
+W
+Saturday 27 February 2021
+MCI
+
+2
+-
+1
+
+WHU
+ 
+W
+Tuesday 2 March 2021
+MCI
+
+4
+-
+1
+
+WOL
+2 
+Previous Position 2
+
+Manchester United
+27	14	9	4	53	32	21	51	
+D
+Saturday 6 February 2021
+MUN
+
+3
+-
+3
+
+EVE
+ 
+D
+Sunday 14 February 2021
+WBA
+
+1
+-
+1
+
+MUN
+ 
+W
+Sunday 21 February 2021
+MUN
+
+3
+-
+1
+
+NEW
+ 
+D
+Sunday 28 February 2021
+CHE
+
+0
+-
+0
+
+MUN
+ 
+D
+Wednesday 3 March 2021
+CRY
+
+0
+-
+0
+
+MUN
+3 
+Previous Position 3
+
+Leicester City
+27	15	5	7	46	31	15	50	
+D
+Sunday 7 February 2021
+WOL
+
+0
+-
+0
+
+LEI
+ 
+W
+Saturday 13 February 2021
+LEI
+
+3
+-
+1
+
+LIV
+ 
+W
+Sunday 21 February 2021
+AVL
+
+1
+-
+2
+
+LEI
+ 
+L
+Sunday 28 February 2021
+LEI
+
+1
+-
+3
+
+ARS
+ 
+D
+Wednesday 3 March 2021
+BUR
+
+1
+-
+1
+
+LEI
+4 
+Previous Position 5
+
+Chelsea
+27	13	8	6	42	25	17	47	
+W
+Sunday 7 February 2021
+SHU
+
+1
+-
+2
+
+CHE
+ 
+W
+Monday 15 February 2021
+CHE
+
+2
+-
+0
+
+NEW
+ 
+D
+Saturday 20 February 2021
+SOU
+
+1
+-
+1
+
+CHE
+ 
+D
+Sunday 28 February 2021
+CHE
+
+0
+-
+0
+
+MUN
+ 
+W
+Thursday 4 March 2021
+LIV
+
+0
+-
+1
+
+CHE
+5 
+Previous Position 7
+
+Everton
+26	14	4	8	39	33	6	46	
+L
+Sunday 14 February 2021
+EVE
+
+0
+-
+2
+
+FUL
+ 
+L
+Wednesday 17 February 2021
+EVE
+
+1
+-
+3
+
+MCI
+ 
+W
+Saturday 20 February 2021
+LIV
+
+0
+-
+2
+
+EVE
+ 
+W
+Monday 1 March 2021
+EVE
+
+1
+-
+0
+
+SOU
+ 
+W
+Thursday 4 March 2021
+WBA
+
+0
+-
+1
+
+EVE
+6 
+Previous Position 4
+
+West Ham United
+26	13	6	7	40	31	9	45	
+W
+Wednesday 3 February 2021
+AVL
+
+1
+-
+3
+
+WHU
+ 
+D
+Saturday 6 February 2021
+FUL
+
+0
+-
+0
+
+WHU
+ 
+W
+Monday 15 February 2021
+WHU
+
+3
+-
+0
+
+SHU
+ 
+W
+Sunday 21 February 2021
+WHU
+
+2
+-
+1
+
+TOT
+ 
+L
+Saturday 27 February 2021
+MCI
+
+2
+-
+1
+
+WHU
+7 
+Previous Position 6
+
+Liverpool
+27	12	7	8	47	35	12	43	
+L
+Sunday 7 February 2021
+LIV
+
+1
+-
+4
+
+MCI
+ 
+L
+Saturday 13 February 2021
+LEI
+
+3
+-
+1
+
+LIV
+ 
+L
+Saturday 20 February 2021
+LIV
+
+0
+-
+2
+
+EVE
+ 
+W
+Sunday 28 February 2021
+SHU
+
+0
+-
+2
+
+LIV
+ 
+L
+Thursday 4 March 2021
+LIV
+
+0
+-
+1
+
+CHE
+8 
+Previous Position 9
+
+Tottenham Hotspur
+26	12	6	8	42	27	15	42	
+W
+Sunday 7 February 2021
+TOT
+
+2
+-
+0
+
+WBA
+ 
+L
+Saturday 13 February 2021
+MCI
+
+3
+-
+0
+
+TOT
+ 
+L
+Sunday 21 February 2021
+WHU
+
+2
+-
+1
+
+TOT
+ 
+W
+Sunday 28 February 2021
+TOT
+
+4
+-
+0
+
+BUR
+ 
+W
+Thursday 4 March 2021
+FUL
+
+0
+-
+1
+
+TOT
+9 
+Previous Position 8
+
+Aston Villa
+25	12	3	10	38	27	11	39	
+W
+Saturday 6 February 2021
+AVL
+
+1
+-
+0
+
+ARS
+ 
+D
+Saturday 13 February 2021
+BHA
+
+0
+-
+0
+
+AVL
+ 
+L
+Sunday 21 February 2021
+AVL
+
+1
+-
+2
+
+LEI
+ 
+W
+Saturday 27 February 2021
+LEE
+
+0
+-
+1
+
+AVL
+ 
+L
+Wednesday 3 March 2021
+SHU
+
+1
+-
+0
+
+AVL
+10 
+Previous Position 11
+
+Arsenal
+26	11	4	11	34	27	7	37	
+L
+Tuesday 2 February 2021
+WOL
+
+2
+-
+1
+
+ARS
+ 
+L
+Saturday 6 February 2021
+AVL
+
+1
+-
+0
+
+ARS
+ 
+W
+Sunday 14 February 2021
+ARS
+
+4
+-
+2
+
+LEE
+ 
+L
+Sunday 21 February 2021
+ARS
+
+0
+-
+1
+
+MCI
+ 
+W
+Sunday 28 February 2021
+LEI
+
+1
+-
+3
+
+ARS
+11 
+Previous Position 10
+
+Leeds United
+26	11	2	13	43	44	-1	35	
+W
+Monday 8 February 2021
+LEE
+
+2
+-
+0
+
+CRY
+ 
+L
+Sunday 14 February 2021
+ARS
+
+4
+-
+2
+
+LEE
+ 
+L
+Friday 19 February 2021
+WOL
+
+1
+-
+0
+
+LEE
+ 
+W
+Tuesday 23 February 2021
+LEE
+
+3
+-
+0
+
+SOU
+ 
+L
+Saturday 27 February 2021
+LEE
+
+0
+-
+1
+
+AVL
+12 
+Previous Position 12
+
+Wolverhampton Wanderers
+27	9	7	11	28	37	-9	34	
+D
+Sunday 7 February 2021
+WOL
+
+0
+-
+0
+
+LEI
+ 
+W
+Sunday 14 February 2021
+SOU
+
+1
+-
+2
+
+WOL
+ 
+W
+Friday 19 February 2021
+WOL
+
+1
+-
+0
+
+LEE
+ 
+D
+Saturday 27 February 2021
+NEW
+
+1
+-
+1
+
+WOL
+ 
+L
+Tuesday 2 March 2021
+MCI
+
+4
+-
+1
+
+WOL
+13 
+Previous Position 13
+
+Crystal Palace
+27	9	7	11	29	43	-14	34	
+L
+Monday 8 February 2021
+LEE
+
+2
+-
+0
+
+CRY
+ 
+L
+Saturday 13 February 2021
+CRY
+
+0
+-
+3
+
+BUR
+ 
+W
+Monday 22 February 2021
+BHA
+
+1
+-
+2
+
+CRY
+ 
+D
+Sunday 28 February 2021
+CRY
+
+0
+-
+0
+
+FUL
+ 
+D
+Wednesday 3 March 2021
+CRY
+
+0
+-
+0
+
+MUN
+14 
+Previous Position 14
+
+Southampton
+26	8	6	12	31	44	-13	30	
+L
+Saturday 6 February 2021
+NEW
+
+3
+-
+2
+
+SOU
+ 
+L
+Sunday 14 February 2021
+SOU
+
+1
+-
+2
+
+WOL
+ 
+D
+Saturday 20 February 2021
+SOU
+
+1
+-
+1
+
+CHE
+ 
+L
+Tuesday 23 February 2021
+LEE
+
+3
+-
+0
+
+SOU
+ 
+L
+Monday 1 March 2021
+EVE
+
+1
+-
+0
+
+SOU
+15 
+Previous Position 15
+
+Burnley
+27	7	8	12	19	35	-16	29	
+W
+Saturday 13 February 2021
+CRY
+
+0
+-
+3
+
+BUR
+ 
+D
+Wednesday 17 February 2021
+BUR
+
+1
+-
+1
+
+FUL
+ 
+D
+Saturday 20 February 2021
+BUR
+
+0
+-
+0
+
+WBA
+ 
+L
+Sunday 28 February 2021
+TOT
+
+4
+-
+0
+
+BUR
+ 
+D
+Wednesday 3 March 2021
+BUR
+
+1
+-
+1
+
+LEI
+16 
+Previous Position 16
+
+Brighton And Hove Albion
+26	5	11	10	26	33	-7	26	
+W
+Wednesday 3 February 2021
+LIV
+
+0
+-
+1
+
+BHA
+ 
+D
+Saturday 6 February 2021
+BUR
+
+1
+-
+1
+
+BHA
+ 
+D
+Saturday 13 February 2021
+BHA
+
+0
+-
+0
+
+AVL
+ 
+L
+Monday 22 February 2021
+BHA
+
+1
+-
+2
+
+CRY
+ 
+L
+Saturday 27 February 2021
+WBA
+
+1
+-
+0
+
+BHA
+17 
+Previous Position 17
+
+Newcastle United
+26	7	5	14	27	44	-17	26	
+L
+Tuesday 2 February 2021
+NEW
+
+1
+-
+2
+
+CRY
+ 
+W
+Saturday 6 February 2021
+NEW
+
+3
+-
+2
+
+SOU
+ 
+L
+Monday 15 February 2021
+CHE
+
+2
+-
+0
+
+NEW
+ 
+L
+Sunday 21 February 2021
+MUN
+
+3
+-
+1
+
+NEW
+ 
+D
+Saturday 27 February 2021
+NEW
+
+1
+-
+1
+
+WOL
+18 
+Previous Position 18
+
+Fulham
+27	4	11	12	21	33	-12	23	
+W
+Sunday 14 February 2021
+EVE
+
+0
+-
+2
+
+FUL
+ 
+D
+Wednesday 17 February 2021
+BUR
+
+1
+-
+1
+
+FUL
+ 
+W
+Saturday 20 February 2021
+FUL
+
+1
+-
+0
+
+SHU
+ 
+D
+Sunday 28 February 2021
+CRY
+
+0
+-
+0
+
+FUL
+ 
+L
+Thursday 4 March 2021
+FUL
+
+0
+-
+1
+
+TOT
+19 
+Previous Position 19
+
+West Bromwich Albion
+27	3	8	16	20	56	-36	17	
+L
+Sunday 7 February 2021
+TOT
+
+2
+-
+0
+
+WBA
+ 
+D
+Sunday 14 February 2021
+WBA
+
+1
+-
+1
+
+MUN
+ 
+D
+Saturday 20 February 2021
+BUR
+
+0
+-
+0
+
+WBA
+ 
+W
+Saturday 27 February 2021
+WBA
+
+1
+-
+0
+
+BHA
+ 
+L
+Thursday 4 March 2021
+WBA
+
+0
+-
+1
+
+EVE
+20 
+Previous Position 20
+
+Sheffield United
+27	4	2	21	16	43	-27	14	
+L
+Sunday 7 February 2021
+SHU
+
+1
+-
+2
+
+CHE
+ 
+L
+Monday 15 February 2021
+WHU
+
+3
+-
+0
+
+SHU
+ 
+L
+Saturday 20 February 2021
+FUL
+
+1
+-
+0
+
+SHU
+ 
+L
+Sunday 28 February 2021
+SHU
+
+0
+-
+2
+
+LIV
+ 
+W
+Wednesday 3 March 2021
+SHU
+
+1
+-
+0
+
+AVL

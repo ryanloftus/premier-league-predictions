@@ -1,0 +1,440 @@
+1 
+Previous Position 2
+
+Leicester City
+2	2	0	0	7	2	5	6	
+W
+Sunday 13 September 2020
+WBA
+
+0
+-
+3
+
+LEI
+ 
+W
+Sunday 20 September 2020
+LEI
+
+4
+-
+2
+
+BUR
+2 
+Previous Position 8
+
+Everton
+2	2	0	0	6	2	4	6	
+W
+Sunday 13 September 2020
+TOT
+
+0
+-
+1
+
+EVE
+ 
+W
+Saturday 19 September 2020
+EVE
+
+5
+-
+2
+
+WBA
+3 
+Previous Position 1
+
+Arsenal
+2	2	0	0	5	1	4	6	
+W
+Saturday 12 September 2020
+FUL
+
+0
+-
+3
+
+ARS
+ 
+W
+Saturday 19 September 2020
+ARS
+
+2
+-
+1
+
+WHU
+4 
+Previous Position 6
+
+Liverpool
+2	2	0	0	6	3	3	6	
+W
+Saturday 12 September 2020
+LIV
+
+4
+-
+3
+
+LEE
+ 
+W
+Sunday 20 September 2020
+CHE
+
+0
+-
+2
+
+LIV
+5 
+Previous Position 7
+
+Crystal Palace
+2	2	0	0	4	1	3	6	
+W
+Saturday 12 September 2020
+CRY
+
+1
+-
+0
+
+SOU
+ 
+W
+Saturday 19 September 2020
+MUN
+
+1
+-
+3
+
+CRY
+6 
+Previous Position 11
+
+Tottenham Hotspur
+2	1	0	1	5	3	2	3	
+L
+Sunday 13 September 2020
+TOT
+
+0
+-
+1
+
+EVE
+ 
+W
+Sunday 20 September 2020
+SOU
+
+2
+-
+5
+
+TOT
+7 
+Previous Position
+
+Manchester City
+1	1	0	0	3	1	2	3	
+W
+Monday 21 September 2020
+WOL
+
+1
+-
+3
+
+MCI
+8 
+Previous Position 12
+
+Brighton And Hove Albion
+2	1	0	1	4	3	1	3	
+L
+Monday 14 September 2020
+BHA
+
+1
+-
+3
+
+CHE
+ 
+W
+Sunday 20 September 2020
+NEW
+
+0
+-
+3
+
+BHA
+9 
+Previous Position
+
+Aston Villa
+1	1	0	0	1	0	1	3	
+W
+Monday 21 September 2020
+AVL
+
+1
+-
+0
+
+SHU
+10 
+Previous Position 9
+
+Leeds United
+2	1	0	1	7	7	0	3	
+L
+Saturday 12 September 2020
+LIV
+
+4
+-
+3
+
+LEE
+ 
+W
+Saturday 19 September 2020
+LEE
+
+4
+-
+3
+
+FUL
+11 
+Previous Position 3
+
+Chelsea
+2	1	0	1	3	3	0	3	
+W
+Monday 14 September 2020
+BHA
+
+1
+-
+3
+
+CHE
+ 
+L
+Sunday 20 September 2020
+CHE
+
+0
+-
+2
+
+LIV
+12 
+Previous Position 5
+
+Wolverhampton Wanderers
+2	1	0	1	3	3	0	3	
+W
+Monday 14 September 2020
+SHU
+
+0
+-
+2
+
+WOL
+ 
+L
+Monday 21 September 2020
+WOL
+
+1
+-
+3
+
+MCI
+13 
+Previous Position 4
+
+Newcastle United
+2	1	0	1	2	3	-1	3	
+W
+Saturday 12 September 2020
+WHU
+
+0
+-
+2
+
+NEW
+ 
+L
+Sunday 20 September 2020
+NEW
+
+0
+-
+3
+
+BHA
+14 
+Previous Position
+
+Burnley
+1	0	0	1	2	4	-2	0	
+L
+Sunday 20 September 2020
+LEI
+
+4
+-
+2
+
+BUR
+15 
+Previous Position
+
+Manchester United
+1	0	0	1	1	3	-2	0	
+L
+Saturday 19 September 2020
+MUN
+
+1
+-
+3
+
+CRY
+16 
+Previous Position 14
+
+West Ham United
+2	0	0	2	1	4	-3	0	
+L
+Saturday 12 September 2020
+WHU
+
+0
+-
+2
+
+NEW
+ 
+L
+Saturday 19 September 2020
+ARS
+
+2
+-
+1
+
+WHU
+17 
+Previous Position 13
+
+Sheffield United
+2	0	0	2	0	3	-3	0	
+L
+Monday 14 September 2020
+SHU
+
+0
+-
+2
+
+WOL
+ 
+L
+Monday 21 September 2020
+AVL
+
+1
+-
+0
+
+SHU
+18 
+Previous Position 15
+
+Fulham
+2	0	0	2	3	7	-4	0	
+L
+Saturday 12 September 2020
+FUL
+
+0
+-
+3
+
+ARS
+ 
+L
+Saturday 19 September 2020
+LEE
+
+4
+-
+3
+
+FUL
+19 
+Previous Position 10
+
+Southampton
+2	0	0	2	2	6	-4	0	
+L
+Saturday 12 September 2020
+CRY
+
+1
+-
+0
+
+SOU
+ 
+L
+Sunday 20 September 2020
+SOU
+
+2
+-
+5
+
+TOT
+20 
+Previous Position 16
+
+West Bromwich Albion
+2	0	0	2	2	8	-6	0	
+L
+Sunday 13 September 2020
+WBA
+
+0
+-
+3
+
+LEI
+ 
+L
+Saturday 19 September 2020
+EVE
+
+5
+-
+2
+
+WBA

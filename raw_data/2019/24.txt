@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Liverpool
+24	23	1	0	56	15	41	70	
+W
+Thursday 2 January 2020
+LIV
+
+2
+-
+0
+
+SHU
+ 
+W
+Saturday 11 January 2020
+TOT
+
+0
+-
+1
+
+LIV
+ 
+W
+Sunday 19 January 2020
+LIV
+
+2
+-
+0
+
+MUN
+ 
+W
+Thursday 23 January 2020
+WOL
+
+1
+-
+2
+
+LIV
+ 
+W
+Wednesday 29 January 2020
+WHU
+
+0
+-
+2
+
+LIV
+2 
+Previous Position 2
+
+Manchester City
+24	16	3	5	65	27	38	51	
+W
+Sunday 29 December 2019
+MCI
+
+2
+-
+0
+
+SHU
+ 
+W
+Wednesday 1 January 2020
+MCI
+
+2
+-
+1
+
+EVE
+ 
+W
+Sunday 12 January 2020
+AVL
+
+1
+-
+6
+
+MCI
+ 
+D
+Saturday 18 January 2020
+MCI
+
+2
+-
+2
+
+CRY
+ 
+W
+Tuesday 21 January 2020
+SHU
+
+0
+-
+1
+
+MCI
+3 
+Previous Position 3
+
+Leicester City
+24	15	3	6	52	24	28	48	
+W
+Saturday 28 December 2019
+WHU
+
+1
+-
+2
+
+LEI
+ 
+W
+Wednesday 1 January 2020
+NEW
+
+0
+-
+3
+
+LEI
+ 
+L
+Saturday 11 January 2020
+LEI
+
+1
+-
+2
+
+SOU
+ 
+L
+Sunday 19 January 2020
+BUR
+
+2
+-
+1
+
+LEI
+ 
+W
+Wednesday 22 January 2020
+LEI
+
+4
+-
+1
+
+WHU
+4 
+Previous Position 4
+
+Chelsea
+24	12	4	8	41	32	9	40	
+W
+Sunday 29 December 2019
+ARS
+
+1
+-
+2
+
+CHE
+ 
+D
+Wednesday 1 January 2020
+BHA
+
+1
+-
+1
+
+CHE
+ 
+W
+Saturday 11 January 2020
+CHE
+
+3
+-
+0
+
+BUR
+ 
+L
+Saturday 18 January 2020
+NEW
+
+1
+-
+0
+
+CHE
+ 
+D
+Tuesday 21 January 2020
+CHE
+
+2
+-
+2
+
+ARS
+5 
+Previous Position 5
+
+Manchester United
+24	9	7	8	36	29	7	34	
+W
+Saturday 28 December 2019
+BUR
+
+0
+-
+2
+
+MUN
+ 
+L
+Wednesday 1 January 2020
+ARS
+
+2
+-
+0
+
+MUN
+ 
+W
+Saturday 11 January 2020
+MUN
+
+4
+-
+0
+
+NOR
+ 
+L
+Sunday 19 January 2020
+LIV
+
+2
+-
+0
+
+MUN
+ 
+L
+Wednesday 22 January 2020
+MUN
+
+0
+-
+2
+
+BUR
+6 
+Previous Position 8
+
+Tottenham Hotspur
+24	9	7	8	38	32	6	34	
+D
+Saturday 28 December 2019
+NOR
+
+2
+-
+2
+
+TOT
+ 
+L
+Wednesday 1 January 2020
+SOU
+
+1
+-
+0
+
+TOT
+ 
+L
+Saturday 11 January 2020
+TOT
+
+0
+-
+1
+
+LIV
+ 
+D
+Saturday 18 January 2020
+WAT
+
+0
+-
+0
+
+TOT
+ 
+W
+Wednesday 22 January 2020
+TOT
+
+2
+-
+1
+
+NOR
+7 
+Previous Position 6
+
+Wolverhampton Wanderers
+24	8	10	6	35	32	3	34	
+L
+Sunday 29 December 2019
+LIV
+
+1
+-
+0
+
+WOL
+ 
+L
+Wednesday 1 January 2020
+WAT
+
+2
+-
+1
+
+WOL
+ 
+D
+Saturday 11 January 2020
+WOL
+
+1
+-
+1
+
+NEW
+ 
+W
+Saturday 18 January 2020
+SOU
+
+2
+-
+3
+
+WOL
+ 
+L
+Thursday 23 January 2020
+WOL
+
+1
+-
+2
+
+LIV
+8 
+Previous Position 7
+
+Sheffield United
+24	8	9	7	25	23	2	33	
+L
+Sunday 29 December 2019
+MCI
+
+2
+-
+0
+
+SHU
+ 
+L
+Thursday 2 January 2020
+LIV
+
+2
+-
+0
+
+SHU
+ 
+W
+Friday 10 January 2020
+SHU
+
+1
+-
+0
+
+WHU
+ 
+D
+Saturday 18 January 2020
+ARS
+
+1
+-
+1
+
+SHU
+ 
+L
+Tuesday 21 January 2020
+SHU
+
+0
+-
+1
+
+MCI
+9 
+Previous Position 13
+
+Southampton
+24	9	4	11	31	42	-11	31	
+D
+Saturday 28 December 2019
+SOU
+
+1
+-
+1
+
+CRY
+ 
+W
+Wednesday 1 January 2020
+SOU
+
+1
+-
+0
+
+TOT
+ 
+W
+Saturday 11 January 2020
+LEI
+
+1
+-
+2
+
+SOU
+ 
+L
+Saturday 18 January 2020
+SOU
+
+2
+-
+3
+
+WOL
+ 
+W
+Tuesday 21 January 2020
+CRY
+
+0
+-
+2
+
+SOU
+10 
+Previous Position 10
+
+Arsenal
+24	6	12	6	32	34	-2	30	
+L
+Sunday 29 December 2019
+ARS
+
+1
+-
+2
+
+CHE
+ 
+W
+Wednesday 1 January 2020
+ARS
+
+2
+-
+0
+
+MUN
+ 
+D
+Saturday 11 January 2020
+CRY
+
+1
+-
+1
+
+ARS
+ 
+D
+Saturday 18 January 2020
+ARS
+
+1
+-
+1
+
+SHU
+ 
+D
+Tuesday 21 January 2020
+CHE
+
+2
+-
+2
+
+ARS
+11 
+Previous Position 9
+
+Crystal Palace
+24	7	9	8	22	28	-6	30	
+D
+Saturday 28 December 2019
+SOU
+
+1
+-
+1
+
+CRY
+ 
+D
+Wednesday 1 January 2020
+NOR
+
+1
+-
+1
+
+CRY
+ 
+D
+Saturday 11 January 2020
+CRY
+
+1
+-
+1
+
+ARS
+ 
+D
+Saturday 18 January 2020
+MCI
+
+2
+-
+2
+
+CRY
+ 
+L
+Tuesday 21 January 2020
+CRY
+
+0
+-
+2
+
+SOU
+12 
+Previous Position 11
+
+Everton
+24	8	6	10	28	35	-7	30	
+W
+Saturday 28 December 2019
+NEW
+
+1
+-
+2
+
+EVE
+ 
+L
+Wednesday 1 January 2020
+MCI
+
+2
+-
+1
+
+EVE
+ 
+W
+Saturday 11 January 2020
+EVE
+
+1
+-
+0
+
+BHA
+ 
+D
+Saturday 18 January 2020
+WHU
+
+1
+-
+1
+
+EVE
+ 
+D
+Tuesday 21 January 2020
+EVE
+
+2
+-
+2
+
+NEW
+13 
+Previous Position 14
+
+Burnley
+24	9	3	12	28	38	-10	30	
+L
+Saturday 28 December 2019
+BUR
+
+0
+-
+2
+
+MUN
+ 
+L
+Wednesday 1 January 2020
+BUR
+
+1
+-
+2
+
+AVL
+ 
+L
+Saturday 11 January 2020
+CHE
+
+3
+-
+0
+
+BUR
+ 
+W
+Sunday 19 January 2020
+BUR
+
+2
+-
+1
+
+LEI
+ 
+W
+Wednesday 22 January 2020
+MUN
+
+0
+-
+2
+
+BUR
+14 
+Previous Position 12
+
+Newcastle United
+24	8	6	10	24	36	-12	30	
+L
+Saturday 28 December 2019
+NEW
+
+1
+-
+2
+
+EVE
+ 
+L
+Wednesday 1 January 2020
+NEW
+
+0
+-
+3
+
+LEI
+ 
+D
+Saturday 11 January 2020
+WOL
+
+1
+-
+1
+
+NEW
+ 
+W
+Saturday 18 January 2020
+NEW
+
+1
+-
+0
+
+CHE
+ 
+D
+Tuesday 21 January 2020
+EVE
+
+2
+-
+2
+
+NEW
+15 
+Previous Position 15
+
+Brighton And Hove Albion
+24	6	7	11	27	34	-7	25	
+W
+Saturday 28 December 2019
+BHA
+
+2
+-
+0
+
+BOU
+ 
+D
+Wednesday 1 January 2020
+BHA
+
+1
+-
+1
+
+CHE
+ 
+L
+Saturday 11 January 2020
+EVE
+
+1
+-
+0
+
+BHA
+ 
+D
+Saturday 18 January 2020
+BHA
+
+1
+-
+1
+
+AVL
+ 
+L
+Tuesday 21 January 2020
+BOU
+
+3
+-
+1
+
+BHA
+16 
+Previous Position 18
+
+Aston Villa
+24	7	4	13	31	45	-14	25	
+L
+Saturday 28 December 2019
+WAT
+
+3
+-
+0
+
+AVL
+ 
+W
+Wednesday 1 January 2020
+BUR
+
+1
+-
+2
+
+AVL
+ 
+L
+Sunday 12 January 2020
+AVL
+
+1
+-
+6
+
+MCI
+ 
+D
+Saturday 18 January 2020
+BHA
+
+1
+-
+1
+
+AVL
+ 
+W
+Tuesday 21 January 2020
+AVL
+
+2
+-
+1
+
+WAT
+17 
+Previous Position 16
+
+West Ham United
+24	6	5	13	27	40	-13	23	
+W
+Wednesday 1 January 2020
+WHU
+
+4
+-
+0
+
+BOU
+ 
+L
+Friday 10 January 2020
+SHU
+
+1
+-
+0
+
+WHU
+ 
+D
+Saturday 18 January 2020
+WHU
+
+1
+-
+1
+
+EVE
+ 
+L
+Wednesday 22 January 2020
+LEI
+
+4
+-
+1
+
+WHU
+ 
+L
+Wednesday 29 January 2020
+WHU
+
+0
+-
+2
+
+LIV
+18 
+Previous Position 19
+
+Bournemouth
+24	6	5	13	23	37	-14	23	
+L
+Saturday 28 December 2019
+BHA
+
+2
+-
+0
+
+BOU
+ 
+L
+Wednesday 1 January 2020
+WHU
+
+4
+-
+0
+
+BOU
+ 
+L
+Sunday 12 January 2020
+BOU
+
+0
+-
+3
+
+WAT
+ 
+L
+Saturday 18 January 2020
+NOR
+
+1
+-
+0
+
+BOU
+ 
+W
+Tuesday 21 January 2020
+BOU
+
+3
+-
+1
+
+BHA
+19 
+Previous Position 17
+
+Watford
+24	5	8	11	21	36	-15	23	
+W
+Saturday 28 December 2019
+WAT
+
+3
+-
+0
+
+AVL
+ 
+W
+Wednesday 1 January 2020
+WAT
+
+2
+-
+1
+
+WOL
+ 
+W
+Sunday 12 January 2020
+BOU
+
+0
+-
+3
+
+WAT
+ 
+D
+Saturday 18 January 2020
+WAT
+
+0
+-
+0
+
+TOT
+ 
+L
+Tuesday 21 January 2020
+AVL
+
+2
+-
+1
+
+WAT
+20 
+Previous Position 20
+
+Norwich City
+24	4	5	15	24	47	-23	17	
+D
+Saturday 28 December 2019
+NOR
+
+2
+-
+2
+
+TOT
+ 
+D
+Wednesday 1 January 2020
+NOR
+
+1
+-
+1
+
+CRY
+ 
+L
+Saturday 11 January 2020
+MUN
+
+4
+-
+0
+
+NOR
+ 
+W
+Saturday 18 January 2020
+NOR
+
+1
+-
+0
+
+BOU
+ 
+L
+Wednesday 22 January 2020
+TOT
+
+2
+-
+1
+
+NOR

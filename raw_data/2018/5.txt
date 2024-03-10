@@ -1,0 +1,1080 @@
+1 
+Previous Position 2
+
+Chelsea
+5	5	0	0	14	4	10	15	
+W
+Saturday 11 August 2018
+HUD
+
+0
+-
+3
+
+CHE
+ 
+W
+Saturday 18 August 2018
+CHE
+
+3
+-
+2
+
+ARS
+ 
+W
+Sunday 26 August 2018
+NEW
+
+1
+-
+2
+
+CHE
+ 
+W
+Saturday 1 September 2018
+CHE
+
+2
+-
+0
+
+BOU
+ 
+W
+Saturday 15 September 2018
+CHE
+
+4
+-
+1
+
+CAR
+2 
+Previous Position 1
+
+Liverpool
+5	5	0	0	11	2	9	15	
+W
+Sunday 12 August 2018
+LIV
+
+4
+-
+0
+
+WHU
+ 
+W
+Monday 20 August 2018
+CRY
+
+0
+-
+2
+
+LIV
+ 
+W
+Saturday 25 August 2018
+LIV
+
+1
+-
+0
+
+BHA
+ 
+W
+Saturday 1 September 2018
+LEI
+
+1
+-
+2
+
+LIV
+ 
+W
+Saturday 15 September 2018
+TOT
+
+1
+-
+2
+
+LIV
+3 
+Previous Position 4
+
+Manchester City
+5	4	1	0	14	3	11	13	
+W
+Sunday 12 August 2018
+ARS
+
+0
+-
+2
+
+MCI
+ 
+W
+Sunday 19 August 2018
+MCI
+
+6
+-
+1
+
+HUD
+ 
+D
+Saturday 25 August 2018
+WOL
+
+1
+-
+1
+
+MCI
+ 
+W
+Saturday 1 September 2018
+MCI
+
+2
+-
+1
+
+NEW
+ 
+W
+Saturday 15 September 2018
+MCI
+
+3
+-
+0
+
+FUL
+4 
+Previous Position 3
+
+Watford
+5	4	0	1	10	5	5	12	
+W
+Saturday 11 August 2018
+WAT
+
+2
+-
+0
+
+BHA
+ 
+W
+Sunday 19 August 2018
+BUR
+
+1
+-
+3
+
+WAT
+ 
+W
+Sunday 26 August 2018
+WAT
+
+2
+-
+1
+
+CRY
+ 
+W
+Sunday 2 September 2018
+WAT
+
+2
+-
+1
+
+TOT
+ 
+L
+Saturday 15 September 2018
+WAT
+
+1
+-
+2
+
+MUN
+5 
+Previous Position 6
+
+Bournemouth
+5	3	1	1	10	7	3	10	
+W
+Saturday 11 August 2018
+BOU
+
+2
+-
+0
+
+CAR
+ 
+W
+Saturday 18 August 2018
+WHU
+
+1
+-
+2
+
+BOU
+ 
+D
+Saturday 25 August 2018
+BOU
+
+2
+-
+2
+
+EVE
+ 
+L
+Saturday 1 September 2018
+CHE
+
+2
+-
+0
+
+BOU
+ 
+W
+Saturday 15 September 2018
+BOU
+
+4
+-
+2
+
+LEI
+6 
+Previous Position 5
+
+Tottenham Hotspur
+5	3	0	2	10	6	4	9	
+W
+Saturday 11 August 2018
+NEW
+
+1
+-
+2
+
+TOT
+ 
+W
+Saturday 18 August 2018
+TOT
+
+3
+-
+1
+
+FUL
+ 
+W
+Monday 27 August 2018
+MUN
+
+0
+-
+3
+
+TOT
+ 
+L
+Sunday 2 September 2018
+WAT
+
+2
+-
+1
+
+TOT
+ 
+L
+Saturday 15 September 2018
+TOT
+
+1
+-
+2
+
+LIV
+7 
+Previous Position 9
+
+Arsenal
+5	3	0	2	10	9	1	9	
+L
+Sunday 12 August 2018
+ARS
+
+0
+-
+2
+
+MCI
+ 
+L
+Saturday 18 August 2018
+CHE
+
+3
+-
+2
+
+ARS
+ 
+W
+Saturday 25 August 2018
+ARS
+
+3
+-
+1
+
+WHU
+ 
+W
+Sunday 2 September 2018
+CAR
+
+2
+-
+3
+
+ARS
+ 
+W
+Saturday 15 September 2018
+NEW
+
+1
+-
+2
+
+ARS
+8 
+Previous Position 10
+
+Manchester United
+5	3	0	2	8	8	0	9	
+W
+Friday 10 August 2018
+MUN
+
+2
+-
+1
+
+LEI
+ 
+L
+Sunday 19 August 2018
+BHA
+
+3
+-
+2
+
+MUN
+ 
+L
+Monday 27 August 2018
+MUN
+
+0
+-
+3
+
+TOT
+ 
+W
+Sunday 2 September 2018
+BUR
+
+0
+-
+2
+
+MUN
+ 
+W
+Saturday 15 September 2018
+WAT
+
+1
+-
+2
+
+MUN
+9 
+Previous Position 11
+
+Wolverhampton Wanderers
+5	2	2	1	5	5	0	8	
+D
+Saturday 11 August 2018
+WOL
+
+2
+-
+2
+
+EVE
+ 
+L
+Saturday 18 August 2018
+LEI
+
+2
+-
+0
+
+WOL
+ 
+D
+Saturday 25 August 2018
+WOL
+
+1
+-
+1
+
+MCI
+ 
+W
+Saturday 1 September 2018
+WHU
+
+0
+-
+1
+
+WOL
+ 
+W
+Sunday 16 September 2018
+WOL
+
+1
+-
+0
+
+BUR
+10 
+Previous Position 7
+
+Everton
+5	1	3	1	8	9	-1	6	
+D
+Saturday 11 August 2018
+WOL
+
+2
+-
+2
+
+EVE
+ 
+W
+Saturday 18 August 2018
+EVE
+
+2
+-
+1
+
+SOU
+ 
+D
+Saturday 25 August 2018
+BOU
+
+2
+-
+2
+
+EVE
+ 
+D
+Saturday 1 September 2018
+EVE
+
+1
+-
+1
+
+HUD
+ 
+L
+Sunday 16 September 2018
+EVE
+
+1
+-
+3
+
+WHU
+11 
+Previous Position 8
+
+Leicester City
+5	2	0	3	8	9	-1	6	
+L
+Friday 10 August 2018
+MUN
+
+2
+-
+1
+
+LEI
+ 
+W
+Saturday 18 August 2018
+LEI
+
+2
+-
+0
+
+WOL
+ 
+W
+Saturday 25 August 2018
+SOU
+
+1
+-
+2
+
+LEI
+ 
+L
+Saturday 1 September 2018
+LEI
+
+1
+-
+2
+
+LIV
+ 
+L
+Saturday 15 September 2018
+BOU
+
+4
+-
+2
+
+LEI
+12 
+Previous Position 15
+
+Crystal Palace
+5	2	0	3	4	6	-2	6	
+W
+Saturday 11 August 2018
+FUL
+
+0
+-
+2
+
+CRY
+ 
+L
+Monday 20 August 2018
+CRY
+
+0
+-
+2
+
+LIV
+ 
+L
+Sunday 26 August 2018
+WAT
+
+2
+-
+1
+
+CRY
+ 
+L
+Saturday 1 September 2018
+CRY
+
+0
+-
+2
+
+SOU
+ 
+W
+Saturday 15 September 2018
+HUD
+
+0
+-
+1
+
+CRY
+13 
+Previous Position 12
+
+Southampton
+5	1	2	2	6	6	0	5	
+D
+Sunday 12 August 2018
+SOU
+
+0
+-
+0
+
+BUR
+ 
+L
+Saturday 18 August 2018
+EVE
+
+2
+-
+1
+
+SOU
+ 
+L
+Saturday 25 August 2018
+SOU
+
+1
+-
+2
+
+LEI
+ 
+W
+Saturday 1 September 2018
+CRY
+
+0
+-
+2
+
+SOU
+ 
+D
+Monday 17 September 2018
+SOU
+
+2
+-
+2
+
+BHA
+14 
+Previous Position 14
+
+Brighton And Hove Albion
+5	1	2	2	7	9	-2	5	
+L
+Saturday 11 August 2018
+WAT
+
+2
+-
+0
+
+BHA
+ 
+W
+Sunday 19 August 2018
+BHA
+
+3
+-
+2
+
+MUN
+ 
+L
+Saturday 25 August 2018
+LIV
+
+1
+-
+0
+
+BHA
+ 
+D
+Saturday 1 September 2018
+BHA
+
+2
+-
+2
+
+FUL
+ 
+D
+Monday 17 September 2018
+SOU
+
+2
+-
+2
+
+BHA
+15 
+Previous Position 13
+
+Fulham
+5	1	1	3	7	12	-5	4	
+L
+Saturday 11 August 2018
+FUL
+
+0
+-
+2
+
+CRY
+ 
+L
+Saturday 18 August 2018
+TOT
+
+3
+-
+1
+
+FUL
+ 
+W
+Sunday 26 August 2018
+FUL
+
+4
+-
+2
+
+BUR
+ 
+D
+Saturday 1 September 2018
+BHA
+
+2
+-
+2
+
+FUL
+ 
+L
+Saturday 15 September 2018
+MCI
+
+3
+-
+0
+
+FUL
+16 
+Previous Position 20
+
+West Ham United
+5	1	0	4	5	11	-6	3	
+L
+Sunday 12 August 2018
+LIV
+
+4
+-
+0
+
+WHU
+ 
+L
+Saturday 18 August 2018
+WHU
+
+1
+-
+2
+
+BOU
+ 
+L
+Saturday 25 August 2018
+ARS
+
+3
+-
+1
+
+WHU
+ 
+L
+Saturday 1 September 2018
+WHU
+
+0
+-
+1
+
+WOL
+ 
+W
+Sunday 16 September 2018
+EVE
+
+1
+-
+3
+
+WHU
+17 
+Previous Position 16
+
+Cardiff City
+5	0	2	3	3	9	-6	2	
+L
+Saturday 11 August 2018
+BOU
+
+2
+-
+0
+
+CAR
+ 
+D
+Saturday 18 August 2018
+CAR
+
+0
+-
+0
+
+NEW
+ 
+D
+Saturday 25 August 2018
+HUD
+
+0
+-
+0
+
+CAR
+ 
+L
+Sunday 2 September 2018
+CAR
+
+2
+-
+3
+
+ARS
+ 
+L
+Saturday 15 September 2018
+CHE
+
+4
+-
+1
+
+CAR
+18 
+Previous Position 17
+
+Huddersfield Town
+5	0	2	3	2	11	-9	2	
+L
+Saturday 11 August 2018
+HUD
+
+0
+-
+3
+
+CHE
+ 
+L
+Sunday 19 August 2018
+MCI
+
+6
+-
+1
+
+HUD
+ 
+D
+Saturday 25 August 2018
+HUD
+
+0
+-
+0
+
+CAR
+ 
+D
+Saturday 1 September 2018
+EVE
+
+1
+-
+1
+
+HUD
+ 
+L
+Saturday 15 September 2018
+HUD
+
+0
+-
+1
+
+CRY
+19 
+Previous Position 18
+
+Newcastle United
+5	0	1	4	4	8	-4	1	
+L
+Saturday 11 August 2018
+NEW
+
+1
+-
+2
+
+TOT
+ 
+D
+Saturday 18 August 2018
+CAR
+
+0
+-
+0
+
+NEW
+ 
+L
+Sunday 26 August 2018
+NEW
+
+1
+-
+2
+
+CHE
+ 
+L
+Saturday 1 September 2018
+MCI
+
+2
+-
+1
+
+NEW
+ 
+L
+Saturday 15 September 2018
+NEW
+
+1
+-
+2
+
+ARS
+20 
+Previous Position 19
+
+Burnley
+5	0	1	4	3	10	-7	1	
+D
+Sunday 12 August 2018
+SOU
+
+0
+-
+0
+
+BUR
+ 
+L
+Sunday 19 August 2018
+BUR
+
+1
+-
+3
+
+WAT
+ 
+L
+Sunday 26 August 2018
+FUL
+
+4
+-
+2
+
+BUR
+ 
+L
+Sunday 2 September 2018
+BUR
+
+0
+-
+2
+
+MUN
+ 
+L
+Sunday 16 September 2018
+WOL
+
+1
+-
+0
+
+BUR

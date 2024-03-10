@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Manchester City
+35	30	3	2	102	26	76	93	
+W
+Saturday 31 March 2018
+EVE
+
+1
+-
+3
+
+MCI
+ 
+L
+Saturday 7 April 2018
+MCI
+
+2
+-
+3
+
+MUN
+ 
+W
+Saturday 14 April 2018
+TOT
+
+1
+-
+3
+
+MCI
+ 
+W
+Sunday 22 April 2018
+MCI
+
+5
+-
+0
+
+SWA
+ 
+W
+Sunday 29 April 2018
+WHU
+
+1
+-
+4
+
+MCI
+2 
+Previous Position 2
+
+Manchester United
+35	24	5	6	67	27	40	77	
+W
+Saturday 31 March 2018
+MUN
+
+2
+-
+0
+
+SWA
+ 
+W
+Saturday 7 April 2018
+MCI
+
+2
+-
+3
+
+MUN
+ 
+L
+Sunday 15 April 2018
+MUN
+
+0
+-
+1
+
+WBA
+ 
+W
+Wednesday 18 April 2018
+BOU
+
+0
+-
+2
+
+MUN
+ 
+W
+Sunday 29 April 2018
+MUN
+
+2
+-
+1
+
+ARS
+3 
+Previous Position 3
+
+Liverpool
+36	20	12	4	80	37	43	72	
+W
+Saturday 31 March 2018
+CRY
+
+1
+-
+2
+
+LIV
+ 
+D
+Saturday 7 April 2018
+EVE
+
+0
+-
+0
+
+LIV
+ 
+W
+Saturday 14 April 2018
+LIV
+
+3
+-
+0
+
+BOU
+ 
+D
+Saturday 21 April 2018
+WBA
+
+2
+-
+2
+
+LIV
+ 
+D
+Saturday 28 April 2018
+LIV
+
+0
+-
+0
+
+STK
+4 
+Previous Position 4
+
+Tottenham Hotspur
+35	21	8	6	68	31	37	71	
+W
+Sunday 1 April 2018
+CHE
+
+1
+-
+3
+
+TOT
+ 
+W
+Saturday 7 April 2018
+STK
+
+1
+-
+2
+
+TOT
+ 
+L
+Saturday 14 April 2018
+TOT
+
+1
+-
+3
+
+MCI
+ 
+D
+Tuesday 17 April 2018
+BHA
+
+1
+-
+1
+
+TOT
+ 
+W
+Monday 30 April 2018
+TOT
+
+2
+-
+0
+
+WAT
+5 
+Previous Position 5
+
+Chelsea
+35	20	6	9	60	34	26	66	
+L
+Sunday 1 April 2018
+CHE
+
+1
+-
+3
+
+TOT
+ 
+D
+Sunday 8 April 2018
+CHE
+
+1
+-
+1
+
+WHU
+ 
+W
+Saturday 14 April 2018
+SOU
+
+2
+-
+3
+
+CHE
+ 
+W
+Thursday 19 April 2018
+BUR
+
+1
+-
+2
+
+CHE
+ 
+W
+Saturday 28 April 2018
+SWA
+
+0
+-
+1
+
+CHE
+6 
+Previous Position 6
+
+Arsenal
+35	17	6	12	67	48	19	57	
+W
+Sunday 1 April 2018
+ARS
+
+3
+-
+0
+
+STK
+ 
+W
+Sunday 8 April 2018
+ARS
+
+3
+-
+2
+
+SOU
+ 
+L
+Sunday 15 April 2018
+NEW
+
+2
+-
+1
+
+ARS
+ 
+W
+Sunday 22 April 2018
+ARS
+
+4
+-
+1
+
+WHU
+ 
+L
+Sunday 29 April 2018
+MUN
+
+2
+-
+1
+
+ARS
+7 
+Previous Position 7
+
+Burnley
+36	14	12	10	35	32	3	54	
+W
+Saturday 7 April 2018
+WAT
+
+1
+-
+2
+
+BUR
+ 
+W
+Saturday 14 April 2018
+BUR
+
+2
+-
+1
+
+LEI
+ 
+L
+Thursday 19 April 2018
+BUR
+
+1
+-
+2
+
+CHE
+ 
+D
+Sunday 22 April 2018
+STK
+
+1
+-
+1
+
+BUR
+ 
+D
+Saturday 28 April 2018
+BUR
+
+0
+-
+0
+
+BHA
+8 
+Previous Position 8
+
+Everton
+36	13	9	14	42	54	-12	48	
+L
+Saturday 31 March 2018
+EVE
+
+1
+-
+3
+
+MCI
+ 
+D
+Saturday 7 April 2018
+EVE
+
+0
+-
+0
+
+LIV
+ 
+D
+Saturday 14 April 2018
+SWA
+
+1
+-
+1
+
+EVE
+ 
+W
+Monday 23 April 2018
+EVE
+
+1
+-
+0
+
+NEW
+ 
+W
+Saturday 28 April 2018
+HUD
+
+0
+-
+2
+
+EVE
+9 
+Previous Position 9
+
+Leicester City
+35	11	11	13	49	52	-3	44	
+W
+Saturday 31 March 2018
+BHA
+
+0
+-
+2
+
+LEI
+ 
+L
+Saturday 7 April 2018
+LEI
+
+1
+-
+2
+
+NEW
+ 
+L
+Saturday 14 April 2018
+BUR
+
+2
+-
+1
+
+LEI
+ 
+D
+Thursday 19 April 2018
+LEI
+
+0
+-
+0
+
+SOU
+ 
+L
+Saturday 28 April 2018
+CRY
+
+5
+-
+0
+
+LEI
+10 
+Previous Position 10
+
+Newcastle United
+35	11	8	16	35	44	-9	41	
+W
+Saturday 31 March 2018
+NEW
+
+1
+-
+0
+
+HUD
+ 
+W
+Saturday 7 April 2018
+LEI
+
+1
+-
+2
+
+NEW
+ 
+W
+Sunday 15 April 2018
+NEW
+
+2
+-
+1
+
+ARS
+ 
+L
+Monday 23 April 2018
+EVE
+
+1
+-
+0
+
+NEW
+ 
+L
+Saturday 28 April 2018
+NEW
+
+0
+-
+1
+
+WBA
+11 
+Previous Position 14
+
+Crystal Palace
+36	9	11	16	41	54	-13	38	
+L
+Saturday 31 March 2018
+CRY
+
+1
+-
+2
+
+LIV
+ 
+D
+Saturday 7 April 2018
+BOU
+
+2
+-
+2
+
+CRY
+ 
+W
+Saturday 14 April 2018
+CRY
+
+3
+-
+2
+
+BHA
+ 
+D
+Saturday 21 April 2018
+WAT
+
+0
+-
+0
+
+CRY
+ 
+W
+Saturday 28 April 2018
+CRY
+
+5
+-
+0
+
+LEI
+12 
+Previous Position 11
+
+Bournemouth
+36	9	11	16	42	60	-18	38	
+D
+Saturday 31 March 2018
+WAT
+
+2
+-
+2
+
+BOU
+ 
+D
+Saturday 7 April 2018
+BOU
+
+2
+-
+2
+
+CRY
+ 
+L
+Saturday 14 April 2018
+LIV
+
+3
+-
+0
+
+BOU
+ 
+L
+Wednesday 18 April 2018
+BOU
+
+0
+-
+2
+
+MUN
+ 
+L
+Saturday 28 April 2018
+SOU
+
+2
+-
+1
+
+BOU
+13 
+Previous Position 12
+
+Watford
+36	10	8	18	42	62	-20	38	
+D
+Saturday 31 March 2018
+WAT
+
+2
+-
+2
+
+BOU
+ 
+L
+Saturday 7 April 2018
+WAT
+
+1
+-
+2
+
+BUR
+ 
+L
+Saturday 14 April 2018
+HUD
+
+1
+-
+0
+
+WAT
+ 
+D
+Saturday 21 April 2018
+WAT
+
+0
+-
+0
+
+CRY
+ 
+L
+Monday 30 April 2018
+TOT
+
+2
+-
+0
+
+WAT
+14 
+Previous Position 13
+
+Brighton And Hove Albion
+35	8	13	14	32	47	-15	37	
+L
+Saturday 31 March 2018
+BHA
+
+0
+-
+2
+
+LEI
+ 
+D
+Saturday 7 April 2018
+BHA
+
+1
+-
+1
+
+HUD
+ 
+L
+Saturday 14 April 2018
+CRY
+
+3
+-
+2
+
+BHA
+ 
+D
+Tuesday 17 April 2018
+BHA
+
+1
+-
+1
+
+TOT
+ 
+D
+Saturday 28 April 2018
+BUR
+
+0
+-
+0
+
+BHA
+15 
+Previous Position 15
+
+West Ham United
+35	8	11	16	43	67	-24	35	
+W
+Saturday 31 March 2018
+WHU
+
+3
+-
+0
+
+SOU
+ 
+D
+Sunday 8 April 2018
+CHE
+
+1
+-
+1
+
+WHU
+ 
+D
+Monday 16 April 2018
+WHU
+
+1
+-
+1
+
+STK
+ 
+L
+Sunday 22 April 2018
+ARS
+
+4
+-
+1
+
+WHU
+ 
+L
+Sunday 29 April 2018
+WHU
+
+1
+-
+4
+
+MCI
+16 
+Previous Position 16
+
+Huddersfield Town
+35	9	8	18	27	56	-29	35	
+L
+Saturday 17 March 2018
+HUD
+
+0
+-
+2
+
+CRY
+ 
+L
+Saturday 31 March 2018
+NEW
+
+1
+-
+0
+
+HUD
+ 
+D
+Saturday 7 April 2018
+BHA
+
+1
+-
+1
+
+HUD
+ 
+W
+Saturday 14 April 2018
+HUD
+
+1
+-
+0
+
+WAT
+ 
+L
+Saturday 28 April 2018
+HUD
+
+0
+-
+2
+
+EVE
+17 
+Previous Position 17
+
+Swansea City
+35	8	9	18	27	52	-25	33	
+L
+Saturday 31 March 2018
+MUN
+
+2
+-
+0
+
+SWA
+ 
+D
+Saturday 7 April 2018
+WBA
+
+1
+-
+1
+
+SWA
+ 
+D
+Saturday 14 April 2018
+SWA
+
+1
+-
+1
+
+EVE
+ 
+L
+Sunday 22 April 2018
+MCI
+
+5
+-
+0
+
+SWA
+ 
+L
+Saturday 28 April 2018
+SWA
+
+0
+-
+1
+
+CHE
+18 
+Previous Position 18
+
+Southampton
+35	6	14	15	35	54	-19	32	
+L
+Saturday 31 March 2018
+WHU
+
+3
+-
+0
+
+SOU
+ 
+L
+Sunday 8 April 2018
+ARS
+
+3
+-
+2
+
+SOU
+ 
+L
+Saturday 14 April 2018
+SOU
+
+2
+-
+3
+
+CHE
+ 
+D
+Thursday 19 April 2018
+LEI
+
+0
+-
+0
+
+SOU
+ 
+W
+Saturday 28 April 2018
+SOU
+
+2
+-
+1
+
+BOU
+19 
+Previous Position 19
+
+Stoke City
+36	6	12	18	32	65	-33	30	
+L
+Sunday 1 April 2018
+ARS
+
+3
+-
+0
+
+STK
+ 
+L
+Saturday 7 April 2018
+STK
+
+1
+-
+2
+
+TOT
+ 
+D
+Monday 16 April 2018
+WHU
+
+1
+-
+1
+
+STK
+ 
+D
+Sunday 22 April 2018
+STK
+
+1
+-
+1
+
+BUR
+ 
+D
+Saturday 28 April 2018
+LIV
+
+0
+-
+0
+
+STK
+20 
+Previous Position 20
+
+West Bromwich Albion
+36	5	13	18	30	54	-24	28	
+L
+Saturday 31 March 2018
+WBA
+
+1
+-
+2
+
+BUR
+ 
+D
+Saturday 7 April 2018
+WBA
+
+1
+-
+1
+
+SWA
+ 
+W
+Sunday 15 April 2018
+MUN
+
+0
+-
+1
+
+WBA
+ 
+D
+Saturday 21 April 2018
+WBA
+
+2
+-
+2
+
+LIV
+ 
+W
+Saturday 28 April 2018
+NEW
+
+0
+-
+1
+
+WBA

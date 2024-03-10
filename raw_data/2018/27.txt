@@ -1,0 +1,1080 @@
+1 
+Previous Position 2
+
+Liverpool
+27	20	6	1	59	15	44	66	
+W
+Saturday 19 January 2019
+LIV
+
+4
+-
+3
+
+CRY
+ 
+D
+Wednesday 30 January 2019
+LIV
+
+1
+-
+1
+
+LEI
+ 
+D
+Monday 4 February 2019
+WHU
+
+1
+-
+1
+
+LIV
+ 
+W
+Saturday 9 February 2019
+LIV
+
+3
+-
+0
+
+BOU
+ 
+D
+Sunday 24 February 2019
+MUN
+
+0
+-
+0
+
+LIV
+2 
+Previous Position 1
+
+Manchester City
+27	21	2	4	74	20	54	65	
+W
+Sunday 20 January 2019
+HUD
+
+0
+-
+3
+
+MCI
+ 
+L
+Tuesday 29 January 2019
+NEW
+
+2
+-
+1
+
+MCI
+ 
+W
+Sunday 3 February 2019
+MCI
+
+3
+-
+1
+
+ARS
+ 
+W
+Wednesday 6 February 2019
+EVE
+
+0
+-
+2
+
+MCI
+ 
+W
+Sunday 10 February 2019
+MCI
+
+6
+-
+0
+
+CHE
+3 
+Previous Position 3
+
+Tottenham Hotspur
+27	20	0	7	55	27	28	60	
+W
+Sunday 20 January 2019
+FUL
+
+1
+-
+2
+
+TOT
+ 
+W
+Wednesday 30 January 2019
+TOT
+
+2
+-
+1
+
+WAT
+ 
+W
+Saturday 2 February 2019
+TOT
+
+1
+-
+0
+
+NEW
+ 
+W
+Sunday 10 February 2019
+TOT
+
+3
+-
+1
+
+LEI
+ 
+L
+Saturday 23 February 2019
+BUR
+
+2
+-
+1
+
+TOT
+4 
+Previous Position 5
+
+Arsenal
+27	16	5	6	55	37	18	53	
+W
+Saturday 19 January 2019
+ARS
+
+2
+-
+0
+
+CHE
+ 
+W
+Tuesday 29 January 2019
+ARS
+
+2
+-
+1
+
+CAR
+ 
+L
+Sunday 3 February 2019
+MCI
+
+3
+-
+1
+
+ARS
+ 
+W
+Saturday 9 February 2019
+HUD
+
+1
+-
+2
+
+ARS
+ 
+W
+Sunday 24 February 2019
+ARS
+
+2
+-
+0
+
+SOU
+5 
+Previous Position 4
+
+Manchester United
+27	15	7	5	52	35	17	52	
+W
+Saturday 19 January 2019
+MUN
+
+2
+-
+1
+
+BHA
+ 
+D
+Tuesday 29 January 2019
+MUN
+
+2
+-
+2
+
+BUR
+ 
+W
+Sunday 3 February 2019
+LEI
+
+0
+-
+1
+
+MUN
+ 
+W
+Saturday 9 February 2019
+FUL
+
+0
+-
+3
+
+MUN
+ 
+D
+Sunday 24 February 2019
+MUN
+
+0
+-
+0
+
+LIV
+6 
+Previous Position 6
+
+Chelsea
+26	15	5	6	45	29	16	50	
+W
+Saturday 12 January 2019
+CHE
+
+2
+-
+1
+
+NEW
+ 
+L
+Saturday 19 January 2019
+ARS
+
+2
+-
+0
+
+CHE
+ 
+L
+Wednesday 30 January 2019
+BOU
+
+4
+-
+0
+
+CHE
+ 
+W
+Saturday 2 February 2019
+CHE
+
+5
+-
+0
+
+HUD
+ 
+L
+Sunday 10 February 2019
+MCI
+
+6
+-
+0
+
+CHE
+7 
+Previous Position 8
+
+Watford
+27	11	7	9	39	35	4	40	
+D
+Saturday 19 January 2019
+WAT
+
+0
+-
+0
+
+BUR
+ 
+L
+Wednesday 30 January 2019
+TOT
+
+2
+-
+1
+
+WAT
+ 
+D
+Saturday 2 February 2019
+BHA
+
+0
+-
+0
+
+WAT
+ 
+W
+Saturday 9 February 2019
+WAT
+
+1
+-
+0
+
+EVE
+ 
+W
+Friday 22 February 2019
+CAR
+
+1
+-
+5
+
+WAT
+8 
+Previous Position 7
+
+Wolverhampton Wanderers
+27	11	7	9	35	34	1	40	
+W
+Saturday 19 January 2019
+WOL
+
+4
+-
+3
+
+LEI
+ 
+W
+Tuesday 29 January 2019
+WOL
+
+3
+-
+0
+
+WHU
+ 
+W
+Saturday 2 February 2019
+EVE
+
+1
+-
+3
+
+WOL
+ 
+D
+Monday 11 February 2019
+WOL
+
+1
+-
+1
+
+NEW
+ 
+D
+Saturday 23 February 2019
+BOU
+
+1
+-
+1
+
+WOL
+9 
+Previous Position 10
+
+West Ham United
+27	10	6	11	35	40	-5	36	
+L
+Saturday 19 January 2019
+BOU
+
+2
+-
+0
+
+WHU
+ 
+L
+Tuesday 29 January 2019
+WOL
+
+3
+-
+0
+
+WHU
+ 
+D
+Monday 4 February 2019
+WHU
+
+1
+-
+1
+
+LIV
+ 
+D
+Saturday 9 February 2019
+CRY
+
+1
+-
+1
+
+WHU
+ 
+W
+Friday 22 February 2019
+WHU
+
+3
+-
+1
+
+FUL
+10 
+Previous Position 11
+
+Bournemouth
+27	10	4	13	38	48	-10	34	
+W
+Saturday 19 January 2019
+BOU
+
+2
+-
+0
+
+WHU
+ 
+W
+Wednesday 30 January 2019
+BOU
+
+4
+-
+0
+
+CHE
+ 
+L
+Saturday 2 February 2019
+CAR
+
+2
+-
+0
+
+BOU
+ 
+L
+Saturday 9 February 2019
+LIV
+
+3
+-
+0
+
+BOU
+ 
+D
+Saturday 23 February 2019
+BOU
+
+1
+-
+1
+
+WOL
+11 
+Previous Position 9
+
+Everton
+27	9	6	12	36	39	-3	33	
+L
+Saturday 19 January 2019
+SOU
+
+2
+-
+1
+
+EVE
+ 
+W
+Tuesday 29 January 2019
+HUD
+
+0
+-
+1
+
+EVE
+ 
+L
+Saturday 2 February 2019
+EVE
+
+1
+-
+3
+
+WOL
+ 
+L
+Wednesday 6 February 2019
+EVE
+
+0
+-
+2
+
+MCI
+ 
+L
+Saturday 9 February 2019
+WAT
+
+1
+-
+0
+
+EVE
+12 
+Previous Position 12
+
+Leicester City
+27	9	5	13	32	38	-6	32	
+L
+Saturday 19 January 2019
+WOL
+
+4
+-
+3
+
+LEI
+ 
+D
+Wednesday 30 January 2019
+LIV
+
+1
+-
+1
+
+LEI
+ 
+L
+Sunday 3 February 2019
+LEI
+
+0
+-
+1
+
+MUN
+ 
+L
+Sunday 10 February 2019
+TOT
+
+3
+-
+1
+
+LEI
+ 
+L
+Saturday 23 February 2019
+LEI
+
+1
+-
+4
+
+CRY
+13 
+Previous Position 13
+
+Crystal Palace
+27	8	6	13	31	35	-4	30	
+L
+Saturday 19 January 2019
+LIV
+
+4
+-
+3
+
+CRY
+ 
+D
+Wednesday 30 January 2019
+SOU
+
+1
+-
+1
+
+CRY
+ 
+W
+Saturday 2 February 2019
+CRY
+
+2
+-
+0
+
+FUL
+ 
+D
+Saturday 9 February 2019
+CRY
+
+1
+-
+1
+
+WHU
+ 
+W
+Saturday 23 February 2019
+LEI
+
+1
+-
+4
+
+CRY
+14 
+Previous Position 15
+
+Burnley
+27	8	6	13	31	48	-17	30	
+D
+Saturday 19 January 2019
+WAT
+
+0
+-
+0
+
+BUR
+ 
+D
+Tuesday 29 January 2019
+MUN
+
+2
+-
+2
+
+BUR
+ 
+D
+Saturday 2 February 2019
+BUR
+
+1
+-
+1
+
+SOU
+ 
+W
+Saturday 9 February 2019
+BHA
+
+1
+-
+3
+
+BUR
+ 
+W
+Saturday 23 February 2019
+BUR
+
+2
+-
+1
+
+TOT
+15 
+Previous Position 16
+
+Newcastle United
+27	7	7	13	24	34	-10	28	
+W
+Saturday 19 January 2019
+NEW
+
+3
+-
+0
+
+CAR
+ 
+W
+Tuesday 29 January 2019
+NEW
+
+2
+-
+1
+
+MCI
+ 
+L
+Saturday 2 February 2019
+TOT
+
+1
+-
+0
+
+NEW
+ 
+D
+Monday 11 February 2019
+WOL
+
+1
+-
+1
+
+NEW
+ 
+W
+Saturday 23 February 2019
+NEW
+
+2
+-
+0
+
+HUD
+16 
+Previous Position 14
+
+Brighton And Hove Albion
+26	7	6	13	28	39	-11	27	
+L
+Saturday 12 January 2019
+BHA
+
+0
+-
+1
+
+LIV
+ 
+L
+Saturday 19 January 2019
+MUN
+
+2
+-
+1
+
+BHA
+ 
+L
+Tuesday 29 January 2019
+FUL
+
+4
+-
+2
+
+BHA
+ 
+D
+Saturday 2 February 2019
+BHA
+
+0
+-
+0
+
+WAT
+ 
+L
+Saturday 9 February 2019
+BHA
+
+1
+-
+3
+
+BUR
+17 
+Previous Position 17
+
+Cardiff City
+27	7	4	16	25	52	-27	25	
+L
+Saturday 19 January 2019
+NEW
+
+3
+-
+0
+
+CAR
+ 
+L
+Tuesday 29 January 2019
+ARS
+
+2
+-
+1
+
+CAR
+ 
+W
+Saturday 2 February 2019
+CAR
+
+2
+-
+0
+
+BOU
+ 
+W
+Saturday 9 February 2019
+SOU
+
+1
+-
+2
+
+CAR
+ 
+L
+Friday 22 February 2019
+CAR
+
+1
+-
+5
+
+WAT
+18 
+Previous Position 18
+
+Southampton
+27	5	9	13	28	46	-18	24	
+W
+Saturday 19 January 2019
+SOU
+
+2
+-
+1
+
+EVE
+ 
+D
+Wednesday 30 January 2019
+SOU
+
+1
+-
+1
+
+CRY
+ 
+D
+Saturday 2 February 2019
+BUR
+
+1
+-
+1
+
+SOU
+ 
+L
+Saturday 9 February 2019
+SOU
+
+1
+-
+2
+
+CAR
+ 
+L
+Sunday 24 February 2019
+ARS
+
+2
+-
+0
+
+SOU
+19 
+Previous Position 19
+
+Fulham
+27	4	5	18	26	61	-35	17	
+L
+Sunday 20 January 2019
+FUL
+
+1
+-
+2
+
+TOT
+ 
+W
+Tuesday 29 January 2019
+FUL
+
+4
+-
+2
+
+BHA
+ 
+L
+Saturday 2 February 2019
+CRY
+
+2
+-
+0
+
+FUL
+ 
+L
+Saturday 9 February 2019
+FUL
+
+0
+-
+3
+
+MUN
+ 
+L
+Friday 22 February 2019
+WHU
+
+3
+-
+1
+
+FUL
+20 
+Previous Position 20
+
+Huddersfield Town
+27	2	5	20	14	50	-36	11	
+L
+Sunday 20 January 2019
+HUD
+
+0
+-
+3
+
+MCI
+ 
+L
+Tuesday 29 January 2019
+HUD
+
+0
+-
+1
+
+EVE
+ 
+L
+Saturday 2 February 2019
+CHE
+
+5
+-
+0
+
+HUD
+ 
+L
+Saturday 9 February 2019
+HUD
+
+1
+-
+2
+
+ARS
+ 
+L
+Saturday 23 February 2019
+NEW
+
+2
+-
+0
+
+HUD

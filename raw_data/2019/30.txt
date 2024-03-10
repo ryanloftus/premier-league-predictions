@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Liverpool
+30	27	2	1	66	21	45	83	
+W
+Saturday 15 February 2020
+NOR
+
+0
+-
+1
+
+LIV
+ 
+W
+Monday 24 February 2020
+LIV
+
+3
+-
+2
+
+WHU
+ 
+L
+Saturday 29 February 2020
+WAT
+
+3
+-
+0
+
+LIV
+ 
+W
+Saturday 7 March 2020
+LIV
+
+2
+-
+1
+
+BOU
+ 
+D
+Sunday 21 June 2020
+EVE
+
+0
+-
+0
+
+LIV
+2 
+Previous Position 2
+
+Manchester City
+30	20	3	7	76	31	45	63	
+W
+Wednesday 19 February 2020
+MCI
+
+2
+-
+0
+
+WHU
+ 
+W
+Saturday 22 February 2020
+LEI
+
+0
+-
+1
+
+MCI
+ 
+L
+Sunday 8 March 2020
+MUN
+
+2
+-
+0
+
+MCI
+ 
+W
+Wednesday 17 June 2020
+MCI
+
+3
+-
+0
+
+ARS
+ 
+W
+Monday 22 June 2020
+MCI
+
+5
+-
+0
+
+BUR
+3 
+Previous Position 3
+
+Leicester City
+30	16	6	8	59	29	30	54	
+D
+Friday 14 February 2020
+WOL
+
+0
+-
+0
+
+LEI
+ 
+L
+Saturday 22 February 2020
+LEI
+
+0
+-
+1
+
+MCI
+ 
+L
+Friday 28 February 2020
+NOR
+
+1
+-
+0
+
+LEI
+ 
+W
+Monday 9 March 2020
+LEI
+
+4
+-
+0
+
+AVL
+ 
+D
+Saturday 20 June 2020
+WAT
+
+1
+-
+1
+
+LEI
+4 
+Previous Position 4
+
+Chelsea
+30	15	6	9	53	40	13	51	
+L
+Monday 17 February 2020
+CHE
+
+0
+-
+2
+
+MUN
+ 
+W
+Saturday 22 February 2020
+CHE
+
+2
+-
+1
+
+TOT
+ 
+D
+Saturday 29 February 2020
+BOU
+
+2
+-
+2
+
+CHE
+ 
+W
+Sunday 8 March 2020
+CHE
+
+4
+-
+0
+
+EVE
+ 
+W
+Sunday 21 June 2020
+AVL
+
+1
+-
+2
+
+CHE
+5 
+Previous Position 5
+
+Manchester United
+30	12	10	8	45	31	14	46	
+W
+Monday 17 February 2020
+CHE
+
+0
+-
+2
+
+MUN
+ 
+W
+Sunday 23 February 2020
+MUN
+
+3
+-
+0
+
+WAT
+ 
+D
+Sunday 1 March 2020
+EVE
+
+1
+-
+1
+
+MUN
+ 
+W
+Sunday 8 March 2020
+MUN
+
+2
+-
+0
+
+MCI
+ 
+D
+Friday 19 June 2020
+TOT
+
+1
+-
+1
+
+MUN
+6 
+Previous Position 6
+
+Wolverhampton Wanderers
+30	11	13	6	43	34	9	46	
+D
+Friday 14 February 2020
+WOL
+
+0
+-
+0
+
+LEI
+ 
+W
+Sunday 23 February 2020
+WOL
+
+3
+-
+0
+
+NOR
+ 
+W
+Sunday 1 March 2020
+TOT
+
+2
+-
+3
+
+WOL
+ 
+D
+Saturday 7 March 2020
+WOL
+
+0
+-
+0
+
+BHA
+ 
+W
+Saturday 20 June 2020
+WHU
+
+0
+-
+2
+
+WOL
+7 
+Previous Position 7
+
+Sheffield United
+30	11	11	8	30	28	2	44	
+W
+Sunday 9 February 2020
+SHU
+
+2
+-
+1
+
+BOU
+ 
+D
+Saturday 22 February 2020
+SHU
+
+1
+-
+1
+
+BHA
+ 
+W
+Saturday 7 March 2020
+SHU
+
+1
+-
+0
+
+NOR
+ 
+D
+Wednesday 17 June 2020
+AVL
+
+0
+-
+0
+
+SHU
+ 
+L
+Sunday 21 June 2020
+NEW
+
+3
+-
+0
+
+SHU
+8 
+Previous Position 8
+
+Tottenham Hotspur
+30	11	9	10	48	41	7	42	
+W
+Sunday 16 February 2020
+AVL
+
+2
+-
+3
+
+TOT
+ 
+L
+Saturday 22 February 2020
+CHE
+
+2
+-
+1
+
+TOT
+ 
+L
+Sunday 1 March 2020
+TOT
+
+2
+-
+3
+
+WOL
+ 
+D
+Saturday 7 March 2020
+BUR
+
+1
+-
+1
+
+TOT
+ 
+D
+Friday 19 June 2020
+TOT
+
+1
+-
+1
+
+MUN
+9 
+Previous Position 11
+
+Crystal Palace
+30	11	9	10	28	32	-4	42	
+L
+Saturday 8 February 2020
+EVE
+
+3
+-
+1
+
+CRY
+ 
+W
+Saturday 22 February 2020
+CRY
+
+1
+-
+0
+
+NEW
+ 
+W
+Saturday 29 February 2020
+BHA
+
+0
+-
+1
+
+CRY
+ 
+W
+Saturday 7 March 2020
+CRY
+
+1
+-
+0
+
+WAT
+ 
+W
+Saturday 20 June 2020
+BOU
+
+0
+-
+2
+
+CRY
+10 
+Previous Position 9
+
+Arsenal
+30	9	13	8	41	41	0	40	
+W
+Sunday 16 February 2020
+ARS
+
+4
+-
+0
+
+NEW
+ 
+W
+Sunday 23 February 2020
+ARS
+
+3
+-
+2
+
+EVE
+ 
+W
+Saturday 7 March 2020
+ARS
+
+1
+-
+0
+
+WHU
+ 
+L
+Wednesday 17 June 2020
+MCI
+
+3
+-
+0
+
+ARS
+ 
+L
+Saturday 20 June 2020
+BHA
+
+2
+-
+1
+
+ARS
+11 
+Previous Position 10
+
+Burnley
+30	11	6	13	34	45	-11	39	
+W
+Saturday 15 February 2020
+SOU
+
+1
+-
+2
+
+BUR
+ 
+W
+Saturday 22 February 2020
+BUR
+
+3
+-
+0
+
+BOU
+ 
+D
+Saturday 29 February 2020
+NEW
+
+0
+-
+0
+
+BUR
+ 
+D
+Saturday 7 March 2020
+BUR
+
+1
+-
+1
+
+TOT
+ 
+L
+Monday 22 June 2020
+MCI
+
+5
+-
+0
+
+BUR
+12 
+Previous Position 12
+
+Everton
+30	10	8	12	37	46	-9	38	
+W
+Saturday 8 February 2020
+EVE
+
+3
+-
+1
+
+CRY
+ 
+L
+Sunday 23 February 2020
+ARS
+
+3
+-
+2
+
+EVE
+ 
+D
+Sunday 1 March 2020
+EVE
+
+1
+-
+1
+
+MUN
+ 
+L
+Sunday 8 March 2020
+CHE
+
+4
+-
+0
+
+EVE
+ 
+D
+Sunday 21 June 2020
+EVE
+
+0
+-
+0
+
+LIV
+13 
+Previous Position 13
+
+Newcastle United
+30	10	8	12	28	41	-13	38	
+L
+Sunday 16 February 2020
+ARS
+
+4
+-
+0
+
+NEW
+ 
+L
+Saturday 22 February 2020
+CRY
+
+1
+-
+0
+
+NEW
+ 
+D
+Saturday 29 February 2020
+NEW
+
+0
+-
+0
+
+BUR
+ 
+W
+Saturday 7 March 2020
+SOU
+
+0
+-
+1
+
+NEW
+ 
+W
+Sunday 21 June 2020
+NEW
+
+3
+-
+0
+
+SHU
+14 
+Previous Position 14
+
+Southampton
+30	11	4	15	38	52	-14	37	
+L
+Saturday 15 February 2020
+SOU
+
+1
+-
+2
+
+BUR
+ 
+W
+Saturday 22 February 2020
+SOU
+
+2
+-
+0
+
+AVL
+ 
+L
+Saturday 29 February 2020
+WHU
+
+3
+-
+1
+
+SOU
+ 
+L
+Saturday 7 March 2020
+SOU
+
+0
+-
+1
+
+NEW
+ 
+W
+Friday 19 June 2020
+NOR
+
+0
+-
+3
+
+SOU
+15 
+Previous Position 15
+
+Brighton And Hove Albion
+30	7	11	12	34	41	-7	32	
+D
+Saturday 8 February 2020
+BHA
+
+1
+-
+1
+
+WAT
+ 
+D
+Saturday 22 February 2020
+SHU
+
+1
+-
+1
+
+BHA
+ 
+L
+Saturday 29 February 2020
+BHA
+
+0
+-
+1
+
+CRY
+ 
+D
+Saturday 7 March 2020
+WOL
+
+0
+-
+0
+
+BHA
+ 
+W
+Saturday 20 June 2020
+BHA
+
+2
+-
+1
+
+ARS
+16 
+Previous Position 17
+
+Watford
+30	6	10	14	28	45	-17	28	
+D
+Saturday 8 February 2020
+BHA
+
+1
+-
+1
+
+WAT
+ 
+L
+Sunday 23 February 2020
+MUN
+
+3
+-
+0
+
+WAT
+ 
+W
+Saturday 29 February 2020
+WAT
+
+3
+-
+0
+
+LIV
+ 
+L
+Saturday 7 March 2020
+CRY
+
+1
+-
+0
+
+WAT
+ 
+D
+Saturday 20 June 2020
+WAT
+
+1
+-
+1
+
+LEI
+17 
+Previous Position 16
+
+West Ham United
+30	7	6	17	35	52	-17	27	
+L
+Wednesday 19 February 2020
+MCI
+
+2
+-
+0
+
+WHU
+ 
+L
+Monday 24 February 2020
+LIV
+
+3
+-
+2
+
+WHU
+ 
+W
+Saturday 29 February 2020
+WHU
+
+3
+-
+1
+
+SOU
+ 
+L
+Saturday 7 March 2020
+ARS
+
+1
+-
+0
+
+WHU
+ 
+L
+Saturday 20 June 2020
+WHU
+
+0
+-
+2
+
+WOL
+18 
+Previous Position 18
+
+Bournemouth
+30	7	6	17	29	49	-20	27	
+L
+Sunday 9 February 2020
+SHU
+
+2
+-
+1
+
+BOU
+ 
+L
+Saturday 22 February 2020
+BUR
+
+3
+-
+0
+
+BOU
+ 
+D
+Saturday 29 February 2020
+BOU
+
+2
+-
+2
+
+CHE
+ 
+L
+Saturday 7 March 2020
+LIV
+
+2
+-
+1
+
+BOU
+ 
+L
+Saturday 20 June 2020
+BOU
+
+0
+-
+2
+
+CRY
+19 
+Previous Position 19
+
+Aston Villa
+30	7	5	18	35	58	-23	26	
+L
+Sunday 16 February 2020
+AVL
+
+2
+-
+3
+
+TOT
+ 
+L
+Saturday 22 February 2020
+SOU
+
+2
+-
+0
+
+AVL
+ 
+L
+Monday 9 March 2020
+LEI
+
+4
+-
+0
+
+AVL
+ 
+D
+Wednesday 17 June 2020
+AVL
+
+0
+-
+0
+
+SHU
+ 
+L
+Sunday 21 June 2020
+AVL
+
+1
+-
+2
+
+CHE
+20 
+Previous Position 20
+
+Norwich City
+30	5	6	19	25	55	-30	21	
+L
+Saturday 15 February 2020
+NOR
+
+0
+-
+1
+
+LIV
+ 
+L
+Sunday 23 February 2020
+WOL
+
+3
+-
+0
+
+NOR
+ 
+W
+Friday 28 February 2020
+NOR
+
+1
+-
+0
+
+LEI
+ 
+L
+Saturday 7 March 2020
+SHU
+
+1
+-
+0
+
+NOR
+ 
+L
+Friday 19 June 2020
+NOR
+
+0
+-
+3
+
+SOU
