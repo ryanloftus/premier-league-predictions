@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Chelsea
+7	7	0	0	14	1	13	21	
+W
+Wednesday 24 August 2005
+CHE
+
+4
+-
+0
+
+WBA
+ 
+W
+Saturday 27 August 2005
+TOT
+
+0
+-
+2
+
+CHE
+ 
+W
+Saturday 10 September 2005
+CHE
+
+2
+-
+0
+
+SUN
+ 
+W
+Saturday 17 September 2005
+CHA
+
+0
+-
+2
+
+CHE
+ 
+W
+Saturday 24 September 2005
+CHE
+
+2
+-
+1
+
+AVL
+2 
+Previous Position 2
+
+Charlton Athletic
+6	5	0	1	10	4	6	15	
+W
+Saturday 20 August 2005
+CHA
+
+1
+-
+0
+
+WIG
+ 
+W
+Sunday 28 August 2005
+MID
+
+0
+-
+3
+
+CHA
+ 
+W
+Saturday 10 September 2005
+BIR
+
+0
+-
+1
+
+CHA
+ 
+L
+Saturday 17 September 2005
+CHA
+
+0
+-
+2
+
+CHE
+ 
+W
+Saturday 24 September 2005
+WBA
+
+1
+-
+2
+
+CHA
+3 
+Previous Position 4
+
+Bolton Wanderers
+7	4	2	1	8	4	4	14	
+W
+Wednesday 24 August 2005
+BOL
+
+2
+-
+0
+
+NEW
+ 
+W
+Saturday 27 August 2005
+WHU
+
+1
+-
+2
+
+BOL
+ 
+D
+Sunday 11 September 2005
+BOL
+
+0
+-
+0
+
+BLB
+ 
+W
+Sunday 18 September 2005
+MCI
+
+0
+-
+1
+
+BOL
+ 
+W
+Saturday 24 September 2005
+BOL
+
+1
+-
+0
+
+POR
+4 
+Previous Position 8
+
+Tottenham Hotspur
+7	3	3	1	6	3	3	12	
+D
+Wednesday 24 August 2005
+BLB
+
+0
+-
+0
+
+TOT
+ 
+L
+Saturday 27 August 2005
+TOT
+
+0
+-
+2
+
+CHE
+ 
+D
+Saturday 10 September 2005
+TOT
+
+0
+-
+0
+
+LIV
+ 
+D
+Saturday 17 September 2005
+AVL
+
+1
+-
+1
+
+TOT
+ 
+W
+Monday 26 September 2005
+TOT
+
+1
+-
+0
+
+FUL
+5 
+Previous Position 6
+
+West Ham United
+6	3	2	1	10	4	6	11	
+D
+Saturday 20 August 2005
+NEW
+
+0
+-
+0
+
+WHU
+ 
+L
+Saturday 27 August 2005
+WHU
+
+1
+-
+2
+
+BOL
+ 
+W
+Monday 12 September 2005
+WHU
+
+4
+-
+0
+
+AVL
+ 
+W
+Saturday 17 September 2005
+FUL
+
+1
+-
+2
+
+WHU
+ 
+D
+Saturday 24 September 2005
+WHU
+
+0
+-
+0
+
+ARS
+6 
+Previous Position 3
+
+Manchester United
+6	3	2	1	7	3	4	11	
+W
+Saturday 20 August 2005
+MUN
+
+1
+-
+0
+
+AVL
+ 
+W
+Sunday 28 August 2005
+NEW
+
+0
+-
+2
+
+MUN
+ 
+D
+Saturday 10 September 2005
+MUN
+
+1
+-
+1
+
+MCI
+ 
+D
+Sunday 18 September 2005
+LIV
+
+0
+-
+0
+
+MUN
+ 
+L
+Saturday 24 September 2005
+MUN
+
+1
+-
+2
+
+BLB
+7 
+Previous Position 5
+
+Manchester City
+7	3	2	2	7	6	1	11	
+W
+Tuesday 23 August 2005
+SUN
+
+1
+-
+2
+
+MCI
+ 
+W
+Saturday 27 August 2005
+MCI
+
+2
+-
+1
+
+POR
+ 
+D
+Saturday 10 September 2005
+MUN
+
+1
+-
+1
+
+MCI
+ 
+L
+Sunday 18 September 2005
+MCI
+
+0
+-
+1
+
+BOL
+ 
+L
+Saturday 24 September 2005
+NEW
+
+1
+-
+0
+
+MCI
+8 
+Previous Position 7
+
+Arsenal
+6	3	1	2	9	4	5	10	
+L
+Sunday 21 August 2005
+CHE
+
+1
+-
+0
+
+ARS
+ 
+W
+Wednesday 24 August 2005
+ARS
+
+4
+-
+1
+
+FUL
+ 
+L
+Saturday 10 September 2005
+MID
+
+2
+-
+1
+
+ARS
+ 
+W
+Monday 19 September 2005
+ARS
+
+2
+-
+0
+
+EVE
+ 
+D
+Saturday 24 September 2005
+WHU
+
+0
+-
+0
+
+ARS
+9 
+Previous Position 10
+
+Wigan Athletic
+6	3	1	2	5	4	1	10	
+L
+Saturday 20 August 2005
+CHA
+
+1
+-
+0
+
+WIG
+ 
+W
+Saturday 27 August 2005
+WIG
+
+1
+-
+0
+
+SUN
+ 
+W
+Saturday 10 September 2005
+WBA
+
+1
+-
+2
+
+WIG
+ 
+D
+Sunday 18 September 2005
+WIG
+
+1
+-
+1
+
+MID
+ 
+W
+Saturday 24 September 2005
+EVE
+
+0
+-
+1
+
+WIG
+10 
+Previous Position 14
+
+Newcastle United
+7	2	2	3	5	7	-2	8	
+L
+Wednesday 24 August 2005
+BOL
+
+2
+-
+0
+
+NEW
+ 
+L
+Sunday 28 August 2005
+NEW
+
+0
+-
+2
+
+MUN
+ 
+D
+Saturday 10 September 2005
+NEW
+
+1
+-
+1
+
+FUL
+ 
+W
+Sunday 18 September 2005
+BLB
+
+0
+-
+3
+
+NEW
+ 
+W
+Saturday 24 September 2005
+NEW
+
+1
+-
+0
+
+MCI
+11 
+Previous Position 9
+
+Middlesbrough
+7	2	2	3	6	9	-3	8	
+W
+Tuesday 23 August 2005
+BIR
+
+0
+-
+3
+
+MID
+ 
+L
+Sunday 28 August 2005
+MID
+
+0
+-
+3
+
+CHA
+ 
+W
+Saturday 10 September 2005
+MID
+
+2
+-
+1
+
+ARS
+ 
+D
+Sunday 18 September 2005
+WIG
+
+1
+-
+1
+
+MID
+ 
+L
+Sunday 25 September 2005
+MID
+
+0
+-
+2
+
+SUN
+12 
+Previous Position 18
+
+Blackburn Rovers
+7	2	2	3	5	9	-4	8	
+D
+Wednesday 24 August 2005
+BLB
+
+0
+-
+0
+
+TOT
+ 
+L
+Saturday 27 August 2005
+AVL
+
+1
+-
+0
+
+BLB
+ 
+D
+Sunday 11 September 2005
+BOL
+
+0
+-
+0
+
+BLB
+ 
+L
+Sunday 18 September 2005
+BLB
+
+0
+-
+3
+
+NEW
+ 
+W
+Saturday 24 September 2005
+MUN
+
+1
+-
+2
+
+BLB
+13 
+Previous Position 11
+
+Liverpool
+5	1	4	0	3	2	1	7	
+D
+Saturday 13 August 2005
+MID
+
+0
+-
+0
+
+LIV
+ 
+W
+Saturday 20 August 2005
+LIV
+
+1
+-
+0
+
+SUN
+ 
+D
+Saturday 10 September 2005
+TOT
+
+0
+-
+0
+
+LIV
+ 
+D
+Sunday 18 September 2005
+LIV
+
+0
+-
+0
+
+MUN
+ 
+D
+Saturday 24 September 2005
+BIR
+
+2
+-
+2
+
+LIV
+14 
+Previous Position 15
+
+Birmingham City
+7	1	3	3	7	11	-4	6	
+L
+Tuesday 23 August 2005
+BIR
+
+0
+-
+3
+
+MID
+ 
+W
+Saturday 27 August 2005
+WBA
+
+2
+-
+3
+
+BIR
+ 
+L
+Saturday 10 September 2005
+BIR
+
+0
+-
+1
+
+CHA
+ 
+D
+Saturday 17 September 2005
+POR
+
+1
+-
+1
+
+BIR
+ 
+D
+Saturday 24 September 2005
+BIR
+
+2
+-
+2
+
+LIV
+15 
+Previous Position 12
+
+Aston Villa
+7	1	3	3	6	11	-5	6	
+D
+Tuesday 23 August 2005
+POR
+
+1
+-
+1
+
+AVL
+ 
+W
+Saturday 27 August 2005
+AVL
+
+1
+-
+0
+
+BLB
+ 
+L
+Monday 12 September 2005
+WHU
+
+4
+-
+0
+
+AVL
+ 
+D
+Saturday 17 September 2005
+AVL
+
+1
+-
+1
+
+TOT
+ 
+L
+Saturday 24 September 2005
+CHE
+
+2
+-
+1
+
+AVL
+16 
+Previous Position 13
+
+Portsmouth
+7	1	2	4	5	9	-4	5	
+D
+Tuesday 23 August 2005
+POR
+
+1
+-
+1
+
+AVL
+ 
+L
+Saturday 27 August 2005
+MCI
+
+2
+-
+1
+
+POR
+ 
+W
+Saturday 10 September 2005
+EVE
+
+0
+-
+1
+
+POR
+ 
+D
+Saturday 17 September 2005
+POR
+
+1
+-
+1
+
+BIR
+ 
+L
+Saturday 24 September 2005
+BOL
+
+1
+-
+0
+
+POR
+17 
+Previous Position 16
+
+Fulham
+7	1	2	4	5	10	-5	5	
+L
+Wednesday 24 August 2005
+ARS
+
+4
+-
+1
+
+FUL
+ 
+W
+Saturday 27 August 2005
+FUL
+
+1
+-
+0
+
+EVE
+ 
+D
+Saturday 10 September 2005
+NEW
+
+1
+-
+1
+
+FUL
+ 
+L
+Saturday 17 September 2005
+FUL
+
+1
+-
+2
+
+WHU
+ 
+L
+Monday 26 September 2005
+TOT
+
+1
+-
+0
+
+FUL
+18 
+Previous Position 17
+
+West Bromwich Albion
+7	1	2	4	7	13	-6	5	
+L
+Wednesday 24 August 2005
+CHE
+
+4
+-
+0
+
+WBA
+ 
+L
+Saturday 27 August 2005
+WBA
+
+2
+-
+3
+
+BIR
+ 
+L
+Saturday 10 September 2005
+WBA
+
+1
+-
+2
+
+WIG
+ 
+D
+Saturday 17 September 2005
+SUN
+
+1
+-
+1
+
+WBA
+ 
+L
+Saturday 24 September 2005
+WBA
+
+1
+-
+2
+
+CHA
+19 
+Previous Position 20
+
+Sunderland
+7	1	1	5	5	10	-5	4	
+L
+Tuesday 23 August 2005
+SUN
+
+1
+-
+2
+
+MCI
+ 
+L
+Saturday 27 August 2005
+WIG
+
+1
+-
+0
+
+SUN
+ 
+L
+Saturday 10 September 2005
+CHE
+
+2
+-
+0
+
+SUN
+ 
+D
+Saturday 17 September 2005
+SUN
+
+1
+-
+1
+
+WBA
+ 
+W
+Sunday 25 September 2005
+MID
+
+0
+-
+2
+
+SUN
+20 
+Previous Position 19
+
+Everton
+6	1	0	5	1	7	-6	3	
+W
+Sunday 21 August 2005
+BOL
+
+0
+-
+1
+
+EVE
+ 
+L
+Saturday 27 August 2005
+FUL
+
+1
+-
+0
+
+EVE
+ 
+L
+Saturday 10 September 2005
+EVE
+
+0
+-
+1
+
+POR
+ 
+L
+Monday 19 September 2005
+ARS
+
+2
+-
+0
+
+EVE
+ 
+L
+Saturday 24 September 2005
+EVE
+
+0
+-
+1
+
+WIG

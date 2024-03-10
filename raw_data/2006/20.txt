@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Manchester United
+20	16	2	2	44	11	33	50	
+W
+Saturday 2 December 2006
+MID
+
+1
+-
+2
+
+MUN
+ 
+W
+Saturday 9 December 2006
+MUN
+
+3
+-
+1
+
+MCI
+ 
+L
+Sunday 17 December 2006
+WHU
+
+1
+-
+0
+
+MUN
+ 
+W
+Saturday 23 December 2006
+AVL
+
+0
+-
+3
+
+MUN
+ 
+W
+Tuesday 26 December 2006
+MUN
+
+3
+-
+1
+
+WIG
+2 
+Previous Position 2
+
+Chelsea
+20	14	4	2	35	15	20	46	
+D
+Sunday 10 December 2006
+CHE
+
+1
+-
+1
+
+ARS
+ 
+W
+Wednesday 13 December 2006
+CHE
+
+1
+-
+0
+
+NEW
+ 
+W
+Sunday 17 December 2006
+EVE
+
+2
+-
+3
+
+CHE
+ 
+W
+Saturday 23 December 2006
+WIG
+
+2
+-
+3
+
+CHE
+ 
+D
+Tuesday 26 December 2006
+CHE
+
+2
+-
+2
+
+RDG
+3 
+Previous Position 4
+
+Arsenal
+20	10	6	4	37	18	19	36	
+D
+Sunday 10 December 2006
+CHE
+
+1
+-
+1
+
+ARS
+ 
+W
+Wednesday 13 December 2006
+WIG
+
+0
+-
+1
+
+ARS
+ 
+D
+Saturday 16 December 2006
+ARS
+
+2
+-
+2
+
+POR
+ 
+W
+Saturday 23 December 2006
+ARS
+
+6
+-
+2
+
+BLB
+ 
+W
+Tuesday 26 December 2006
+WAT
+
+1
+-
+2
+
+ARS
+4 
+Previous Position 5
+
+Bolton Wanderers
+20	11	3	6	24	16	8	36	
+L
+Saturday 2 December 2006
+RDG
+
+1
+-
+0
+
+BOL
+ 
+W
+Saturday 9 December 2006
+BOL
+
+4
+-
+0
+
+WHU
+ 
+W
+Saturday 16 December 2006
+AVL
+
+0
+-
+1
+
+BOL
+ 
+W
+Saturday 23 December 2006
+MCI
+
+0
+-
+2
+
+BOL
+ 
+W
+Tuesday 26 December 2006
+BOL
+
+2
+-
+1
+
+NEW
+5 
+Previous Position 6
+
+Portsmouth
+20	10	5	5	30	18	12	35	
+D
+Saturday 2 December 2006
+POR
+
+2
+-
+2
+
+AVL
+ 
+W
+Saturday 9 December 2006
+POR
+
+2
+-
+0
+
+EVE
+ 
+D
+Saturday 16 December 2006
+ARS
+
+2
+-
+2
+
+POR
+ 
+W
+Saturday 23 December 2006
+POR
+
+3
+-
+1
+
+SHU
+ 
+W
+Tuesday 26 December 2006
+WHU
+
+1
+-
+2
+
+POR
+6 
+Previous Position 3
+
+Liverpool
+20	10	4	6	28	16	12	34	
+W
+Saturday 2 December 2006
+WIG
+
+0
+-
+4
+
+LIV
+ 
+W
+Saturday 9 December 2006
+LIV
+
+4
+-
+0
+
+FUL
+ 
+W
+Saturday 16 December 2006
+CHA
+
+0
+-
+3
+
+LIV
+ 
+W
+Saturday 23 December 2006
+LIV
+
+2
+-
+0
+
+WAT
+ 
+L
+Tuesday 26 December 2006
+BLB
+
+1
+-
+0
+
+LIV
+7 
+Previous Position 7
+
+Tottenham Hotspur
+20	9	4	7	25	26	-1	31	
+W
+Tuesday 5 December 2006
+TOT
+
+2
+-
+1
+
+MID
+ 
+W
+Saturday 9 December 2006
+TOT
+
+5
+-
+1
+
+CHA
+ 
+W
+Sunday 17 December 2006
+MCI
+
+1
+-
+2
+
+TOT
+ 
+L
+Saturday 23 December 2006
+NEW
+
+3
+-
+1
+
+TOT
+ 
+W
+Tuesday 26 December 2006
+TOT
+
+2
+-
+1
+
+AVL
+8 
+Previous Position 8
+
+Everton
+20	7	7	6	24	20	4	28	
+W
+Sunday 3 December 2006
+EVE
+
+2
+-
+0
+
+WHU
+ 
+L
+Saturday 9 December 2006
+POR
+
+2
+-
+0
+
+EVE
+ 
+L
+Sunday 17 December 2006
+EVE
+
+2
+-
+3
+
+CHE
+ 
+W
+Saturday 23 December 2006
+RDG
+
+0
+-
+2
+
+EVE
+ 
+D
+Tuesday 26 December 2006
+EVE
+
+0
+-
+0
+
+MID
+9 
+Previous Position 9
+
+Reading
+20	8	3	9	22	27	-5	27	
+L
+Wednesday 6 December 2006
+NEW
+
+3
+-
+2
+
+RDG
+ 
+D
+Saturday 9 December 2006
+WAT
+
+0
+-
+0
+
+RDG
+ 
+L
+Saturday 16 December 2006
+RDG
+
+1
+-
+2
+
+BLB
+ 
+L
+Saturday 23 December 2006
+RDG
+
+0
+-
+2
+
+EVE
+ 
+D
+Tuesday 26 December 2006
+CHE
+
+2
+-
+2
+
+RDG
+10 
+Previous Position 10
+
+Aston Villa
+20	5	10	5	22	23	-1	25	
+D
+Saturday 2 December 2006
+POR
+
+2
+-
+2
+
+AVL
+ 
+D
+Monday 11 December 2006
+SHU
+
+2
+-
+2
+
+AVL
+ 
+L
+Saturday 16 December 2006
+AVL
+
+0
+-
+1
+
+BOL
+ 
+L
+Saturday 23 December 2006
+AVL
+
+0
+-
+3
+
+MUN
+ 
+L
+Tuesday 26 December 2006
+TOT
+
+2
+-
+1
+
+AVL
+11 
+Previous Position 11
+
+Newcastle United
+20	7	4	9	21	23	-2	25	
+W
+Saturday 9 December 2006
+BLB
+
+1
+-
+3
+
+NEW
+ 
+L
+Wednesday 13 December 2006
+CHE
+
+1
+-
+0
+
+NEW
+ 
+W
+Saturday 16 December 2006
+NEW
+
+2
+-
+1
+
+WAT
+ 
+W
+Saturday 23 December 2006
+NEW
+
+3
+-
+1
+
+TOT
+ 
+L
+Tuesday 26 December 2006
+BOL
+
+2
+-
+1
+
+NEW
+12 
+Previous Position 12
+
+Fulham
+20	6	7	7	20	30	-10	25	
+L
+Saturday 2 December 2006
+BLB
+
+2
+-
+0
+
+FUL
+ 
+L
+Saturday 9 December 2006
+LIV
+
+4
+-
+0
+
+FUL
+ 
+W
+Monday 18 December 2006
+FUL
+
+2
+-
+1
+
+MID
+ 
+D
+Saturday 23 December 2006
+FUL
+
+0
+-
+0
+
+WHU
+ 
+D
+Wednesday 27 December 2006
+CHA
+
+2
+-
+2
+
+FUL
+13 
+Previous Position 15
+
+Manchester City
+20	6	5	9	16	24	-8	23	
+D
+Monday 4 December 2006
+MCI
+
+0
+-
+0
+
+WAT
+ 
+L
+Saturday 9 December 2006
+MUN
+
+3
+-
+1
+
+MCI
+ 
+L
+Sunday 17 December 2006
+MCI
+
+1
+-
+2
+
+TOT
+ 
+L
+Saturday 23 December 2006
+MCI
+
+0
+-
+2
+
+BOL
+ 
+W
+Tuesday 26 December 2006
+SHU
+
+0
+-
+1
+
+MCI
+14 
+Previous Position 13
+
+Wigan Athletic
+20	6	4	10	23	29	-6	22	
+D
+Saturday 9 December 2006
+MID
+
+1
+-
+1
+
+WIG
+ 
+L
+Wednesday 13 December 2006
+WIG
+
+0
+-
+1
+
+ARS
+ 
+L
+Saturday 16 December 2006
+WIG
+
+0
+-
+1
+
+SHU
+ 
+L
+Saturday 23 December 2006
+WIG
+
+2
+-
+3
+
+CHE
+ 
+L
+Tuesday 26 December 2006
+MUN
+
+3
+-
+1
+
+WIG
+15 
+Previous Position 17
+
+Blackburn Rovers
+19	6	4	9	19	28	-9	22	
+L
+Tuesday 5 December 2006
+CHA
+
+1
+-
+0
+
+BLB
+ 
+L
+Saturday 9 December 2006
+BLB
+
+1
+-
+3
+
+NEW
+ 
+W
+Saturday 16 December 2006
+RDG
+
+1
+-
+2
+
+BLB
+ 
+L
+Saturday 23 December 2006
+ARS
+
+6
+-
+2
+
+BLB
+ 
+W
+Tuesday 26 December 2006
+BLB
+
+1
+-
+0
+
+LIV
+16 
+Previous Position 14
+
+Middlesbrough
+20	5	6	9	17	24	-7	21	
+L
+Tuesday 5 December 2006
+TOT
+
+2
+-
+1
+
+MID
+ 
+D
+Saturday 9 December 2006
+MID
+
+1
+-
+1
+
+WIG
+ 
+L
+Monday 18 December 2006
+FUL
+
+2
+-
+1
+
+MID
+ 
+W
+Saturday 23 December 2006
+MID
+
+2
+-
+0
+
+CHA
+ 
+D
+Tuesday 26 December 2006
+EVE
+
+0
+-
+0
+
+MID
+17 
+Previous Position 16
+
+Sheffield United
+20	5	5	10	15	26	-11	20	
+W
+Saturday 2 December 2006
+SHU
+
+2
+-
+1
+
+CHA
+ 
+D
+Monday 11 December 2006
+SHU
+
+2
+-
+2
+
+AVL
+ 
+W
+Saturday 16 December 2006
+WIG
+
+0
+-
+1
+
+SHU
+ 
+L
+Saturday 23 December 2006
+POR
+
+3
+-
+1
+
+SHU
+ 
+L
+Tuesday 26 December 2006
+SHU
+
+0
+-
+1
+
+MCI
+18 
+Previous Position 18
+
+West Ham United
+20	5	3	12	12	26	-14	18	
+L
+Wednesday 6 December 2006
+WHU
+
+0
+-
+2
+
+WIG
+ 
+L
+Saturday 9 December 2006
+BOL
+
+4
+-
+0
+
+WHU
+ 
+W
+Sunday 17 December 2006
+WHU
+
+1
+-
+0
+
+MUN
+ 
+D
+Saturday 23 December 2006
+FUL
+
+0
+-
+0
+
+WHU
+ 
+L
+Tuesday 26 December 2006
+WHU
+
+1
+-
+2
+
+POR
+19 
+Previous Position 19
+
+Charlton Athletic
+20	3	4	13	15	35	-20	13	
+W
+Tuesday 5 December 2006
+CHA
+
+1
+-
+0
+
+BLB
+ 
+L
+Saturday 9 December 2006
+TOT
+
+5
+-
+1
+
+CHA
+ 
+L
+Saturday 16 December 2006
+CHA
+
+0
+-
+3
+
+LIV
+ 
+L
+Saturday 23 December 2006
+MID
+
+2
+-
+0
+
+CHA
+ 
+D
+Wednesday 27 December 2006
+CHA
+
+2
+-
+2
+
+FUL
+20 
+Previous Position 20
+
+Watford
+19	1	8	10	12	26	-14	11	
+D
+Monday 4 December 2006
+MCI
+
+0
+-
+0
+
+WAT
+ 
+D
+Saturday 9 December 2006
+WAT
+
+0
+-
+0
+
+RDG
+ 
+L
+Saturday 16 December 2006
+NEW
+
+2
+-
+1
+
+WAT
+ 
+L
+Saturday 23 December 2006
+LIV
+
+2
+-
+0
+
+WAT
+ 
+L
+Tuesday 26 December 2006
+WAT
+
+1
+-
+2
+
+ARS

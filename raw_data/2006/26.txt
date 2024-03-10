@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Manchester United
+26	20	3	3	61	18	43	63	
+D
+Monday 1 January 2007
+NEW
+
+2
+-
+2
+
+MUN
+ 
+W
+Saturday 13 January 2007
+MUN
+
+3
+-
+1
+
+AVL
+ 
+L
+Sunday 21 January 2007
+ARS
+
+2
+-
+1
+
+MUN
+ 
+W
+Wednesday 31 January 2007
+MUN
+
+4
+-
+0
+
+WAT
+ 
+W
+Sunday 4 February 2007
+TOT
+
+0
+-
+4
+
+MUN
+2 
+Previous Position 2
+
+Chelsea
+26	17	6	3	45	19	26	57	
+D
+Tuesday 2 January 2007
+AVL
+
+0
+-
+0
+
+CHE
+ 
+W
+Saturday 13 January 2007
+CHE
+
+4
+-
+0
+
+WIG
+ 
+L
+Saturday 20 January 2007
+LIV
+
+2
+-
+0
+
+CHE
+ 
+W
+Wednesday 31 January 2007
+CHE
+
+3
+-
+0
+
+BLB
+ 
+W
+Saturday 3 February 2007
+CHA
+
+0
+-
+1
+
+CHE
+3 
+Previous Position 3
+
+Liverpool
+26	15	5	6	39	17	22	50	
+W
+Monday 1 January 2007
+LIV
+
+3
+-
+0
+
+BOL
+ 
+W
+Saturday 13 January 2007
+WAT
+
+0
+-
+3
+
+LIV
+ 
+W
+Saturday 20 January 2007
+LIV
+
+2
+-
+0
+
+CHE
+ 
+W
+Tuesday 30 January 2007
+WHU
+
+1
+-
+2
+
+LIV
+ 
+D
+Saturday 3 February 2007
+LIV
+
+0
+-
+0
+
+EVE
+4 
+Previous Position 4
+
+Arsenal
+25	13	7	5	46	21	25	46	
+L
+Saturday 30 December 2006
+SHU
+
+1
+-
+0
+
+ARS
+ 
+W
+Tuesday 2 January 2007
+ARS
+
+4
+-
+0
+
+CHA
+ 
+W
+Saturday 13 January 2007
+BLB
+
+0
+-
+2
+
+ARS
+ 
+W
+Sunday 21 January 2007
+ARS
+
+2
+-
+1
+
+MUN
+ 
+D
+Saturday 3 February 2007
+MID
+
+1
+-
+1
+
+ARS
+5 
+Previous Position 5
+
+Bolton Wanderers
+26	13	5	8	30	27	3	44	
+L
+Monday 1 January 2007
+LIV
+
+3
+-
+0
+
+BOL
+ 
+D
+Saturday 13 January 2007
+BOL
+
+0
+-
+0
+
+MCI
+ 
+L
+Saturday 20 January 2007
+MID
+
+5
+-
+1
+
+BOL
+ 
+D
+Wednesday 31 January 2007
+BOL
+
+1
+-
+1
+
+CHA
+ 
+W
+Saturday 3 February 2007
+WAT
+
+0
+-
+1
+
+BOL
+6 
+Previous Position 7
+
+Reading
+26	12	4	10	39	34	5	40	
+W
+Monday 1 January 2007
+RDG
+
+6
+-
+0
+
+WHU
+ 
+D
+Sunday 14 January 2007
+EVE
+
+1
+-
+1
+
+RDG
+ 
+W
+Saturday 20 January 2007
+RDG
+
+3
+-
+1
+
+SHU
+ 
+W
+Tuesday 30 January 2007
+RDG
+
+3
+-
+2
+
+WIG
+ 
+W
+Saturday 3 February 2007
+MCI
+
+0
+-
+2
+
+RDG
+7 
+Previous Position 6
+
+Portsmouth
+26	10	8	8	34	25	9	38	
+D
+Monday 1 January 2007
+POR
+
+1
+-
+1
+
+TOT
+ 
+D
+Saturday 13 January 2007
+SHU
+
+1
+-
+1
+
+POR
+ 
+L
+Saturday 20 January 2007
+POR
+
+0
+-
+1
+
+CHA
+ 
+D
+Tuesday 30 January 2007
+POR
+
+0
+-
+0
+
+MID
+ 
+L
+Saturday 3 February 2007
+WIG
+
+1
+-
+0
+
+POR
+8 
+Previous Position 8
+
+Everton
+25	9	9	7	31	23	8	36	
+W
+Saturday 30 December 2006
+EVE
+
+3
+-
+0
+
+NEW
+ 
+L
+Monday 1 January 2007
+MCI
+
+2
+-
+1
+
+EVE
+ 
+D
+Sunday 14 January 2007
+EVE
+
+1
+-
+1
+
+RDG
+ 
+W
+Sunday 21 January 2007
+WIG
+
+0
+-
+2
+
+EVE
+ 
+D
+Saturday 3 February 2007
+LIV
+
+0
+-
+0
+
+EVE
+9 
+Previous Position 12
+
+Blackburn Rovers
+26	10	4	12	30	37	-7	34	
+L
+Saturday 13 January 2007
+BLB
+
+0
+-
+2
+
+ARS
+ 
+W
+Saturday 20 January 2007
+MCI
+
+0
+-
+3
+
+BLB
+ 
+L
+Tuesday 23 January 2007
+WAT
+
+2
+-
+1
+
+BLB
+ 
+L
+Wednesday 31 January 2007
+CHE
+
+3
+-
+0
+
+BLB
+ 
+W
+Saturday 3 February 2007
+BLB
+
+2
+-
+1
+
+SHU
+10 
+Previous Position 9
+
+Newcastle United
+26	9	6	11	32	35	-3	33	
+D
+Monday 1 January 2007
+NEW
+
+2
+-
+2
+
+MUN
+ 
+W
+Sunday 14 January 2007
+TOT
+
+2
+-
+3
+
+NEW
+ 
+D
+Saturday 20 January 2007
+NEW
+
+2
+-
+2
+
+WHU
+ 
+W
+Wednesday 31 January 2007
+NEW
+
+3
+-
+1
+
+AVL
+ 
+L
+Saturday 3 February 2007
+FUL
+
+2
+-
+1
+
+NEW
+11 
+Previous Position 10
+
+Tottenham Hotspur
+25	9	6	10	29	36	-7	33	
+L
+Saturday 30 December 2006
+TOT
+
+0
+-
+1
+
+LIV
+ 
+D
+Monday 1 January 2007
+POR
+
+1
+-
+1
+
+TOT
+ 
+L
+Sunday 14 January 2007
+TOT
+
+2
+-
+3
+
+NEW
+ 
+D
+Saturday 20 January 2007
+FUL
+
+1
+-
+1
+
+TOT
+ 
+L
+Sunday 4 February 2007
+TOT
+
+0
+-
+4
+
+MUN
+12 
+Previous Position 11
+
+Middlesbrough
+26	8	8	10	30	30	0	32	
+W
+Monday 1 January 2007
+MID
+
+3
+-
+1
+
+SHU
+ 
+W
+Saturday 13 January 2007
+CHA
+
+1
+-
+3
+
+MID
+ 
+W
+Saturday 20 January 2007
+MID
+
+5
+-
+1
+
+BOL
+ 
+D
+Tuesday 30 January 2007
+POR
+
+0
+-
+0
+
+MID
+ 
+D
+Saturday 3 February 2007
+MID
+
+1
+-
+1
+
+ARS
+13 
+Previous Position 14
+
+Aston Villa
+26	7	11	8	28	31	-3	32	
+D
+Tuesday 2 January 2007
+AVL
+
+0
+-
+0
+
+CHE
+ 
+L
+Saturday 13 January 2007
+MUN
+
+3
+-
+1
+
+AVL
+ 
+W
+Saturday 20 January 2007
+AVL
+
+2
+-
+0
+
+WAT
+ 
+L
+Wednesday 31 January 2007
+NEW
+
+3
+-
+1
+
+AVL
+ 
+W
+Saturday 3 February 2007
+AVL
+
+1
+-
+0
+
+WHU
+14 
+Previous Position 15
+
+Fulham
+26	7	11	8	28	39	-11	32	
+D
+Monday 1 January 2007
+FUL
+
+0
+-
+0
+
+WAT
+ 
+D
+Saturday 13 January 2007
+WHU
+
+3
+-
+3
+
+FUL
+ 
+D
+Saturday 20 January 2007
+FUL
+
+1
+-
+1
+
+TOT
+ 
+L
+Tuesday 30 January 2007
+SHU
+
+2
+-
+0
+
+FUL
+ 
+W
+Saturday 3 February 2007
+FUL
+
+2
+-
+1
+
+NEW
+15 
+Previous Position 13
+
+Manchester City
+25	8	6	11	19	30	-11	30	
+W
+Saturday 30 December 2006
+WHU
+
+0
+-
+1
+
+MCI
+ 
+W
+Monday 1 January 2007
+MCI
+
+2
+-
+1
+
+EVE
+ 
+D
+Saturday 13 January 2007
+BOL
+
+0
+-
+0
+
+MCI
+ 
+L
+Saturday 20 January 2007
+MCI
+
+0
+-
+3
+
+BLB
+ 
+L
+Saturday 3 February 2007
+MCI
+
+0
+-
+2
+
+RDG
+16 
+Previous Position 16
+
+Sheffield United
+26	7	6	13	22	35	-13	27	
+L
+Monday 1 January 2007
+MID
+
+3
+-
+1
+
+SHU
+ 
+D
+Saturday 13 January 2007
+SHU
+
+1
+-
+1
+
+POR
+ 
+L
+Saturday 20 January 2007
+RDG
+
+3
+-
+1
+
+SHU
+ 
+W
+Tuesday 30 January 2007
+SHU
+
+2
+-
+0
+
+FUL
+ 
+L
+Saturday 3 February 2007
+BLB
+
+2
+-
+1
+
+SHU
+17 
+Previous Position 17
+
+Wigan Athletic
+25	7	4	14	26	41	-15	25	
+L
+Monday 1 January 2007
+WIG
+
+0
+-
+3
+
+BLB
+ 
+L
+Saturday 13 January 2007
+CHE
+
+4
+-
+0
+
+WIG
+ 
+L
+Sunday 21 January 2007
+WIG
+
+0
+-
+2
+
+EVE
+ 
+L
+Tuesday 30 January 2007
+RDG
+
+3
+-
+2
+
+WIG
+ 
+W
+Saturday 3 February 2007
+WIG
+
+1
+-
+0
+
+POR
+18 
+Previous Position 18
+
+West Ham United
+26	5	5	16	18	41	-23	20	
+L
+Monday 1 January 2007
+RDG
+
+6
+-
+0
+
+WHU
+ 
+D
+Saturday 13 January 2007
+WHU
+
+3
+-
+3
+
+FUL
+ 
+D
+Saturday 20 January 2007
+NEW
+
+2
+-
+2
+
+WHU
+ 
+L
+Tuesday 30 January 2007
+WHU
+
+1
+-
+2
+
+LIV
+ 
+L
+Saturday 3 February 2007
+AVL
+
+1
+-
+0
+
+WHU
+19 
+Previous Position 19
+
+Charlton Athletic
+26	5	5	16	20	45	-25	20	
+L
+Tuesday 2 January 2007
+ARS
+
+4
+-
+0
+
+CHA
+ 
+L
+Saturday 13 January 2007
+CHA
+
+1
+-
+3
+
+MID
+ 
+W
+Saturday 20 January 2007
+POR
+
+0
+-
+1
+
+CHA
+ 
+D
+Wednesday 31 January 2007
+BOL
+
+1
+-
+1
+
+CHA
+ 
+L
+Saturday 3 February 2007
+CHA
+
+0
+-
+1
+
+CHE
+20 
+Previous Position 20
+
+Watford
+25	2	9	14	14	37	-23	15	
+L
+Saturday 13 January 2007
+WAT
+
+0
+-
+3
+
+LIV
+ 
+L
+Saturday 20 January 2007
+AVL
+
+2
+-
+0
+
+WAT
+ 
+W
+Tuesday 23 January 2007
+WAT
+
+2
+-
+1
+
+BLB
+ 
+L
+Wednesday 31 January 2007
+MUN
+
+4
+-
+0
+
+WAT
+ 
+L
+Saturday 3 February 2007
+WAT
+
+0
+-
+1
+
+BOL

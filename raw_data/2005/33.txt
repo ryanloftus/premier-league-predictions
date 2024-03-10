@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Chelsea
+33	26	4	3	64	20	44	82	
+W
+Saturday 11 March 2006
+CHE
+
+2
+-
+1
+
+TOT
+ 
+L
+Sunday 19 March 2006
+FUL
+
+1
+-
+0
+
+CHE
+ 
+W
+Saturday 25 March 2006
+CHE
+
+2
+-
+0
+
+MCI
+ 
+D
+Saturday 1 April 2006
+BIR
+
+0
+-
+0
+
+CHE
+ 
+W
+Sunday 9 April 2006
+CHE
+
+4
+-
+1
+
+WHU
+2 
+Previous Position 2
+
+Manchester United
+33	23	6	4	66	30	36	75	
+W
+Saturday 18 March 2006
+WBA
+
+1
+-
+2
+
+MUN
+ 
+W
+Sunday 26 March 2006
+MUN
+
+3
+-
+0
+
+BIR
+ 
+W
+Wednesday 29 March 2006
+MUN
+
+1
+-
+0
+
+WHU
+ 
+W
+Saturday 1 April 2006
+BOL
+
+1
+-
+2
+
+MUN
+ 
+W
+Sunday 9 April 2006
+MUN
+
+2
+-
+0
+
+ARS
+3 
+Previous Position 3
+
+Liverpool
+34	21	7	6	48	22	26	70	
+W
+Wednesday 15 March 2006
+LIV
+
+5
+-
+1
+
+FUL
+ 
+W
+Sunday 19 March 2006
+NEW
+
+1
+-
+3
+
+LIV
+ 
+W
+Saturday 25 March 2006
+LIV
+
+3
+-
+1
+
+EVE
+ 
+W
+Saturday 1 April 2006
+WBA
+
+0
+-
+2
+
+LIV
+ 
+W
+Sunday 9 April 2006
+LIV
+
+1
+-
+0
+
+BOL
+4 
+Previous Position 4
+
+Tottenham Hotspur
+33	16	10	7	48	33	15	58	
+L
+Saturday 11 March 2006
+CHE
+
+2
+-
+1
+
+TOT
+ 
+W
+Saturday 18 March 2006
+BIR
+
+0
+-
+2
+
+TOT
+ 
+W
+Monday 27 March 2006
+TOT
+
+2
+-
+1
+
+WBA
+ 
+L
+Saturday 1 April 2006
+NEW
+
+3
+-
+1
+
+TOT
+ 
+W
+Saturday 8 April 2006
+TOT
+
+2
+-
+1
+
+MCI
+5 
+Previous Position 5
+
+Arsenal
+33	16	6	11	54	26	28	54	
+W
+Sunday 12 March 2006
+ARS
+
+2
+-
+1
+
+LIV
+ 
+W
+Saturday 18 March 2006
+ARS
+
+3
+-
+0
+
+CHA
+ 
+W
+Saturday 1 April 2006
+ARS
+
+5
+-
+0
+
+AVL
+ 
+L
+Sunday 9 April 2006
+MUN
+
+2
+-
+0
+
+ARS
+ 
+D
+Wednesday 12 April 2006
+POR
+
+1
+-
+1
+
+ARS
+6 
+Previous Position 6
+
+Blackburn Rovers
+33	16	6	11	45	39	6	54	
+W
+Saturday 11 March 2006
+BLB
+
+2
+-
+0
+
+AVL
+ 
+W
+Saturday 18 March 2006
+BLB
+
+3
+-
+2
+
+MID
+ 
+W
+Saturday 25 March 2006
+SUN
+
+0
+-
+1
+
+BLB
+ 
+D
+Monday 3 April 2006
+BLB
+
+1
+-
+1
+
+WIG
+ 
+D
+Saturday 8 April 2006
+POR
+
+2
+-
+2
+
+BLB
+7 
+Previous Position 7
+
+Bolton Wanderers
+32	13	9	10	43	36	7	48	
+W
+Saturday 18 March 2006
+BOL
+
+2
+-
+0
+
+SUN
+ 
+L
+Sunday 26 March 2006
+MID
+
+4
+-
+3
+
+BOL
+ 
+L
+Saturday 1 April 2006
+BOL
+
+1
+-
+2
+
+MUN
+ 
+L
+Tuesday 4 April 2006
+BIR
+
+1
+-
+0
+
+BOL
+ 
+L
+Sunday 9 April 2006
+LIV
+
+1
+-
+0
+
+BOL
+8 
+Previous Position 8
+
+Wigan Athletic
+33	14	6	13	38	40	-2	48	
+W
+Saturday 11 March 2006
+SUN
+
+0
+-
+1
+
+WIG
+ 
+W
+Saturday 18 March 2006
+MCI
+
+0
+-
+1
+
+WIG
+ 
+L
+Saturday 25 March 2006
+WIG
+
+1
+-
+2
+
+WHU
+ 
+D
+Monday 3 April 2006
+BLB
+
+1
+-
+1
+
+WIG
+ 
+D
+Saturday 8 April 2006
+WIG
+
+1
+-
+1
+
+BIR
+9 
+Previous Position 9
+
+West Ham United
+33	13	7	13	47	50	-3	46	
+L
+Saturday 18 March 2006
+WHU
+
+2
+-
+4
+
+POR
+ 
+W
+Saturday 25 March 2006
+WIG
+
+1
+-
+2
+
+WHU
+ 
+L
+Wednesday 29 March 2006
+MUN
+
+1
+-
+0
+
+WHU
+ 
+D
+Sunday 2 April 2006
+WHU
+
+0
+-
+0
+
+CHA
+ 
+L
+Sunday 9 April 2006
+CHE
+
+4
+-
+1
+
+WHU
+10 
+Previous Position 12
+
+Newcastle United
+33	13	6	14	36	40	-4	45	
+L
+Sunday 12 March 2006
+MUN
+
+2
+-
+0
+
+NEW
+ 
+L
+Sunday 19 March 2006
+NEW
+
+1
+-
+3
+
+LIV
+ 
+L
+Sunday 26 March 2006
+CHA
+
+3
+-
+1
+
+NEW
+ 
+W
+Saturday 1 April 2006
+NEW
+
+3
+-
+1
+
+TOT
+ 
+W
+Sunday 9 April 2006
+MID
+
+1
+-
+2
+
+NEW
+11 
+Previous Position 10
+
+Everton
+33	13	6	14	31	43	-12	45	
+W
+Saturday 11 March 2006
+EVE
+
+3
+-
+1
+
+FUL
+ 
+W
+Saturday 18 March 2006
+EVE
+
+4
+-
+1
+
+AVL
+ 
+L
+Saturday 25 March 2006
+LIV
+
+3
+-
+1
+
+EVE
+ 
+D
+Saturday 1 April 2006
+EVE
+
+2
+-
+2
+
+SUN
+ 
+D
+Saturday 8 April 2006
+CHA
+
+0
+-
+0
+
+EVE
+12 
+Previous Position 11
+
+Charlton Athletic
+33	12	8	13	37	42	-5	44	
+W
+Sunday 12 March 2006
+CHA
+
+2
+-
+1
+
+MID
+ 
+L
+Saturday 18 March 2006
+ARS
+
+3
+-
+0
+
+CHA
+ 
+W
+Sunday 26 March 2006
+CHA
+
+3
+-
+1
+
+NEW
+ 
+D
+Sunday 2 April 2006
+WHU
+
+0
+-
+0
+
+CHA
+ 
+D
+Saturday 8 April 2006
+CHA
+
+0
+-
+0
+
+EVE
+13 
+Previous Position 13
+
+Manchester City
+33	12	4	17	40	40	0	40	
+L
+Saturday 11 March 2006
+POR
+
+2
+-
+1
+
+MCI
+ 
+L
+Saturday 18 March 2006
+MCI
+
+0
+-
+1
+
+WIG
+ 
+L
+Saturday 25 March 2006
+CHE
+
+2
+-
+0
+
+MCI
+ 
+L
+Sunday 2 April 2006
+MCI
+
+0
+-
+1
+
+MID
+ 
+L
+Saturday 8 April 2006
+TOT
+
+2
+-
+1
+
+MCI
+14 
+Previous Position 14
+
+Middlesbrough
+32	11	7	14	45	54	-9	40	
+L
+Sunday 12 March 2006
+CHA
+
+2
+-
+1
+
+MID
+ 
+L
+Saturday 18 March 2006
+BLB
+
+3
+-
+2
+
+MID
+ 
+W
+Sunday 26 March 2006
+MID
+
+4
+-
+3
+
+BOL
+ 
+W
+Sunday 2 April 2006
+MCI
+
+0
+-
+1
+
+MID
+ 
+L
+Sunday 9 April 2006
+MID
+
+1
+-
+2
+
+NEW
+15 
+Previous Position 16
+
+Aston Villa
+33	8	12	13	34	46	-12	36	
+L
+Saturday 11 March 2006
+BLB
+
+2
+-
+0
+
+AVL
+ 
+L
+Saturday 18 March 2006
+EVE
+
+4
+-
+1
+
+AVL
+ 
+D
+Saturday 25 March 2006
+AVL
+
+0
+-
+0
+
+FUL
+ 
+L
+Saturday 1 April 2006
+ARS
+
+5
+-
+0
+
+AVL
+ 
+D
+Sunday 9 April 2006
+AVL
+
+0
+-
+0
+
+WBA
+16 
+Previous Position 15
+
+Fulham
+33	10	6	17	41	54	-13	36	
+L
+Saturday 11 March 2006
+EVE
+
+3
+-
+1
+
+FUL
+ 
+L
+Wednesday 15 March 2006
+LIV
+
+5
+-
+1
+
+FUL
+ 
+W
+Sunday 19 March 2006
+FUL
+
+1
+-
+0
+
+CHE
+ 
+D
+Saturday 25 March 2006
+AVL
+
+0
+-
+0
+
+FUL
+ 
+L
+Saturday 1 April 2006
+FUL
+
+1
+-
+3
+
+POR
+17 
+Previous Position 17
+
+Birmingham City
+33	7	8	18	25	45	-20	29	
+L
+Saturday 18 March 2006
+BIR
+
+0
+-
+2
+
+TOT
+ 
+L
+Sunday 26 March 2006
+MUN
+
+3
+-
+0
+
+BIR
+ 
+D
+Saturday 1 April 2006
+BIR
+
+0
+-
+0
+
+CHE
+ 
+W
+Tuesday 4 April 2006
+BIR
+
+1
+-
+0
+
+BOL
+ 
+D
+Saturday 8 April 2006
+WIG
+
+1
+-
+1
+
+BIR
+18 
+Previous Position 19
+
+Portsmouth
+33	7	8	18	30	55	-25	29	
+W
+Saturday 11 March 2006
+POR
+
+2
+-
+1
+
+MCI
+ 
+W
+Saturday 18 March 2006
+WHU
+
+2
+-
+4
+
+POR
+ 
+W
+Saturday 1 April 2006
+FUL
+
+1
+-
+3
+
+POR
+ 
+D
+Saturday 8 April 2006
+POR
+
+2
+-
+2
+
+BLB
+ 
+D
+Wednesday 12 April 2006
+POR
+
+1
+-
+1
+
+ARS
+19 
+Previous Position 18
+
+West Bromwich Albion
+33	7	7	19	28	49	-21	28	
+D
+Saturday 11 March 2006
+BIR
+
+1
+-
+1
+
+WBA
+ 
+L
+Saturday 18 March 2006
+WBA
+
+1
+-
+2
+
+MUN
+ 
+L
+Monday 27 March 2006
+TOT
+
+2
+-
+1
+
+WBA
+ 
+L
+Saturday 1 April 2006
+WBA
+
+0
+-
+2
+
+LIV
+ 
+D
+Sunday 9 April 2006
+AVL
+
+0
+-
+0
+
+WBA
+20 
+Previous Position 20
+
+Sunderland
+32	2	5	25	21	57	-36	11	
+L
+Sunday 5 March 2006
+MCI
+
+2
+-
+1
+
+SUN
+ 
+L
+Saturday 11 March 2006
+SUN
+
+0
+-
+1
+
+WIG
+ 
+L
+Saturday 18 March 2006
+BOL
+
+2
+-
+0
+
+SUN
+ 
+L
+Saturday 25 March 2006
+SUN
+
+0
+-
+1
+
+BLB
+ 
+D
+Saturday 1 April 2006
+EVE
+
+2
+-
+2
+
+SUN

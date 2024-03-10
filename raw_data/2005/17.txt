@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Chelsea
+17	15	1	1	37	7	30	46	
+W
+Saturday 19 November 2005
+CHE
+
+3
+-
+0
+
+NEW
+ 
+W
+Saturday 26 November 2005
+POR
+
+0
+-
+2
+
+CHE
+ 
+W
+Saturday 3 December 2005
+CHE
+
+1
+-
+0
+
+MID
+ 
+W
+Saturday 10 December 2005
+CHE
+
+1
+-
+0
+
+WIG
+ 
+W
+Sunday 18 December 2005
+ARS
+
+0
+-
+2
+
+CHE
+2 
+Previous Position 2
+
+Manchester United
+17	11	4	2	31	14	17	37	
+W
+Sunday 27 November 2005
+WHU
+
+1
+-
+2
+
+MUN
+ 
+W
+Saturday 3 December 2005
+MUN
+
+3
+-
+0
+
+POR
+ 
+D
+Sunday 11 December 2005
+MUN
+
+1
+-
+1
+
+EVE
+ 
+W
+Wednesday 14 December 2005
+MUN
+
+4
+-
+0
+
+WIG
+ 
+W
+Saturday 17 December 2005
+AVL
+
+0
+-
+2
+
+MUN
+3 
+Previous Position 3
+
+Liverpool
+15	9	4	2	20	8	12	31	
+W
+Saturday 19 November 2005
+LIV
+
+3
+-
+0
+
+POR
+ 
+W
+Saturday 26 November 2005
+MCI
+
+0
+-
+1
+
+LIV
+ 
+W
+Wednesday 30 November 2005
+SUN
+
+0
+-
+2
+
+LIV
+ 
+W
+Saturday 3 December 2005
+LIV
+
+3
+-
+0
+
+WIG
+ 
+W
+Saturday 10 December 2005
+LIV
+
+2
+-
+0
+
+MID
+4 
+Previous Position 4
+
+Tottenham Hotspur
+17	8	7	2	25	16	9	31	
+D
+Sunday 20 November 2005
+TOT
+
+1
+-
+1
+
+WHU
+ 
+W
+Saturday 26 November 2005
+WIG
+
+1
+-
+2
+
+TOT
+ 
+W
+Saturday 3 December 2005
+TOT
+
+3
+-
+2
+
+SUN
+ 
+W
+Monday 12 December 2005
+TOT
+
+3
+-
+1
+
+POR
+ 
+D
+Sunday 18 December 2005
+MID
+
+3
+-
+3
+
+TOT
+5 
+Previous Position 5
+
+Bolton Wanderers
+16	9	3	4	22	14	8	30	
+W
+Monday 7 November 2005
+BOL
+
+1
+-
+0
+
+TOT
+ 
+L
+Sunday 27 November 2005
+FUL
+
+2
+-
+1
+
+BOL
+ 
+W
+Saturday 3 December 2005
+BOL
+
+2
+-
+0
+
+ARS
+ 
+D
+Saturday 10 December 2005
+BOL
+
+1
+-
+1
+
+AVL
+ 
+W
+Saturday 17 December 2005
+EVE
+
+0
+-
+4
+
+BOL
+6 
+Previous Position 8
+
+Wigan Athletic
+17	9	1	7	19	18	1	28	
+L
+Saturday 26 November 2005
+WIG
+
+1
+-
+2
+
+TOT
+ 
+L
+Saturday 3 December 2005
+LIV
+
+3
+-
+0
+
+WIG
+ 
+L
+Saturday 10 December 2005
+CHE
+
+1
+-
+0
+
+WIG
+ 
+L
+Wednesday 14 December 2005
+MUN
+
+4
+-
+0
+
+WIG
+ 
+W
+Saturday 17 December 2005
+WIG
+
+3
+-
+0
+
+CHA
+7 
+Previous Position 9
+
+Manchester City
+17	8	3	6	24	17	7	27	
+D
+Saturday 19 November 2005
+MCI
+
+0
+-
+0
+
+BLB
+ 
+L
+Saturday 26 November 2005
+MCI
+
+0
+-
+1
+
+LIV
+ 
+W
+Sunday 4 December 2005
+CHA
+
+2
+-
+5
+
+MCI
+ 
+L
+Saturday 10 December 2005
+WBA
+
+2
+-
+0
+
+MCI
+ 
+W
+Saturday 17 December 2005
+MCI
+
+4
+-
+1
+
+BIR
+8 
+Previous Position 6
+
+Arsenal
+16	8	2	6	22	15	7	26	
+W
+Saturday 19 November 2005
+WIG
+
+2
+-
+3
+
+ARS
+ 
+W
+Saturday 26 November 2005
+ARS
+
+3
+-
+0
+
+BLB
+ 
+L
+Saturday 3 December 2005
+BOL
+
+2
+-
+0
+
+ARS
+ 
+L
+Saturday 10 December 2005
+NEW
+
+1
+-
+0
+
+ARS
+ 
+L
+Sunday 18 December 2005
+ARS
+
+0
+-
+2
+
+CHE
+9 
+Previous Position 7
+
+West Ham United
+17	7	4	6	25	22	3	25	
+L
+Sunday 27 November 2005
+WHU
+
+1
+-
+2
+
+MUN
+ 
+W
+Monday 5 December 2005
+BIR
+
+1
+-
+2
+
+WHU
+ 
+L
+Saturday 10 December 2005
+BLB
+
+3
+-
+2
+
+WHU
+ 
+W
+Wednesday 14 December 2005
+EVE
+
+1
+-
+2
+
+WHU
+ 
+L
+Saturday 17 December 2005
+WHU
+
+2
+-
+4
+
+NEW
+10 
+Previous Position 10
+
+Newcastle United
+17	7	4	6	18	17	1	25	
+L
+Saturday 19 November 2005
+CHE
+
+3
+-
+0
+
+NEW
+ 
+L
+Sunday 27 November 2005
+EVE
+
+1
+-
+0
+
+NEW
+ 
+D
+Saturday 3 December 2005
+NEW
+
+1
+-
+1
+
+AVL
+ 
+W
+Saturday 10 December 2005
+NEW
+
+1
+-
+0
+
+ARS
+ 
+W
+Saturday 17 December 2005
+WHU
+
+2
+-
+4
+
+NEW
+11 
+Previous Position 11
+
+Charlton Athletic
+16	7	1	8	21	26	-5	22	
+L
+Saturday 19 November 2005
+CHA
+
+1
+-
+3
+
+MUN
+ 
+L
+Saturday 26 November 2005
+AVL
+
+1
+-
+0
+
+CHA
+ 
+L
+Sunday 4 December 2005
+CHA
+
+2
+-
+5
+
+MCI
+ 
+W
+Saturday 10 December 2005
+CHA
+
+2
+-
+0
+
+SUN
+ 
+L
+Saturday 17 December 2005
+WIG
+
+3
+-
+0
+
+CHA
+12 
+Previous Position 12
+
+Blackburn Rovers
+17	6	3	8	19	24	-5	21	
+D
+Saturday 19 November 2005
+MCI
+
+0
+-
+0
+
+BLB
+ 
+L
+Saturday 26 November 2005
+ARS
+
+3
+-
+0
+
+BLB
+ 
+L
+Saturday 3 December 2005
+BLB
+
+0
+-
+2
+
+EVE
+ 
+W
+Saturday 10 December 2005
+BLB
+
+3
+-
+2
+
+WHU
+ 
+L
+Saturday 17 December 2005
+FUL
+
+2
+-
+1
+
+BLB
+13 
+Previous Position 13
+
+Middlesbrough
+17	5	5	7	23	26	-3	20	
+W
+Sunday 20 November 2005
+MID
+
+3
+-
+2
+
+FUL
+ 
+D
+Sunday 27 November 2005
+MID
+
+2
+-
+2
+
+WBA
+ 
+L
+Saturday 3 December 2005
+CHE
+
+1
+-
+0
+
+MID
+ 
+L
+Saturday 10 December 2005
+LIV
+
+2
+-
+0
+
+MID
+ 
+D
+Sunday 18 December 2005
+MID
+
+3
+-
+3
+
+TOT
+14 
+Previous Position 16
+
+Fulham
+17	5	4	8	18	22	-4	19	
+L
+Sunday 20 November 2005
+MID
+
+3
+-
+2
+
+FUL
+ 
+W
+Sunday 27 November 2005
+FUL
+
+2
+-
+1
+
+BOL
+ 
+D
+Saturday 3 December 2005
+WBA
+
+0
+-
+0
+
+FUL
+ 
+L
+Saturday 10 December 2005
+BIR
+
+1
+-
+0
+
+FUL
+ 
+W
+Saturday 17 December 2005
+FUL
+
+2
+-
+1
+
+BLB
+15 
+Previous Position 14
+
+Aston Villa
+17	4	5	8	16	26	-10	17	
+W
+Saturday 19 November 2005
+SUN
+
+1
+-
+3
+
+AVL
+ 
+W
+Saturday 26 November 2005
+AVL
+
+1
+-
+0
+
+CHA
+ 
+D
+Saturday 3 December 2005
+NEW
+
+1
+-
+1
+
+AVL
+ 
+D
+Saturday 10 December 2005
+BOL
+
+1
+-
+1
+
+AVL
+ 
+L
+Saturday 17 December 2005
+AVL
+
+0
+-
+2
+
+MUN
+16 
+Previous Position 15
+
+Everton
+17	5	2	10	9	23	-14	17	
+W
+Sunday 27 November 2005
+EVE
+
+1
+-
+0
+
+NEW
+ 
+W
+Saturday 3 December 2005
+BLB
+
+0
+-
+2
+
+EVE
+ 
+D
+Sunday 11 December 2005
+MUN
+
+1
+-
+1
+
+EVE
+ 
+L
+Wednesday 14 December 2005
+EVE
+
+1
+-
+2
+
+WHU
+ 
+L
+Saturday 17 December 2005
+EVE
+
+0
+-
+4
+
+BOL
+17 
+Previous Position 17
+
+West Bromwich Albion
+17	4	4	9	17	25	-8	16	
+W
+Saturday 19 November 2005
+WBA
+
+4
+-
+0
+
+EVE
+ 
+D
+Sunday 27 November 2005
+MID
+
+2
+-
+2
+
+WBA
+ 
+D
+Saturday 3 December 2005
+WBA
+
+0
+-
+0
+
+FUL
+ 
+W
+Saturday 10 December 2005
+WBA
+
+2
+-
+0
+
+MCI
+ 
+L
+Saturday 17 December 2005
+POR
+
+1
+-
+0
+
+WBA
+18 
+Previous Position 19
+
+Portsmouth
+17	3	4	10	13	26	-13	13	
+L
+Saturday 19 November 2005
+LIV
+
+3
+-
+0
+
+POR
+ 
+L
+Saturday 26 November 2005
+POR
+
+0
+-
+2
+
+CHE
+ 
+L
+Saturday 3 December 2005
+MUN
+
+3
+-
+0
+
+POR
+ 
+L
+Monday 12 December 2005
+TOT
+
+3
+-
+1
+
+POR
+ 
+W
+Saturday 17 December 2005
+POR
+
+1
+-
+0
+
+WBA
+19 
+Previous Position 18
+
+Birmingham City
+16	3	3	10	11	23	-12	12	
+L
+Saturday 5 November 2005
+NEW
+
+1
+-
+0
+
+BIR
+ 
+W
+Saturday 26 November 2005
+SUN
+
+0
+-
+1
+
+BIR
+ 
+L
+Monday 5 December 2005
+BIR
+
+1
+-
+2
+
+WHU
+ 
+W
+Saturday 10 December 2005
+BIR
+
+1
+-
+0
+
+FUL
+ 
+L
+Saturday 17 December 2005
+MCI
+
+4
+-
+1
+
+BIR
+20 
+Previous Position 20
+
+Sunderland
+17	1	2	14	14	35	-21	5	
+L
+Saturday 19 November 2005
+SUN
+
+1
+-
+3
+
+AVL
+ 
+L
+Saturday 26 November 2005
+SUN
+
+0
+-
+1
+
+BIR
+ 
+L
+Wednesday 30 November 2005
+SUN
+
+0
+-
+2
+
+LIV
+ 
+L
+Saturday 3 December 2005
+TOT
+
+3
+-
+2
+
+SUN
+ 
+L
+Saturday 10 December 2005
+CHA
+
+2
+-
+0
+
+SUN

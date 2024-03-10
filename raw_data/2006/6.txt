@@ -1,0 +1,1080 @@
+1 
+Previous Position 3
+
+Chelsea
+6	5	0	1	11	3	8	15	
+L
+Wednesday 23 August 2006
+MID
+
+2
+-
+1
+
+CHE
+ 
+W
+Sunday 27 August 2006
+BLB
+
+0
+-
+2
+
+CHE
+ 
+W
+Saturday 9 September 2006
+CHE
+
+2
+-
+1
+
+CHA
+ 
+W
+Sunday 17 September 2006
+CHE
+
+1
+-
+0
+
+LIV
+ 
+W
+Saturday 23 September 2006
+FUL
+
+0
+-
+2
+
+CHE
+2 
+Previous Position 2
+
+Manchester United
+6	4	1	1	12	4	8	13	
+W
+Wednesday 23 August 2006
+CHA
+
+0
+-
+3
+
+MUN
+ 
+W
+Saturday 26 August 2006
+WAT
+
+1
+-
+2
+
+MUN
+ 
+W
+Saturday 9 September 2006
+MUN
+
+1
+-
+0
+
+TOT
+ 
+L
+Sunday 17 September 2006
+MUN
+
+0
+-
+1
+
+ARS
+ 
+D
+Saturday 23 September 2006
+RDG
+
+1
+-
+1
+
+MUN
+3 
+Previous Position 1
+
+Portsmouth
+6	4	1	1	9	1	8	13	
+D
+Wednesday 23 August 2006
+MCI
+
+0
+-
+0
+
+POR
+ 
+W
+Monday 28 August 2006
+MID
+
+0
+-
+4
+
+POR
+ 
+W
+Saturday 9 September 2006
+POR
+
+1
+-
+0
+
+WIG
+ 
+W
+Saturday 16 September 2006
+CHA
+
+0
+-
+1
+
+POR
+ 
+L
+Monday 25 September 2006
+POR
+
+0
+-
+1
+
+BOL
+4 
+Previous Position 4
+
+Everton
+6	3	3	0	11	5	6	12	
+D
+Wednesday 23 August 2006
+BLB
+
+1
+-
+1
+
+EVE
+ 
+W
+Saturday 26 August 2006
+TOT
+
+0
+-
+2
+
+EVE
+ 
+W
+Saturday 9 September 2006
+EVE
+
+3
+-
+0
+
+LIV
+ 
+D
+Saturday 16 September 2006
+EVE
+
+2
+-
+2
+
+WIG
+ 
+D
+Sunday 24 September 2006
+NEW
+
+1
+-
+1
+
+EVE
+5 
+Previous Position 5
+
+Aston Villa
+6	3	3	0	8	3	5	12	
+W
+Wednesday 23 August 2006
+AVL
+
+2
+-
+1
+
+RDG
+ 
+W
+Sunday 27 August 2006
+AVL
+
+2
+-
+0
+
+NEW
+ 
+D
+Sunday 10 September 2006
+WHU
+
+1
+-
+1
+
+AVL
+ 
+D
+Saturday 16 September 2006
+WAT
+
+0
+-
+0
+
+AVL
+ 
+W
+Saturday 23 September 2006
+AVL
+
+2
+-
+0
+
+CHA
+6 
+Previous Position 7
+
+Bolton Wanderers
+6	3	2	1	5	3	2	11	
+D
+Wednesday 23 August 2006
+FUL
+
+1
+-
+1
+
+BOL
+ 
+L
+Saturday 26 August 2006
+CHA
+
+2
+-
+0
+
+BOL
+ 
+W
+Saturday 9 September 2006
+BOL
+
+1
+-
+0
+
+WAT
+ 
+D
+Saturday 16 September 2006
+BOL
+
+0
+-
+0
+
+MID
+ 
+W
+Monday 25 September 2006
+POR
+
+0
+-
+1
+
+BOL
+7 
+Previous Position 9
+
+Liverpool
+6	3	1	2	8	6	2	10	
+W
+Saturday 26 August 2006
+LIV
+
+2
+-
+1
+
+WHU
+ 
+L
+Saturday 9 September 2006
+EVE
+
+3
+-
+0
+
+LIV
+ 
+L
+Sunday 17 September 2006
+CHE
+
+1
+-
+0
+
+LIV
+ 
+W
+Wednesday 20 September 2006
+LIV
+
+2
+-
+0
+
+NEW
+ 
+W
+Saturday 23 September 2006
+LIV
+
+3
+-
+0
+
+TOT
+8 
+Previous Position 6
+
+Reading
+6	3	1	2	8	7	1	10	
+L
+Wednesday 23 August 2006
+AVL
+
+2
+-
+1
+
+RDG
+ 
+L
+Saturday 26 August 2006
+WIG
+
+1
+-
+0
+
+RDG
+ 
+W
+Monday 11 September 2006
+RDG
+
+1
+-
+0
+
+MCI
+ 
+W
+Saturday 16 September 2006
+SHU
+
+1
+-
+2
+
+RDG
+ 
+D
+Saturday 23 September 2006
+RDG
+
+1
+-
+1
+
+MUN
+9 
+Previous Position 11
+
+Arsenal
+5	2	2	1	6	3	3	8	
+D
+Saturday 19 August 2006
+ARS
+
+1
+-
+1
+
+AVL
+ 
+L
+Saturday 26 August 2006
+MCI
+
+1
+-
+0
+
+ARS
+ 
+D
+Saturday 9 September 2006
+ARS
+
+1
+-
+1
+
+MID
+ 
+W
+Sunday 17 September 2006
+MUN
+
+0
+-
+1
+
+ARS
+ 
+W
+Saturday 23 September 2006
+ARS
+
+3
+-
+0
+
+SHU
+10 
+Previous Position 13
+
+Blackburn Rovers
+6	2	2	2	6	8	-2	8	
+D
+Wednesday 23 August 2006
+BLB
+
+1
+-
+1
+
+EVE
+ 
+L
+Sunday 27 August 2006
+BLB
+
+0
+-
+2
+
+CHE
+ 
+D
+Saturday 9 September 2006
+SHU
+
+0
+-
+0
+
+BLB
+ 
+W
+Sunday 17 September 2006
+BLB
+
+4
+-
+2
+
+MCI
+ 
+W
+Saturday 23 September 2006
+MID
+
+0
+-
+1
+
+BLB
+11 
+Previous Position 8
+
+Fulham
+6	2	2	2	5	9	-4	8	
+D
+Wednesday 23 August 2006
+FUL
+
+1
+-
+1
+
+BOL
+ 
+W
+Saturday 26 August 2006
+FUL
+
+1
+-
+0
+
+SHU
+ 
+W
+Saturday 9 September 2006
+NEW
+
+1
+-
+2
+
+FUL
+ 
+D
+Sunday 17 September 2006
+TOT
+
+0
+-
+0
+
+FUL
+ 
+L
+Saturday 23 September 2006
+FUL
+
+0
+-
+2
+
+CHE
+12 
+Previous Position 10
+
+Newcastle United
+6	2	1	3	6	8	-2	7	
+L
+Sunday 27 August 2006
+AVL
+
+2
+-
+0
+
+NEW
+ 
+L
+Saturday 9 September 2006
+NEW
+
+1
+-
+2
+
+FUL
+ 
+W
+Sunday 17 September 2006
+WHU
+
+0
+-
+2
+
+NEW
+ 
+L
+Wednesday 20 September 2006
+LIV
+
+2
+-
+0
+
+NEW
+ 
+D
+Sunday 24 September 2006
+NEW
+
+1
+-
+1
+
+EVE
+13 
+Previous Position 17
+
+Manchester City
+6	2	1	3	5	8	-3	7	
+D
+Wednesday 23 August 2006
+MCI
+
+0
+-
+0
+
+POR
+ 
+W
+Saturday 26 August 2006
+MCI
+
+1
+-
+0
+
+ARS
+ 
+L
+Monday 11 September 2006
+RDG
+
+1
+-
+0
+
+MCI
+ 
+L
+Sunday 17 September 2006
+BLB
+
+4
+-
+2
+
+MCI
+ 
+W
+Saturday 23 September 2006
+MCI
+
+2
+-
+0
+
+WHU
+14 
+Previous Position 15
+
+Wigan Athletic
+5	1	2	2	5	6	-1	5	
+L
+Saturday 19 August 2006
+NEW
+
+2
+-
+1
+
+WIG
+ 
+W
+Saturday 26 August 2006
+WIG
+
+1
+-
+0
+
+RDG
+ 
+L
+Saturday 9 September 2006
+POR
+
+1
+-
+0
+
+WIG
+ 
+D
+Saturday 16 September 2006
+EVE
+
+2
+-
+2
+
+WIG
+ 
+D
+Saturday 23 September 2006
+WIG
+
+1
+-
+1
+
+WAT
+15 
+Previous Position 12
+
+West Ham United
+6	1	2	3	6	9	-3	5	
+D
+Tuesday 22 August 2006
+WAT
+
+1
+-
+1
+
+WHU
+ 
+L
+Saturday 26 August 2006
+LIV
+
+2
+-
+1
+
+WHU
+ 
+D
+Sunday 10 September 2006
+WHU
+
+1
+-
+1
+
+AVL
+ 
+L
+Sunday 17 September 2006
+WHU
+
+0
+-
+2
+
+NEW
+ 
+L
+Saturday 23 September 2006
+MCI
+
+2
+-
+0
+
+WHU
+16 
+Previous Position 14
+
+Middlesbrough
+6	1	2	3	5	10	-5	5	
+W
+Wednesday 23 August 2006
+MID
+
+2
+-
+1
+
+CHE
+ 
+L
+Monday 28 August 2006
+MID
+
+0
+-
+4
+
+POR
+ 
+D
+Saturday 9 September 2006
+ARS
+
+1
+-
+1
+
+MID
+ 
+D
+Saturday 16 September 2006
+BOL
+
+0
+-
+0
+
+MID
+ 
+L
+Saturday 23 September 2006
+MID
+
+0
+-
+1
+
+BLB
+17 
+Previous Position 16
+
+Tottenham Hotspur
+6	1	1	4	2	8	-6	4	
+W
+Tuesday 22 August 2006
+TOT
+
+2
+-
+0
+
+SHU
+ 
+L
+Saturday 26 August 2006
+TOT
+
+0
+-
+2
+
+EVE
+ 
+L
+Saturday 9 September 2006
+MUN
+
+1
+-
+0
+
+TOT
+ 
+D
+Sunday 17 September 2006
+TOT
+
+0
+-
+0
+
+FUL
+ 
+L
+Saturday 23 September 2006
+LIV
+
+3
+-
+0
+
+TOT
+18 
+Previous Position 19
+
+Watford
+6	0	3	3	4	7	-3	3	
+D
+Tuesday 22 August 2006
+WAT
+
+1
+-
+1
+
+WHU
+ 
+L
+Saturday 26 August 2006
+WAT
+
+1
+-
+2
+
+MUN
+ 
+L
+Saturday 9 September 2006
+BOL
+
+1
+-
+0
+
+WAT
+ 
+D
+Saturday 16 September 2006
+WAT
+
+0
+-
+0
+
+AVL
+ 
+D
+Saturday 23 September 2006
+WIG
+
+1
+-
+1
+
+WAT
+19 
+Previous Position 18
+
+Charlton Athletic
+6	1	0	5	4	11	-7	3	
+L
+Wednesday 23 August 2006
+CHA
+
+0
+-
+3
+
+MUN
+ 
+W
+Saturday 26 August 2006
+CHA
+
+2
+-
+0
+
+BOL
+ 
+L
+Saturday 9 September 2006
+CHE
+
+2
+-
+1
+
+CHA
+ 
+L
+Saturday 16 September 2006
+CHA
+
+0
+-
+1
+
+POR
+ 
+L
+Saturday 23 September 2006
+AVL
+
+2
+-
+0
+
+CHA
+20 
+Previous Position 20
+
+Sheffield United
+6	0	2	4	2	9	-7	2	
+L
+Tuesday 22 August 2006
+TOT
+
+2
+-
+0
+
+SHU
+ 
+L
+Saturday 26 August 2006
+FUL
+
+1
+-
+0
+
+SHU
+ 
+D
+Saturday 9 September 2006
+SHU
+
+0
+-
+0
+
+BLB
+ 
+L
+Saturday 16 September 2006
+SHU
+
+1
+-
+2
+
+RDG
+ 
+L
+Saturday 23 September 2006
+ARS
+
+3
+-
+0
+
+SHU

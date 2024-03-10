@@ -1,0 +1,640 @@
+1 
+Previous Position 1
+
+Manchester United
+3	3	0	0	10	2	8	9	
+W
+Sunday 20 August 2006
+MUN
+
+5
+-
+1
+
+FUL
+ 
+W
+Wednesday 23 August 2006
+CHA
+
+0
+-
+3
+
+MUN
+ 
+W
+Saturday 26 August 2006
+WAT
+
+1
+-
+2
+
+MUN
+2 
+Previous Position 2
+
+Portsmouth
+3	2	1	0	7	0	7	7	
+W
+Saturday 19 August 2006
+POR
+
+3
+-
+0
+
+BLB
+ 
+D
+Wednesday 23 August 2006
+MCI
+
+0
+-
+0
+
+POR
+ 
+W
+Monday 28 August 2006
+MID
+
+0
+-
+4
+
+POR
+3 
+Previous Position 5
+
+Aston Villa
+3	2	1	0	5	2	3	7	
+D
+Saturday 19 August 2006
+ARS
+
+1
+-
+1
+
+AVL
+ 
+W
+Wednesday 23 August 2006
+AVL
+
+2
+-
+1
+
+RDG
+ 
+W
+Sunday 27 August 2006
+AVL
+
+2
+-
+0
+
+NEW
+4 
+Previous Position 6
+
+Everton
+3	2	1	0	5	2	3	7	
+W
+Saturday 19 August 2006
+EVE
+
+2
+-
+1
+
+WAT
+ 
+D
+Wednesday 23 August 2006
+BLB
+
+1
+-
+1
+
+EVE
+ 
+W
+Saturday 26 August 2006
+TOT
+
+0
+-
+2
+
+EVE
+5 
+Previous Position 7
+
+Chelsea
+3	2	0	1	6	2	4	6	
+W
+Sunday 20 August 2006
+CHE
+
+3
+-
+0
+
+MCI
+ 
+L
+Wednesday 23 August 2006
+MID
+
+2
+-
+1
+
+CHE
+ 
+W
+Sunday 27 August 2006
+BLB
+
+0
+-
+2
+
+CHE
+6 
+Previous Position 3
+
+West Ham United
+3	1	1	1	5	4	1	4	
+W
+Saturday 19 August 2006
+WHU
+
+3
+-
+1
+
+CHA
+ 
+D
+Tuesday 22 August 2006
+WAT
+
+1
+-
+1
+
+WHU
+ 
+L
+Saturday 26 August 2006
+LIV
+
+2
+-
+1
+
+WHU
+7 
+Previous Position 13
+
+Liverpool
+2	1	1	0	3	2	1	4	
+D
+Saturday 19 August 2006
+SHU
+
+1
+-
+1
+
+LIV
+ 
+W
+Saturday 26 August 2006
+LIV
+
+2
+-
+1
+
+WHU
+8 
+Previous Position 4
+
+Bolton Wanderers
+3	1	1	1	3	3	0	4	
+W
+Saturday 19 August 2006
+BOL
+
+2
+-
+0
+
+TOT
+ 
+D
+Wednesday 23 August 2006
+FUL
+
+1
+-
+1
+
+BOL
+ 
+L
+Saturday 26 August 2006
+CHA
+
+2
+-
+0
+
+BOL
+9 
+Previous Position 17
+
+Manchester City
+3	1	1	1	1	3	-2	4	
+L
+Sunday 20 August 2006
+CHE
+
+3
+-
+0
+
+MCI
+ 
+D
+Wednesday 23 August 2006
+MCI
+
+0
+-
+0
+
+POR
+ 
+W
+Saturday 26 August 2006
+MCI
+
+1
+-
+0
+
+ARS
+10 
+Previous Position 18
+
+Fulham
+3	1	1	1	3	6	-3	4	
+L
+Sunday 20 August 2006
+MUN
+
+5
+-
+1
+
+FUL
+ 
+D
+Wednesday 23 August 2006
+FUL
+
+1
+-
+1
+
+BOL
+ 
+W
+Saturday 26 August 2006
+FUL
+
+1
+-
+0
+
+SHU
+11 
+Previous Position 19
+
+Wigan Athletic
+2	1	0	1	2	2	0	3	
+L
+Saturday 19 August 2006
+NEW
+
+2
+-
+1
+
+WIG
+ 
+W
+Saturday 26 August 2006
+WIG
+
+1
+-
+0
+
+RDG
+12 
+Previous Position 10
+
+Reading
+3	1	0	2	4	5	-1	3	
+W
+Saturday 19 August 2006
+RDG
+
+3
+-
+2
+
+MID
+ 
+L
+Wednesday 23 August 2006
+AVL
+
+2
+-
+1
+
+RDG
+ 
+L
+Saturday 26 August 2006
+WIG
+
+1
+-
+0
+
+RDG
+13 
+Previous Position 8
+
+Newcastle United
+2	1	0	1	2	3	-1	3	
+W
+Saturday 19 August 2006
+NEW
+
+2
+-
+1
+
+WIG
+ 
+L
+Sunday 27 August 2006
+AVL
+
+2
+-
+0
+
+NEW
+14 
+Previous Position 11
+
+Tottenham Hotspur
+3	1	0	2	2	4	-2	3	
+L
+Saturday 19 August 2006
+BOL
+
+2
+-
+0
+
+TOT
+ 
+W
+Tuesday 22 August 2006
+TOT
+
+2
+-
+0
+
+SHU
+ 
+L
+Saturday 26 August 2006
+TOT
+
+0
+-
+2
+
+EVE
+15 
+Previous Position 20
+
+Charlton Athletic
+3	1	0	2	3	6	-3	3	
+L
+Saturday 19 August 2006
+WHU
+
+3
+-
+1
+
+CHA
+ 
+L
+Wednesday 23 August 2006
+CHA
+
+0
+-
+3
+
+MUN
+ 
+W
+Saturday 26 August 2006
+CHA
+
+2
+-
+0
+
+BOL
+16 
+Previous Position 9
+
+Middlesbrough
+3	1	0	2	4	8	-4	3	
+L
+Saturday 19 August 2006
+RDG
+
+3
+-
+2
+
+MID
+ 
+W
+Wednesday 23 August 2006
+MID
+
+2
+-
+1
+
+CHE
+ 
+L
+Monday 28 August 2006
+MID
+
+0
+-
+4
+
+POR
+17 
+Previous Position 12
+
+Arsenal
+2	0	1	1	1	2	-1	1	
+D
+Saturday 19 August 2006
+ARS
+
+1
+-
+1
+
+AVL
+ 
+L
+Saturday 26 August 2006
+MCI
+
+1
+-
+0
+
+ARS
+18 
+Previous Position 14
+
+Watford
+3	0	1	2	3	5	-2	1	
+L
+Saturday 19 August 2006
+EVE
+
+2
+-
+1
+
+WAT
+ 
+D
+Tuesday 22 August 2006
+WAT
+
+1
+-
+1
+
+WHU
+ 
+L
+Saturday 26 August 2006
+WAT
+
+1
+-
+2
+
+MUN
+19 
+Previous Position 15
+
+Sheffield United
+3	0	1	2	1	4	-3	1	
+D
+Saturday 19 August 2006
+SHU
+
+1
+-
+1
+
+LIV
+ 
+L
+Tuesday 22 August 2006
+TOT
+
+2
+-
+0
+
+SHU
+ 
+L
+Saturday 26 August 2006
+FUL
+
+1
+-
+0
+
+SHU
+20 
+Previous Position 16
+
+Blackburn Rovers
+3	0	1	2	1	6	-5	1	
+L
+Saturday 19 August 2006
+POR
+
+3
+-
+0
+
+BLB
+ 
+D
+Wednesday 23 August 2006
+BLB
+
+1
+-
+1
+
+EVE
+ 
+L
+Sunday 27 August 2006
+BLB
+
+0
+-
+2
+
+CHE
