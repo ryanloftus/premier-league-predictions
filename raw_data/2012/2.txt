@@ -1,0 +1,480 @@
+1 
+Previous Position 1
+
+Chelsea
+3	3	0	0	8	2	6	9	
+W
+Sunday 19 August 2012
+WIG
+
+0
+-
+2
+
+CHE
+ 
+W
+Wednesday 22 August 2012
+CHE
+
+4
+-
+2
+
+RDG
+ 
+W
+Saturday 25 August 2012
+CHE
+
+2
+-
+0
+
+NEW
+2 
+Previous Position 3
+
+Swansea City
+2	2	0	0	8	0	8	6	
+W
+Saturday 18 August 2012
+QPR
+
+0
+-
+5
+
+SWA
+ 
+W
+Saturday 25 August 2012
+SWA
+
+3
+-
+0
+
+WHU
+3 
+Previous Position 7
+
+Everton
+2	2	0	0	4	1	3	6	
+W
+Monday 20 August 2012
+EVE
+
+1
+-
+0
+
+MUN
+ 
+W
+Saturday 25 August 2012
+AVL
+
+1
+-
+3
+
+EVE
+4 
+Previous Position 4
+
+West Bromwich Albion
+2	1	1	0	4	1	3	4	
+W
+Saturday 18 August 2012
+WBA
+
+3
+-
+0
+
+LIV
+ 
+D
+Saturday 25 August 2012
+TOT
+
+1
+-
+1
+
+WBA
+5 
+Previous Position 5
+
+Manchester City
+2	1	1	0	5	4	1	4	
+W
+Sunday 19 August 2012
+MCI
+
+3
+-
+2
+
+SOU
+ 
+D
+Sunday 26 August 2012
+LIV
+
+2
+-
+2
+
+MCI
+6 
+Previous Position 2
+
+Fulham
+2	1	0	1	7	3	4	3	
+W
+Saturday 18 August 2012
+FUL
+
+5
+-
+0
+
+NOR
+ 
+L
+Saturday 25 August 2012
+MUN
+
+3
+-
+2
+
+FUL
+7 
+Previous Position 16
+
+Manchester United
+2	1	0	1	3	3	0	3	
+L
+Monday 20 August 2012
+EVE
+
+1
+-
+0
+
+MUN
+ 
+W
+Saturday 25 August 2012
+MUN
+
+3
+-
+2
+
+FUL
+8 
+Previous Position 17
+
+Wigan Athletic
+2	1	0	1	2	2	0	3	
+L
+Sunday 19 August 2012
+WIG
+
+0
+-
+2
+
+CHE
+ 
+W
+Saturday 25 August 2012
+SOU
+
+0
+-
+2
+
+WIG
+9 
+Previous Position 6
+
+Newcastle United
+2	1	0	1	2	3	-1	3	
+W
+Saturday 18 August 2012
+NEW
+
+2
+-
+1
+
+TOT
+ 
+L
+Saturday 25 August 2012
+CHE
+
+2
+-
+0
+
+NEW
+10 
+Previous Position 8
+
+West Ham United
+2	1	0	1	1	3	-2	3	
+W
+Saturday 18 August 2012
+WHU
+
+1
+-
+0
+
+AVL
+ 
+L
+Saturday 25 August 2012
+SWA
+
+3
+-
+0
+
+WHU
+11 
+Previous Position 9
+
+Stoke City
+2	0	2	0	1	1	0	2	
+D
+Saturday 18 August 2012
+RDG
+
+1
+-
+1
+
+STK
+ 
+D
+Sunday 26 August 2012
+STK
+
+0
+-
+0
+
+ARS
+12 
+Previous Position 10
+
+Arsenal
+2	0	2	0	0	0	0	2	
+D
+Saturday 18 August 2012
+ARS
+
+0
+-
+0
+
+SUN
+ 
+D
+Sunday 26 August 2012
+STK
+
+0
+-
+0
+
+ARS
+13 
+Previous Position 11
+
+Sunderland
+1	0	1	0	0	0	0	1	
+D
+Saturday 18 August 2012
+ARS
+
+0
+-
+0
+
+SUN
+14 
+Previous Position 14
+
+Tottenham Hotspur
+2	0	1	1	2	3	-1	1	
+L
+Saturday 18 August 2012
+NEW
+
+2
+-
+1
+
+TOT
+ 
+D
+Saturday 25 August 2012
+TOT
+
+1
+-
+1
+
+WBA
+15 
+Previous Position 12
+
+Reading
+2	0	1	1	3	5	-2	1	
+D
+Saturday 18 August 2012
+RDG
+
+1
+-
+1
+
+STK
+ 
+L
+Wednesday 22 August 2012
+CHE
+
+4
+-
+2
+
+RDG
+16 
+Previous Position 18
+
+Liverpool
+2	0	1	1	2	5	-3	1	
+L
+Saturday 18 August 2012
+WBA
+
+3
+-
+0
+
+LIV
+ 
+D
+Sunday 26 August 2012
+LIV
+
+2
+-
+2
+
+MCI
+17 
+Previous Position 19
+
+Norwich City
+2	0	1	1	1	6	-5	1	
+L
+Saturday 18 August 2012
+FUL
+
+5
+-
+0
+
+NOR
+ 
+D
+Saturday 25 August 2012
+NOR
+
+1
+-
+1
+
+QPR
+18 
+Previous Position 20
+
+Queens Park Rangers
+2	0	1	1	1	6	-5	1	
+L
+Saturday 18 August 2012
+QPR
+
+0
+-
+5
+
+SWA
+ 
+D
+Saturday 25 August 2012
+NOR
+
+1
+-
+1
+
+QPR
+19 
+Previous Position 13
+
+Southampton
+2	0	0	2	2	5	-3	0	
+L
+Sunday 19 August 2012
+MCI
+
+3
+-
+2
+
+SOU
+ 
+L
+Saturday 25 August 2012
+SOU
+
+0
+-
+2
+
+WIG
+20 
+Previous Position 15
+
+Aston Villa
+2	0	0	2	1	4	-3	0	
+L
+Saturday 18 August 2012
+WHU
+
+1
+-
+0
+
+AVL
+ 
+L
+Saturday 25 August 2012
+AVL
+
+1
+-
+3
+
+EVE

@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Manchester United
+32	20	9	3	70	32	38	69	
+L
+Tuesday 1 March 2011
+CHE
+
+2
+-
+1
+
+MUN
+ 
+L
+Sunday 6 March 2011
+LIV
+
+3
+-
+1
+
+MUN
+ 
+W
+Saturday 19 March 2011
+MUN
+
+1
+-
+0
+
+BOL
+ 
+W
+Saturday 2 April 2011
+WHU
+
+2
+-
+4
+
+MUN
+ 
+W
+Saturday 9 April 2011
+MUN
+
+2
+-
+0
+
+FUL
+2 
+Previous Position 2
+
+Arsenal
+31	18	8	5	62	30	32	62	
+W
+Wednesday 23 February 2011
+ARS
+
+1
+-
+0
+
+STK
+ 
+D
+Saturday 5 March 2011
+ARS
+
+0
+-
+0
+
+SUN
+ 
+D
+Saturday 19 March 2011
+WBA
+
+2
+-
+2
+
+ARS
+ 
+D
+Saturday 2 April 2011
+ARS
+
+0
+-
+0
+
+BLB
+ 
+W
+Sunday 10 April 2011
+BLP
+
+1
+-
+3
+
+ARS
+3 
+Previous Position 4
+
+Chelsea
+31	17	7	7	55	25	30	58	
+W
+Tuesday 1 March 2011
+CHE
+
+2
+-
+1
+
+MUN
+ 
+W
+Monday 7 March 2011
+BLP
+
+1
+-
+3
+
+CHE
+ 
+W
+Sunday 20 March 2011
+CHE
+
+2
+-
+0
+
+MCI
+ 
+D
+Saturday 2 April 2011
+STK
+
+1
+-
+1
+
+CHE
+ 
+W
+Saturday 9 April 2011
+CHE
+
+1
+-
+0
+
+WIG
+4 
+Previous Position 3
+
+Manchester City
+32	16	8	8	50	30	20	56	
+D
+Sunday 27 February 2011
+MCI
+
+1
+-
+1
+
+FUL
+ 
+W
+Saturday 5 March 2011
+MCI
+
+1
+-
+0
+
+WIG
+ 
+L
+Sunday 20 March 2011
+CHE
+
+2
+-
+0
+
+MCI
+ 
+W
+Sunday 3 April 2011
+MCI
+
+5
+-
+0
+
+SUN
+ 
+L
+Monday 11 April 2011
+LIV
+
+3
+-
+0
+
+MCI
+5 
+Previous Position 5
+
+Tottenham Hotspur
+31	14	11	6	44	36	8	53	
+L
+Tuesday 22 February 2011
+BLP
+
+3
+-
+1
+
+TOT
+ 
+D
+Sunday 6 March 2011
+WOL
+
+3
+-
+3
+
+TOT
+ 
+D
+Saturday 19 March 2011
+TOT
+
+0
+-
+0
+
+WHU
+ 
+D
+Saturday 2 April 2011
+WIG
+
+0
+-
+0
+
+TOT
+ 
+W
+Saturday 9 April 2011
+TOT
+
+3
+-
+2
+
+STK
+6 
+Previous Position 6
+
+Liverpool
+32	14	6	12	45	38	7	48	
+L
+Sunday 27 February 2011
+WHU
+
+3
+-
+1
+
+LIV
+ 
+W
+Sunday 6 March 2011
+LIV
+
+3
+-
+1
+
+MUN
+ 
+W
+Sunday 20 March 2011
+SUN
+
+0
+-
+2
+
+LIV
+ 
+L
+Saturday 2 April 2011
+WBA
+
+2
+-
+1
+
+LIV
+ 
+W
+Monday 11 April 2011
+LIV
+
+3
+-
+0
+
+MCI
+7 
+Previous Position 7
+
+Everton
+32	10	14	8	45	41	4	44	
+W
+Saturday 5 March 2011
+NEW
+
+1
+-
+2
+
+EVE
+ 
+D
+Wednesday 9 March 2011
+EVE
+
+1
+-
+1
+
+BIR
+ 
+W
+Saturday 19 March 2011
+EVE
+
+2
+-
+1
+
+FUL
+ 
+D
+Saturday 2 April 2011
+EVE
+
+2
+-
+2
+
+AVL
+ 
+W
+Saturday 9 April 2011
+WOL
+
+0
+-
+3
+
+EVE
+8 
+Previous Position 8
+
+Bolton Wanderers
+32	11	10	11	46	43	3	43	
+D
+Saturday 26 February 2011
+NEW
+
+1
+-
+1
+
+BOL
+ 
+W
+Saturday 5 March 2011
+BOL
+
+3
+-
+2
+
+AVL
+ 
+L
+Saturday 19 March 2011
+MUN
+
+1
+-
+0
+
+BOL
+ 
+L
+Saturday 2 April 2011
+BIR
+
+2
+-
+1
+
+BOL
+ 
+W
+Saturday 9 April 2011
+BOL
+
+3
+-
+0
+
+WHU
+9 
+Previous Position 9
+
+Newcastle United
+32	10	9	13	48	47	1	39	
+D
+Saturday 26 February 2011
+NEW
+
+1
+-
+1
+
+BOL
+ 
+L
+Saturday 5 March 2011
+NEW
+
+1
+-
+2
+
+EVE
+ 
+L
+Saturday 19 March 2011
+STK
+
+4
+-
+0
+
+NEW
+ 
+W
+Saturday 2 April 2011
+NEW
+
+4
+-
+1
+
+WOL
+ 
+L
+Sunday 10 April 2011
+AVL
+
+1
+-
+0
+
+NEW
+10 
+Previous Position 13
+
+West Bromwich Albion
+32	10	9	13	46	59	-13	39	
+D
+Monday 28 February 2011
+STK
+
+1
+-
+1
+
+WBA
+ 
+W
+Saturday 5 March 2011
+BIR
+
+1
+-
+3
+
+WBA
+ 
+D
+Saturday 19 March 2011
+WBA
+
+2
+-
+2
+
+ARS
+ 
+W
+Saturday 2 April 2011
+WBA
+
+2
+-
+1
+
+LIV
+ 
+W
+Saturday 9 April 2011
+SUN
+
+2
+-
+3
+
+WBA
+11 
+Previous Position 10
+
+Fulham
+32	8	14	10	36	35	1	38	
+D
+Sunday 27 February 2011
+MCI
+
+1
+-
+1
+
+FUL
+ 
+W
+Saturday 5 March 2011
+FUL
+
+3
+-
+2
+
+BLB
+ 
+L
+Saturday 19 March 2011
+EVE
+
+2
+-
+1
+
+FUL
+ 
+W
+Sunday 3 April 2011
+FUL
+
+3
+-
+0
+
+BLP
+ 
+L
+Saturday 9 April 2011
+MUN
+
+2
+-
+0
+
+FUL
+12 
+Previous Position 11
+
+Stoke City
+32	11	5	16	39	42	-3	38	
+D
+Monday 28 February 2011
+STK
+
+1
+-
+1
+
+WBA
+ 
+L
+Saturday 5 March 2011
+WHU
+
+3
+-
+0
+
+STK
+ 
+W
+Saturday 19 March 2011
+STK
+
+4
+-
+0
+
+NEW
+ 
+D
+Saturday 2 April 2011
+STK
+
+1
+-
+1
+
+CHE
+ 
+L
+Saturday 9 April 2011
+TOT
+
+3
+-
+2
+
+STK
+13 
+Previous Position 12
+
+Sunderland
+32	9	11	12	35	45	-10	38	
+L
+Saturday 26 February 2011
+EVE
+
+2
+-
+0
+
+SUN
+ 
+D
+Saturday 5 March 2011
+ARS
+
+0
+-
+0
+
+SUN
+ 
+L
+Sunday 20 March 2011
+SUN
+
+0
+-
+2
+
+LIV
+ 
+L
+Sunday 3 April 2011
+MCI
+
+5
+-
+0
+
+SUN
+ 
+L
+Saturday 9 April 2011
+SUN
+
+2
+-
+3
+
+WBA
+14 
+Previous Position 16
+
+Aston Villa
+32	9	10	13	40	53	-13	37	
+W
+Saturday 26 February 2011
+AVL
+
+4
+-
+1
+
+BLB
+ 
+L
+Saturday 5 March 2011
+BOL
+
+3
+-
+2
+
+AVL
+ 
+L
+Saturday 19 March 2011
+AVL
+
+0
+-
+1
+
+WOL
+ 
+D
+Saturday 2 April 2011
+EVE
+
+2
+-
+2
+
+AVL
+ 
+W
+Sunday 10 April 2011
+AVL
+
+1
+-
+0
+
+NEW
+15 
+Previous Position 14
+
+Blackburn Rovers
+32	9	8	15	40	52	-12	35	
+L
+Saturday 26 February 2011
+AVL
+
+4
+-
+1
+
+BLB
+ 
+L
+Saturday 5 March 2011
+FUL
+
+3
+-
+2
+
+BLB
+ 
+D
+Saturday 19 March 2011
+BLB
+
+2
+-
+2
+
+BLP
+ 
+D
+Saturday 2 April 2011
+ARS
+
+0
+-
+0
+
+BLB
+ 
+D
+Saturday 9 April 2011
+BLB
+
+1
+-
+1
+
+BIR
+16 
+Previous Position 15
+
+Birmingham City
+31	7	14	10	31	43	-12	35	
+L
+Saturday 5 March 2011
+BIR
+
+1
+-
+3
+
+WBA
+ 
+D
+Wednesday 9 March 2011
+EVE
+
+1
+-
+1
+
+BIR
+ 
+L
+Saturday 19 March 2011
+WIG
+
+2
+-
+1
+
+BIR
+ 
+W
+Saturday 2 April 2011
+BIR
+
+2
+-
+1
+
+BOL
+ 
+D
+Saturday 9 April 2011
+BLB
+
+1
+-
+1
+
+BIR
+17 
+Previous Position 17
+
+Blackpool
+32	9	6	17	46	66	-20	33	
+L
+Saturday 26 February 2011
+WOL
+
+4
+-
+0
+
+BLP
+ 
+L
+Monday 7 March 2011
+BLP
+
+1
+-
+3
+
+CHE
+ 
+D
+Saturday 19 March 2011
+BLB
+
+2
+-
+2
+
+BLP
+ 
+L
+Sunday 3 April 2011
+FUL
+
+3
+-
+0
+
+BLP
+ 
+L
+Sunday 10 April 2011
+BLP
+
+1
+-
+3
+
+ARS
+18 
+Previous Position 18
+
+West Ham United
+32	7	11	14	38	56	-18	32	
+W
+Sunday 27 February 2011
+WHU
+
+3
+-
+1
+
+LIV
+ 
+W
+Saturday 5 March 2011
+WHU
+
+3
+-
+0
+
+STK
+ 
+D
+Saturday 19 March 2011
+TOT
+
+0
+-
+0
+
+WHU
+ 
+L
+Saturday 2 April 2011
+WHU
+
+2
+-
+4
+
+MUN
+ 
+L
+Saturday 9 April 2011
+BOL
+
+3
+-
+0
+
+WHU
+19 
+Previous Position 19
+
+Wolverhampton Wanderers
+32	9	5	18	36	56	-20	32	
+W
+Saturday 26 February 2011
+WOL
+
+4
+-
+0
+
+BLP
+ 
+D
+Sunday 6 March 2011
+WOL
+
+3
+-
+3
+
+TOT
+ 
+W
+Saturday 19 March 2011
+AVL
+
+0
+-
+1
+
+WOL
+ 
+L
+Saturday 2 April 2011
+NEW
+
+4
+-
+1
+
+WOL
+ 
+L
+Saturday 9 April 2011
+WOL
+
+0
+-
+3
+
+EVE
+20 
+Previous Position 20
+
+Wigan Athletic
+32	6	13	13	29	52	-23	31	
+L
+Saturday 26 February 2011
+WIG
+
+0
+-
+4
+
+MUN
+ 
+L
+Saturday 5 March 2011
+MCI
+
+1
+-
+0
+
+WIG
+ 
+W
+Saturday 19 March 2011
+WIG
+
+2
+-
+1
+
+BIR
+ 
+D
+Saturday 2 April 2011
+WIG
+
+0
+-
+0
+
+TOT
+ 
+L
+Saturday 9 April 2011
+CHE
+
+1
+-
+0
+
+WIG

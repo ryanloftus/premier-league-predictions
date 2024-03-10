@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Chelsea
+8	6	1	1	23	2	21	19	
+W
+Saturday 11 September 2010
+WHU
+
+1
+-
+3
+
+CHE
+ 
+W
+Sunday 19 September 2010
+CHE
+
+4
+-
+0
+
+BLP
+ 
+L
+Saturday 25 September 2010
+MCI
+
+1
+-
+0
+
+CHE
+ 
+W
+Sunday 3 October 2010
+CHE
+
+2
+-
+0
+
+ARS
+ 
+D
+Saturday 16 October 2010
+AVL
+
+0
+-
+0
+
+CHE
+2 
+Previous Position 2
+
+Manchester City
+8	5	2	1	12	5	7	17	
+D
+Saturday 11 September 2010
+MCI
+
+1
+-
+1
+
+BLB
+ 
+W
+Sunday 19 September 2010
+WIG
+
+0
+-
+2
+
+MCI
+ 
+W
+Saturday 25 September 2010
+MCI
+
+1
+-
+0
+
+CHE
+ 
+W
+Sunday 3 October 2010
+MCI
+
+2
+-
+1
+
+NEW
+ 
+W
+Sunday 17 October 2010
+BLP
+
+2
+-
+3
+
+MCI
+3 
+Previous Position 4
+
+Arsenal
+8	4	2	2	18	10	8	14	
+W
+Saturday 11 September 2010
+ARS
+
+4
+-
+1
+
+BOL
+ 
+D
+Saturday 18 September 2010
+SUN
+
+1
+-
+1
+
+ARS
+ 
+L
+Saturday 25 September 2010
+ARS
+
+2
+-
+3
+
+WBA
+ 
+L
+Sunday 3 October 2010
+CHE
+
+2
+-
+0
+
+ARS
+ 
+W
+Saturday 16 October 2010
+ARS
+
+2
+-
+1
+
+BIR
+4 
+Previous Position 3
+
+Manchester United
+8	3	5	0	18	11	7	14	
+D
+Saturday 11 September 2010
+EVE
+
+3
+-
+3
+
+MUN
+ 
+W
+Sunday 19 September 2010
+MUN
+
+3
+-
+2
+
+LIV
+ 
+D
+Sunday 26 September 2010
+BOL
+
+2
+-
+2
+
+MUN
+ 
+D
+Saturday 2 October 2010
+SUN
+
+0
+-
+0
+
+MUN
+ 
+D
+Saturday 16 October 2010
+MUN
+
+2
+-
+2
+
+WBA
+5 
+Previous Position 5
+
+Tottenham Hotspur
+8	4	2	2	10	7	3	14	
+D
+Saturday 11 September 2010
+WBA
+
+1
+-
+1
+
+TOT
+ 
+W
+Saturday 18 September 2010
+TOT
+
+3
+-
+1
+
+WOL
+ 
+L
+Saturday 25 September 2010
+WHU
+
+1
+-
+0
+
+TOT
+ 
+W
+Saturday 2 October 2010
+TOT
+
+2
+-
+1
+
+AVL
+ 
+W
+Saturday 16 October 2010
+FUL
+
+1
+-
+2
+
+TOT
+6 
+Previous Position 6
+
+West Bromwich Albion
+8	3	3	2	11	14	-3	12	
+D
+Saturday 11 September 2010
+WBA
+
+1
+-
+1
+
+TOT
+ 
+W
+Saturday 18 September 2010
+WBA
+
+3
+-
+1
+
+BIR
+ 
+W
+Saturday 25 September 2010
+ARS
+
+2
+-
+3
+
+WBA
+ 
+D
+Saturday 2 October 2010
+WBA
+
+1
+-
+1
+
+BOL
+ 
+D
+Saturday 16 October 2010
+MUN
+
+2
+-
+2
+
+WBA
+7 
+Previous Position 12
+
+Bolton Wanderers
+8	2	5	1	12	12	0	11	
+L
+Saturday 11 September 2010
+ARS
+
+4
+-
+1
+
+BOL
+ 
+D
+Saturday 18 September 2010
+AVL
+
+1
+-
+1
+
+BOL
+ 
+D
+Sunday 26 September 2010
+BOL
+
+2
+-
+2
+
+MUN
+ 
+D
+Saturday 2 October 2010
+WBA
+
+1
+-
+1
+
+BOL
+ 
+W
+Saturday 16 October 2010
+BOL
+
+2
+-
+1
+
+STK
+8 
+Previous Position 8
+
+Aston Villa
+8	3	2	3	9	12	-3	11	
+L
+Monday 13 September 2010
+STK
+
+2
+-
+1
+
+AVL
+ 
+D
+Saturday 18 September 2010
+AVL
+
+1
+-
+1
+
+BOL
+ 
+W
+Sunday 26 September 2010
+WOL
+
+1
+-
+2
+
+AVL
+ 
+L
+Saturday 2 October 2010
+TOT
+
+2
+-
+1
+
+AVL
+ 
+D
+Saturday 16 October 2010
+AVL
+
+0
+-
+0
+
+CHE
+9 
+Previous Position 7
+
+Stoke City
+8	3	1	4	9	11	-2	10	
+W
+Monday 13 September 2010
+STK
+
+2
+-
+1
+
+AVL
+ 
+D
+Saturday 18 September 2010
+STK
+
+1
+-
+1
+
+WHU
+ 
+W
+Sunday 26 September 2010
+NEW
+
+1
+-
+2
+
+STK
+ 
+W
+Saturday 2 October 2010
+STK
+
+1
+-
+0
+
+BLB
+ 
+L
+Saturday 16 October 2010
+BOL
+
+2
+-
+1
+
+STK
+10 
+Previous Position 9
+
+Blackpool
+8	3	1	4	13	18	-5	10	
+W
+Saturday 11 September 2010
+NEW
+
+0
+-
+2
+
+BLP
+ 
+L
+Sunday 19 September 2010
+CHE
+
+4
+-
+0
+
+BLP
+ 
+L
+Saturday 25 September 2010
+BLP
+
+1
+-
+2
+
+BLB
+ 
+W
+Sunday 3 October 2010
+LIV
+
+1
+-
+2
+
+BLP
+ 
+L
+Sunday 17 October 2010
+BLP
+
+2
+-
+3
+
+MCI
+11 
+Previous Position 17
+
+Everton
+8	2	3	3	8	7	1	9	
+D
+Saturday 11 September 2010
+EVE
+
+3
+-
+3
+
+MUN
+ 
+L
+Saturday 18 September 2010
+EVE
+
+0
+-
+1
+
+NEW
+ 
+D
+Saturday 25 September 2010
+FUL
+
+0
+-
+0
+
+EVE
+ 
+W
+Saturday 2 October 2010
+BIR
+
+0
+-
+2
+
+EVE
+ 
+W
+Sunday 17 October 2010
+EVE
+
+2
+-
+0
+
+LIV
+12 
+Previous Position 10
+
+Fulham
+8	1	6	1	9	9	0	9	
+W
+Saturday 11 September 2010
+FUL
+
+2
+-
+1
+
+WOL
+ 
+D
+Saturday 18 September 2010
+BLB
+
+1
+-
+1
+
+FUL
+ 
+D
+Saturday 25 September 2010
+FUL
+
+0
+-
+0
+
+EVE
+ 
+D
+Saturday 2 October 2010
+WHU
+
+1
+-
+1
+
+FUL
+ 
+L
+Saturday 16 October 2010
+FUL
+
+1
+-
+2
+
+TOT
+13 
+Previous Position 11
+
+Sunderland
+8	1	6	1	7	7	0	9	
+D
+Saturday 11 September 2010
+WIG
+
+1
+-
+1
+
+SUN
+ 
+D
+Saturday 18 September 2010
+SUN
+
+1
+-
+1
+
+ARS
+ 
+D
+Saturday 25 September 2010
+LIV
+
+2
+-
+2
+
+SUN
+ 
+D
+Saturday 2 October 2010
+SUN
+
+0
+-
+0
+
+MUN
+ 
+D
+Monday 18 October 2010
+BLB
+
+0
+-
+0
+
+SUN
+14 
+Previous Position 13
+
+Blackburn Rovers
+8	2	3	3	7	8	-1	9	
+D
+Saturday 11 September 2010
+MCI
+
+1
+-
+1
+
+BLB
+ 
+D
+Saturday 18 September 2010
+BLB
+
+1
+-
+1
+
+FUL
+ 
+W
+Saturday 25 September 2010
+BLP
+
+1
+-
+2
+
+BLB
+ 
+L
+Saturday 2 October 2010
+STK
+
+1
+-
+0
+
+BLB
+ 
+D
+Monday 18 October 2010
+BLB
+
+0
+-
+0
+
+SUN
+15 
+Previous Position 14
+
+Wigan Athletic
+8	2	3	3	6	15	-9	9	
+D
+Saturday 11 September 2010
+WIG
+
+1
+-
+1
+
+SUN
+ 
+L
+Sunday 19 September 2010
+WIG
+
+0
+-
+2
+
+MCI
+ 
+D
+Saturday 25 September 2010
+BIR
+
+0
+-
+0
+
+WIG
+ 
+W
+Saturday 2 October 2010
+WIG
+
+2
+-
+0
+
+WOL
+ 
+D
+Saturday 16 October 2010
+NEW
+
+2
+-
+2
+
+WIG
+16 
+Previous Position 15
+
+Newcastle United
+8	2	2	4	12	12	0	8	
+L
+Saturday 11 September 2010
+NEW
+
+0
+-
+2
+
+BLP
+ 
+W
+Saturday 18 September 2010
+EVE
+
+0
+-
+1
+
+NEW
+ 
+L
+Sunday 26 September 2010
+NEW
+
+1
+-
+2
+
+STK
+ 
+L
+Sunday 3 October 2010
+MCI
+
+2
+-
+1
+
+NEW
+ 
+D
+Saturday 16 October 2010
+NEW
+
+2
+-
+2
+
+WIG
+17 
+Previous Position 16
+
+Birmingham City
+8	1	4	3	8	12	-4	7	
+D
+Sunday 12 September 2010
+BIR
+
+0
+-
+0
+
+LIV
+ 
+L
+Saturday 18 September 2010
+WBA
+
+3
+-
+1
+
+BIR
+ 
+D
+Saturday 25 September 2010
+BIR
+
+0
+-
+0
+
+WIG
+ 
+L
+Saturday 2 October 2010
+BIR
+
+0
+-
+2
+
+EVE
+ 
+L
+Saturday 16 October 2010
+ARS
+
+2
+-
+1
+
+BIR
+18 
+Previous Position 19
+
+Wolverhampton Wanderers
+8	1	3	4	8	13	-5	6	
+L
+Saturday 11 September 2010
+FUL
+
+2
+-
+1
+
+WOL
+ 
+L
+Saturday 18 September 2010
+TOT
+
+3
+-
+1
+
+WOL
+ 
+L
+Sunday 26 September 2010
+WOL
+
+1
+-
+2
+
+AVL
+ 
+L
+Saturday 2 October 2010
+WIG
+
+2
+-
+0
+
+WOL
+ 
+D
+Saturday 16 October 2010
+WOL
+
+1
+-
+1
+
+WHU
+19 
+Previous Position 18
+
+Liverpool
+8	1	3	4	7	13	-6	6	
+D
+Sunday 12 September 2010
+BIR
+
+0
+-
+0
+
+LIV
+ 
+L
+Sunday 19 September 2010
+MUN
+
+3
+-
+2
+
+LIV
+ 
+D
+Saturday 25 September 2010
+LIV
+
+2
+-
+2
+
+SUN
+ 
+L
+Sunday 3 October 2010
+LIV
+
+1
+-
+2
+
+BLP
+ 
+L
+Sunday 17 October 2010
+EVE
+
+2
+-
+0
+
+LIV
+20 
+Previous Position 20
+
+West Ham United
+8	1	3	4	6	15	-9	6	
+L
+Saturday 11 September 2010
+WHU
+
+1
+-
+3
+
+CHE
+ 
+D
+Saturday 18 September 2010
+STK
+
+1
+-
+1
+
+WHU
+ 
+W
+Saturday 25 September 2010
+WHU
+
+1
+-
+0
+
+TOT
+ 
+D
+Saturday 2 October 2010
+WHU
+
+1
+-
+1
+
+FUL
+ 
+D
+Saturday 16 October 2010
+WOL
+
+1
+-
+1
+
+WHU

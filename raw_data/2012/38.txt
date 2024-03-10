@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Manchester United
+37	28	4	5	81	38	43	88	
+D
+Wednesday 17 April 2013
+WHU
+
+2
+-
+2
+
+MUN
+ 
+W
+Monday 22 April 2013
+MUN
+
+3
+-
+0
+
+AVL
+ 
+D
+Sunday 28 April 2013
+ARS
+
+1
+-
+1
+
+MUN
+ 
+L
+Sunday 5 May 2013
+MUN
+
+0
+-
+1
+
+CHE
+ 
+W
+Sunday 12 May 2013
+MUN
+
+2
+-
+1
+
+SWA
+2 
+Previous Position 2
+
+Manchester City
+37	23	9	5	64	31	33	78	
+L
+Sunday 21 April 2013
+TOT
+
+3
+-
+1
+
+MCI
+ 
+W
+Saturday 27 April 2013
+MCI
+
+2
+-
+1
+
+WHU
+ 
+D
+Saturday 4 May 2013
+SWA
+
+0
+-
+0
+
+MCI
+ 
+W
+Tuesday 7 May 2013
+MCI
+
+1
+-
+0
+
+WBA
+ 
+W
+Tuesday 14 May 2013
+RDG
+
+0
+-
+2
+
+MCI
+3 
+Previous Position 3
+
+Chelsea
+37	21	9	7	73	38	35	72	
+D
+Sunday 21 April 2013
+LIV
+
+2
+-
+2
+
+CHE
+ 
+W
+Sunday 28 April 2013
+CHE
+
+2
+-
+0
+
+SWA
+ 
+W
+Sunday 5 May 2013
+MUN
+
+0
+-
+1
+
+CHE
+ 
+D
+Wednesday 8 May 2013
+CHE
+
+2
+-
+2
+
+TOT
+ 
+W
+Saturday 11 May 2013
+AVL
+
+1
+-
+2
+
+CHE
+4 
+Previous Position 4
+
+Arsenal
+37	20	10	7	71	37	34	70	
+D
+Tuesday 16 April 2013
+ARS
+
+0
+-
+0
+
+EVE
+ 
+W
+Saturday 20 April 2013
+FUL
+
+0
+-
+1
+
+ARS
+ 
+D
+Sunday 28 April 2013
+ARS
+
+1
+-
+1
+
+MUN
+ 
+W
+Saturday 4 May 2013
+QPR
+
+0
+-
+1
+
+ARS
+ 
+W
+Tuesday 14 May 2013
+ARS
+
+4
+-
+1
+
+WIG
+5 
+Previous Position 5
+
+Tottenham Hotspur
+37	20	9	8	65	46	19	69	
+W
+Sunday 21 April 2013
+TOT
+
+3
+-
+1
+
+MCI
+ 
+D
+Saturday 27 April 2013
+WIG
+
+2
+-
+2
+
+TOT
+ 
+W
+Saturday 4 May 2013
+TOT
+
+1
+-
+0
+
+SOU
+ 
+D
+Wednesday 8 May 2013
+CHE
+
+2
+-
+2
+
+TOT
+ 
+W
+Sunday 12 May 2013
+STK
+
+1
+-
+2
+
+TOT
+6 
+Previous Position 6
+
+Everton
+37	16	15	6	54	38	16	63	
+D
+Tuesday 16 April 2013
+ARS
+
+0
+-
+0
+
+EVE
+ 
+L
+Saturday 20 April 2013
+SUN
+
+1
+-
+0
+
+EVE
+ 
+W
+Saturday 27 April 2013
+EVE
+
+1
+-
+0
+
+FUL
+ 
+D
+Sunday 5 May 2013
+LIV
+
+0
+-
+0
+
+EVE
+ 
+W
+Sunday 12 May 2013
+EVE
+
+2
+-
+0
+
+WHU
+7 
+Previous Position 7
+
+Liverpool
+37	15	13	9	70	43	27	58	
+D
+Saturday 13 April 2013
+RDG
+
+0
+-
+0
+
+LIV
+ 
+D
+Sunday 21 April 2013
+LIV
+
+2
+-
+2
+
+CHE
+ 
+W
+Saturday 27 April 2013
+NEW
+
+0
+-
+6
+
+LIV
+ 
+D
+Sunday 5 May 2013
+LIV
+
+0
+-
+0
+
+EVE
+ 
+W
+Sunday 12 May 2013
+FUL
+
+1
+-
+3
+
+LIV
+8 
+Previous Position 8
+
+West Bromwich Albion
+37	14	6	17	48	52	-4	48	
+D
+Saturday 20 April 2013
+WBA
+
+1
+-
+1
+
+NEW
+ 
+W
+Saturday 27 April 2013
+SOU
+
+0
+-
+3
+
+WBA
+ 
+L
+Saturday 4 May 2013
+WBA
+
+2
+-
+3
+
+WIG
+ 
+L
+Tuesday 7 May 2013
+MCI
+
+1
+-
+0
+
+WBA
+ 
+L
+Sunday 12 May 2013
+NOR
+
+4
+-
+0
+
+WBA
+9 
+Previous Position 9
+
+Swansea City
+37	11	13	13	47	48	-1	46	
+D
+Saturday 20 April 2013
+SWA
+
+0
+-
+0
+
+SOU
+ 
+L
+Sunday 28 April 2013
+CHE
+
+2
+-
+0
+
+SWA
+ 
+D
+Saturday 4 May 2013
+SWA
+
+0
+-
+0
+
+MCI
+ 
+W
+Tuesday 7 May 2013
+WIG
+
+2
+-
+3
+
+SWA
+ 
+L
+Sunday 12 May 2013
+MUN
+
+2
+-
+1
+
+SWA
+10 
+Previous Position 10
+
+West Ham United
+37	11	10	16	41	51	-10	43	
+D
+Wednesday 17 April 2013
+WHU
+
+2
+-
+2
+
+MUN
+ 
+W
+Saturday 20 April 2013
+WHU
+
+2
+-
+0
+
+WIG
+ 
+L
+Saturday 27 April 2013
+MCI
+
+2
+-
+1
+
+WHU
+ 
+D
+Saturday 4 May 2013
+WHU
+
+0
+-
+0
+
+NEW
+ 
+L
+Sunday 12 May 2013
+EVE
+
+2
+-
+0
+
+WHU
+11 
+Previous Position 11
+
+Stoke City
+37	9	14	14	33	44	-11	41	
+L
+Sunday 14 April 2013
+STK
+
+0
+-
+2
+
+MUN
+ 
+W
+Saturday 20 April 2013
+QPR
+
+0
+-
+2
+
+STK
+ 
+W
+Saturday 27 April 2013
+STK
+
+1
+-
+0
+
+NOR
+ 
+D
+Monday 6 May 2013
+SUN
+
+1
+-
+1
+
+STK
+ 
+L
+Sunday 12 May 2013
+STK
+
+1
+-
+2
+
+TOT
+12 
+Previous Position 16
+
+Norwich City
+37	9	14	14	38	56	-18	41	
+L
+Saturday 13 April 2013
+ARS
+
+3
+-
+1
+
+NOR
+ 
+W
+Saturday 20 April 2013
+NOR
+
+2
+-
+1
+
+RDG
+ 
+L
+Saturday 27 April 2013
+STK
+
+1
+-
+0
+
+NOR
+ 
+L
+Saturday 4 May 2013
+NOR
+
+1
+-
+2
+
+AVL
+ 
+W
+Sunday 12 May 2013
+NOR
+
+4
+-
+0
+
+WBA
+13 
+Previous Position 17
+
+Newcastle United
+37	11	8	18	45	67	-22	41	
+L
+Sunday 14 April 2013
+NEW
+
+0
+-
+3
+
+SUN
+ 
+D
+Saturday 20 April 2013
+WBA
+
+1
+-
+1
+
+NEW
+ 
+L
+Saturday 27 April 2013
+NEW
+
+0
+-
+6
+
+LIV
+ 
+D
+Saturday 4 May 2013
+WHU
+
+0
+-
+0
+
+NEW
+ 
+W
+Sunday 12 May 2013
+QPR
+
+1
+-
+2
+
+NEW
+14 
+Previous Position 14
+
+Southampton
+37	9	13	15	48	59	-11	40	
+D
+Saturday 13 April 2013
+SOU
+
+1
+-
+1
+
+WHU
+ 
+D
+Saturday 20 April 2013
+SWA
+
+0
+-
+0
+
+SOU
+ 
+L
+Saturday 27 April 2013
+SOU
+
+0
+-
+3
+
+WBA
+ 
+L
+Saturday 4 May 2013
+TOT
+
+1
+-
+0
+
+SOU
+ 
+D
+Sunday 12 May 2013
+SUN
+
+1
+-
+1
+
+SOU
+15 
+Previous Position 12
+
+Fulham
+37	10	10	17	47	60	-13	40	
+L
+Wednesday 17 April 2013
+FUL
+
+0
+-
+3
+
+CHE
+ 
+L
+Saturday 20 April 2013
+FUL
+
+0
+-
+1
+
+ARS
+ 
+L
+Saturday 27 April 2013
+EVE
+
+1
+-
+0
+
+FUL
+ 
+L
+Saturday 4 May 2013
+FUL
+
+2
+-
+4
+
+RDG
+ 
+L
+Sunday 12 May 2013
+FUL
+
+1
+-
+3
+
+LIV
+16 
+Previous Position 13
+
+Aston Villa
+37	10	10	17	45	67	-22	40	
+D
+Saturday 13 April 2013
+AVL
+
+1
+-
+1
+
+FUL
+ 
+L
+Monday 22 April 2013
+MUN
+
+3
+-
+0
+
+AVL
+ 
+W
+Monday 29 April 2013
+AVL
+
+6
+-
+1
+
+SUN
+ 
+W
+Saturday 4 May 2013
+NOR
+
+1
+-
+2
+
+AVL
+ 
+L
+Saturday 11 May 2013
+AVL
+
+1
+-
+2
+
+CHE
+17 
+Previous Position 15
+
+Sunderland
+37	9	12	16	41	53	-12	39	
+W
+Sunday 14 April 2013
+NEW
+
+0
+-
+3
+
+SUN
+ 
+W
+Saturday 20 April 2013
+SUN
+
+1
+-
+0
+
+EVE
+ 
+L
+Monday 29 April 2013
+AVL
+
+6
+-
+1
+
+SUN
+ 
+D
+Monday 6 May 2013
+SUN
+
+1
+-
+1
+
+STK
+ 
+D
+Sunday 12 May 2013
+SUN
+
+1
+-
+1
+
+SOU
+18 
+Previous Position 18
+
+Wigan Athletic
+37	9	8	20	45	71	-26	35	
+L
+Saturday 20 April 2013
+WHU
+
+2
+-
+0
+
+WIG
+ 
+D
+Saturday 27 April 2013
+WIG
+
+2
+-
+2
+
+TOT
+ 
+W
+Saturday 4 May 2013
+WBA
+
+2
+-
+3
+
+WIG
+ 
+L
+Tuesday 7 May 2013
+WIG
+
+2
+-
+3
+
+SWA
+ 
+L
+Tuesday 14 May 2013
+ARS
+
+4
+-
+1
+
+WIG
+19 
+Previous Position 19
+
+Reading
+37	6	10	21	41	69	-28	28	
+D
+Saturday 13 April 2013
+RDG
+
+0
+-
+0
+
+LIV
+ 
+L
+Saturday 20 April 2013
+NOR
+
+2
+-
+1
+
+RDG
+ 
+D
+Sunday 28 April 2013
+RDG
+
+0
+-
+0
+
+QPR
+ 
+W
+Saturday 4 May 2013
+FUL
+
+2
+-
+4
+
+RDG
+ 
+L
+Tuesday 14 May 2013
+RDG
+
+0
+-
+2
+
+MCI
+20 
+Previous Position 20
+
+Queens Park Rangers
+37	4	13	20	30	59	-29	25	
+L
+Saturday 13 April 2013
+EVE
+
+2
+-
+0
+
+QPR
+ 
+L
+Saturday 20 April 2013
+QPR
+
+0
+-
+2
+
+STK
+ 
+D
+Sunday 28 April 2013
+RDG
+
+0
+-
+0
+
+QPR
+ 
+L
+Saturday 4 May 2013
+QPR
+
+0
+-
+1
+
+ARS
+ 
+L
+Sunday 12 May 2013
+QPR
+
+1
+-
+2
+
+NEW

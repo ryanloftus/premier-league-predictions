@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Chelsea
+5	5	0	0	21	1	20	15	
+W
+Saturday 14 August 2010
+CHE
+
+6
+-
+0
+
+WBA
+ 
+W
+Saturday 21 August 2010
+WIG
+
+0
+-
+6
+
+CHE
+ 
+W
+Saturday 28 August 2010
+CHE
+
+2
+-
+0
+
+STK
+ 
+W
+Saturday 11 September 2010
+WHU
+
+1
+-
+3
+
+CHE
+ 
+W
+Sunday 19 September 2010
+CHE
+
+4
+-
+0
+
+BLP
+2 
+Previous Position 2
+
+Arsenal
+5	3	2	0	14	4	10	11	
+D
+Sunday 15 August 2010
+LIV
+
+1
+-
+1
+
+ARS
+ 
+W
+Saturday 21 August 2010
+ARS
+
+6
+-
+0
+
+BLP
+ 
+W
+Saturday 28 August 2010
+BLB
+
+1
+-
+2
+
+ARS
+ 
+W
+Saturday 11 September 2010
+ARS
+
+4
+-
+1
+
+BOL
+ 
+D
+Saturday 18 September 2010
+SUN
+
+1
+-
+1
+
+ARS
+3 
+Previous Position 3
+
+Manchester United
+5	3	2	0	14	7	7	11	
+W
+Monday 16 August 2010
+MUN
+
+3
+-
+0
+
+NEW
+ 
+D
+Sunday 22 August 2010
+FUL
+
+2
+-
+2
+
+MUN
+ 
+W
+Saturday 28 August 2010
+MUN
+
+3
+-
+0
+
+WHU
+ 
+D
+Saturday 11 September 2010
+EVE
+
+3
+-
+3
+
+MUN
+ 
+W
+Sunday 19 September 2010
+MUN
+
+3
+-
+2
+
+LIV
+4 
+Previous Position 8
+
+Manchester City
+5	2	2	1	6	2	4	8	
+D
+Saturday 14 August 2010
+TOT
+
+0
+-
+0
+
+MCI
+ 
+W
+Monday 23 August 2010
+MCI
+
+3
+-
+0
+
+LIV
+ 
+L
+Sunday 29 August 2010
+SUN
+
+1
+-
+0
+
+MCI
+ 
+D
+Saturday 11 September 2010
+MCI
+
+1
+-
+1
+
+BLB
+ 
+W
+Sunday 19 September 2010
+WIG
+
+0
+-
+2
+
+MCI
+5 
+Previous Position 11
+
+Tottenham Hotspur
+5	2	2	1	6	4	2	8	
+D
+Saturday 14 August 2010
+TOT
+
+0
+-
+0
+
+MCI
+ 
+W
+Saturday 21 August 2010
+STK
+
+1
+-
+2
+
+TOT
+ 
+L
+Saturday 28 August 2010
+TOT
+
+0
+-
+1
+
+WIG
+ 
+D
+Saturday 11 September 2010
+WBA
+
+1
+-
+1
+
+TOT
+ 
+W
+Saturday 18 September 2010
+TOT
+
+3
+-
+1
+
+WOL
+6 
+Previous Position 14
+
+Newcastle United
+5	2	1	2	8	6	2	7	
+L
+Monday 16 August 2010
+MUN
+
+3
+-
+0
+
+NEW
+ 
+W
+Sunday 22 August 2010
+NEW
+
+6
+-
+0
+
+AVL
+ 
+D
+Saturday 28 August 2010
+WOL
+
+1
+-
+1
+
+NEW
+ 
+L
+Saturday 11 September 2010
+NEW
+
+0
+-
+2
+
+BLP
+ 
+W
+Saturday 18 September 2010
+EVE
+
+0
+-
+1
+
+NEW
+7 
+Previous Position 6
+
+Fulham
+5	1	4	0	7	6	1	7	
+D
+Saturday 14 August 2010
+BOL
+
+0
+-
+0
+
+FUL
+ 
+D
+Sunday 22 August 2010
+FUL
+
+2
+-
+2
+
+MUN
+ 
+D
+Saturday 28 August 2010
+BLP
+
+2
+-
+2
+
+FUL
+ 
+W
+Saturday 11 September 2010
+FUL
+
+2
+-
+1
+
+WOL
+ 
+D
+Saturday 18 September 2010
+BLB
+
+1
+-
+1
+
+FUL
+8 
+Previous Position 7
+
+Aston Villa
+5	2	1	2	6	9	-3	7	
+W
+Saturday 14 August 2010
+AVL
+
+3
+-
+0
+
+WHU
+ 
+L
+Sunday 22 August 2010
+NEW
+
+6
+-
+0
+
+AVL
+ 
+W
+Sunday 29 August 2010
+AVL
+
+1
+-
+0
+
+EVE
+ 
+L
+Monday 13 September 2010
+STK
+
+2
+-
+1
+
+AVL
+ 
+D
+Saturday 18 September 2010
+AVL
+
+1
+-
+1
+
+BOL
+9 
+Previous Position 4
+
+Blackpool
+5	2	1	2	8	12	-4	7	
+W
+Saturday 14 August 2010
+WIG
+
+0
+-
+4
+
+BLP
+ 
+L
+Saturday 21 August 2010
+ARS
+
+6
+-
+0
+
+BLP
+ 
+D
+Saturday 28 August 2010
+BLP
+
+2
+-
+2
+
+FUL
+ 
+W
+Saturday 11 September 2010
+NEW
+
+0
+-
+2
+
+BLP
+ 
+L
+Sunday 19 September 2010
+CHE
+
+4
+-
+0
+
+BLP
+10 
+Previous Position 16
+
+West Bromwich Albion
+5	2	1	2	5	9	-4	7	
+L
+Saturday 14 August 2010
+CHE
+
+6
+-
+0
+
+WBA
+ 
+W
+Saturday 21 August 2010
+WBA
+
+1
+-
+0
+
+SUN
+ 
+L
+Sunday 29 August 2010
+LIV
+
+1
+-
+0
+
+WBA
+ 
+D
+Saturday 11 September 2010
+WBA
+
+1
+-
+1
+
+TOT
+ 
+W
+Saturday 18 September 2010
+WBA
+
+3
+-
+1
+
+BIR
+11 
+Previous Position 10
+
+Sunderland
+5	1	3	1	5	5	0	6	
+D
+Saturday 14 August 2010
+SUN
+
+2
+-
+2
+
+BIR
+ 
+L
+Saturday 21 August 2010
+WBA
+
+1
+-
+0
+
+SUN
+ 
+W
+Sunday 29 August 2010
+SUN
+
+1
+-
+0
+
+MCI
+ 
+D
+Saturday 11 September 2010
+WIG
+
+1
+-
+1
+
+SUN
+ 
+D
+Saturday 18 September 2010
+SUN
+
+1
+-
+1
+
+ARS
+12 
+Previous Position 5
+
+Birmingham City
+5	1	3	1	7	8	-1	6	
+D
+Saturday 14 August 2010
+SUN
+
+2
+-
+2
+
+BIR
+ 
+W
+Saturday 21 August 2010
+BIR
+
+2
+-
+1
+
+BLB
+ 
+D
+Sunday 29 August 2010
+BOL
+
+2
+-
+2
+
+BIR
+ 
+D
+Sunday 12 September 2010
+BIR
+
+0
+-
+0
+
+LIV
+ 
+L
+Saturday 18 September 2010
+WBA
+
+3
+-
+1
+
+BIR
+13 
+Previous Position 12
+
+Bolton Wanderers
+5	1	3	1	7	8	-1	6	
+D
+Saturday 14 August 2010
+BOL
+
+0
+-
+0
+
+FUL
+ 
+W
+Saturday 21 August 2010
+WHU
+
+1
+-
+3
+
+BOL
+ 
+D
+Sunday 29 August 2010
+BOL
+
+2
+-
+2
+
+BIR
+ 
+L
+Saturday 11 September 2010
+ARS
+
+4
+-
+1
+
+BOL
+ 
+D
+Saturday 18 September 2010
+AVL
+
+1
+-
+1
+
+BOL
+14 
+Previous Position 15
+
+Blackburn Rovers
+5	1	2	2	5	6	-1	5	
+W
+Saturday 14 August 2010
+BLB
+
+1
+-
+0
+
+EVE
+ 
+L
+Saturday 21 August 2010
+BIR
+
+2
+-
+1
+
+BLB
+ 
+L
+Saturday 28 August 2010
+BLB
+
+1
+-
+2
+
+ARS
+ 
+D
+Saturday 11 September 2010
+MCI
+
+1
+-
+1
+
+BLB
+ 
+D
+Saturday 18 September 2010
+BLB
+
+1
+-
+1
+
+FUL
+15 
+Previous Position 9
+
+Wolverhampton Wanderers
+5	1	2	2	6	8	-2	5	
+W
+Saturday 14 August 2010
+WOL
+
+2
+-
+1
+
+STK
+ 
+D
+Saturday 21 August 2010
+EVE
+
+1
+-
+1
+
+WOL
+ 
+D
+Saturday 28 August 2010
+WOL
+
+1
+-
+1
+
+NEW
+ 
+L
+Saturday 11 September 2010
+FUL
+
+2
+-
+1
+
+WOL
+ 
+L
+Saturday 18 September 2010
+TOT
+
+3
+-
+1
+
+WOL
+16 
+Previous Position 13
+
+Liverpool
+5	1	2	2	4	7	-3	5	
+D
+Sunday 15 August 2010
+LIV
+
+1
+-
+1
+
+ARS
+ 
+L
+Monday 23 August 2010
+MCI
+
+3
+-
+0
+
+LIV
+ 
+W
+Sunday 29 August 2010
+LIV
+
+1
+-
+0
+
+WBA
+ 
+D
+Sunday 12 September 2010
+BIR
+
+0
+-
+0
+
+LIV
+ 
+L
+Sunday 19 September 2010
+MUN
+
+3
+-
+2
+
+LIV
+17 
+Previous Position 18
+
+Stoke City
+5	1	1	3	5	8	-3	4	
+L
+Saturday 14 August 2010
+WOL
+
+2
+-
+1
+
+STK
+ 
+L
+Saturday 21 August 2010
+STK
+
+1
+-
+2
+
+TOT
+ 
+L
+Saturday 28 August 2010
+CHE
+
+2
+-
+0
+
+STK
+ 
+W
+Monday 13 September 2010
+STK
+
+2
+-
+1
+
+AVL
+ 
+D
+Saturday 18 September 2010
+STK
+
+1
+-
+1
+
+WHU
+18 
+Previous Position 17
+
+Wigan Athletic
+5	1	1	3	2	13	-11	4	
+L
+Saturday 14 August 2010
+WIG
+
+0
+-
+4
+
+BLP
+ 
+L
+Saturday 21 August 2010
+WIG
+
+0
+-
+6
+
+CHE
+ 
+W
+Saturday 28 August 2010
+TOT
+
+0
+-
+1
+
+WIG
+ 
+D
+Saturday 11 September 2010
+WIG
+
+1
+-
+1
+
+SUN
+ 
+L
+Sunday 19 September 2010
+WIG
+
+0
+-
+2
+
+MCI
+19 
+Previous Position 19
+
+Everton
+5	0	2	3	4	7	-3	2	
+L
+Saturday 14 August 2010
+BLB
+
+1
+-
+0
+
+EVE
+ 
+D
+Saturday 21 August 2010
+EVE
+
+1
+-
+1
+
+WOL
+ 
+L
+Sunday 29 August 2010
+AVL
+
+1
+-
+0
+
+EVE
+ 
+D
+Saturday 11 September 2010
+EVE
+
+3
+-
+3
+
+MUN
+ 
+L
+Saturday 18 September 2010
+EVE
+
+0
+-
+1
+
+NEW
+20 
+Previous Position 20
+
+West Ham United
+5	0	1	4	3	13	-10	1	
+L
+Saturday 14 August 2010
+AVL
+
+3
+-
+0
+
+WHU
+ 
+L
+Saturday 21 August 2010
+WHU
+
+1
+-
+3
+
+BOL
+ 
+L
+Saturday 28 August 2010
+MUN
+
+3
+-
+0
+
+WHU
+ 
+L
+Saturday 11 September 2010
+WHU
+
+1
+-
+3
+
+CHE
+ 
+D
+Saturday 18 September 2010
+STK
+
+1
+-
+1
+
+WHU

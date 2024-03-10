@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Manchester City
+26	20	3	3	67	19	48	63	
+W
+Sunday 22 January 2012
+MCI
+
+3
+-
+2
+
+TOT
+ 
+L
+Tuesday 31 January 2012
+EVE
+
+1
+-
+0
+
+MCI
+ 
+W
+Saturday 4 February 2012
+MCI
+
+3
+-
+0
+
+FUL
+ 
+W
+Sunday 12 February 2012
+AVL
+
+0
+-
+1
+
+MCI
+ 
+W
+Saturday 25 February 2012
+MCI
+
+3
+-
+0
+
+BLB
+2 
+Previous Position 2
+
+Manchester United
+26	19	4	3	63	26	37	61	
+W
+Sunday 22 January 2012
+ARS
+
+1
+-
+2
+
+MUN
+ 
+W
+Tuesday 31 January 2012
+MUN
+
+2
+-
+0
+
+STK
+ 
+D
+Sunday 5 February 2012
+CHE
+
+3
+-
+3
+
+MUN
+ 
+W
+Saturday 11 February 2012
+MUN
+
+2
+-
+1
+
+LIV
+ 
+W
+Sunday 26 February 2012
+NOR
+
+1
+-
+2
+
+MUN
+3 
+Previous Position 3
+
+Tottenham Hotspur
+26	16	5	5	51	30	21	53	
+L
+Sunday 22 January 2012
+MCI
+
+3
+-
+2
+
+TOT
+ 
+W
+Tuesday 31 January 2012
+TOT
+
+3
+-
+1
+
+WIG
+ 
+D
+Monday 6 February 2012
+LIV
+
+0
+-
+0
+
+TOT
+ 
+W
+Saturday 11 February 2012
+TOT
+
+5
+-
+0
+
+NEW
+ 
+L
+Sunday 26 February 2012
+ARS
+
+5
+-
+2
+
+TOT
+4 
+Previous Position 4
+
+Arsenal
+26	14	4	8	53	37	16	46	
+L
+Sunday 22 January 2012
+ARS
+
+1
+-
+2
+
+MUN
+ 
+D
+Wednesday 1 February 2012
+BOL
+
+0
+-
+0
+
+ARS
+ 
+W
+Saturday 4 February 2012
+ARS
+
+7
+-
+1
+
+BLB
+ 
+W
+Saturday 11 February 2012
+SUN
+
+1
+-
+2
+
+ARS
+ 
+W
+Sunday 26 February 2012
+ARS
+
+5
+-
+2
+
+TOT
+5 
+Previous Position 5
+
+Chelsea
+26	13	7	6	47	31	16	46	
+D
+Saturday 21 January 2012
+NOR
+
+0
+-
+0
+
+CHE
+ 
+D
+Tuesday 31 January 2012
+SWA
+
+1
+-
+1
+
+CHE
+ 
+D
+Sunday 5 February 2012
+CHE
+
+3
+-
+3
+
+MUN
+ 
+L
+Saturday 11 February 2012
+EVE
+
+2
+-
+0
+
+CHE
+ 
+W
+Saturday 25 February 2012
+CHE
+
+3
+-
+0
+
+BOL
+6 
+Previous Position 6
+
+Newcastle United
+26	12	7	7	38	38	0	43	
+L
+Saturday 21 January 2012
+FUL
+
+5
+-
+2
+
+NEW
+ 
+W
+Wednesday 1 February 2012
+BLB
+
+0
+-
+2
+
+NEW
+ 
+W
+Sunday 5 February 2012
+NEW
+
+2
+-
+1
+
+AVL
+ 
+L
+Saturday 11 February 2012
+TOT
+
+5
+-
+0
+
+NEW
+ 
+D
+Saturday 25 February 2012
+NEW
+
+2
+-
+2
+
+WOL
+7 
+Previous Position 7
+
+Liverpool
+25	10	9	6	29	23	6	39	
+D
+Saturday 14 January 2012
+LIV
+
+0
+-
+0
+
+STK
+ 
+L
+Saturday 21 January 2012
+BOL
+
+3
+-
+1
+
+LIV
+ 
+W
+Tuesday 31 January 2012
+WOL
+
+0
+-
+3
+
+LIV
+ 
+D
+Monday 6 February 2012
+LIV
+
+0
+-
+0
+
+TOT
+ 
+L
+Saturday 11 February 2012
+MUN
+
+2
+-
+1
+
+LIV
+8 
+Previous Position 8
+
+Norwich City
+26	9	8	9	38	43	-5	35	
+D
+Saturday 21 January 2012
+NOR
+
+0
+-
+0
+
+CHE
+ 
+L
+Wednesday 1 February 2012
+SUN
+
+3
+-
+0
+
+NOR
+ 
+W
+Saturday 4 February 2012
+NOR
+
+2
+-
+0
+
+BOL
+ 
+W
+Saturday 11 February 2012
+SWA
+
+2
+-
+3
+
+NOR
+ 
+L
+Sunday 26 February 2012
+NOR
+
+1
+-
+2
+
+MUN
+9 
+Previous Position 9
+
+Sunderland
+26	9	6	11	34	30	4	33	
+W
+Saturday 21 January 2012
+SUN
+
+2
+-
+0
+
+SWA
+ 
+W
+Wednesday 1 February 2012
+SUN
+
+3
+-
+0
+
+NOR
+ 
+W
+Saturday 4 February 2012
+STK
+
+0
+-
+1
+
+SUN
+ 
+L
+Saturday 11 February 2012
+SUN
+
+1
+-
+2
+
+ARS
+ 
+L
+Saturday 25 February 2012
+WBA
+
+4
+-
+0
+
+SUN
+10 
+Previous Position 10
+
+Everton
+25	9	6	10	26	27	-1	33	
+D
+Saturday 14 January 2012
+AVL
+
+1
+-
+1
+
+EVE
+ 
+D
+Saturday 21 January 2012
+EVE
+
+1
+-
+1
+
+BLB
+ 
+W
+Tuesday 31 January 2012
+EVE
+
+1
+-
+0
+
+MCI
+ 
+D
+Saturday 4 February 2012
+WIG
+
+1
+-
+1
+
+EVE
+ 
+W
+Saturday 11 February 2012
+EVE
+
+2
+-
+0
+
+CHE
+11 
+Previous Position 12
+
+Fulham
+26	8	9	9	32	36	-4	33	
+W
+Saturday 21 January 2012
+FUL
+
+5
+-
+2
+
+NEW
+ 
+D
+Wednesday 1 February 2012
+FUL
+
+1
+-
+1
+
+WBA
+ 
+L
+Saturday 4 February 2012
+MCI
+
+3
+-
+0
+
+FUL
+ 
+W
+Saturday 11 February 2012
+FUL
+
+2
+-
+1
+
+STK
+ 
+W
+Saturday 25 February 2012
+QPR
+
+0
+-
+1
+
+FUL
+12 
+Previous Position 13
+
+Stoke City
+26	9	6	11	26	38	-12	33	
+L
+Saturday 21 January 2012
+STK
+
+1
+-
+2
+
+WBA
+ 
+L
+Tuesday 31 January 2012
+MUN
+
+2
+-
+0
+
+STK
+ 
+L
+Saturday 4 February 2012
+STK
+
+0
+-
+1
+
+SUN
+ 
+L
+Saturday 11 February 2012
+FUL
+
+2
+-
+1
+
+STK
+ 
+W
+Sunday 26 February 2012
+STK
+
+2
+-
+0
+
+SWA
+13 
+Previous Position 14
+
+West Bromwich Albion
+26	9	5	12	33	35	-2	32	
+W
+Saturday 21 January 2012
+STK
+
+1
+-
+2
+
+WBA
+ 
+D
+Wednesday 1 February 2012
+FUL
+
+1
+-
+1
+
+WBA
+ 
+L
+Saturday 4 February 2012
+WBA
+
+1
+-
+2
+
+SWA
+ 
+W
+Sunday 12 February 2012
+WOL
+
+1
+-
+5
+
+WBA
+ 
+W
+Saturday 25 February 2012
+WBA
+
+4
+-
+0
+
+SUN
+14 
+Previous Position 11
+
+Swansea City
+26	7	9	10	28	34	-6	30	
+L
+Saturday 21 January 2012
+SUN
+
+2
+-
+0
+
+SWA
+ 
+D
+Tuesday 31 January 2012
+SWA
+
+1
+-
+1
+
+CHE
+ 
+W
+Saturday 4 February 2012
+WBA
+
+1
+-
+2
+
+SWA
+ 
+L
+Saturday 11 February 2012
+SWA
+
+2
+-
+3
+
+NOR
+ 
+L
+Sunday 26 February 2012
+STK
+
+2
+-
+0
+
+SWA
+15 
+Previous Position 15
+
+Aston Villa
+26	6	11	9	29	34	-5	29	
+W
+Saturday 21 January 2012
+WOL
+
+2
+-
+3
+
+AVL
+ 
+D
+Wednesday 1 February 2012
+AVL
+
+2
+-
+2
+
+QPR
+ 
+L
+Sunday 5 February 2012
+NEW
+
+2
+-
+1
+
+AVL
+ 
+L
+Sunday 12 February 2012
+AVL
+
+0
+-
+1
+
+MCI
+ 
+D
+Saturday 25 February 2012
+WIG
+
+0
+-
+0
+
+AVL
+16 
+Previous Position 18
+
+Wolverhampton Wanderers
+26	5	7	14	30	51	-21	22	
+L
+Saturday 21 January 2012
+WOL
+
+2
+-
+3
+
+AVL
+ 
+L
+Tuesday 31 January 2012
+WOL
+
+0
+-
+3
+
+LIV
+ 
+W
+Saturday 4 February 2012
+QPR
+
+1
+-
+2
+
+WOL
+ 
+L
+Sunday 12 February 2012
+WOL
+
+1
+-
+5
+
+WBA
+ 
+D
+Saturday 25 February 2012
+NEW
+
+2
+-
+2
+
+WOL
+17 
+Previous Position 16
+
+Queens Park Rangers
+26	5	6	15	27	45	-18	21	
+W
+Saturday 21 January 2012
+QPR
+
+3
+-
+1
+
+WIG
+ 
+D
+Wednesday 1 February 2012
+AVL
+
+2
+-
+2
+
+QPR
+ 
+L
+Saturday 4 February 2012
+QPR
+
+1
+-
+2
+
+WOL
+ 
+L
+Saturday 11 February 2012
+BLB
+
+3
+-
+2
+
+QPR
+ 
+L
+Saturday 25 February 2012
+QPR
+
+0
+-
+1
+
+FUL
+18 
+Previous Position 17
+
+Blackburn Rovers
+26	5	6	15	37	59	-22	21	
+D
+Saturday 21 January 2012
+EVE
+
+1
+-
+1
+
+BLB
+ 
+L
+Wednesday 1 February 2012
+BLB
+
+0
+-
+2
+
+NEW
+ 
+L
+Saturday 4 February 2012
+ARS
+
+7
+-
+1
+
+BLB
+ 
+W
+Saturday 11 February 2012
+BLB
+
+3
+-
+2
+
+QPR
+ 
+L
+Saturday 25 February 2012
+MCI
+
+3
+-
+0
+
+BLB
+19 
+Previous Position 19
+
+Bolton Wanderers
+26	6	2	18	29	54	-25	20	
+W
+Saturday 21 January 2012
+BOL
+
+3
+-
+1
+
+LIV
+ 
+D
+Wednesday 1 February 2012
+BOL
+
+0
+-
+0
+
+ARS
+ 
+L
+Saturday 4 February 2012
+NOR
+
+2
+-
+0
+
+BOL
+ 
+L
+Saturday 11 February 2012
+BOL
+
+1
+-
+2
+
+WIG
+ 
+L
+Saturday 25 February 2012
+CHE
+
+3
+-
+0
+
+BOL
+20 
+Previous Position 20
+
+Wigan Athletic
+26	4	8	14	23	50	-27	20	
+L
+Saturday 21 January 2012
+QPR
+
+3
+-
+1
+
+WIG
+ 
+L
+Tuesday 31 January 2012
+TOT
+
+3
+-
+1
+
+WIG
+ 
+D
+Saturday 4 February 2012
+WIG
+
+1
+-
+1
+
+EVE
+ 
+W
+Saturday 11 February 2012
+BOL
+
+1
+-
+2
+
+WIG
+ 
+D
+Saturday 25 February 2012
+WIG
+
+0
+-
+0
+
+AVL

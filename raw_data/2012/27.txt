@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Manchester United
+27	22	2	3	64	31	33	68	
+D
+Sunday 20 January 2013
+TOT
+
+1
+-
+1
+
+MUN
+ 
+W
+Wednesday 30 January 2013
+MUN
+
+2
+-
+1
+
+SOU
+ 
+W
+Saturday 2 February 2013
+FUL
+
+0
+-
+1
+
+MUN
+ 
+W
+Sunday 10 February 2013
+MUN
+
+2
+-
+0
+
+EVE
+ 
+W
+Saturday 23 February 2013
+QPR
+
+0
+-
+2
+
+MUN
+2 
+Previous Position 2
+
+Manchester City
+27	16	8	3	50	24	26	56	
+W
+Saturday 19 January 2013
+MCI
+
+2
+-
+0
+
+FUL
+ 
+D
+Tuesday 29 January 2013
+QPR
+
+0
+-
+0
+
+MCI
+ 
+D
+Sunday 3 February 2013
+MCI
+
+2
+-
+2
+
+LIV
+ 
+L
+Saturday 9 February 2013
+SOU
+
+3
+-
+1
+
+MCI
+ 
+W
+Sunday 24 February 2013
+MCI
+
+2
+-
+0
+
+CHE
+3 
+Previous Position 4
+
+Tottenham Hotspur
+27	15	6	6	47	32	15	51	
+D
+Sunday 20 January 2013
+TOT
+
+1
+-
+1
+
+MUN
+ 
+D
+Wednesday 30 January 2013
+NOR
+
+1
+-
+1
+
+TOT
+ 
+W
+Sunday 3 February 2013
+WBA
+
+0
+-
+1
+
+TOT
+ 
+W
+Saturday 9 February 2013
+TOT
+
+2
+-
+1
+
+NEW
+ 
+W
+Monday 25 February 2013
+WHU
+
+2
+-
+3
+
+TOT
+4 
+Previous Position 3
+
+Chelsea
+27	14	7	6	55	30	25	49	
+W
+Sunday 20 January 2013
+CHE
+
+2
+-
+1
+
+ARS
+ 
+D
+Wednesday 30 January 2013
+RDG
+
+2
+-
+2
+
+CHE
+ 
+L
+Saturday 2 February 2013
+NEW
+
+3
+-
+2
+
+CHE
+ 
+W
+Saturday 9 February 2013
+CHE
+
+4
+-
+1
+
+WIG
+ 
+L
+Sunday 24 February 2013
+MCI
+
+2
+-
+0
+
+CHE
+5 
+Previous Position 5
+
+Arsenal
+27	13	8	6	52	30	22	47	
+W
+Wednesday 23 January 2013
+ARS
+
+5
+-
+1
+
+WHU
+ 
+D
+Wednesday 30 January 2013
+ARS
+
+2
+-
+2
+
+LIV
+ 
+W
+Saturday 2 February 2013
+ARS
+
+1
+-
+0
+
+STK
+ 
+W
+Saturday 9 February 2013
+SUN
+
+0
+-
+1
+
+ARS
+ 
+W
+Saturday 23 February 2013
+ARS
+
+2
+-
+1
+
+AVL
+6 
+Previous Position 6
+
+Everton
+27	10	12	5	41	34	7	42	
+D
+Monday 21 January 2013
+SOU
+
+0
+-
+0
+
+EVE
+ 
+W
+Wednesday 30 January 2013
+EVE
+
+2
+-
+1
+
+WBA
+ 
+D
+Saturday 2 February 2013
+EVE
+
+3
+-
+3
+
+AVL
+ 
+L
+Sunday 10 February 2013
+MUN
+
+2
+-
+0
+
+EVE
+ 
+L
+Saturday 23 February 2013
+NOR
+
+2
+-
+1
+
+EVE
+7 
+Previous Position 9
+
+West Bromwich Albion
+27	12	4	11	38	36	2	40	
+D
+Saturday 19 January 2013
+WBA
+
+2
+-
+2
+
+AVL
+ 
+L
+Wednesday 30 January 2013
+EVE
+
+2
+-
+1
+
+WBA
+ 
+L
+Sunday 3 February 2013
+WBA
+
+0
+-
+1
+
+TOT
+ 
+W
+Monday 11 February 2013
+LIV
+
+0
+-
+2
+
+WBA
+ 
+W
+Saturday 23 February 2013
+WBA
+
+2
+-
+1
+
+SUN
+8 
+Previous Position 7
+
+Liverpool
+27	10	9	8	49	34	15	39	
+W
+Saturday 19 January 2013
+LIV
+
+5
+-
+0
+
+NOR
+ 
+D
+Wednesday 30 January 2013
+ARS
+
+2
+-
+2
+
+LIV
+ 
+D
+Sunday 3 February 2013
+MCI
+
+2
+-
+2
+
+LIV
+ 
+L
+Monday 11 February 2013
+LIV
+
+0
+-
+2
+
+WBA
+ 
+W
+Sunday 17 February 2013
+LIV
+
+5
+-
+0
+
+SWA
+9 
+Previous Position 8
+
+Swansea City
+27	9	10	8	38	34	4	37	
+W
+Saturday 19 January 2013
+SWA
+
+3
+-
+1
+
+STK
+ 
+D
+Tuesday 29 January 2013
+SUN
+
+0
+-
+0
+
+SWA
+ 
+L
+Saturday 2 February 2013
+WHU
+
+1
+-
+0
+
+SWA
+ 
+W
+Saturday 9 February 2013
+SWA
+
+4
+-
+1
+
+QPR
+ 
+L
+Sunday 17 February 2013
+LIV
+
+5
+-
+0
+
+SWA
+10 
+Previous Position 10
+
+Stoke City
+27	7	12	8	26	32	-6	33	
+L
+Saturday 19 January 2013
+SWA
+
+3
+-
+1
+
+STK
+ 
+D
+Tuesday 29 January 2013
+STK
+
+2
+-
+2
+
+WIG
+ 
+L
+Saturday 2 February 2013
+ARS
+
+1
+-
+0
+
+STK
+ 
+W
+Saturday 9 February 2013
+STK
+
+2
+-
+1
+
+RDG
+ 
+L
+Saturday 23 February 2013
+FUL
+
+1
+-
+0
+
+STK
+11 
+Previous Position 12
+
+Fulham
+27	8	8	11	37	42	-5	32	
+L
+Saturday 19 January 2013
+MCI
+
+2
+-
+0
+
+FUL
+ 
+W
+Wednesday 30 January 2013
+FUL
+
+3
+-
+1
+
+WHU
+ 
+L
+Saturday 2 February 2013
+FUL
+
+0
+-
+1
+
+MUN
+ 
+D
+Saturday 9 February 2013
+NOR
+
+0
+-
+0
+
+FUL
+ 
+W
+Saturday 23 February 2013
+FUL
+
+1
+-
+0
+
+STK
+12 
+Previous Position 14
+
+Norwich City
+27	7	11	9	27	41	-14	32	
+L
+Saturday 19 January 2013
+LIV
+
+5
+-
+0
+
+NOR
+ 
+D
+Wednesday 30 January 2013
+NOR
+
+1
+-
+1
+
+TOT
+ 
+D
+Saturday 2 February 2013
+QPR
+
+0
+-
+0
+
+NOR
+ 
+D
+Saturday 9 February 2013
+NOR
+
+0
+-
+0
+
+FUL
+ 
+W
+Saturday 23 February 2013
+NOR
+
+2
+-
+1
+
+EVE
+13 
+Previous Position 16
+
+Newcastle United
+27	8	6	13	38	48	-10	30	
+L
+Saturday 19 January 2013
+NEW
+
+1
+-
+2
+
+RDG
+ 
+W
+Tuesday 29 January 2013
+AVL
+
+1
+-
+2
+
+NEW
+ 
+W
+Saturday 2 February 2013
+NEW
+
+3
+-
+2
+
+CHE
+ 
+L
+Saturday 9 February 2013
+TOT
+
+2
+-
+1
+
+NEW
+ 
+W
+Sunday 24 February 2013
+NEW
+
+4
+-
+2
+
+SOU
+14 
+Previous Position 11
+
+West Ham United
+27	8	6	13	31	41	-10	30	
+L
+Wednesday 23 January 2013
+ARS
+
+5
+-
+1
+
+WHU
+ 
+L
+Wednesday 30 January 2013
+FUL
+
+3
+-
+1
+
+WHU
+ 
+W
+Saturday 2 February 2013
+WHU
+
+1
+-
+0
+
+SWA
+ 
+L
+Sunday 10 February 2013
+AVL
+
+2
+-
+1
+
+WHU
+ 
+L
+Monday 25 February 2013
+WHU
+
+2
+-
+3
+
+TOT
+15 
+Previous Position 13
+
+Sunderland
+27	7	8	12	29	36	-7	29	
+W
+Saturday 19 January 2013
+WIG
+
+2
+-
+3
+
+SUN
+ 
+D
+Tuesday 29 January 2013
+SUN
+
+0
+-
+0
+
+SWA
+ 
+L
+Saturday 2 February 2013
+RDG
+
+2
+-
+1
+
+SUN
+ 
+L
+Saturday 9 February 2013
+SUN
+
+0
+-
+1
+
+ARS
+ 
+L
+Saturday 23 February 2013
+WBA
+
+2
+-
+1
+
+SUN
+16 
+Previous Position 15
+
+Southampton
+27	6	9	12	38	49	-11	27	
+D
+Monday 21 January 2013
+SOU
+
+0
+-
+0
+
+EVE
+ 
+L
+Wednesday 30 January 2013
+MUN
+
+2
+-
+1
+
+SOU
+ 
+D
+Saturday 2 February 2013
+WIG
+
+2
+-
+2
+
+SOU
+ 
+W
+Saturday 9 February 2013
+SOU
+
+3
+-
+1
+
+MCI
+ 
+L
+Sunday 24 February 2013
+NEW
+
+4
+-
+2
+
+SOU
+17 
+Previous Position 19
+
+Wigan Athletic
+27	6	6	15	33	51	-18	24	
+L
+Saturday 19 January 2013
+WIG
+
+2
+-
+3
+
+SUN
+ 
+D
+Tuesday 29 January 2013
+STK
+
+2
+-
+2
+
+WIG
+ 
+D
+Saturday 2 February 2013
+WIG
+
+2
+-
+2
+
+SOU
+ 
+L
+Saturday 9 February 2013
+CHE
+
+4
+-
+1
+
+WIG
+ 
+W
+Saturday 23 February 2013
+RDG
+
+0
+-
+3
+
+WIG
+18 
+Previous Position 17
+
+Aston Villa
+27	5	9	13	26	52	-26	24	
+D
+Saturday 19 January 2013
+WBA
+
+2
+-
+2
+
+AVL
+ 
+L
+Tuesday 29 January 2013
+AVL
+
+1
+-
+2
+
+NEW
+ 
+D
+Saturday 2 February 2013
+EVE
+
+3
+-
+3
+
+AVL
+ 
+W
+Sunday 10 February 2013
+AVL
+
+2
+-
+1
+
+WHU
+ 
+L
+Saturday 23 February 2013
+ARS
+
+2
+-
+1
+
+AVL
+19 
+Previous Position 18
+
+Reading
+27	5	8	14	33	51	-18	23	
+W
+Saturday 19 January 2013
+NEW
+
+1
+-
+2
+
+RDG
+ 
+D
+Wednesday 30 January 2013
+RDG
+
+2
+-
+2
+
+CHE
+ 
+W
+Saturday 2 February 2013
+RDG
+
+2
+-
+1
+
+SUN
+ 
+L
+Saturday 9 February 2013
+STK
+
+2
+-
+1
+
+RDG
+ 
+L
+Saturday 23 February 2013
+RDG
+
+0
+-
+3
+
+WIG
+20 
+Previous Position 20
+
+Queens Park Rangers
+27	2	11	14	19	43	-24	17	
+D
+Saturday 19 January 2013
+WHU
+
+1
+-
+1
+
+QPR
+ 
+D
+Tuesday 29 January 2013
+QPR
+
+0
+-
+0
+
+MCI
+ 
+D
+Saturday 2 February 2013
+QPR
+
+0
+-
+0
+
+NOR
+ 
+L
+Saturday 9 February 2013
+SWA
+
+4
+-
+1
+
+QPR
+ 
+L
+Saturday 23 February 2013
+QPR
+
+0
+-
+2
+
+MUN

@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Manchester City
+20	15	3	2	56	16	40	48	
+W
+Sunday 18 December 2011
+MCI
+
+1
+-
+0
+
+ARS
+ 
+W
+Wednesday 21 December 2011
+MCI
+
+3
+-
+0
+
+STK
+ 
+D
+Monday 26 December 2011
+WBA
+
+0
+-
+0
+
+MCI
+ 
+L
+Sunday 1 January 2012
+SUN
+
+1
+-
+0
+
+MCI
+ 
+W
+Tuesday 3 January 2012
+MCI
+
+3
+-
+0
+
+LIV
+2 
+Previous Position 2
+
+Manchester United
+20	14	3	3	49	20	29	45	
+W
+Sunday 18 December 2011
+QPR
+
+0
+-
+2
+
+MUN
+ 
+W
+Wednesday 21 December 2011
+FUL
+
+0
+-
+5
+
+MUN
+ 
+W
+Monday 26 December 2011
+MUN
+
+5
+-
+0
+
+WIG
+ 
+L
+Saturday 31 December 2011
+MUN
+
+2
+-
+3
+
+BLB
+ 
+L
+Wednesday 4 January 2012
+NEW
+
+3
+-
+0
+
+MUN
+3 
+Previous Position 3
+
+Tottenham Hotspur
+20	14	3	3	38	20	18	45	
+D
+Thursday 22 December 2011
+TOT
+
+1
+-
+1
+
+CHE
+ 
+W
+Tuesday 27 December 2011
+NOR
+
+0
+-
+2
+
+TOT
+ 
+D
+Saturday 31 December 2011
+SWA
+
+1
+-
+1
+
+TOT
+ 
+W
+Tuesday 3 January 2012
+TOT
+
+1
+-
+0
+
+WBA
+ 
+W
+Wednesday 11 January 2012
+TOT
+
+2
+-
+0
+
+EVE
+4 
+Previous Position 4
+
+Chelsea
+20	11	4	5	39	25	14	37	
+D
+Saturday 17 December 2011
+WIG
+
+1
+-
+1
+
+CHE
+ 
+D
+Thursday 22 December 2011
+TOT
+
+1
+-
+1
+
+CHE
+ 
+D
+Monday 26 December 2011
+CHE
+
+1
+-
+1
+
+FUL
+ 
+L
+Saturday 31 December 2011
+CHE
+
+1
+-
+3
+
+AVL
+ 
+W
+Monday 2 January 2012
+WOL
+
+1
+-
+2
+
+CHE
+5 
+Previous Position 5
+
+Arsenal
+20	11	3	6	36	28	8	36	
+L
+Sunday 18 December 2011
+MCI
+
+1
+-
+0
+
+ARS
+ 
+W
+Wednesday 21 December 2011
+AVL
+
+1
+-
+2
+
+ARS
+ 
+D
+Tuesday 27 December 2011
+ARS
+
+1
+-
+1
+
+WOL
+ 
+W
+Saturday 31 December 2011
+ARS
+
+1
+-
+0
+
+QPR
+ 
+L
+Monday 2 January 2012
+FUL
+
+2
+-
+1
+
+ARS
+6 
+Previous Position 6
+
+Liverpool
+20	9	7	4	24	18	6	34	
+W
+Sunday 18 December 2011
+AVL
+
+0
+-
+2
+
+LIV
+ 
+D
+Wednesday 21 December 2011
+WIG
+
+0
+-
+0
+
+LIV
+ 
+D
+Monday 26 December 2011
+LIV
+
+1
+-
+1
+
+BLB
+ 
+W
+Friday 30 December 2011
+LIV
+
+3
+-
+1
+
+NEW
+ 
+L
+Tuesday 3 January 2012
+MCI
+
+3
+-
+0
+
+LIV
+7 
+Previous Position 7
+
+Newcastle United
+20	9	6	5	29	25	4	33	
+D
+Saturday 17 December 2011
+NEW
+
+0
+-
+0
+
+SWA
+ 
+L
+Wednesday 21 December 2011
+NEW
+
+2
+-
+3
+
+WBA
+ 
+W
+Monday 26 December 2011
+BOL
+
+0
+-
+2
+
+NEW
+ 
+L
+Friday 30 December 2011
+LIV
+
+3
+-
+1
+
+NEW
+ 
+W
+Wednesday 4 January 2012
+NEW
+
+3
+-
+0
+
+MUN
+8 
+Previous Position 8
+
+Stoke City
+20	8	5	7	22	31	-9	29	
+W
+Saturday 17 December 2011
+WOL
+
+1
+-
+2
+
+STK
+ 
+L
+Wednesday 21 December 2011
+MCI
+
+3
+-
+0
+
+STK
+ 
+D
+Monday 26 December 2011
+STK
+
+0
+-
+0
+
+AVL
+ 
+D
+Saturday 31 December 2011
+STK
+
+2
+-
+2
+
+WIG
+ 
+W
+Monday 2 January 2012
+BLB
+
+1
+-
+2
+
+STK
+9 
+Previous Position 11
+
+Norwich City
+20	6	7	7	30	35	-5	25	
+D
+Saturday 17 December 2011
+EVE
+
+1
+-
+1
+
+NOR
+ 
+D
+Tuesday 20 December 2011
+WOL
+
+2
+-
+2
+
+NOR
+ 
+L
+Tuesday 27 December 2011
+NOR
+
+0
+-
+2
+
+TOT
+ 
+D
+Saturday 31 December 2011
+NOR
+
+1
+-
+1
+
+FUL
+ 
+W
+Monday 2 January 2012
+QPR
+
+1
+-
+2
+
+NOR
+10 
+Previous Position 15
+
+Sunderland
+20	6	6	8	27	23	4	24	
+L
+Sunday 18 December 2011
+TOT
+
+1
+-
+0
+
+SUN
+ 
+W
+Wednesday 21 December 2011
+QPR
+
+2
+-
+3
+
+SUN
+ 
+D
+Monday 26 December 2011
+SUN
+
+1
+-
+1
+
+EVE
+ 
+W
+Sunday 1 January 2012
+SUN
+
+1
+-
+0
+
+MCI
+ 
+W
+Tuesday 3 January 2012
+WIG
+
+1
+-
+4
+
+SUN
+11 
+Previous Position 10
+
+Everton
+20	7	3	10	20	24	-4	24	
+W
+Wednesday 21 December 2011
+EVE
+
+1
+-
+0
+
+SWA
+ 
+D
+Monday 26 December 2011
+SUN
+
+1
+-
+1
+
+EVE
+ 
+W
+Sunday 1 January 2012
+WBA
+
+0
+-
+1
+
+EVE
+ 
+L
+Wednesday 4 January 2012
+EVE
+
+1
+-
+2
+
+BOL
+ 
+L
+Wednesday 11 January 2012
+TOT
+
+2
+-
+0
+
+EVE
+12 
+Previous Position 14
+
+Swansea City
+20	5	8	7	20	23	-3	23	
+D
+Saturday 17 December 2011
+NEW
+
+0
+-
+0
+
+SWA
+ 
+L
+Wednesday 21 December 2011
+EVE
+
+1
+-
+0
+
+SWA
+ 
+D
+Tuesday 27 December 2011
+SWA
+
+1
+-
+1
+
+QPR
+ 
+D
+Saturday 31 December 2011
+SWA
+
+1
+-
+1
+
+TOT
+ 
+W
+Monday 2 January 2012
+AVL
+
+0
+-
+2
+
+SWA
+13 
+Previous Position 12
+
+Aston Villa
+20	5	8	7	22	26	-4	23	
+L
+Sunday 18 December 2011
+AVL
+
+0
+-
+2
+
+LIV
+ 
+L
+Wednesday 21 December 2011
+AVL
+
+1
+-
+2
+
+ARS
+ 
+D
+Monday 26 December 2011
+STK
+
+0
+-
+0
+
+AVL
+ 
+W
+Saturday 31 December 2011
+CHE
+
+1
+-
+3
+
+AVL
+ 
+L
+Monday 2 January 2012
+AVL
+
+0
+-
+2
+
+SWA
+14 
+Previous Position 13
+
+Fulham
+20	5	8	7	22	26	-4	23	
+W
+Saturday 17 December 2011
+FUL
+
+2
+-
+0
+
+BOL
+ 
+L
+Wednesday 21 December 2011
+FUL
+
+0
+-
+5
+
+MUN
+ 
+D
+Monday 26 December 2011
+CHE
+
+1
+-
+1
+
+FUL
+ 
+D
+Saturday 31 December 2011
+NOR
+
+1
+-
+1
+
+FUL
+ 
+W
+Monday 2 January 2012
+FUL
+
+2
+-
+1
+
+ARS
+15 
+Previous Position 9
+
+West Bromwich Albion
+20	6	4	10	19	28	-9	22	
+W
+Saturday 17 December 2011
+BLB
+
+1
+-
+2
+
+WBA
+ 
+W
+Wednesday 21 December 2011
+NEW
+
+2
+-
+3
+
+WBA
+ 
+D
+Monday 26 December 2011
+WBA
+
+0
+-
+0
+
+MCI
+ 
+L
+Sunday 1 January 2012
+WBA
+
+0
+-
+1
+
+EVE
+ 
+L
+Tuesday 3 January 2012
+TOT
+
+1
+-
+0
+
+WBA
+16 
+Previous Position 17
+
+Wolverhampton Wanderers
+20	4	5	11	22	36	-14	17	
+L
+Saturday 17 December 2011
+WOL
+
+1
+-
+2
+
+STK
+ 
+D
+Tuesday 20 December 2011
+WOL
+
+2
+-
+2
+
+NOR
+ 
+D
+Tuesday 27 December 2011
+ARS
+
+1
+-
+1
+
+WOL
+ 
+D
+Saturday 31 December 2011
+BOL
+
+1
+-
+1
+
+WOL
+ 
+L
+Monday 2 January 2012
+WOL
+
+1
+-
+2
+
+CHE
+17 
+Previous Position 16
+
+Queens Park Rangers
+20	4	5	11	19	35	-16	17	
+L
+Sunday 18 December 2011
+QPR
+
+0
+-
+2
+
+MUN
+ 
+L
+Wednesday 21 December 2011
+QPR
+
+2
+-
+3
+
+SUN
+ 
+D
+Tuesday 27 December 2011
+SWA
+
+1
+-
+1
+
+QPR
+ 
+L
+Saturday 31 December 2011
+ARS
+
+1
+-
+0
+
+QPR
+ 
+L
+Monday 2 January 2012
+QPR
+
+1
+-
+2
+
+NOR
+18 
+Previous Position 19
+
+Bolton Wanderers
+20	5	1	14	25	43	-18	16	
+L
+Saturday 17 December 2011
+FUL
+
+2
+-
+0
+
+BOL
+ 
+W
+Tuesday 20 December 2011
+BLB
+
+1
+-
+2
+
+BOL
+ 
+L
+Monday 26 December 2011
+BOL
+
+0
+-
+2
+
+NEW
+ 
+D
+Saturday 31 December 2011
+BOL
+
+1
+-
+1
+
+WOL
+ 
+W
+Wednesday 4 January 2012
+EVE
+
+1
+-
+2
+
+BOL
+19 
+Previous Position 18
+
+Wigan Athletic
+20	3	6	11	18	41	-23	15	
+D
+Saturday 17 December 2011
+WIG
+
+1
+-
+1
+
+CHE
+ 
+D
+Wednesday 21 December 2011
+WIG
+
+0
+-
+0
+
+LIV
+ 
+L
+Monday 26 December 2011
+MUN
+
+5
+-
+0
+
+WIG
+ 
+D
+Saturday 31 December 2011
+STK
+
+2
+-
+2
+
+WIG
+ 
+L
+Tuesday 3 January 2012
+WIG
+
+1
+-
+4
+
+SUN
+20 
+Previous Position 20
+
+Blackburn Rovers
+20	3	5	12	29	43	-14	14	
+L
+Saturday 17 December 2011
+BLB
+
+1
+-
+2
+
+WBA
+ 
+L
+Tuesday 20 December 2011
+BLB
+
+1
+-
+2
+
+BOL
+ 
+D
+Monday 26 December 2011
+LIV
+
+1
+-
+1
+
+BLB
+ 
+W
+Saturday 31 December 2011
+MUN
+
+2
+-
+3
+
+BLB
+ 
+L
+Monday 2 January 2012
+BLB
+
+1
+-
+2
+
+STK

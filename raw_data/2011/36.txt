@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Manchester City
+37	27	5	5	90	27	63	86	
+W
+Wednesday 11 April 2012
+MCI
+
+4
+-
+0
+
+WBA
+ 
+W
+Saturday 14 April 2012
+NOR
+
+1
+-
+6
+
+MCI
+ 
+W
+Sunday 22 April 2012
+WOL
+
+0
+-
+2
+
+MCI
+ 
+W
+Monday 30 April 2012
+MCI
+
+1
+-
+0
+
+MUN
+ 
+W
+Sunday 6 May 2012
+NEW
+
+0
+-
+2
+
+MCI
+2 
+Previous Position 2
+
+Manchester United
+37	27	5	5	88	33	55	86	
+L
+Wednesday 11 April 2012
+WIG
+
+1
+-
+0
+
+MUN
+ 
+W
+Sunday 15 April 2012
+MUN
+
+4
+-
+0
+
+AVL
+ 
+D
+Sunday 22 April 2012
+MUN
+
+4
+-
+4
+
+EVE
+ 
+L
+Monday 30 April 2012
+MCI
+
+1
+-
+0
+
+MUN
+ 
+W
+Sunday 6 May 2012
+MUN
+
+2
+-
+0
+
+SWA
+3 
+Previous Position 3
+
+Arsenal
+37	20	7	10	71	47	24	67	
+W
+Wednesday 11 April 2012
+WOL
+
+0
+-
+3
+
+ARS
+ 
+L
+Monday 16 April 2012
+ARS
+
+1
+-
+2
+
+WIG
+ 
+D
+Saturday 21 April 2012
+ARS
+
+0
+-
+0
+
+CHE
+ 
+D
+Saturday 28 April 2012
+STK
+
+1
+-
+1
+
+ARS
+ 
+D
+Saturday 5 May 2012
+ARS
+
+3
+-
+3
+
+NOR
+4 
+Previous Position 4
+
+Tottenham Hotspur
+37	19	9	9	64	41	23	66	
+L
+Monday 9 April 2012
+TOT
+
+1
+-
+2
+
+NOR
+ 
+L
+Saturday 21 April 2012
+QPR
+
+1
+-
+0
+
+TOT
+ 
+W
+Sunday 29 April 2012
+TOT
+
+2
+-
+0
+
+BLB
+ 
+W
+Wednesday 2 May 2012
+BOL
+
+1
+-
+4
+
+TOT
+ 
+D
+Sunday 6 May 2012
+AVL
+
+1
+-
+1
+
+TOT
+5 
+Previous Position 5
+
+Newcastle United
+37	19	8	10	55	48	7	65	
+W
+Monday 9 April 2012
+NEW
+
+2
+-
+0
+
+BOL
+ 
+W
+Saturday 21 April 2012
+NEW
+
+3
+-
+0
+
+STK
+ 
+L
+Saturday 28 April 2012
+WIG
+
+4
+-
+0
+
+NEW
+ 
+W
+Wednesday 2 May 2012
+CHE
+
+0
+-
+2
+
+NEW
+ 
+L
+Sunday 6 May 2012
+NEW
+
+0
+-
+2
+
+MCI
+6 
+Previous Position 6
+
+Chelsea
+37	17	10	10	63	45	18	61	
+D
+Monday 9 April 2012
+FUL
+
+1
+-
+1
+
+CHE
+ 
+D
+Saturday 21 April 2012
+ARS
+
+0
+-
+0
+
+CHE
+ 
+W
+Sunday 29 April 2012
+CHE
+
+6
+-
+1
+
+QPR
+ 
+L
+Wednesday 2 May 2012
+CHE
+
+0
+-
+2
+
+NEW
+ 
+L
+Tuesday 8 May 2012
+LIV
+
+4
+-
+1
+
+CHE
+7 
+Previous Position 7
+
+Everton
+37	14	11	12	47	39	8	53	
+W
+Monday 9 April 2012
+EVE
+
+4
+-
+0
+
+SUN
+ 
+D
+Sunday 22 April 2012
+MUN
+
+4
+-
+4
+
+EVE
+ 
+W
+Saturday 28 April 2012
+EVE
+
+4
+-
+0
+
+FUL
+ 
+D
+Tuesday 1 May 2012
+STK
+
+1
+-
+1
+
+EVE
+ 
+D
+Sunday 6 May 2012
+WOL
+
+0
+-
+0
+
+EVE
+8 
+Previous Position 8
+
+Liverpool
+37	14	10	13	47	39	8	52	
+W
+Tuesday 10 April 2012
+BLB
+
+2
+-
+3
+
+LIV
+ 
+L
+Sunday 22 April 2012
+LIV
+
+0
+-
+1
+
+WBA
+ 
+W
+Saturday 28 April 2012
+NOR
+
+0
+-
+3
+
+LIV
+ 
+L
+Tuesday 1 May 2012
+LIV
+
+0
+-
+1
+
+FUL
+ 
+W
+Tuesday 8 May 2012
+LIV
+
+4
+-
+1
+
+CHE
+9 
+Previous Position 9
+
+Fulham
+37	14	10	13	48	49	-1	52	
+D
+Monday 9 April 2012
+FUL
+
+1
+-
+1
+
+CHE
+ 
+W
+Saturday 21 April 2012
+FUL
+
+2
+-
+1
+
+WIG
+ 
+L
+Saturday 28 April 2012
+EVE
+
+4
+-
+0
+
+FUL
+ 
+W
+Tuesday 1 May 2012
+LIV
+
+0
+-
+1
+
+FUL
+ 
+W
+Sunday 6 May 2012
+FUL
+
+2
+-
+1
+
+SUN
+10 
+Previous Position 10
+
+West Bromwich Albion
+37	13	8	16	43	49	-6	47	
+L
+Wednesday 11 April 2012
+MCI
+
+4
+-
+0
+
+WBA
+ 
+W
+Saturday 14 April 2012
+WBA
+
+1
+-
+0
+
+QPR
+ 
+W
+Sunday 22 April 2012
+LIV
+
+0
+-
+1
+
+WBA
+ 
+D
+Saturday 28 April 2012
+WBA
+
+0
+-
+0
+
+AVL
+ 
+D
+Sunday 6 May 2012
+BOL
+
+2
+-
+2
+
+WBA
+11 
+Previous Position 11
+
+Sunderland
+37	11	12	14	45	45	0	45	
+L
+Monday 9 April 2012
+EVE
+
+4
+-
+0
+
+SUN
+ 
+D
+Saturday 14 April 2012
+SUN
+
+0
+-
+0
+
+WOL
+ 
+D
+Saturday 21 April 2012
+AVL
+
+0
+-
+0
+
+SUN
+ 
+D
+Saturday 28 April 2012
+SUN
+
+2
+-
+2
+
+BOL
+ 
+L
+Sunday 6 May 2012
+FUL
+
+2
+-
+1
+
+SUN
+12 
+Previous Position 12
+
+Swansea City
+37	11	11	15	43	51	-8	44	
+L
+Wednesday 11 April 2012
+QPR
+
+3
+-
+0
+
+SWA
+ 
+W
+Saturday 14 April 2012
+SWA
+
+3
+-
+0
+
+BLB
+ 
+D
+Saturday 21 April 2012
+BOL
+
+1
+-
+1
+
+SWA
+ 
+D
+Saturday 28 April 2012
+SWA
+
+4
+-
+4
+
+WOL
+ 
+L
+Sunday 6 May 2012
+MUN
+
+2
+-
+0
+
+SWA
+13 
+Previous Position 14
+
+Norwich City
+37	11	11	15	50	66	-16	44	
+W
+Monday 9 April 2012
+TOT
+
+1
+-
+2
+
+NOR
+ 
+L
+Saturday 14 April 2012
+NOR
+
+1
+-
+6
+
+MCI
+ 
+L
+Saturday 21 April 2012
+BLB
+
+2
+-
+0
+
+NOR
+ 
+L
+Saturday 28 April 2012
+NOR
+
+0
+-
+3
+
+LIV
+ 
+D
+Saturday 5 May 2012
+ARS
+
+3
+-
+3
+
+NOR
+14 
+Previous Position 13
+
+Stoke City
+37	11	11	15	34	51	-17	44	
+D
+Monday 9 April 2012
+AVL
+
+1
+-
+1
+
+STK
+ 
+L
+Saturday 21 April 2012
+NEW
+
+3
+-
+0
+
+STK
+ 
+D
+Saturday 28 April 2012
+STK
+
+1
+-
+1
+
+ARS
+ 
+D
+Tuesday 1 May 2012
+STK
+
+1
+-
+1
+
+EVE
+ 
+L
+Sunday 6 May 2012
+QPR
+
+1
+-
+0
+
+STK
+15 
+Previous Position 16
+
+Wigan Athletic
+37	10	10	17	39	60	-21	40	
+W
+Wednesday 11 April 2012
+WIG
+
+1
+-
+0
+
+MUN
+ 
+W
+Monday 16 April 2012
+ARS
+
+1
+-
+2
+
+WIG
+ 
+L
+Saturday 21 April 2012
+FUL
+
+2
+-
+1
+
+WIG
+ 
+W
+Saturday 28 April 2012
+WIG
+
+4
+-
+0
+
+NEW
+ 
+W
+Monday 7 May 2012
+BLB
+
+0
+-
+1
+
+WIG
+16 
+Previous Position 15
+
+Aston Villa
+37	7	17	13	37	51	-14	38	
+L
+Sunday 15 April 2012
+MUN
+
+4
+-
+0
+
+AVL
+ 
+D
+Saturday 21 April 2012
+AVL
+
+0
+-
+0
+
+SUN
+ 
+L
+Tuesday 24 April 2012
+AVL
+
+1
+-
+2
+
+BOL
+ 
+D
+Saturday 28 April 2012
+WBA
+
+0
+-
+0
+
+AVL
+ 
+D
+Sunday 6 May 2012
+AVL
+
+1
+-
+1
+
+TOT
+17 
+Previous Position 17
+
+Queens Park Rangers
+37	10	7	20	41	63	-22	37	
+W
+Wednesday 11 April 2012
+QPR
+
+3
+-
+0
+
+SWA
+ 
+L
+Saturday 14 April 2012
+WBA
+
+1
+-
+0
+
+QPR
+ 
+W
+Saturday 21 April 2012
+QPR
+
+1
+-
+0
+
+TOT
+ 
+L
+Sunday 29 April 2012
+CHE
+
+6
+-
+1
+
+QPR
+ 
+W
+Sunday 6 May 2012
+QPR
+
+1
+-
+0
+
+STK
+18 
+Previous Position 18
+
+Bolton Wanderers
+37	10	5	22	44	75	-31	35	
+D
+Saturday 21 April 2012
+BOL
+
+1
+-
+1
+
+SWA
+ 
+W
+Tuesday 24 April 2012
+AVL
+
+1
+-
+2
+
+BOL
+ 
+D
+Saturday 28 April 2012
+SUN
+
+2
+-
+2
+
+BOL
+ 
+L
+Wednesday 2 May 2012
+BOL
+
+1
+-
+4
+
+TOT
+ 
+D
+Sunday 6 May 2012
+BOL
+
+2
+-
+2
+
+WBA
+19 
+Previous Position 19
+
+Blackburn Rovers
+37	8	7	22	47	76	-29	31	
+L
+Tuesday 10 April 2012
+BLB
+
+2
+-
+3
+
+LIV
+ 
+L
+Saturday 14 April 2012
+SWA
+
+3
+-
+0
+
+BLB
+ 
+W
+Saturday 21 April 2012
+BLB
+
+2
+-
+0
+
+NOR
+ 
+L
+Sunday 29 April 2012
+TOT
+
+2
+-
+0
+
+BLB
+ 
+L
+Monday 7 May 2012
+BLB
+
+0
+-
+1
+
+WIG
+20 
+Previous Position 20
+
+Wolverhampton Wanderers
+37	5	10	22	38	79	-41	25	
+L
+Wednesday 11 April 2012
+WOL
+
+0
+-
+3
+
+ARS
+ 
+D
+Saturday 14 April 2012
+SUN
+
+0
+-
+0
+
+WOL
+ 
+L
+Sunday 22 April 2012
+WOL
+
+0
+-
+2
+
+MCI
+ 
+D
+Saturday 28 April 2012
+SWA
+
+4
+-
+4
+
+WOL
+ 
+D
+Sunday 6 May 2012
+WOL
+
+0
+-
+0
+
+EVE

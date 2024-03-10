@@ -1,0 +1,480 @@
+1 
+Previous Position 1
+
+Chelsea
+2	2	0	0	12	0	12	6	
+W
+Saturday 14 August 2010
+CHE
+
+6
+-
+0
+
+WBA
+ 
+W
+Saturday 21 August 2010
+WIG
+
+0
+-
+6
+
+CHE
+2 
+Previous Position 9
+
+Arsenal
+2	1	1	0	7	1	6	4	
+D
+Sunday 15 August 2010
+LIV
+
+1
+-
+1
+
+ARS
+ 
+W
+Saturday 21 August 2010
+ARS
+
+6
+-
+0
+
+BLP
+3 
+Previous Position 4
+
+Manchester United
+2	1	1	0	5	2	3	4	
+W
+Monday 16 August 2010
+MUN
+
+3
+-
+0
+
+NEW
+ 
+D
+Sunday 22 August 2010
+FUL
+
+2
+-
+2
+
+MUN
+4 
+Previous Position 13
+
+Manchester City
+2	1	1	0	3	0	3	4	
+D
+Saturday 14 August 2010
+TOT
+
+0
+-
+0
+
+MCI
+ 
+W
+Monday 23 August 2010
+MCI
+
+3
+-
+0
+
+LIV
+5 
+Previous Position 11
+
+Bolton Wanderers
+2	1	1	0	3	1	2	4	
+D
+Saturday 14 August 2010
+BOL
+
+0
+-
+0
+
+FUL
+ 
+W
+Saturday 21 August 2010
+WHU
+
+1
+-
+3
+
+BOL
+6 
+Previous Position 7
+
+Birmingham City
+2	1	1	0	4	3	1	4	
+D
+Saturday 14 August 2010
+SUN
+
+2
+-
+2
+
+BIR
+ 
+W
+Saturday 21 August 2010
+BIR
+
+2
+-
+1
+
+BLB
+7 
+Previous Position 5
+
+Wolverhampton Wanderers
+2	1	1	0	3	2	1	4	
+W
+Saturday 14 August 2010
+WOL
+
+2
+-
+1
+
+STK
+ 
+D
+Saturday 21 August 2010
+EVE
+
+1
+-
+1
+
+WOL
+8 
+Previous Position 14
+
+Tottenham Hotspur
+2	1	1	0	2	1	1	4	
+D
+Saturday 14 August 2010
+TOT
+
+0
+-
+0
+
+MCI
+ 
+W
+Saturday 21 August 2010
+STK
+
+1
+-
+2
+
+TOT
+9 
+Previous Position 17
+
+Newcastle United
+2	1	0	1	6	3	3	3	
+L
+Monday 16 August 2010
+MUN
+
+3
+-
+0
+
+NEW
+ 
+W
+Sunday 22 August 2010
+NEW
+
+6
+-
+0
+
+AVL
+10 
+Previous Position 6
+
+Blackburn Rovers
+2	1	0	1	2	2	0	3	
+W
+Saturday 14 August 2010
+BLB
+
+1
+-
+0
+
+EVE
+ 
+L
+Saturday 21 August 2010
+BIR
+
+2
+-
+1
+
+BLB
+11 
+Previous Position 2
+
+Blackpool
+2	1	0	1	4	6	-2	3	
+W
+Saturday 14 August 2010
+WIG
+
+0
+-
+4
+
+BLP
+ 
+L
+Saturday 21 August 2010
+ARS
+
+6
+-
+0
+
+BLP
+12 
+Previous Position 3
+
+Aston Villa
+2	1	0	1	3	6	-3	3	
+W
+Saturday 14 August 2010
+AVL
+
+3
+-
+0
+
+WHU
+ 
+L
+Sunday 22 August 2010
+NEW
+
+6
+-
+0
+
+AVL
+13 
+Previous Position 20
+
+West Bromwich Albion
+2	1	0	1	1	6	-5	3	
+L
+Saturday 14 August 2010
+CHE
+
+6
+-
+0
+
+WBA
+ 
+W
+Saturday 21 August 2010
+WBA
+
+1
+-
+0
+
+SUN
+14 
+Previous Position 12
+
+Fulham
+2	0	2	0	2	2	0	2	
+D
+Saturday 14 August 2010
+BOL
+
+0
+-
+0
+
+FUL
+ 
+D
+Sunday 22 August 2010
+FUL
+
+2
+-
+2
+
+MUN
+15 
+Previous Position 8
+
+Sunderland
+2	0	1	1	2	3	-1	1	
+D
+Saturday 14 August 2010
+SUN
+
+2
+-
+2
+
+BIR
+ 
+L
+Saturday 21 August 2010
+WBA
+
+1
+-
+0
+
+SUN
+16 
+Previous Position 16
+
+Everton
+2	0	1	1	1	2	-1	1	
+L
+Saturday 14 August 2010
+BLB
+
+1
+-
+0
+
+EVE
+ 
+D
+Saturday 21 August 2010
+EVE
+
+1
+-
+1
+
+WOL
+17 
+Previous Position 10
+
+Liverpool
+2	0	1	1	1	4	-3	1	
+D
+Sunday 15 August 2010
+LIV
+
+1
+-
+1
+
+ARS
+ 
+L
+Monday 23 August 2010
+MCI
+
+3
+-
+0
+
+LIV
+18 
+Previous Position 15
+
+Stoke City
+2	0	0	2	2	4	-2	0	
+L
+Saturday 14 August 2010
+WOL
+
+2
+-
+1
+
+STK
+ 
+L
+Saturday 21 August 2010
+STK
+
+1
+-
+2
+
+TOT
+19 
+Previous Position 18
+
+West Ham United
+2	0	0	2	1	6	-5	0	
+L
+Saturday 14 August 2010
+AVL
+
+3
+-
+0
+
+WHU
+ 
+L
+Saturday 21 August 2010
+WHU
+
+1
+-
+3
+
+BOL
+20 
+Previous Position 19
+
+Wigan Athletic
+2	0	0	2	0	10	-10	0	
+L
+Saturday 14 August 2010
+WIG
+
+0
+-
+4
+
+BLP
+ 
+L
+Saturday 21 August 2010
+WIG
+
+0
+-
+6
+
+CHE
