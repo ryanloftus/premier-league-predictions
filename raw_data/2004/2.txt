@@ -1,0 +1,480 @@
+1 
+Previous Position 1
+
+Arsenal
+2	2	0	0	9	4	5	6	
+W
+Sunday 15 August 2004
+EVE
+
+1
+-
+4
+
+ARS
+ 
+W
+Sunday 22 August 2004
+ARS
+
+5
+-
+3
+
+MID
+2 
+Previous Position 4
+
+Chelsea
+2	2	0	0	2	0	2	6	
+W
+Sunday 15 August 2004
+CHE
+
+1
+-
+0
+
+MUN
+ 
+W
+Saturday 21 August 2004
+BIR
+
+0
+-
+1
+
+CHE
+3 
+Previous Position 3
+
+Aston Villa
+2	1	1	0	3	1	2	4	
+W
+Saturday 14 August 2004
+AVL
+
+2
+-
+0
+
+SOU
+ 
+D
+Sunday 22 August 2004
+WBA
+
+1
+-
+1
+
+AVL
+4 
+Previous Position 10
+
+Fulham
+2	1	1	0	3	1	2	4	
+D
+Saturday 14 August 2004
+MCI
+
+1
+-
+1
+
+FUL
+ 
+W
+Saturday 21 August 2004
+FUL
+
+2
+-
+0
+
+BOL
+5 
+Previous Position 11
+
+Liverpool
+2	1	1	0	3	2	1	4	
+D
+Saturday 14 August 2004
+TOT
+
+1
+-
+1
+
+LIV
+ 
+W
+Saturday 21 August 2004
+LIV
+
+2
+-
+1
+
+MCI
+6 
+Previous Position 15
+
+Tottenham Hotspur
+2	1	1	0	2	1	1	4	
+D
+Saturday 14 August 2004
+TOT
+
+1
+-
+1
+
+LIV
+ 
+W
+Saturday 21 August 2004
+NEW
+
+0
+-
+1
+
+TOT
+7 
+Previous Position 2
+
+Bolton Wanderers
+2	1	0	1	4	3	1	3	
+W
+Saturday 14 August 2004
+BOL
+
+4
+-
+1
+
+CHA
+ 
+L
+Saturday 21 August 2004
+FUL
+
+2
+-
+0
+
+BOL
+8 
+Previous Position 17
+
+Manchester United
+2	1	0	1	2	2	0	3	
+L
+Sunday 15 August 2004
+CHE
+
+1
+-
+0
+
+MUN
+ 
+W
+Saturday 21 August 2004
+MUN
+
+2
+-
+1
+
+NOR
+9 
+Previous Position 20
+
+Everton
+2	1	0	1	4	5	-1	3	
+L
+Sunday 15 August 2004
+EVE
+
+1
+-
+4
+
+ARS
+ 
+W
+Saturday 21 August 2004
+CRY
+
+1
+-
+3
+
+EVE
+10 
+Previous Position 18
+
+Southampton
+2	1	0	1	3	4	-1	3	
+L
+Saturday 14 August 2004
+AVL
+
+2
+-
+0
+
+SOU
+ 
+W
+Saturday 21 August 2004
+SOU
+
+3
+-
+2
+
+BLB
+11 
+Previous Position 19
+
+Charlton Athletic
+2	1	0	1	3	5	-2	3	
+L
+Saturday 14 August 2004
+BOL
+
+4
+-
+1
+
+CHA
+ 
+W
+Saturday 21 August 2004
+CHA
+
+2
+-
+1
+
+POR
+12 
+Previous Position 16
+
+West Bromwich Albion
+2	0	2	0	2	2	0	2	
+D
+Saturday 14 August 2004
+BLB
+
+1
+-
+1
+
+WBA
+ 
+D
+Sunday 22 August 2004
+WBA
+
+1
+-
+1
+
+AVL
+13 
+Previous Position 8
+
+Blackburn Rovers
+2	0	1	1	3	4	-1	1	
+D
+Saturday 14 August 2004
+BLB
+
+1
+-
+1
+
+WBA
+ 
+L
+Saturday 21 August 2004
+SOU
+
+3
+-
+2
+
+BLB
+14 
+Previous Position 12
+
+Manchester City
+2	0	1	1	2	3	-1	1	
+D
+Saturday 14 August 2004
+MCI
+
+1
+-
+1
+
+FUL
+ 
+L
+Saturday 21 August 2004
+LIV
+
+2
+-
+1
+
+MCI
+15 
+Previous Position 6
+
+Newcastle United
+2	0	1	1	2	3	-1	1	
+D
+Saturday 14 August 2004
+MID
+
+2
+-
+2
+
+NEW
+ 
+L
+Saturday 21 August 2004
+NEW
+
+0
+-
+1
+
+TOT
+16 
+Previous Position 13
+
+Norwich City
+2	0	1	1	2	3	-1	1	
+D
+Saturday 14 August 2004
+NOR
+
+1
+-
+1
+
+CRY
+ 
+L
+Saturday 21 August 2004
+MUN
+
+2
+-
+1
+
+NOR
+17 
+Previous Position 14
+
+Portsmouth
+2	0	1	1	2	3	-1	1	
+D
+Saturday 14 August 2004
+POR
+
+1
+-
+1
+
+BIR
+ 
+L
+Saturday 21 August 2004
+CHA
+
+2
+-
+1
+
+POR
+18 
+Previous Position 7
+
+Birmingham City
+2	0	1	1	1	2	-1	1	
+D
+Saturday 14 August 2004
+POR
+
+1
+-
+1
+
+BIR
+ 
+L
+Saturday 21 August 2004
+BIR
+
+0
+-
+1
+
+CHE
+19 
+Previous Position 5
+
+Middlesbrough
+2	0	1	1	5	7	-2	1	
+D
+Saturday 14 August 2004
+MID
+
+2
+-
+2
+
+NEW
+ 
+L
+Sunday 22 August 2004
+ARS
+
+5
+-
+3
+
+MID
+20 
+Previous Position 9
+
+Crystal Palace
+2	0	1	1	2	4	-2	1	
+D
+Saturday 14 August 2004
+NOR
+
+1
+-
+1
+
+CRY
+ 
+L
+Saturday 21 August 2004
+CRY
+
+1
+-
+3
+
+EVE

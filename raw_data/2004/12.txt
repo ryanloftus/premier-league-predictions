@@ -1,0 +1,1080 @@
+1 
+Previous Position 2
+
+Chelsea
+12	9	2	1	17	3	14	29	
+W
+Sunday 3 October 2004
+CHE
+
+1
+-
+0
+
+LIV
+ 
+L
+Saturday 16 October 2004
+MCI
+
+1
+-
+0
+
+CHE
+ 
+W
+Saturday 23 October 2004
+CHE
+
+4
+-
+0
+
+BLB
+ 
+W
+Saturday 30 October 2004
+WBA
+
+1
+-
+4
+
+CHE
+ 
+W
+Saturday 6 November 2004
+CHE
+
+1
+-
+0
+
+EVE
+2 
+Previous Position 1
+
+Arsenal
+12	8	3	1	32	13	19	27	
+W
+Saturday 2 October 2004
+ARS
+
+4
+-
+0
+
+CHA
+ 
+W
+Saturday 16 October 2004
+ARS
+
+3
+-
+1
+
+AVL
+ 
+L
+Sunday 24 October 2004
+MUN
+
+2
+-
+0
+
+ARS
+ 
+D
+Saturday 30 October 2004
+ARS
+
+2
+-
+2
+
+SOU
+ 
+D
+Saturday 6 November 2004
+CRY
+
+1
+-
+1
+
+ARS
+3 
+Previous Position 3
+
+Everton
+12	7	2	3	14	11	3	23	
+L
+Saturday 2 October 2004
+EVE
+
+0
+-
+1
+
+TOT
+ 
+W
+Saturday 16 October 2004
+EVE
+
+1
+-
+0
+
+SOU
+ 
+W
+Saturday 23 October 2004
+NOR
+
+2
+-
+3
+
+EVE
+ 
+D
+Saturday 30 October 2004
+EVE
+
+1
+-
+1
+
+AVL
+ 
+L
+Saturday 6 November 2004
+CHE
+
+1
+-
+0
+
+EVE
+4 
+Previous Position 4
+
+Bolton Wanderers
+12	6	4	2	19	14	5	22	
+L
+Saturday 2 October 2004
+WBA
+
+2
+-
+1
+
+BOL
+ 
+W
+Saturday 16 October 2004
+BOL
+
+1
+-
+0
+
+CRY
+ 
+W
+Saturday 23 October 2004
+TOT
+
+1
+-
+2
+
+BOL
+ 
+W
+Sunday 31 October 2004
+BOL
+
+2
+-
+1
+
+NEW
+ 
+D
+Sunday 7 November 2004
+MID
+
+1
+-
+1
+
+BOL
+5 
+Previous Position 5
+
+Middlesbrough
+12	5	4	3	20	15	5	19	
+D
+Sunday 3 October 2004
+MUN
+
+1
+-
+1
+
+MID
+ 
+W
+Saturday 16 October 2004
+BLB
+
+0
+-
+4
+
+MID
+ 
+D
+Sunday 24 October 2004
+MID
+
+1
+-
+1
+
+POR
+ 
+W
+Saturday 30 October 2004
+CHA
+
+1
+-
+2
+
+MID
+ 
+D
+Sunday 7 November 2004
+MID
+
+1
+-
+1
+
+BOL
+6 
+Previous Position 10
+
+Aston Villa
+12	4	6	2	17	13	4	18	
+D
+Saturday 2 October 2004
+BLB
+
+2
+-
+2
+
+AVL
+ 
+L
+Saturday 16 October 2004
+ARS
+
+3
+-
+1
+
+AVL
+ 
+W
+Saturday 23 October 2004
+AVL
+
+2
+-
+0
+
+FUL
+ 
+D
+Saturday 30 October 2004
+EVE
+
+1
+-
+1
+
+AVL
+ 
+W
+Saturday 6 November 2004
+AVL
+
+3
+-
+0
+
+POR
+7 
+Previous Position 7
+
+Manchester United
+12	4	6	2	11	9	2	18	
+D
+Sunday 3 October 2004
+MUN
+
+1
+-
+1
+
+MID
+ 
+D
+Saturday 16 October 2004
+BIR
+
+0
+-
+0
+
+MUN
+ 
+W
+Sunday 24 October 2004
+MUN
+
+2
+-
+0
+
+ARS
+ 
+L
+Saturday 30 October 2004
+POR
+
+2
+-
+0
+
+MUN
+ 
+D
+Sunday 7 November 2004
+MUN
+
+0
+-
+0
+
+MCI
+8 
+Previous Position 6
+
+Liverpool
+11	5	2	4	18	11	7	17	
+L
+Sunday 3 October 2004
+CHE
+
+1
+-
+0
+
+LIV
+ 
+W
+Saturday 16 October 2004
+FUL
+
+2
+-
+4
+
+LIV
+ 
+W
+Saturday 23 October 2004
+LIV
+
+2
+-
+0
+
+CHA
+ 
+D
+Saturday 30 October 2004
+BLB
+
+2
+-
+2
+
+LIV
+ 
+L
+Saturday 6 November 2004
+LIV
+
+0
+-
+1
+
+BIR
+9 
+Previous Position 8
+
+Newcastle United
+12	4	4	4	23	23	0	16	
+D
+Sunday 3 October 2004
+BIR
+
+2
+-
+2
+
+NEW
+ 
+D
+Sunday 17 October 2004
+CHA
+
+1
+-
+1
+
+NEW
+ 
+W
+Sunday 24 October 2004
+NEW
+
+4
+-
+3
+
+MCI
+ 
+L
+Sunday 31 October 2004
+BOL
+
+2
+-
+1
+
+NEW
+ 
+L
+Sunday 7 November 2004
+NEW
+
+1
+-
+4
+
+FUL
+10 
+Previous Position 9
+
+Portsmouth
+11	4	3	4	15	15	0	15	
+D
+Saturday 2 October 2004
+NOR
+
+2
+-
+2
+
+POR
+ 
+W
+Monday 18 October 2004
+POR
+
+1
+-
+0
+
+TOT
+ 
+D
+Sunday 24 October 2004
+MID
+
+1
+-
+1
+
+POR
+ 
+W
+Saturday 30 October 2004
+POR
+
+2
+-
+0
+
+MUN
+ 
+L
+Saturday 6 November 2004
+AVL
+
+3
+-
+0
+
+POR
+11 
+Previous Position 13
+
+Charlton Athletic
+12	4	3	5	13	21	-8	15	
+L
+Saturday 2 October 2004
+ARS
+
+4
+-
+0
+
+CHA
+ 
+D
+Sunday 17 October 2004
+CHA
+
+1
+-
+1
+
+NEW
+ 
+L
+Saturday 23 October 2004
+LIV
+
+2
+-
+0
+
+CHA
+ 
+L
+Saturday 30 October 2004
+CHA
+
+1
+-
+2
+
+MID
+ 
+W
+Saturday 6 November 2004
+TOT
+
+2
+-
+3
+
+CHA
+12 
+Previous Position 15
+
+Fulham
+12	4	2	6	16	20	-4	14	
+L
+Monday 4 October 2004
+CRY
+
+2
+-
+0
+
+FUL
+ 
+L
+Saturday 16 October 2004
+FUL
+
+2
+-
+4
+
+LIV
+ 
+L
+Saturday 23 October 2004
+AVL
+
+2
+-
+0
+
+FUL
+ 
+W
+Saturday 30 October 2004
+FUL
+
+2
+-
+0
+
+TOT
+ 
+W
+Sunday 7 November 2004
+NEW
+
+1
+-
+4
+
+FUL
+13 
+Previous Position 12
+
+Manchester City
+12	3	4	5	13	12	1	13	
+D
+Saturday 2 October 2004
+SOU
+
+0
+-
+0
+
+MCI
+ 
+W
+Saturday 16 October 2004
+MCI
+
+1
+-
+0
+
+CHE
+ 
+L
+Sunday 24 October 2004
+NEW
+
+4
+-
+3
+
+MCI
+ 
+D
+Monday 1 November 2004
+MCI
+
+1
+-
+1
+
+NOR
+ 
+D
+Sunday 7 November 2004
+MUN
+
+0
+-
+0
+
+MCI
+14 
+Previous Position 11
+
+Tottenham Hotspur
+12	3	4	5	8	11	-3	13	
+W
+Saturday 2 October 2004
+EVE
+
+0
+-
+1
+
+TOT
+ 
+L
+Monday 18 October 2004
+POR
+
+1
+-
+0
+
+TOT
+ 
+L
+Saturday 23 October 2004
+TOT
+
+1
+-
+2
+
+BOL
+ 
+L
+Saturday 30 October 2004
+FUL
+
+2
+-
+0
+
+TOT
+ 
+L
+Saturday 6 November 2004
+TOT
+
+2
+-
+3
+
+CHA
+15 
+Previous Position 16
+
+Birmingham City
+12	2	6	4	8	10	-2	12	
+D
+Sunday 3 October 2004
+BIR
+
+2
+-
+2
+
+NEW
+ 
+D
+Saturday 16 October 2004
+BIR
+
+0
+-
+0
+
+MUN
+ 
+D
+Sunday 24 October 2004
+SOU
+
+0
+-
+0
+
+BIR
+ 
+L
+Saturday 30 October 2004
+BIR
+
+0
+-
+1
+
+CRY
+ 
+W
+Saturday 6 November 2004
+LIV
+
+0
+-
+1
+
+BIR
+16 
+Previous Position 14
+
+Crystal Palace
+12	3	3	6	13	16	-3	12	
+W
+Monday 4 October 2004
+CRY
+
+2
+-
+0
+
+FUL
+ 
+L
+Saturday 16 October 2004
+BOL
+
+1
+-
+0
+
+CRY
+ 
+W
+Saturday 23 October 2004
+CRY
+
+3
+-
+0
+
+WBA
+ 
+W
+Saturday 30 October 2004
+BIR
+
+0
+-
+1
+
+CRY
+ 
+D
+Saturday 6 November 2004
+CRY
+
+1
+-
+1
+
+ARS
+17 
+Previous Position 17
+
+West Bromwich Albion
+12	1	6	5	11	22	-11	9	
+W
+Saturday 2 October 2004
+WBA
+
+2
+-
+1
+
+BOL
+ 
+D
+Saturday 16 October 2004
+WBA
+
+0
+-
+0
+
+NOR
+ 
+L
+Saturday 23 October 2004
+CRY
+
+3
+-
+0
+
+WBA
+ 
+L
+Saturday 30 October 2004
+WBA
+
+1
+-
+4
+
+CHE
+ 
+D
+Saturday 6 November 2004
+SOU
+
+2
+-
+2
+
+WBA
+18 
+Previous Position 18
+
+Southampton
+12	1	5	6	10	16	-6	8	
+D
+Saturday 2 October 2004
+SOU
+
+0
+-
+0
+
+MCI
+ 
+L
+Saturday 16 October 2004
+EVE
+
+1
+-
+0
+
+SOU
+ 
+D
+Sunday 24 October 2004
+SOU
+
+0
+-
+0
+
+BIR
+ 
+D
+Saturday 30 October 2004
+ARS
+
+2
+-
+2
+
+SOU
+ 
+D
+Saturday 6 November 2004
+SOU
+
+2
+-
+2
+
+WBA
+19 
+Previous Position 19
+
+Norwich City
+12	0	8	4	11	19	-8	8	
+D
+Saturday 2 October 2004
+NOR
+
+2
+-
+2
+
+POR
+ 
+D
+Saturday 16 October 2004
+WBA
+
+0
+-
+0
+
+NOR
+ 
+L
+Saturday 23 October 2004
+NOR
+
+2
+-
+3
+
+EVE
+ 
+D
+Monday 1 November 2004
+MCI
+
+1
+-
+1
+
+NOR
+ 
+D
+Saturday 6 November 2004
+NOR
+
+1
+-
+1
+
+BLB
+20 
+Previous Position 20
+
+Blackburn Rovers
+12	1	5	6	10	25	-15	8	
+D
+Saturday 2 October 2004
+BLB
+
+2
+-
+2
+
+AVL
+ 
+L
+Saturday 16 October 2004
+BLB
+
+0
+-
+4
+
+MID
+ 
+L
+Saturday 23 October 2004
+CHE
+
+4
+-
+0
+
+BLB
+ 
+D
+Saturday 30 October 2004
+BLB
+
+2
+-
+2
+
+LIV
+ 
+D
+Saturday 6 November 2004
+NOR
+
+1
+-
+1
+
+BLB

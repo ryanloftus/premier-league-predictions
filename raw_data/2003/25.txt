@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Arsenal
+26	19	7	0	51	17	34	64	
+W
+Saturday 17 January 2004
+AVL
+
+0
+-
+2
+
+ARS
+ 
+W
+Sunday 1 February 2004
+ARS
+
+2
+-
+1
+
+MCI
+ 
+W
+Friday 6 February 2004
+WOL
+
+1
+-
+3
+
+ARS
+ 
+W
+Tuesday 10 February 2004
+ARS
+
+2
+-
+0
+
+SOU
+ 
+W
+Friday 20 February 2004
+CHE
+
+1
+-
+2
+
+ARS
+2 
+Previous Position 2
+
+Manchester United
+26	18	3	5	50	24	26	57	
+L
+Friday 16 January 2004
+WOL
+
+1
+-
+0
+
+MUN
+ 
+W
+Saturday 31 January 2004
+MUN
+
+3
+-
+2
+
+SOU
+ 
+W
+Friday 6 February 2004
+EVE
+
+3
+-
+4
+
+MUN
+ 
+L
+Tuesday 10 February 2004
+MUN
+
+2
+-
+3
+
+MID
+ 
+D
+Saturday 21 February 2004
+MUN
+
+1
+-
+1
+
+LEE
+3 
+Previous Position 3
+
+Chelsea
+26	17	4	5	47	21	26	55	
+D
+Saturday 17 January 2004
+CHE
+
+0
+-
+0
+
+BIR
+ 
+W
+Saturday 31 January 2004
+BLB
+
+2
+-
+3
+
+CHE
+ 
+W
+Saturday 7 February 2004
+CHE
+
+1
+-
+0
+
+CHA
+ 
+W
+Tuesday 10 February 2004
+POR
+
+0
+-
+2
+
+CHE
+ 
+L
+Friday 20 February 2004
+CHE
+
+1
+-
+2
+
+ARS
+4 
+Previous Position 5
+
+Newcastle United
+26	10	11	5	37	27	10	41	
+W
+Sunday 18 January 2004
+NEW
+
+3
+-
+1
+
+FUL
+ 
+D
+Friday 30 January 2004
+BIR
+
+1
+-
+1
+
+NEW
+ 
+W
+Friday 6 February 2004
+NEW
+
+3
+-
+1
+
+LEI
+ 
+D
+Tuesday 10 February 2004
+BLB
+
+1
+-
+1
+
+NEW
+ 
+W
+Friday 20 February 2004
+NEW
+
+2
+-
+1
+
+MID
+5 
+Previous Position 6
+
+Charlton Athletic
+26	11	7	8	37	32	5	40	
+W
+Friday 16 January 2004
+EVE
+
+0
+-
+1
+
+CHA
+ 
+L
+Friday 30 January 2004
+CHA
+
+1
+-
+2
+
+BOL
+ 
+L
+Saturday 7 February 2004
+CHE
+
+1
+-
+0
+
+CHA
+ 
+L
+Tuesday 10 February 2004
+CHA
+
+2
+-
+4
+
+TOT
+ 
+W
+Friday 20 February 2004
+CHA
+
+3
+-
+2
+
+BLB
+6 
+Previous Position 4
+
+Liverpool
+25	10	8	7	36	27	9	38	
+L
+Friday 16 January 2004
+TOT
+
+2
+-
+1
+
+LIV
+ 
+D
+Tuesday 20 January 2004
+WOL
+
+1
+-
+1
+
+LIV
+ 
+D
+Friday 30 January 2004
+LIV
+
+0
+-
+0
+
+EVE
+ 
+D
+Friday 6 February 2004
+BOL
+
+2
+-
+2
+
+LIV
+ 
+W
+Wednesday 11 February 2004
+LIV
+
+2
+-
+1
+
+MCI
+7 
+Previous Position 7
+
+Aston Villa
+26	10	7	9	32	30	2	37	
+L
+Saturday 17 January 2004
+AVL
+
+0
+-
+2
+
+ARS
+ 
+W
+Friday 30 January 2004
+LEI
+
+0
+-
+5
+
+AVL
+ 
+W
+Saturday 7 February 2004
+AVL
+
+2
+-
+0
+
+LEE
+ 
+W
+Tuesday 10 February 2004
+FUL
+
+1
+-
+2
+
+AVL
+ 
+D
+Saturday 21 February 2004
+AVL
+
+2
+-
+2
+
+BIR
+8 
+Previous Position 9
+
+Birmingham City
+25	9	9	7	25	28	-3	36	
+D
+Saturday 17 January 2004
+CHE
+
+0
+-
+0
+
+BIR
+ 
+D
+Friday 30 January 2004
+BIR
+
+1
+-
+1
+
+NEW
+ 
+D
+Sunday 8 February 2004
+MCI
+
+0
+-
+0
+
+BIR
+ 
+W
+Tuesday 10 February 2004
+BIR
+
+3
+-
+0
+
+EVE
+ 
+D
+Saturday 21 February 2004
+AVL
+
+2
+-
+2
+
+BIR
+9 
+Previous Position 8
+
+Fulham
+26	10	5	11	38	37	1	35	
+L
+Sunday 18 January 2004
+NEW
+
+3
+-
+1
+
+FUL
+ 
+W
+Friday 30 January 2004
+FUL
+
+2
+-
+1
+
+TOT
+ 
+D
+Saturday 7 February 2004
+SOU
+
+0
+-
+0
+
+FUL
+ 
+L
+Tuesday 10 February 2004
+FUL
+
+1
+-
+2
+
+AVL
+ 
+L
+Friday 20 February 2004
+WOL
+
+2
+-
+1
+
+FUL
+10 
+Previous Position 11
+
+Tottenham Hotspur
+26	10	4	12	39	42	-3	34	
+W
+Friday 16 January 2004
+TOT
+
+2
+-
+1
+
+LIV
+ 
+L
+Friday 30 January 2004
+FUL
+
+2
+-
+1
+
+TOT
+ 
+W
+Friday 6 February 2004
+TOT
+
+4
+-
+3
+
+POR
+ 
+W
+Tuesday 10 February 2004
+CHA
+
+2
+-
+4
+
+TOT
+ 
+D
+Saturday 21 February 2004
+TOT
+
+4
+-
+4
+
+LEI
+11 
+Previous Position 10
+
+Bolton Wanderers
+26	8	10	8	32	40	-8	34	
+W
+Friday 16 January 2004
+BOL
+
+1
+-
+0
+
+POR
+ 
+W
+Friday 30 January 2004
+CHA
+
+1
+-
+2
+
+BOL
+ 
+D
+Friday 6 February 2004
+BOL
+
+2
+-
+2
+
+LIV
+ 
+D
+Monday 9 February 2004
+LEI
+
+1
+-
+1
+
+BOL
+ 
+L
+Saturday 21 February 2004
+BOL
+
+1
+-
+3
+
+MCI
+12 
+Previous Position 12
+
+Southampton
+26	8	8	10	26	26	0	32	
+W
+Saturday 17 January 2004
+SOU
+
+2
+-
+1
+
+LEE
+ 
+L
+Saturday 31 January 2004
+MUN
+
+3
+-
+2
+
+SOU
+ 
+D
+Saturday 7 February 2004
+SOU
+
+0
+-
+0
+
+FUL
+ 
+L
+Tuesday 10 February 2004
+ARS
+
+2
+-
+0
+
+SOU
+ 
+D
+Saturday 21 February 2004
+SOU
+
+3
+-
+3
+
+EVE
+13 
+Previous Position 13
+
+Middlesbrough
+25	8	7	10	27	31	-4	31	
+D
+Friday 16 January 2004
+MID
+
+3
+-
+3
+
+LEI
+ 
+W
+Saturday 31 January 2004
+LEE
+
+0
+-
+3
+
+MID
+ 
+L
+Friday 6 February 2004
+MID
+
+0
+-
+1
+
+BLB
+ 
+W
+Tuesday 10 February 2004
+MUN
+
+2
+-
+3
+
+MID
+ 
+L
+Friday 20 February 2004
+NEW
+
+2
+-
+1
+
+MID
+14 
+Previous Position 16
+
+Manchester City
+26	6	9	11	36	38	-2	27	
+D
+Saturday 17 January 2004
+MCI
+
+1
+-
+1
+
+BLB
+ 
+L
+Sunday 1 February 2004
+ARS
+
+2
+-
+1
+
+MCI
+ 
+D
+Sunday 8 February 2004
+MCI
+
+0
+-
+0
+
+BIR
+ 
+L
+Wednesday 11 February 2004
+LIV
+
+2
+-
+1
+
+MCI
+ 
+W
+Saturday 21 February 2004
+BOL
+
+1
+-
+3
+
+MCI
+15 
+Previous Position 14
+
+Blackburn Rovers
+26	7	6	13	38	43	-5	27	
+D
+Saturday 17 January 2004
+MCI
+
+1
+-
+1
+
+BLB
+ 
+L
+Saturday 31 January 2004
+BLB
+
+2
+-
+3
+
+CHE
+ 
+W
+Friday 6 February 2004
+MID
+
+0
+-
+1
+
+BLB
+ 
+D
+Tuesday 10 February 2004
+BLB
+
+1
+-
+1
+
+NEW
+ 
+L
+Friday 20 February 2004
+CHA
+
+3
+-
+2
+
+BLB
+16 
+Previous Position 15
+
+Everton
+26	6	8	12	31	39	-8	26	
+L
+Friday 16 January 2004
+EVE
+
+0
+-
+1
+
+CHA
+ 
+D
+Friday 30 January 2004
+LIV
+
+0
+-
+0
+
+EVE
+ 
+L
+Friday 6 February 2004
+EVE
+
+3
+-
+4
+
+MUN
+ 
+L
+Tuesday 10 February 2004
+BIR
+
+3
+-
+0
+
+EVE
+ 
+D
+Saturday 21 February 2004
+SOU
+
+3
+-
+3
+
+EVE
+17 
+Previous Position 17
+
+Portsmouth
+25	6	5	14	28	39	-11	23	
+W
+Saturday 10 January 2004
+POR
+
+4
+-
+2
+
+MCI
+ 
+L
+Friday 16 January 2004
+BOL
+
+1
+-
+0
+
+POR
+ 
+D
+Friday 30 January 2004
+POR
+
+0
+-
+0
+
+WOL
+ 
+L
+Friday 6 February 2004
+TOT
+
+4
+-
+3
+
+POR
+ 
+L
+Tuesday 10 February 2004
+POR
+
+0
+-
+2
+
+CHE
+18 
+Previous Position 20
+
+Wolverhampton Wanderers
+26	5	8	13	24	52	-28	23	
+D
+Tuesday 20 January 2004
+WOL
+
+1
+-
+1
+
+LIV
+ 
+D
+Friday 30 January 2004
+POR
+
+0
+-
+0
+
+WOL
+ 
+L
+Friday 6 February 2004
+WOL
+
+1
+-
+3
+
+ARS
+ 
+L
+Tuesday 10 February 2004
+LEE
+
+4
+-
+1
+
+WOL
+ 
+W
+Friday 20 February 2004
+WOL
+
+2
+-
+1
+
+FUL
+19 
+Previous Position 18
+
+Leicester City
+26	4	10	12	37	51	-14	22	
+D
+Friday 16 January 2004
+MID
+
+3
+-
+3
+
+LEI
+ 
+L
+Friday 30 January 2004
+LEI
+
+0
+-
+5
+
+AVL
+ 
+L
+Friday 6 February 2004
+NEW
+
+3
+-
+1
+
+LEI
+ 
+D
+Monday 9 February 2004
+LEI
+
+1
+-
+1
+
+BOL
+ 
+D
+Saturday 21 February 2004
+TOT
+
+4
+-
+4
+
+LEI
+20 
+Previous Position 19
+
+Leeds United
+26	5	6	15	24	51	-27	21	
+L
+Saturday 17 January 2004
+SOU
+
+2
+-
+1
+
+LEE
+ 
+L
+Saturday 31 January 2004
+LEE
+
+0
+-
+3
+
+MID
+ 
+L
+Saturday 7 February 2004
+AVL
+
+2
+-
+0
+
+LEE
+ 
+W
+Tuesday 10 February 2004
+LEE
+
+4
+-
+1
+
+WOL
+ 
+D
+Saturday 21 February 2004
+MUN
+
+1
+-
+1
+
+LEE

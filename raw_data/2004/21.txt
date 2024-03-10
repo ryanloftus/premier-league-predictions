@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Chelsea
+21	16	4	1	41	8	33	52	
+D
+Sunday 12 December 2004
+ARS
+
+2
+-
+2
+
+CHE
+ 
+W
+Saturday 18 December 2004
+CHE
+
+4
+-
+0
+
+NOR
+ 
+W
+Sunday 26 December 2004
+CHE
+
+1
+-
+0
+
+AVL
+ 
+W
+Tuesday 28 December 2004
+POR
+
+0
+-
+2
+
+CHE
+ 
+W
+Saturday 1 January 2005
+LIV
+
+0
+-
+1
+
+CHE
+2 
+Previous Position 2
+
+Arsenal
+21	14	5	2	51	23	28	47	
+D
+Sunday 12 December 2004
+ARS
+
+2
+-
+2
+
+CHE
+ 
+W
+Sunday 19 December 2004
+POR
+
+0
+-
+1
+
+ARS
+ 
+W
+Sunday 26 December 2004
+ARS
+
+2
+-
+0
+
+FUL
+ 
+W
+Wednesday 29 December 2004
+NEW
+
+0
+-
+1
+
+ARS
+ 
+W
+Saturday 1 January 2005
+CHA
+
+1
+-
+3
+
+ARS
+3 
+Previous Position 3
+
+Manchester United
+21	12	7	2	33	13	20	43	
+D
+Monday 13 December 2004
+FUL
+
+1
+-
+1
+
+MUN
+ 
+W
+Saturday 18 December 2004
+MUN
+
+5
+-
+2
+
+CRY
+ 
+W
+Sunday 26 December 2004
+MUN
+
+2
+-
+0
+
+BOL
+ 
+W
+Tuesday 28 December 2004
+AVL
+
+0
+-
+1
+
+MUN
+ 
+W
+Saturday 1 January 2005
+MID
+
+0
+-
+2
+
+MUN
+4 
+Previous Position 4
+
+Everton
+21	12	4	5	25	22	3	40	
+W
+Saturday 11 December 2004
+EVE
+
+1
+-
+0
+
+LIV
+ 
+D
+Saturday 18 December 2004
+BLB
+
+0
+-
+0
+
+EVE
+ 
+W
+Sunday 26 December 2004
+EVE
+
+2
+-
+1
+
+MCI
+ 
+L
+Tuesday 28 December 2004
+CHA
+
+2
+-
+0
+
+EVE
+ 
+L
+Saturday 1 January 2005
+TOT
+
+5
+-
+2
+
+EVE
+5 
+Previous Position 5
+
+Middlesbrough
+21	10	5	6	34	26	8	35	
+D
+Saturday 11 December 2004
+SOU
+
+2
+-
+2
+
+MID
+ 
+W
+Saturday 18 December 2004
+MID
+
+3
+-
+0
+
+AVL
+ 
+L
+Sunday 26 December 2004
+BIR
+
+2
+-
+0
+
+MID
+ 
+W
+Tuesday 28 December 2004
+MID
+
+2
+-
+0
+
+NOR
+ 
+L
+Saturday 1 January 2005
+MID
+
+0
+-
+2
+
+MUN
+6 
+Previous Position 6
+
+Liverpool
+21	10	4	7	34	21	13	34	
+D
+Tuesday 14 December 2004
+LIV
+
+1
+-
+1
+
+POR
+ 
+W
+Sunday 19 December 2004
+LIV
+
+3
+-
+1
+
+NEW
+ 
+W
+Sunday 26 December 2004
+WBA
+
+0
+-
+5
+
+LIV
+ 
+W
+Tuesday 28 December 2004
+LIV
+
+1
+-
+0
+
+SOU
+ 
+L
+Saturday 1 January 2005
+LIV
+
+0
+-
+1
+
+CHE
+7 
+Previous Position 8
+
+Tottenham Hotspur
+21	9	5	7	29	21	8	32	
+W
+Saturday 11 December 2004
+MCI
+
+0
+-
+1
+
+TOT
+ 
+W
+Saturday 18 December 2004
+TOT
+
+5
+-
+1
+
+SOU
+ 
+W
+Sunday 26 December 2004
+NOR
+
+0
+-
+2
+
+TOT
+ 
+D
+Tuesday 28 December 2004
+TOT
+
+1
+-
+1
+
+CRY
+ 
+W
+Saturday 1 January 2005
+TOT
+
+5
+-
+2
+
+EVE
+8 
+Previous Position 7
+
+Charlton Athletic
+21	9	4	8	24	31	-7	31	
+W
+Saturday 11 December 2004
+WBA
+
+0
+-
+1
+
+CHA
+ 
+W
+Monday 20 December 2004
+CHA
+
+2
+-
+1
+
+FUL
+ 
+D
+Sunday 26 December 2004
+SOU
+
+0
+-
+0
+
+CHA
+ 
+W
+Tuesday 28 December 2004
+CHA
+
+2
+-
+0
+
+EVE
+ 
+L
+Saturday 1 January 2005
+CHA
+
+1
+-
+3
+
+ARS
+9 
+Previous Position 11
+
+Aston Villa
+21	7	7	7	23	24	-1	28	
+L
+Sunday 12 December 2004
+AVL
+
+1
+-
+2
+
+BIR
+ 
+L
+Saturday 18 December 2004
+MID
+
+3
+-
+0
+
+AVL
+ 
+L
+Sunday 26 December 2004
+CHE
+
+1
+-
+0
+
+AVL
+ 
+L
+Tuesday 28 December 2004
+AVL
+
+0
+-
+1
+
+MUN
+ 
+W
+Saturday 1 January 2005
+AVL
+
+1
+-
+0
+
+BLB
+10 
+Previous Position 12
+
+Manchester City
+21	7	6	8	26	22	4	27	
+L
+Saturday 11 December 2004
+MCI
+
+0
+-
+1
+
+TOT
+ 
+W
+Saturday 18 December 2004
+BOL
+
+0
+-
+1
+
+MCI
+ 
+L
+Sunday 26 December 2004
+EVE
+
+2
+-
+1
+
+MCI
+ 
+D
+Tuesday 28 December 2004
+MCI
+
+1
+-
+1
+
+WBA
+ 
+W
+Saturday 1 January 2005
+MCI
+
+2
+-
+1
+
+SOU
+11 
+Previous Position 10
+
+Portsmouth
+21	7	6	8	25	28	-3	27	
+D
+Tuesday 14 December 2004
+LIV
+
+1
+-
+1
+
+POR
+ 
+L
+Sunday 19 December 2004
+POR
+
+0
+-
+1
+
+ARS
+ 
+W
+Sunday 26 December 2004
+CRY
+
+0
+-
+1
+
+POR
+ 
+L
+Tuesday 28 December 2004
+POR
+
+0
+-
+2
+
+CHE
+ 
+D
+Saturday 1 January 2005
+POR
+
+1
+-
+1
+
+NOR
+12 
+Previous Position 9
+
+Birmingham City
+21	6	8	7	24	23	1	26	
+W
+Sunday 12 December 2004
+AVL
+
+1
+-
+2
+
+BIR
+ 
+W
+Saturday 18 December 2004
+BIR
+
+4
+-
+0
+
+WBA
+ 
+W
+Sunday 26 December 2004
+BIR
+
+2
+-
+0
+
+MID
+ 
+W
+Tuesday 28 December 2004
+FUL
+
+2
+-
+3
+
+BIR
+ 
+L
+Saturday 1 January 2005
+NEW
+
+2
+-
+1
+
+BIR
+13 
+Previous Position 14
+
+Newcastle United
+21	6	7	8	33	39	-6	25	
+D
+Saturday 11 December 2004
+NEW
+
+1
+-
+1
+
+POR
+ 
+L
+Sunday 19 December 2004
+LIV
+
+3
+-
+1
+
+NEW
+ 
+D
+Sunday 26 December 2004
+BLB
+
+2
+-
+2
+
+NEW
+ 
+L
+Wednesday 29 December 2004
+NEW
+
+0
+-
+1
+
+ARS
+ 
+W
+Saturday 1 January 2005
+NEW
+
+2
+-
+1
+
+BIR
+14 
+Previous Position 13
+
+Bolton Wanderers
+21	6	6	9	27	30	-3	24	
+L
+Saturday 11 December 2004
+NOR
+
+3
+-
+2
+
+BOL
+ 
+L
+Saturday 18 December 2004
+BOL
+
+0
+-
+1
+
+MCI
+ 
+L
+Sunday 26 December 2004
+MUN
+
+2
+-
+0
+
+BOL
+ 
+L
+Tuesday 28 December 2004
+BOL
+
+0
+-
+1
+
+BLB
+ 
+D
+Saturday 1 January 2005
+BOL
+
+1
+-
+1
+
+WBA
+15 
+Previous Position 16
+
+Fulham
+21	6	3	12	25	36	-11	21	
+D
+Monday 13 December 2004
+FUL
+
+1
+-
+1
+
+MUN
+ 
+L
+Monday 20 December 2004
+CHA
+
+2
+-
+1
+
+FUL
+ 
+L
+Sunday 26 December 2004
+ARS
+
+2
+-
+0
+
+FUL
+ 
+L
+Tuesday 28 December 2004
+FUL
+
+2
+-
+3
+
+BIR
+ 
+W
+Saturday 1 January 2005
+FUL
+
+3
+-
+1
+
+CRY
+16 
+Previous Position 15
+
+Blackburn Rovers
+21	3	10	8	19	33	-14	19	
+D
+Saturday 11 December 2004
+CRY
+
+0
+-
+0
+
+BLB
+ 
+D
+Saturday 18 December 2004
+BLB
+
+0
+-
+0
+
+EVE
+ 
+D
+Sunday 26 December 2004
+BLB
+
+2
+-
+2
+
+NEW
+ 
+W
+Tuesday 28 December 2004
+BOL
+
+0
+-
+1
+
+BLB
+ 
+L
+Saturday 1 January 2005
+AVL
+
+1
+-
+0
+
+BLB
+17 
+Previous Position 18
+
+Norwich City
+21	2	10	9	18	37	-19	16	
+W
+Saturday 11 December 2004
+NOR
+
+3
+-
+2
+
+BOL
+ 
+L
+Saturday 18 December 2004
+CHE
+
+4
+-
+0
+
+NOR
+ 
+L
+Sunday 26 December 2004
+NOR
+
+0
+-
+2
+
+TOT
+ 
+L
+Tuesday 28 December 2004
+MID
+
+2
+-
+0
+
+NOR
+ 
+D
+Saturday 1 January 2005
+POR
+
+1
+-
+1
+
+NOR
+18 
+Previous Position 17
+
+Crystal Palace
+21	3	6	12	21	34	-13	15	
+D
+Saturday 11 December 2004
+CRY
+
+0
+-
+0
+
+BLB
+ 
+L
+Saturday 18 December 2004
+MUN
+
+5
+-
+2
+
+CRY
+ 
+L
+Sunday 26 December 2004
+CRY
+
+0
+-
+1
+
+POR
+ 
+D
+Tuesday 28 December 2004
+TOT
+
+1
+-
+1
+
+CRY
+ 
+L
+Saturday 1 January 2005
+FUL
+
+3
+-
+1
+
+CRY
+19 
+Previous Position 19
+
+Southampton
+21	2	8	11	19	34	-15	14	
+D
+Saturday 11 December 2004
+SOU
+
+2
+-
+2
+
+MID
+ 
+L
+Saturday 18 December 2004
+TOT
+
+5
+-
+1
+
+SOU
+ 
+D
+Sunday 26 December 2004
+SOU
+
+0
+-
+0
+
+CHA
+ 
+L
+Tuesday 28 December 2004
+LIV
+
+1
+-
+0
+
+SOU
+ 
+L
+Saturday 1 January 2005
+MCI
+
+2
+-
+1
+
+SOU
+20 
+Previous Position 20
+
+West Bromwich Albion
+21	1	9	11	17	43	-26	12	
+L
+Saturday 11 December 2004
+WBA
+
+0
+-
+1
+
+CHA
+ 
+L
+Saturday 18 December 2004
+BIR
+
+4
+-
+0
+
+WBA
+ 
+L
+Sunday 26 December 2004
+WBA
+
+0
+-
+5
+
+LIV
+ 
+D
+Tuesday 28 December 2004
+MCI
+
+1
+-
+1
+
+WBA
+ 
+D
+Saturday 1 January 2005
+BOL
+
+1
+-
+1
+
+WBA

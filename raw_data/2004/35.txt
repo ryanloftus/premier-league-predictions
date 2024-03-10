@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Chelsea
+33	25	7	1	62	12	50	82	
+W
+Tuesday 15 March 2005
+CHE
+
+1
+-
+0
+
+WBA
+ 
+W
+Saturday 19 March 2005
+CHE
+
+4
+-
+1
+
+CRY
+ 
+W
+Saturday 2 April 2005
+SOU
+
+1
+-
+3
+
+CHE
+ 
+D
+Saturday 9 April 2005
+CHE
+
+1
+-
+1
+
+BIR
+ 
+D
+Wednesday 20 April 2005
+CHE
+
+0
+-
+0
+
+ARS
+2 
+Previous Position 2
+
+Arsenal
+33	21	8	4	73	33	40	71	
+W
+Saturday 5 March 2005
+ARS
+
+3
+-
+0
+
+POR
+ 
+W
+Saturday 19 March 2005
+BLB
+
+0
+-
+1
+
+ARS
+ 
+W
+Saturday 2 April 2005
+ARS
+
+4
+-
+1
+
+NOR
+ 
+W
+Saturday 9 April 2005
+MID
+
+0
+-
+1
+
+ARS
+ 
+D
+Wednesday 20 April 2005
+CHE
+
+0
+-
+0
+
+ARS
+3 
+Previous Position 3
+
+Manchester United
+33	19	10	4	48	20	28	67	
+D
+Saturday 5 March 2005
+CRY
+
+0
+-
+0
+
+MUN
+ 
+W
+Saturday 19 March 2005
+MUN
+
+1
+-
+0
+
+FUL
+ 
+D
+Saturday 2 April 2005
+MUN
+
+0
+-
+0
+
+BLB
+ 
+L
+Saturday 9 April 2005
+NOR
+
+2
+-
+0
+
+MUN
+ 
+L
+Wednesday 20 April 2005
+EVE
+
+1
+-
+0
+
+MUN
+4 
+Previous Position 4
+
+Everton
+33	17	6	10	40	33	7	57	
+L
+Sunday 6 March 2005
+EVE
+
+0
+-
+1
+
+BLB
+ 
+L
+Sunday 20 March 2005
+LIV
+
+2
+-
+1
+
+EVE
+ 
+L
+Sunday 3 April 2005
+WBA
+
+1
+-
+0
+
+EVE
+ 
+W
+Sunday 10 April 2005
+EVE
+
+4
+-
+0
+
+CRY
+ 
+W
+Wednesday 20 April 2005
+EVE
+
+1
+-
+0
+
+MUN
+5 
+Previous Position 6
+
+Liverpool
+34	16	6	12	48	35	13	54	
+W
+Sunday 20 March 2005
+LIV
+
+2
+-
+1
+
+EVE
+ 
+W
+Saturday 2 April 2005
+LIV
+
+1
+-
+0
+
+BOL
+ 
+L
+Saturday 9 April 2005
+MCI
+
+1
+-
+0
+
+LIV
+ 
+D
+Saturday 16 April 2005
+LIV
+
+2
+-
+2
+
+TOT
+ 
+W
+Wednesday 20 April 2005
+POR
+
+1
+-
+2
+
+LIV
+6 
+Previous Position 5
+
+Bolton Wanderers
+34	15	8	11	44	38	6	53	
+W
+Saturday 19 March 2005
+BOL
+
+1
+-
+0
+
+NOR
+ 
+L
+Saturday 2 April 2005
+LIV
+
+1
+-
+0
+
+BOL
+ 
+W
+Saturday 9 April 2005
+BOL
+
+3
+-
+1
+
+FUL
+ 
+W
+Saturday 16 April 2005
+CHA
+
+1
+-
+2
+
+BOL
+ 
+D
+Tuesday 19 April 2005
+BOL
+
+1
+-
+1
+
+SOU
+7 
+Previous Position 7
+
+Tottenham Hotspur
+34	13	9	12	42	38	4	48	
+W
+Saturday 19 March 2005
+TOT
+
+2
+-
+1
+
+MCI
+ 
+D
+Saturday 2 April 2005
+BIR
+
+1
+-
+1
+
+TOT
+ 
+W
+Sunday 10 April 2005
+TOT
+
+1
+-
+0
+
+NEW
+ 
+D
+Saturday 16 April 2005
+LIV
+
+2
+-
+2
+
+TOT
+ 
+D
+Wednesday 20 April 2005
+TOT
+
+1
+-
+1
+
+WBA
+8 
+Previous Position 8
+
+Middlesbrough
+33	12	10	11	46	44	2	46	
+L
+Saturday 5 March 2005
+AVL
+
+2
+-
+0
+
+MID
+ 
+L
+Sunday 20 March 2005
+MID
+
+1
+-
+3
+
+SOU
+ 
+W
+Saturday 2 April 2005
+CRY
+
+0
+-
+1
+
+MID
+ 
+L
+Saturday 9 April 2005
+MID
+
+0
+-
+1
+
+ARS
+ 
+D
+Tuesday 19 April 2005
+MID
+
+1
+-
+1
+
+FUL
+9 
+Previous Position 9
+
+Aston Villa
+34	12	10	12	41	42	-1	46	
+L
+Sunday 20 March 2005
+BIR
+
+2
+-
+0
+
+AVL
+ 
+W
+Saturday 2 April 2005
+NEW
+
+0
+-
+3
+
+AVL
+ 
+D
+Sunday 10 April 2005
+AVL
+
+1
+-
+1
+
+WBA
+ 
+W
+Saturday 16 April 2005
+SOU
+
+2
+-
+3
+
+AVL
+ 
+D
+Wednesday 20 April 2005
+AVL
+
+0
+-
+0
+
+CHA
+10 
+Previous Position 10
+
+Charlton Athletic
+34	12	9	13	40	50	-10	45	
+L
+Saturday 19 March 2005
+CHA
+
+1
+-
+4
+
+WBA
+ 
+D
+Saturday 2 April 2005
+CHA
+
+2
+-
+2
+
+MCI
+ 
+L
+Saturday 9 April 2005
+POR
+
+4
+-
+2
+
+CHA
+ 
+L
+Saturday 16 April 2005
+CHA
+
+1
+-
+2
+
+BOL
+ 
+D
+Wednesday 20 April 2005
+AVL
+
+0
+-
+0
+
+CHA
+11 
+Previous Position 11
+
+Manchester City
+34	11	11	12	42	37	5	44	
+L
+Saturday 19 March 2005
+TOT
+
+2
+-
+1
+
+MCI
+ 
+D
+Saturday 2 April 2005
+CHA
+
+2
+-
+2
+
+MCI
+ 
+W
+Saturday 9 April 2005
+MCI
+
+1
+-
+0
+
+LIV
+ 
+D
+Saturday 16 April 2005
+FUL
+
+1
+-
+1
+
+MCI
+ 
+W
+Wednesday 20 April 2005
+MCI
+
+3
+-
+0
+
+BIR
+12 
+Previous Position 14
+
+Blackburn Rovers
+33	9	12	12	29	37	-8	39	
+D
+Wednesday 16 March 2005
+LIV
+
+0
+-
+0
+
+BLB
+ 
+L
+Saturday 19 March 2005
+BLB
+
+0
+-
+1
+
+ARS
+ 
+D
+Saturday 2 April 2005
+MUN
+
+0
+-
+0
+
+BLB
+ 
+W
+Saturday 9 April 2005
+BLB
+
+3
+-
+0
+
+SOU
+ 
+W
+Wednesday 20 April 2005
+BLB
+
+1
+-
+0
+
+CRY
+13 
+Previous Position 12
+
+Birmingham City
+34	9	11	14	35	42	-7	38	
+W
+Sunday 20 March 2005
+BIR
+
+2
+-
+0
+
+AVL
+ 
+D
+Saturday 2 April 2005
+BIR
+
+1
+-
+1
+
+TOT
+ 
+D
+Saturday 9 April 2005
+CHE
+
+1
+-
+1
+
+BIR
+ 
+D
+Saturday 16 April 2005
+BIR
+
+0
+-
+0
+
+POR
+ 
+L
+Wednesday 20 April 2005
+MCI
+
+3
+-
+0
+
+BIR
+14 
+Previous Position 13
+
+Newcastle United
+32	9	11	12	42	51	-9	38	
+W
+Saturday 5 March 2005
+NEW
+
+1
+-
+0
+
+LIV
+ 
+D
+Saturday 19 March 2005
+POR
+
+1
+-
+1
+
+NEW
+ 
+L
+Saturday 2 April 2005
+NEW
+
+0
+-
+3
+
+AVL
+ 
+L
+Sunday 10 April 2005
+TOT
+
+1
+-
+0
+
+NEW
+ 
+L
+Wednesday 20 April 2005
+NOR
+
+2
+-
+1
+
+NEW
+15 
+Previous Position 16
+
+Fulham
+33	9	8	16	39	53	-14	35	
+L
+Saturday 19 March 2005
+MUN
+
+1
+-
+0
+
+FUL
+ 
+W
+Sunday 3 April 2005
+FUL
+
+3
+-
+1
+
+POR
+ 
+L
+Saturday 9 April 2005
+BOL
+
+3
+-
+1
+
+FUL
+ 
+D
+Saturday 16 April 2005
+FUL
+
+1
+-
+1
+
+MCI
+ 
+D
+Tuesday 19 April 2005
+MID
+
+1
+-
+1
+
+FUL
+16 
+Previous Position 15
+
+Portsmouth
+34	9	8	17	38	53	-15	35	
+D
+Saturday 19 March 2005
+POR
+
+1
+-
+1
+
+NEW
+ 
+L
+Sunday 3 April 2005
+FUL
+
+3
+-
+1
+
+POR
+ 
+W
+Saturday 9 April 2005
+POR
+
+4
+-
+2
+
+CHA
+ 
+D
+Saturday 16 April 2005
+BIR
+
+0
+-
+0
+
+POR
+ 
+L
+Wednesday 20 April 2005
+POR
+
+1
+-
+2
+
+LIV
+17 
+Previous Position 17
+
+West Bromwich Albion
+33	5	14	14	32	53	-21	29	
+L
+Tuesday 15 March 2005
+CHE
+
+1
+-
+0
+
+WBA
+ 
+W
+Saturday 19 March 2005
+CHA
+
+1
+-
+4
+
+WBA
+ 
+W
+Sunday 3 April 2005
+WBA
+
+1
+-
+0
+
+EVE
+ 
+D
+Sunday 10 April 2005
+AVL
+
+1
+-
+1
+
+WBA
+ 
+D
+Wednesday 20 April 2005
+TOT
+
+1
+-
+1
+
+WBA
+18 
+Previous Position 18
+
+Southampton
+34	5	13	16	37	55	-18	28	
+W
+Sunday 20 March 2005
+MID
+
+1
+-
+3
+
+SOU
+ 
+L
+Saturday 2 April 2005
+SOU
+
+1
+-
+3
+
+CHE
+ 
+L
+Saturday 9 April 2005
+BLB
+
+3
+-
+0
+
+SOU
+ 
+L
+Saturday 16 April 2005
+SOU
+
+2
+-
+3
+
+AVL
+ 
+D
+Tuesday 19 April 2005
+BOL
+
+1
+-
+1
+
+SOU
+19 
+Previous Position 19
+
+Crystal Palace
+34	6	9	19	36	58	-22	27	
+L
+Saturday 19 March 2005
+CHE
+
+4
+-
+1
+
+CRY
+ 
+L
+Saturday 2 April 2005
+CRY
+
+0
+-
+1
+
+MID
+ 
+L
+Sunday 10 April 2005
+EVE
+
+4
+-
+0
+
+CRY
+ 
+D
+Saturday 16 April 2005
+CRY
+
+3
+-
+3
+
+NOR
+ 
+L
+Wednesday 20 April 2005
+BLB
+
+1
+-
+0
+
+CRY
+20 
+Previous Position 20
+
+Norwich City
+34	5	12	17	37	67	-30	27	
+L
+Saturday 19 March 2005
+BOL
+
+1
+-
+0
+
+NOR
+ 
+L
+Saturday 2 April 2005
+ARS
+
+4
+-
+1
+
+NOR
+ 
+W
+Saturday 9 April 2005
+NOR
+
+2
+-
+0
+
+MUN
+ 
+D
+Saturday 16 April 2005
+CRY
+
+3
+-
+3
+
+NOR
+ 
+W
+Wednesday 20 April 2005
+NOR
+
+2
+-
+1
+
+NEW

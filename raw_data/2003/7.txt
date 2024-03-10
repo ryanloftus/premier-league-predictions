@@ -1,0 +1,1080 @@
+1 
+Previous Position 2
+
+Chelsea
+8	6	2	0	18	7	11	20	
+W
+Saturday 13 September 2003
+CHE
+
+4
+-
+2
+
+TOT
+ 
+W
+Saturday 20 September 2003
+WOL
+
+0
+-
+5
+
+CHE
+ 
+W
+Friday 26 September 2003
+CHE
+
+1
+-
+0
+
+AVL
+ 
+W
+Saturday 4 October 2003
+MID
+
+1
+-
+2
+
+CHE
+ 
+D
+Tuesday 14 October 2003
+BIR
+
+0
+-
+0
+
+CHE
+2 
+Previous Position 1
+
+Arsenal
+8	6	2	0	16	6	10	20	
+W
+Sunday 31 August 2003
+MCI
+
+1
+-
+2
+
+ARS
+ 
+D
+Friday 12 September 2003
+ARS
+
+1
+-
+1
+
+POR
+ 
+D
+Sunday 21 September 2003
+MUN
+
+0
+-
+0
+
+ARS
+ 
+W
+Friday 26 September 2003
+ARS
+
+3
+-
+2
+
+NEW
+ 
+W
+Saturday 4 October 2003
+LIV
+
+1
+-
+2
+
+ARS
+3 
+Previous Position 3
+
+Manchester United
+8	6	1	1	16	3	13	19	
+L
+Sunday 31 August 2003
+SOU
+
+1
+-
+0
+
+MUN
+ 
+W
+Friday 12 September 2003
+CHA
+
+0
+-
+2
+
+MUN
+ 
+D
+Sunday 21 September 2003
+MUN
+
+0
+-
+0
+
+ARS
+ 
+W
+Friday 26 September 2003
+LEI
+
+1
+-
+4
+
+MUN
+ 
+W
+Friday 3 October 2003
+MUN
+
+3
+-
+0
+
+BIR
+4 
+Previous Position 4
+
+Birmingham City
+8	4	3	1	8	5	3	15	
+D
+Sunday 14 September 2003
+BIR
+
+2
+-
+2
+
+FUL
+ 
+W
+Saturday 20 September 2003
+LEE
+
+0
+-
+2
+
+BIR
+ 
+W
+Friday 26 September 2003
+BIR
+
+2
+-
+0
+
+POR
+ 
+L
+Friday 3 October 2003
+MUN
+
+3
+-
+0
+
+BIR
+ 
+D
+Tuesday 14 October 2003
+BIR
+
+0
+-
+0
+
+CHE
+5 
+Previous Position 7
+
+Fulham
+7	4	2	1	15	9	6	14	
+W
+Saturday 30 August 2003
+TOT
+
+0
+-
+3
+
+FUL
+ 
+D
+Sunday 14 September 2003
+BIR
+
+2
+-
+2
+
+FUL
+ 
+D
+Saturday 20 September 2003
+FUL
+
+2
+-
+2
+
+MCI
+ 
+W
+Saturday 27 September 2003
+BLB
+
+0
+-
+2
+
+FUL
+ 
+W
+Friday 3 October 2003
+FUL
+
+2
+-
+0
+
+LEI
+6 
+Previous Position 5
+
+Manchester City
+8	3	3	2	14	9	5	12	
+L
+Sunday 31 August 2003
+MCI
+
+1
+-
+2
+
+ARS
+ 
+W
+Sunday 14 September 2003
+MCI
+
+4
+-
+1
+
+AVL
+ 
+D
+Saturday 20 September 2003
+FUL
+
+2
+-
+2
+
+MCI
+ 
+D
+Sunday 28 September 2003
+MCI
+
+0
+-
+0
+
+TOT
+ 
+L
+Saturday 4 October 2003
+WOL
+
+1
+-
+0
+
+MCI
+7 
+Previous Position 6
+
+Southampton
+8	3	3	2	8	5	3	12	
+W
+Sunday 31 August 2003
+SOU
+
+1
+-
+0
+
+MUN
+ 
+W
+Saturday 13 September 2003
+SOU
+
+2
+-
+0
+
+WOL
+ 
+W
+Saturday 20 September 2003
+TOT
+
+1
+-
+3
+
+SOU
+ 
+L
+Saturday 27 September 2003
+SOU
+
+0
+-
+1
+
+MID
+ 
+L
+Saturday 4 October 2003
+NEW
+
+1
+-
+0
+
+SOU
+8 
+Previous Position 8
+
+Liverpool
+8	3	2	3	12	9	3	11	
+W
+Saturday 30 August 2003
+EVE
+
+0
+-
+3
+
+LIV
+ 
+W
+Friday 12 September 2003
+BLB
+
+1
+-
+3
+
+LIV
+ 
+W
+Friday 19 September 2003
+LIV
+
+2
+-
+1
+
+LEI
+ 
+L
+Saturday 27 September 2003
+CHA
+
+3
+-
+2
+
+LIV
+ 
+L
+Saturday 4 October 2003
+LIV
+
+1
+-
+2
+
+ARS
+9 
+Previous Position 12
+
+Charlton Athletic
+8	3	2	3	12	12	0	11	
+D
+Saturday 30 August 2003
+BOL
+
+0
+-
+0
+
+CHA
+ 
+L
+Friday 12 September 2003
+CHA
+
+0
+-
+2
+
+MUN
+ 
+L
+Friday 19 September 2003
+AVL
+
+2
+-
+1
+
+CHA
+ 
+W
+Saturday 27 September 2003
+CHA
+
+3
+-
+2
+
+LIV
+ 
+W
+Friday 3 October 2003
+POR
+
+1
+-
+2
+
+CHA
+10 
+Previous Position 9
+
+Portsmouth
+8	2	3	3	10	9	1	9	
+D
+Saturday 30 August 2003
+WOL
+
+0
+-
+0
+
+POR
+ 
+D
+Friday 12 September 2003
+ARS
+
+1
+-
+1
+
+POR
+ 
+L
+Friday 19 September 2003
+POR
+
+1
+-
+2
+
+BLB
+ 
+L
+Friday 26 September 2003
+BIR
+
+2
+-
+0
+
+POR
+ 
+L
+Friday 3 October 2003
+POR
+
+1
+-
+2
+
+CHA
+11 
+Previous Position 11
+
+Blackburn Rovers
+8	2	2	4	15	16	-1	8	
+D
+Saturday 30 August 2003
+CHE
+
+2
+-
+2
+
+BLB
+ 
+L
+Friday 12 September 2003
+BLB
+
+1
+-
+3
+
+LIV
+ 
+W
+Friday 19 September 2003
+POR
+
+1
+-
+2
+
+BLB
+ 
+L
+Saturday 27 September 2003
+BLB
+
+0
+-
+2
+
+FUL
+ 
+L
+Saturday 4 October 2003
+LEE
+
+2
+-
+1
+
+BLB
+12 
+Previous Position 10
+
+Everton
+8	2	2	4	12	14	-2	8	
+L
+Saturday 30 August 2003
+EVE
+
+0
+-
+3
+
+LIV
+ 
+D
+Friday 12 September 2003
+EVE
+
+2
+-
+2
+
+NEW
+ 
+L
+Saturday 20 September 2003
+MID
+
+1
+-
+0
+
+EVE
+ 
+W
+Sunday 28 September 2003
+EVE
+
+4
+-
+0
+
+LEE
+ 
+L
+Saturday 4 October 2003
+TOT
+
+3
+-
+0
+
+EVE
+13 
+Previous Position 13
+
+Aston Villa
+8	2	2	4	8	12	-4	8	
+W
+Saturday 30 August 2003
+AVL
+
+3
+-
+1
+
+LEI
+ 
+L
+Sunday 14 September 2003
+MCI
+
+4
+-
+1
+
+AVL
+ 
+W
+Friday 19 September 2003
+AVL
+
+2
+-
+1
+
+CHA
+ 
+L
+Friday 26 September 2003
+CHE
+
+1
+-
+0
+
+AVL
+ 
+D
+Sunday 5 October 2003
+AVL
+
+1
+-
+1
+
+BOL
+14 
+Previous Position 17
+
+Tottenham Hotspur
+8	2	2	4	8	12	-4	8	
+L
+Saturday 30 August 2003
+TOT
+
+0
+-
+3
+
+FUL
+ 
+L
+Saturday 13 September 2003
+CHE
+
+4
+-
+2
+
+TOT
+ 
+L
+Saturday 20 September 2003
+TOT
+
+1
+-
+3
+
+SOU
+ 
+D
+Sunday 28 September 2003
+MCI
+
+0
+-
+0
+
+TOT
+ 
+W
+Saturday 4 October 2003
+TOT
+
+3
+-
+0
+
+EVE
+15 
+Previous Position 15
+
+Bolton Wanderers
+8	1	5	2	6	12	-6	8	
+D
+Saturday 30 August 2003
+BOL
+
+0
+-
+0
+
+CHA
+ 
+W
+Friday 12 September 2003
+BOL
+
+2
+-
+0
+
+MID
+ 
+D
+Friday 19 September 2003
+NEW
+
+0
+-
+0
+
+BOL
+ 
+D
+Friday 26 September 2003
+BOL
+
+1
+-
+1
+
+WOL
+ 
+D
+Sunday 5 October 2003
+AVL
+
+1
+-
+1
+
+BOL
+16 
+Previous Position 18
+
+Leeds United
+8	2	2	4	8	17	-9	8	
+W
+Saturday 30 August 2003
+MID
+
+2
+-
+3
+
+LEE
+ 
+L
+Monday 15 September 2003
+LEI
+
+4
+-
+0
+
+LEE
+ 
+L
+Saturday 20 September 2003
+LEE
+
+0
+-
+2
+
+BIR
+ 
+L
+Sunday 28 September 2003
+EVE
+
+4
+-
+0
+
+LEE
+ 
+W
+Saturday 4 October 2003
+LEE
+
+2
+-
+1
+
+BLB
+17 
+Previous Position 14
+
+Middlesbrough
+8	2	1	5	7	14	-7	7	
+L
+Saturday 30 August 2003
+MID
+
+2
+-
+3
+
+LEE
+ 
+L
+Friday 12 September 2003
+BOL
+
+2
+-
+0
+
+MID
+ 
+W
+Saturday 20 September 2003
+MID
+
+1
+-
+0
+
+EVE
+ 
+W
+Saturday 27 September 2003
+SOU
+
+0
+-
+1
+
+MID
+ 
+L
+Saturday 4 October 2003
+MID
+
+1
+-
+2
+
+CHE
+18 
+Previous Position 19
+
+Newcastle United
+7	1	3	3	8	10	-2	6	
+L
+Saturday 30 August 2003
+NEW
+
+0
+-
+1
+
+BIR
+ 
+D
+Friday 12 September 2003
+EVE
+
+2
+-
+2
+
+NEW
+ 
+D
+Friday 19 September 2003
+NEW
+
+0
+-
+0
+
+BOL
+ 
+L
+Friday 26 September 2003
+ARS
+
+3
+-
+2
+
+NEW
+ 
+W
+Saturday 4 October 2003
+NEW
+
+1
+-
+0
+
+SOU
+19 
+Previous Position 16
+
+Leicester City
+8	1	2	5	10	15	-5	5	
+L
+Saturday 30 August 2003
+AVL
+
+3
+-
+1
+
+LEI
+ 
+W
+Monday 15 September 2003
+LEI
+
+4
+-
+0
+
+LEE
+ 
+L
+Friday 19 September 2003
+LIV
+
+2
+-
+1
+
+LEI
+ 
+L
+Friday 26 September 2003
+LEI
+
+1
+-
+4
+
+MUN
+ 
+L
+Friday 3 October 2003
+FUL
+
+2
+-
+0
+
+LEI
+20 
+Previous Position 20
+
+Wolverhampton Wanderers
+8	1	2	5	3	18	-15	5	
+D
+Saturday 30 August 2003
+WOL
+
+0
+-
+0
+
+POR
+ 
+L
+Saturday 13 September 2003
+SOU
+
+2
+-
+0
+
+WOL
+ 
+L
+Saturday 20 September 2003
+WOL
+
+0
+-
+5
+
+CHE
+ 
+D
+Friday 26 September 2003
+BOL
+
+1
+-
+1
+
+WOL
+ 
+W
+Saturday 4 October 2003
+WOL
+
+1
+-
+0
+
+MCI

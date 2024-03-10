@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Arsenal
+27	17	6	4	57	29	28	57	
+W
+Sunday 12 January 2003
+BIR
+
+0
+-
+4
+
+ARS
+ 
+W
+Sunday 19 January 2003
+ARS
+
+3
+-
+1
+
+WHU
+ 
+D
+Wednesday 29 January 2003
+LIV
+
+2
+-
+2
+
+ARS
+ 
+W
+Saturday 1 February 2003
+ARS
+
+2
+-
+1
+
+FUL
+ 
+D
+Sunday 9 February 2003
+NEW
+
+1
+-
+1
+
+ARS
+2 
+Previous Position 2
+
+Manchester United
+27	16	6	5	44	25	19	54	
+W
+Saturday 11 January 2003
+WBA
+
+1
+-
+3
+
+MUN
+ 
+W
+Saturday 18 January 2003
+MUN
+
+2
+-
+1
+
+CHE
+ 
+W
+Saturday 1 February 2003
+SOU
+
+0
+-
+2
+
+MUN
+ 
+W
+Tuesday 4 February 2003
+BIR
+
+0
+-
+1
+
+MUN
+ 
+D
+Sunday 9 February 2003
+MUN
+
+1
+-
+1
+
+MCI
+3 
+Previous Position 3
+
+Newcastle United
+26	15	4	7	42	32	10	49	
+D
+Saturday 11 January 2003
+WHU
+
+2
+-
+2
+
+NEW
+ 
+W
+Saturday 18 January 2003
+NEW
+
+2
+-
+0
+
+MCI
+ 
+W
+Wednesday 22 January 2003
+NEW
+
+1
+-
+0
+
+BOL
+ 
+W
+Wednesday 29 January 2003
+TOT
+
+0
+-
+1
+
+NEW
+ 
+D
+Sunday 9 February 2003
+NEW
+
+1
+-
+1
+
+ARS
+4 
+Previous Position 4
+
+Chelsea
+27	13	9	5	48	27	21	48	
+W
+Saturday 11 January 2003
+CHE
+
+4
+-
+1
+
+CHA
+ 
+L
+Saturday 18 January 2003
+MUN
+
+2
+-
+1
+
+CHE
+ 
+W
+Tuesday 28 January 2003
+CHE
+
+3
+-
+2
+
+LEE
+ 
+D
+Saturday 1 February 2003
+CHE
+
+1
+-
+1
+
+TOT
+ 
+W
+Saturday 8 February 2003
+BIR
+
+1
+-
+3
+
+CHE
+5 
+Previous Position 5
+
+Everton
+27	13	6	8	35	32	3	45	
+L
+Sunday 12 January 2003
+TOT
+
+4
+-
+3
+
+EVE
+ 
+W
+Saturday 18 January 2003
+EVE
+
+2
+-
+1
+
+SUN
+ 
+W
+Tuesday 28 January 2003
+BOL
+
+1
+-
+2
+
+EVE
+ 
+W
+Saturday 1 February 2003
+EVE
+
+2
+-
+0
+
+LEE
+ 
+L
+Saturday 8 February 2003
+CHA
+
+2
+-
+1
+
+EVE
+6 
+Previous Position 6
+
+Liverpool
+27	11	10	6	38	26	12	43	
+D
+Saturday 11 January 2003
+LIV
+
+1
+-
+1
+
+AVL
+ 
+W
+Saturday 18 January 2003
+SOU
+
+0
+-
+1
+
+LIV
+ 
+D
+Wednesday 29 January 2003
+LIV
+
+2
+-
+2
+
+ARS
+ 
+W
+Sunday 2 February 2003
+WHU
+
+0
+-
+3
+
+LIV
+ 
+D
+Saturday 8 February 2003
+LIV
+
+1
+-
+1
+
+MID
+7 
+Previous Position 9
+
+Tottenham Hotspur
+27	12	6	9	40	37	3	42	
+W
+Sunday 12 January 2003
+TOT
+
+4
+-
+3
+
+EVE
+ 
+W
+Saturday 18 January 2003
+AVL
+
+0
+-
+1
+
+TOT
+ 
+L
+Wednesday 29 January 2003
+TOT
+
+0
+-
+1
+
+NEW
+ 
+D
+Saturday 1 February 2003
+CHE
+
+1
+-
+1
+
+TOT
+ 
+W
+Saturday 8 February 2003
+TOT
+
+4
+-
+1
+
+SUN
+8 
+Previous Position 8
+
+Charlton Athletic
+27	12	6	9	36	34	2	42	
+D
+Saturday 18 January 2003
+CHA
+
+1
+-
+1
+
+BOL
+ 
+W
+Wednesday 22 January 2003
+CHA
+
+4
+-
+2
+
+WHU
+ 
+W
+Wednesday 29 January 2003
+WBA
+
+0
+-
+1
+
+CHA
+ 
+W
+Saturday 1 February 2003
+SUN
+
+1
+-
+3
+
+CHA
+ 
+W
+Saturday 8 February 2003
+CHA
+
+2
+-
+1
+
+EVE
+9 
+Previous Position 7
+
+Southampton
+27	10	9	8	28	26	2	39	
+D
+Saturday 11 January 2003
+MID
+
+2
+-
+2
+
+SOU
+ 
+L
+Saturday 18 January 2003
+SOU
+
+0
+-
+1
+
+LIV
+ 
+W
+Tuesday 28 January 2003
+SUN
+
+0
+-
+1
+
+SOU
+ 
+L
+Saturday 1 February 2003
+SOU
+
+0
+-
+2
+
+MUN
+ 
+L
+Saturday 8 February 2003
+BLB
+
+1
+-
+0
+
+SOU
+10 
+Previous Position 10
+
+Manchester City
+27	11	5	11	38	38	0	38	
+W
+Saturday 11 January 2003
+MCI
+
+2
+-
+1
+
+LEE
+ 
+L
+Saturday 18 January 2003
+NEW
+
+2
+-
+0
+
+MCI
+ 
+W
+Wednesday 29 January 2003
+MCI
+
+4
+-
+1
+
+FUL
+ 
+L
+Saturday 1 February 2003
+MCI
+
+1
+-
+2
+
+WBA
+ 
+D
+Sunday 9 February 2003
+MUN
+
+1
+-
+1
+
+MCI
+11 
+Previous Position 12
+
+Blackburn Rovers
+27	9	10	8	32	31	1	37	
+D
+Saturday 11 January 2003
+SUN
+
+0
+-
+0
+
+BLB
+ 
+D
+Saturday 18 January 2003
+BLB
+
+1
+-
+1
+
+BIR
+ 
+L
+Wednesday 29 January 2003
+WHU
+
+2
+-
+1
+
+BLB
+ 
+L
+Sunday 2 February 2003
+AVL
+
+3
+-
+0
+
+BLB
+ 
+W
+Saturday 8 February 2003
+BLB
+
+1
+-
+0
+
+SOU
+12 
+Previous Position 11
+
+Aston Villa
+27	10	5	12	31	29	2	35	
+D
+Saturday 11 January 2003
+LIV
+
+1
+-
+1
+
+AVL
+ 
+L
+Saturday 18 January 2003
+AVL
+
+0
+-
+1
+
+TOT
+ 
+W
+Tuesday 28 January 2003
+MID
+
+2
+-
+5
+
+AVL
+ 
+W
+Sunday 2 February 2003
+AVL
+
+3
+-
+0
+
+BLB
+ 
+L
+Saturday 8 February 2003
+FUL
+
+2
+-
+1
+
+AVL
+13 
+Previous Position 13
+
+Leeds United
+27	10	4	13	34	34	0	34	
+L
+Saturday 11 January 2003
+MCI
+
+2
+-
+1
+
+LEE
+ 
+D
+Saturday 18 January 2003
+LEE
+
+0
+-
+0
+
+WBA
+ 
+L
+Tuesday 28 January 2003
+CHE
+
+3
+-
+2
+
+LEE
+ 
+L
+Saturday 1 February 2003
+EVE
+
+2
+-
+0
+
+LEE
+ 
+W
+Saturday 8 February 2003
+LEE
+
+1
+-
+0
+
+WHU
+14 
+Previous Position 15
+
+Fulham
+27	9	6	12	31	34	-3	33	
+W
+Sunday 19 January 2003
+FUL
+
+1
+-
+0
+
+MID
+ 
+L
+Wednesday 29 January 2003
+MCI
+
+4
+-
+1
+
+FUL
+ 
+L
+Saturday 1 February 2003
+ARS
+
+2
+-
+1
+
+FUL
+ 
+W
+Saturday 8 February 2003
+FUL
+
+2
+-
+1
+
+AVL
+ 
+W
+Wednesday 19 February 2003
+FUL
+
+3
+-
+0
+
+WBA
+15 
+Previous Position 14
+
+Middlesbrough
+26	8	7	11	30	30	0	31	
+L
+Wednesday 1 January 2003
+BLB
+
+1
+-
+0
+
+MID
+ 
+D
+Saturday 11 January 2003
+MID
+
+2
+-
+2
+
+SOU
+ 
+L
+Sunday 19 January 2003
+FUL
+
+1
+-
+0
+
+MID
+ 
+L
+Tuesday 28 January 2003
+MID
+
+2
+-
+5
+
+AVL
+ 
+D
+Saturday 8 February 2003
+LIV
+
+1
+-
+1
+
+MID
+16 
+Previous Position 16
+
+Birmingham City
+27	6	8	13	23	40	-17	26	
+L
+Sunday 12 January 2003
+BIR
+
+0
+-
+4
+
+ARS
+ 
+D
+Saturday 18 January 2003
+BLB
+
+1
+-
+1
+
+BIR
+ 
+L
+Saturday 1 February 2003
+BOL
+
+4
+-
+2
+
+BIR
+ 
+L
+Tuesday 4 February 2003
+BIR
+
+0
+-
+1
+
+MUN
+ 
+L
+Saturday 8 February 2003
+BIR
+
+1
+-
+3
+
+CHE
+17 
+Previous Position 17
+
+Bolton Wanderers
+27	5	10	12	30	44	-14	25	
+D
+Saturday 18 January 2003
+CHA
+
+1
+-
+1
+
+BOL
+ 
+L
+Wednesday 22 January 2003
+NEW
+
+1
+-
+0
+
+BOL
+ 
+L
+Tuesday 28 January 2003
+BOL
+
+1
+-
+2
+
+EVE
+ 
+W
+Saturday 1 February 2003
+BOL
+
+4
+-
+2
+
+BIR
+ 
+D
+Saturday 8 February 2003
+WBA
+
+1
+-
+1
+
+BOL
+18 
+Previous Position 18
+
+West Bromwich Albion
+27	5	6	16	20	41	-21	21	
+D
+Saturday 18 January 2003
+LEE
+
+0
+-
+0
+
+WBA
+ 
+L
+Wednesday 29 January 2003
+WBA
+
+0
+-
+1
+
+CHA
+ 
+W
+Saturday 1 February 2003
+MCI
+
+1
+-
+2
+
+WBA
+ 
+D
+Saturday 8 February 2003
+WBA
+
+1
+-
+1
+
+BOL
+ 
+L
+Wednesday 19 February 2003
+FUL
+
+3
+-
+0
+
+WBA
+19 
+Previous Position 19
+
+West Ham United
+27	4	8	15	28	52	-24	20	
+L
+Sunday 19 January 2003
+ARS
+
+3
+-
+1
+
+WHU
+ 
+L
+Wednesday 22 January 2003
+CHA
+
+4
+-
+2
+
+WHU
+ 
+W
+Wednesday 29 January 2003
+WHU
+
+2
+-
+1
+
+BLB
+ 
+L
+Sunday 2 February 2003
+WHU
+
+0
+-
+3
+
+LIV
+ 
+L
+Saturday 8 February 2003
+LEE
+
+1
+-
+0
+
+WHU
+20 
+Previous Position 20
+
+Sunderland
+27	4	7	16	18	42	-24	19	
+D
+Saturday 11 January 2003
+SUN
+
+0
+-
+0
+
+BLB
+ 
+L
+Saturday 18 January 2003
+EVE
+
+2
+-
+1
+
+SUN
+ 
+L
+Tuesday 28 January 2003
+SUN
+
+0
+-
+1
+
+SOU
+ 
+L
+Saturday 1 February 2003
+SUN
+
+1
+-
+3
+
+CHA
+ 
+L
+Saturday 8 February 2003
+TOT
+
+4
+-
+1
+
+SUN

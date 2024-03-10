@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Arsenal
+36	24	12	0	70	25	45	84	
+D
+Saturday 10 April 2004
+NEW
+
+0
+-
+0
+
+ARS
+ 
+W
+Friday 16 April 2004
+ARS
+
+5
+-
+0
+
+LEE
+ 
+D
+Sunday 25 April 2004
+TOT
+
+2
+-
+2
+
+ARS
+ 
+D
+Friday 30 April 2004
+ARS
+
+0
+-
+0
+
+BIR
+ 
+D
+Tuesday 4 May 2004
+POR
+
+1
+-
+1
+
+ARS
+2 
+Previous Position 2
+
+Chelsea
+36	23	6	7	65	29	36	75	
+D
+Friday 9 April 2004
+CHE
+
+0
+-
+0
+
+MID
+ 
+L
+Sunday 11 April 2004
+AVL
+
+3
+-
+2
+
+CHE
+ 
+D
+Friday 16 April 2004
+CHE
+
+0
+-
+0
+
+EVE
+ 
+L
+Saturday 24 April 2004
+NEW
+
+2
+-
+1
+
+CHE
+ 
+W
+Saturday 1 May 2004
+CHE
+
+4
+-
+0
+
+SOU
+3 
+Previous Position 3
+
+Manchester United
+36	22	5	9	61	34	27	71	
+W
+Monday 12 April 2004
+MUN
+
+1
+-
+0
+
+LEI
+ 
+L
+Friday 16 April 2004
+POR
+
+1
+-
+0
+
+MUN
+ 
+W
+Monday 19 April 2004
+MUN
+
+2
+-
+0
+
+CHA
+ 
+L
+Friday 23 April 2004
+MUN
+
+0
+-
+1
+
+LIV
+ 
+L
+Friday 30 April 2004
+BLB
+
+1
+-
+0
+
+MUN
+4 
+Previous Position 4
+
+Liverpool
+36	15	11	10	51	36	15	56	
+L
+Thursday 8 April 2004
+ARS
+
+4
+-
+2
+
+LIV
+ 
+L
+Sunday 11 April 2004
+LIV
+
+0
+-
+1
+
+CHA
+ 
+D
+Friday 16 April 2004
+LIV
+
+0
+-
+0
+
+FUL
+ 
+W
+Friday 23 April 2004
+MUN
+
+0
+-
+1
+
+LIV
+ 
+W
+Saturday 1 May 2004
+LIV
+
+2
+-
+0
+
+MID
+5 
+Previous Position 6
+
+Aston Villa
+36	15	10	11	47	41	6	55	
+D
+Friday 9 April 2004
+BOL
+
+2
+-
+2
+
+AVL
+ 
+W
+Sunday 11 April 2004
+AVL
+
+3
+-
+2
+
+CHE
+ 
+D
+Saturday 17 April 2004
+AVL
+
+0
+-
+0
+
+NEW
+ 
+W
+Friday 23 April 2004
+MID
+
+1
+-
+2
+
+AVL
+ 
+W
+Saturday 1 May 2004
+AVL
+
+1
+-
+0
+
+TOT
+6 
+Previous Position 5
+
+Newcastle United
+35	13	14	8	47	35	12	53	
+W
+Friday 2 April 2004
+NEW
+
+4
+-
+2
+
+EVE
+ 
+D
+Saturday 10 April 2004
+NEW
+
+0
+-
+0
+
+ARS
+ 
+D
+Saturday 17 April 2004
+AVL
+
+0
+-
+0
+
+NEW
+ 
+W
+Saturday 24 April 2004
+NEW
+
+2
+-
+1
+
+CHE
+ 
+L
+Saturday 1 May 2004
+MCI
+
+1
+-
+0
+
+NEW
+7 
+Previous Position 10
+
+Bolton Wanderers
+36	13	11	12	46	53	-7	50	
+D
+Friday 9 April 2004
+BOL
+
+2
+-
+2
+
+AVL
+ 
+W
+Sunday 11 April 2004
+WOL
+
+1
+-
+2
+
+BOL
+ 
+W
+Friday 16 April 2004
+BOL
+
+2
+-
+0
+
+TOT
+ 
+W
+Saturday 24 April 2004
+SOU
+
+1
+-
+2
+
+BOL
+ 
+W
+Sunday 2 May 2004
+BOL
+
+4
+-
+1
+
+LEE
+8 
+Previous Position 7
+
+Fulham
+36	13	10	13	50	45	5	49	
+W
+Friday 9 April 2004
+LEI
+
+0
+-
+2
+
+FUL
+ 
+L
+Sunday 11 April 2004
+FUL
+
+3
+-
+4
+
+BLB
+ 
+D
+Friday 16 April 2004
+LIV
+
+0
+-
+0
+
+FUL
+ 
+W
+Friday 23 April 2004
+FUL
+
+2
+-
+0
+
+CHA
+ 
+D
+Friday 30 April 2004
+POR
+
+1
+-
+1
+
+FUL
+9 
+Previous Position 8
+
+Charlton Athletic
+36	13	10	13	46	47	-1	49	
+W
+Sunday 11 April 2004
+LIV
+
+0
+-
+1
+
+CHA
+ 
+D
+Friday 16 April 2004
+CHA
+
+1
+-
+1
+
+BIR
+ 
+L
+Monday 19 April 2004
+MUN
+
+2
+-
+0
+
+CHA
+ 
+L
+Friday 23 April 2004
+FUL
+
+2
+-
+0
+
+CHA
+ 
+D
+Friday 30 April 2004
+CHA
+
+2
+-
+2
+
+LEI
+10 
+Previous Position 9
+
+Birmingham City
+36	12	13	11	42	44	-2	49	
+L
+Friday 9 April 2004
+BIR
+
+1
+-
+2
+
+MUN
+ 
+L
+Sunday 11 April 2004
+POR
+
+3
+-
+1
+
+BIR
+ 
+D
+Friday 16 April 2004
+CHA
+
+1
+-
+1
+
+BIR
+ 
+D
+Saturday 24 April 2004
+BIR
+
+2
+-
+2
+
+WOL
+ 
+D
+Friday 30 April 2004
+ARS
+
+0
+-
+0
+
+BIR
+11 
+Previous Position 11
+
+Southampton
+35	12	9	14	39	39	0	45	
+W
+Saturday 3 April 2004
+WOL
+
+1
+-
+4
+
+SOU
+ 
+L
+Monday 12 April 2004
+MID
+
+3
+-
+1
+
+SOU
+ 
+W
+Saturday 17 April 2004
+MCI
+
+1
+-
+3
+
+SOU
+ 
+L
+Saturday 24 April 2004
+SOU
+
+1
+-
+2
+
+BOL
+ 
+L
+Saturday 1 May 2004
+CHE
+
+4
+-
+0
+
+SOU
+12 
+Previous Position 12
+
+Middlesbrough
+36	12	9	15	41	46	-5	45	
+D
+Friday 9 April 2004
+CHE
+
+0
+-
+0
+
+MID
+ 
+W
+Monday 12 April 2004
+MID
+
+3
+-
+1
+
+SOU
+ 
+L
+Friday 16 April 2004
+WOL
+
+2
+-
+0
+
+MID
+ 
+L
+Friday 23 April 2004
+MID
+
+1
+-
+2
+
+AVL
+ 
+L
+Saturday 1 May 2004
+LIV
+
+2
+-
+0
+
+MID
+13 
+Previous Position 13
+
+Blackburn Rovers
+36	12	7	17	50	57	-7	43	
+L
+Saturday 10 April 2004
+BLB
+
+1
+-
+2
+
+LEE
+ 
+W
+Sunday 11 April 2004
+FUL
+
+3
+-
+4
+
+BLB
+ 
+W
+Friday 16 April 2004
+BLB
+
+1
+-
+0
+
+LEI
+ 
+W
+Friday 23 April 2004
+EVE
+
+0
+-
+1
+
+BLB
+ 
+W
+Friday 30 April 2004
+BLB
+
+1
+-
+0
+
+MUN
+14 
+Previous Position 14
+
+Portsmouth
+36	11	9	16	41	50	-9	42	
+W
+Sunday 11 April 2004
+POR
+
+3
+-
+1
+
+BIR
+ 
+W
+Friday 16 April 2004
+POR
+
+1
+-
+0
+
+MUN
+ 
+W
+Sunday 25 April 2004
+LEE
+
+1
+-
+2
+
+POR
+ 
+D
+Friday 30 April 2004
+POR
+
+1
+-
+1
+
+FUL
+ 
+D
+Tuesday 4 May 2004
+POR
+
+1
+-
+1
+
+ARS
+15 
+Previous Position 15
+
+Everton
+36	9	12	15	43	50	-7	39	
+W
+Thursday 8 April 2004
+EVE
+
+3
+-
+1
+
+TOT
+ 
+D
+Tuesday 13 April 2004
+LEE
+
+1
+-
+1
+
+EVE
+ 
+D
+Friday 16 April 2004
+CHE
+
+0
+-
+0
+
+EVE
+ 
+L
+Friday 23 April 2004
+EVE
+
+0
+-
+1
+
+BLB
+ 
+L
+Friday 30 April 2004
+WOL
+
+2
+-
+1
+
+EVE
+16 
+Previous Position 16
+
+Tottenham Hotspur
+36	11	6	19	44	57	-13	39	
+L
+Thursday 8 April 2004
+EVE
+
+3
+-
+1
+
+TOT
+ 
+D
+Monday 12 April 2004
+TOT
+
+1
+-
+1
+
+MCI
+ 
+L
+Friday 16 April 2004
+BOL
+
+2
+-
+0
+
+TOT
+ 
+D
+Sunday 25 April 2004
+TOT
+
+2
+-
+2
+
+ARS
+ 
+L
+Saturday 1 May 2004
+AVL
+
+1
+-
+0
+
+TOT
+17 
+Previous Position 17
+
+Manchester City
+36	8	14	14	49	51	-2	38	
+D
+Saturday 10 April 2004
+MCI
+
+3
+-
+3
+
+WOL
+ 
+D
+Monday 12 April 2004
+TOT
+
+1
+-
+1
+
+MCI
+ 
+L
+Saturday 17 April 2004
+MCI
+
+1
+-
+3
+
+SOU
+ 
+D
+Saturday 24 April 2004
+LEI
+
+1
+-
+1
+
+MCI
+ 
+W
+Saturday 1 May 2004
+MCI
+
+1
+-
+0
+
+NEW
+18 
+Previous Position 20
+
+Wolverhampton Wanderers
+36	7	11	18	37	74	-37	32	
+D
+Saturday 10 April 2004
+MCI
+
+3
+-
+3
+
+WOL
+ 
+L
+Sunday 11 April 2004
+WOL
+
+1
+-
+2
+
+BOL
+ 
+W
+Friday 16 April 2004
+WOL
+
+2
+-
+0
+
+MID
+ 
+D
+Saturday 24 April 2004
+BIR
+
+2
+-
+2
+
+WOL
+ 
+W
+Friday 30 April 2004
+WOL
+
+2
+-
+1
+
+EVE
+19 
+Previous Position 18
+
+Leeds United
+36	8	8	20	37	75	-38	32	
+W
+Saturday 10 April 2004
+BLB
+
+1
+-
+2
+
+LEE
+ 
+D
+Tuesday 13 April 2004
+LEE
+
+1
+-
+1
+
+EVE
+ 
+L
+Friday 16 April 2004
+ARS
+
+5
+-
+0
+
+LEE
+ 
+L
+Sunday 25 April 2004
+LEE
+
+1
+-
+2
+
+POR
+ 
+L
+Sunday 2 May 2004
+BOL
+
+4
+-
+1
+
+LEE
+20 
+Previous Position 19
+
+Leicester City
+36	5	15	16	44	62	-18	30	
+L
+Friday 9 April 2004
+LEI
+
+0
+-
+2
+
+FUL
+ 
+L
+Monday 12 April 2004
+MUN
+
+1
+-
+0
+
+LEI
+ 
+L
+Friday 16 April 2004
+BLB
+
+1
+-
+0
+
+LEI
+ 
+D
+Saturday 24 April 2004
+LEI
+
+1
+-
+1
+
+MCI
+ 
+D
+Friday 30 April 2004
+CHA
+
+2
+-
+2
+
+LEI

@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Chelsea
+27	21	5	1	50	8	42	68	
+W
+Saturday 15 January 2005
+TOT
+
+0
+-
+2
+
+CHE
+ 
+W
+Saturday 22 January 2005
+CHE
+
+3
+-
+0
+
+POR
+ 
+W
+Wednesday 2 February 2005
+BLB
+
+0
+-
+1
+
+CHE
+ 
+D
+Sunday 6 February 2005
+CHE
+
+0
+-
+0
+
+MCI
+ 
+W
+Saturday 12 February 2005
+EVE
+
+0
+-
+1
+
+CHE
+2 
+Previous Position 2
+
+Manchester United
+28	18	8	2	47	17	30	62	
+W
+Saturday 22 January 2005
+MUN
+
+3
+-
+1
+
+AVL
+ 
+W
+Tuesday 1 February 2005
+ARS
+
+2
+-
+4
+
+MUN
+ 
+W
+Saturday 5 February 2005
+MUN
+
+2
+-
+0
+
+BIR
+ 
+W
+Sunday 13 February 2005
+MCI
+
+0
+-
+2
+
+MUN
+ 
+W
+Saturday 26 February 2005
+MUN
+
+2
+-
+1
+
+POR
+3 
+Previous Position 3
+
+Arsenal
+28	17	7	4	64	32	32	58	
+W
+Sunday 23 January 2005
+ARS
+
+1
+-
+0
+
+NEW
+ 
+L
+Tuesday 1 February 2005
+ARS
+
+2
+-
+4
+
+MUN
+ 
+W
+Saturday 5 February 2005
+AVL
+
+1
+-
+3
+
+ARS
+ 
+W
+Monday 14 February 2005
+ARS
+
+5
+-
+1
+
+CRY
+ 
+D
+Saturday 26 February 2005
+SOU
+
+1
+-
+1
+
+ARS
+4 
+Previous Position 4
+
+Everton
+28	15	6	7	34	29	5	51	
+L
+Saturday 22 January 2005
+EVE
+
+0
+-
+1
+
+CHA
+ 
+W
+Wednesday 2 February 2005
+EVE
+
+1
+-
+0
+
+NOR
+ 
+D
+Sunday 6 February 2005
+SOU
+
+2
+-
+2
+
+EVE
+ 
+L
+Saturday 12 February 2005
+EVE
+
+0
+-
+1
+
+CHE
+ 
+W
+Saturday 26 February 2005
+AVL
+
+1
+-
+3
+
+EVE
+5 
+Previous Position 5
+
+Liverpool
+27	13	4	10	41	29	12	43	
+L
+Saturday 15 January 2005
+LIV
+
+0
+-
+1
+
+MUN
+ 
+L
+Saturday 22 January 2005
+SOU
+
+2
+-
+0
+
+LIV
+ 
+W
+Tuesday 1 February 2005
+CHA
+
+1
+-
+2
+
+LIV
+ 
+W
+Saturday 5 February 2005
+LIV
+
+3
+-
+1
+
+FUL
+ 
+L
+Saturday 12 February 2005
+BIR
+
+2
+-
+0
+
+LIV
+6 
+Previous Position 6
+
+Middlesbrough
+28	11	9	8	43	37	6	42	
+D
+Saturday 22 January 2005
+NOR
+
+4
+-
+4
+
+MID
+ 
+L
+Tuesday 1 February 2005
+POR
+
+2
+-
+1
+
+MID
+ 
+W
+Saturday 5 February 2005
+MID
+
+1
+-
+0
+
+BLB
+ 
+D
+Saturday 12 February 2005
+BOL
+
+0
+-
+0
+
+MID
+ 
+D
+Sunday 27 February 2005
+MID
+
+2
+-
+2
+
+CHA
+7 
+Previous Position 7
+
+Bolton Wanderers
+28	11	7	10	36	34	2	40	
+W
+Monday 24 January 2005
+BLB
+
+0
+-
+1
+
+BOL
+ 
+W
+Tuesday 1 February 2005
+BOL
+
+3
+-
+1
+
+TOT
+ 
+W
+Saturday 5 February 2005
+CRY
+
+0
+-
+1
+
+BOL
+ 
+D
+Saturday 12 February 2005
+BOL
+
+0
+-
+0
+
+MID
+ 
+L
+Sunday 27 February 2005
+NEW
+
+2
+-
+1
+
+BOL
+8 
+Previous Position 9
+
+Tottenham Hotspur
+27	11	6	10	35	30	5	39	
+L
+Saturday 15 January 2005
+TOT
+
+0
+-
+2
+
+CHE
+ 
+L
+Saturday 22 January 2005
+CRY
+
+3
+-
+0
+
+TOT
+ 
+L
+Tuesday 1 February 2005
+BOL
+
+3
+-
+1
+
+TOT
+ 
+W
+Saturday 5 February 2005
+TOT
+
+3
+-
+1
+
+POR
+ 
+W
+Saturday 26 February 2005
+TOT
+
+2
+-
+0
+
+FUL
+9 
+Previous Position 8
+
+Charlton Athletic
+27	11	6	10	32	38	-6	39	
+W
+Saturday 15 January 2005
+CHA
+
+3
+-
+1
+
+BIR
+ 
+W
+Saturday 22 January 2005
+EVE
+
+0
+-
+1
+
+CHA
+ 
+L
+Tuesday 1 February 2005
+CHA
+
+1
+-
+2
+
+LIV
+ 
+D
+Saturday 5 February 2005
+NEW
+
+1
+-
+1
+
+CHA
+ 
+D
+Sunday 27 February 2005
+MID
+
+2
+-
+2
+
+CHA
+10 
+Previous Position 11
+
+Manchester City
+28	9	9	10	34	31	3	36	
+L
+Saturday 22 January 2005
+WBA
+
+2
+-
+0
+
+MCI
+ 
+D
+Wednesday 2 February 2005
+MCI
+
+1
+-
+1
+
+NEW
+ 
+D
+Sunday 6 February 2005
+CHE
+
+0
+-
+0
+
+MCI
+ 
+L
+Sunday 13 February 2005
+MCI
+
+0
+-
+2
+
+MUN
+ 
+W
+Monday 28 February 2005
+NOR
+
+2
+-
+3
+
+MCI
+11 
+Previous Position 10
+
+Aston Villa
+28	9	8	11	32	37	-5	35	
+L
+Saturday 22 January 2005
+MUN
+
+3
+-
+1
+
+AVL
+ 
+D
+Wednesday 2 February 2005
+FUL
+
+1
+-
+1
+
+AVL
+ 
+L
+Saturday 5 February 2005
+AVL
+
+1
+-
+3
+
+ARS
+ 
+W
+Saturday 12 February 2005
+POR
+
+1
+-
+2
+
+AVL
+ 
+L
+Saturday 26 February 2005
+AVL
+
+1
+-
+3
+
+EVE
+12 
+Previous Position 13
+
+Newcastle United
+27	8	10	9	39	44	-5	34	
+W
+Saturday 15 January 2005
+NEW
+
+2
+-
+1
+
+SOU
+ 
+L
+Sunday 23 January 2005
+ARS
+
+1
+-
+0
+
+NEW
+ 
+D
+Wednesday 2 February 2005
+MCI
+
+1
+-
+1
+
+NEW
+ 
+D
+Saturday 5 February 2005
+NEW
+
+1
+-
+1
+
+CHA
+ 
+W
+Sunday 27 February 2005
+NEW
+
+2
+-
+1
+
+BOL
+13 
+Previous Position 12
+
+Birmingham City
+28	8	8	12	31	35	-4	32	
+L
+Saturday 22 January 2005
+BIR
+
+1
+-
+2
+
+FUL
+ 
+W
+Wednesday 2 February 2005
+BIR
+
+2
+-
+1
+
+SOU
+ 
+L
+Saturday 5 February 2005
+MUN
+
+2
+-
+0
+
+BIR
+ 
+W
+Saturday 12 February 2005
+BIR
+
+2
+-
+0
+
+LIV
+ 
+L
+Saturday 26 February 2005
+CRY
+
+2
+-
+0
+
+BIR
+14 
+Previous Position 14
+
+Portsmouth
+28	8	6	14	31	42	-11	30	
+L
+Saturday 22 January 2005
+CHE
+
+3
+-
+0
+
+POR
+ 
+W
+Tuesday 1 February 2005
+POR
+
+2
+-
+1
+
+MID
+ 
+L
+Saturday 5 February 2005
+TOT
+
+3
+-
+1
+
+POR
+ 
+L
+Saturday 12 February 2005
+POR
+
+1
+-
+2
+
+AVL
+ 
+L
+Saturday 26 February 2005
+MUN
+
+2
+-
+1
+
+POR
+15 
+Previous Position 15
+
+Fulham
+27	8	5	14	33	46	-13	29	
+W
+Sunday 16 January 2005
+FUL
+
+1
+-
+0
+
+WBA
+ 
+W
+Saturday 22 January 2005
+BIR
+
+1
+-
+2
+
+FUL
+ 
+D
+Wednesday 2 February 2005
+FUL
+
+1
+-
+1
+
+AVL
+ 
+L
+Saturday 5 February 2005
+LIV
+
+3
+-
+1
+
+FUL
+ 
+L
+Saturday 26 February 2005
+TOT
+
+2
+-
+0
+
+FUL
+16 
+Previous Position 16
+
+Blackburn Rovers
+27	6	10	11	24	36	-12	28	
+W
+Saturday 15 January 2005
+POR
+
+0
+-
+1
+
+BLB
+ 
+L
+Monday 24 January 2005
+BLB
+
+0
+-
+1
+
+BOL
+ 
+L
+Wednesday 2 February 2005
+BLB
+
+0
+-
+1
+
+CHE
+ 
+L
+Saturday 5 February 2005
+MID
+
+1
+-
+0
+
+BLB
+ 
+W
+Saturday 12 February 2005
+BLB
+
+3
+-
+0
+
+NOR
+17 
+Previous Position 17
+
+Crystal Palace
+28	6	7	15	32	45	-13	25	
+W
+Saturday 22 January 2005
+CRY
+
+3
+-
+0
+
+TOT
+ 
+D
+Tuesday 1 February 2005
+WBA
+
+2
+-
+2
+
+CRY
+ 
+L
+Saturday 5 February 2005
+CRY
+
+0
+-
+1
+
+BOL
+ 
+L
+Monday 14 February 2005
+ARS
+
+5
+-
+1
+
+CRY
+ 
+W
+Saturday 26 February 2005
+CRY
+
+2
+-
+0
+
+BIR
+18 
+Previous Position 18
+
+Southampton
+28	3	12	13	29	44	-15	21	
+W
+Saturday 22 January 2005
+SOU
+
+2
+-
+0
+
+LIV
+ 
+L
+Wednesday 2 February 2005
+BIR
+
+2
+-
+1
+
+SOU
+ 
+D
+Sunday 6 February 2005
+SOU
+
+2
+-
+2
+
+EVE
+ 
+D
+Tuesday 22 February 2005
+WBA
+
+0
+-
+0
+
+SOU
+ 
+D
+Saturday 26 February 2005
+SOU
+
+1
+-
+1
+
+ARS
+19 
+Previous Position 19
+
+Norwich City
+28	3	11	14	28	55	-27	20	
+D
+Saturday 22 January 2005
+NOR
+
+4
+-
+4
+
+MID
+ 
+L
+Wednesday 2 February 2005
+EVE
+
+1
+-
+0
+
+NOR
+ 
+W
+Saturday 5 February 2005
+NOR
+
+3
+-
+2
+
+WBA
+ 
+L
+Saturday 12 February 2005
+BLB
+
+3
+-
+0
+
+NOR
+ 
+L
+Monday 28 February 2005
+NOR
+
+2
+-
+3
+
+MCI
+20 
+Previous Position 20
+
+West Bromwich Albion
+27	2	12	13	23	49	-26	18	
+L
+Sunday 16 January 2005
+FUL
+
+1
+-
+0
+
+WBA
+ 
+W
+Saturday 22 January 2005
+WBA
+
+2
+-
+0
+
+MCI
+ 
+D
+Tuesday 1 February 2005
+WBA
+
+2
+-
+2
+
+CRY
+ 
+L
+Saturday 5 February 2005
+NOR
+
+3
+-
+2
+
+WBA
+ 
+D
+Tuesday 22 February 2005
+WBA
+
+0
+-
+0
+
+SOU

@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Manchester United
+19	15	1	3	38	13	25	46	
+W
+Friday 5 December 2003
+MUN
+
+4
+-
+0
+
+AVL
+ 
+W
+Saturday 13 December 2003
+MUN
+
+3
+-
+1
+
+MCI
+ 
+W
+Saturday 20 December 2003
+TOT
+
+1
+-
+2
+
+MUN
+ 
+W
+Thursday 25 December 2003
+MUN
+
+3
+-
+2
+
+EVE
+ 
+W
+Saturday 27 December 2003
+MID
+
+0
+-
+1
+
+MUN
+2 
+Previous Position 2
+
+Arsenal
+19	13	6	0	35	12	23	45	
+D
+Friday 5 December 2003
+LEI
+
+1
+-
+1
+
+ARS
+ 
+W
+Saturday 13 December 2003
+ARS
+
+1
+-
+0
+
+BLB
+ 
+D
+Friday 19 December 2003
+BOL
+
+1
+-
+1
+
+ARS
+ 
+W
+Thursday 25 December 2003
+ARS
+
+3
+-
+0
+
+WOL
+ 
+W
+Monday 29 December 2003
+SOU
+
+0
+-
+1
+
+ARS
+3 
+Previous Position 3
+
+Chelsea
+19	13	3	3	36	16	20	42	
+D
+Saturday 6 December 2003
+LEE
+
+1
+-
+1
+
+CHE
+ 
+L
+Friday 12 December 2003
+CHE
+
+1
+-
+2
+
+BOL
+ 
+W
+Friday 19 December 2003
+FUL
+
+0
+-
+1
+
+CHE
+ 
+L
+Thursday 25 December 2003
+CHA
+
+4
+-
+2
+
+CHE
+ 
+W
+Saturday 27 December 2003
+CHE
+
+3
+-
+0
+
+POR
+4 
+Previous Position 5
+
+Charlton Athletic
+19	8	6	5	27	22	5	30	
+L
+Sunday 7 December 2003
+SOU
+
+3
+-
+2
+
+CHA
+ 
+D
+Friday 12 December 2003
+MID
+
+0
+-
+0
+
+CHA
+ 
+D
+Friday 19 December 2003
+CHA
+
+0
+-
+0
+
+NEW
+ 
+W
+Thursday 25 December 2003
+CHA
+
+4
+-
+2
+
+CHE
+ 
+W
+Saturday 27 December 2003
+TOT
+
+0
+-
+1
+
+CHA
+5 
+Previous Position 4
+
+Fulham
+19	8	4	7	30	26	4	28	
+W
+Friday 5 December 2003
+FUL
+
+2
+-
+1
+
+BOL
+ 
+L
+Sunday 14 December 2003
+LEE
+
+3
+-
+2
+
+FUL
+ 
+L
+Friday 19 December 2003
+FUL
+
+0
+-
+1
+
+CHE
+ 
+W
+Thursday 25 December 2003
+FUL
+
+2
+-
+0
+
+SOU
+ 
+L
+Saturday 27 December 2003
+AVL
+
+3
+-
+0
+
+FUL
+6 
+Previous Position 9
+
+Liverpool
+18	7	5	6	28	21	7	26	
+W
+Saturday 29 November 2003
+LIV
+
+3
+-
+1
+
+BIR
+ 
+D
+Saturday 6 December 2003
+NEW
+
+1
+-
+1
+
+LIV
+ 
+L
+Saturday 13 December 2003
+LIV
+
+1
+-
+2
+
+SOU
+ 
+W
+Thursday 25 December 2003
+LIV
+
+3
+-
+1
+
+BOL
+ 
+D
+Sunday 28 December 2003
+MCI
+
+2
+-
+2
+
+LIV
+7 
+Previous Position 6
+
+Newcastle United
+19	6	8	5	26	22	4	26	
+D
+Saturday 6 December 2003
+NEW
+
+1
+-
+1
+
+LIV
+ 
+W
+Friday 12 December 2003
+NEW
+
+4
+-
+0
+
+TOT
+ 
+D
+Friday 19 December 2003
+CHA
+
+0
+-
+0
+
+NEW
+ 
+D
+Thursday 25 December 2003
+LEI
+
+1
+-
+1
+
+NEW
+ 
+L
+Saturday 27 December 2003
+NEW
+
+0
+-
+1
+
+BLB
+8 
+Previous Position 7
+
+Southampton
+19	7	5	7	18	15	3	26	
+W
+Sunday 7 December 2003
+SOU
+
+3
+-
+2
+
+CHA
+ 
+W
+Saturday 13 December 2003
+LIV
+
+1
+-
+2
+
+SOU
+ 
+W
+Saturday 20 December 2003
+SOU
+
+3
+-
+0
+
+POR
+ 
+L
+Thursday 25 December 2003
+FUL
+
+2
+-
+0
+
+SOU
+ 
+L
+Monday 29 December 2003
+SOU
+
+0
+-
+1
+
+ARS
+9 
+Previous Position 8
+
+Birmingham City
+18	7	5	6	16	20	-4	26	
+L
+Saturday 29 November 2003
+LIV
+
+3
+-
+1
+
+BIR
+ 
+L
+Friday 5 December 2003
+BIR
+
+0
+-
+4
+
+BLB
+ 
+W
+Friday 12 December 2003
+LEI
+
+0
+-
+2
+
+BIR
+ 
+W
+Friday 26 December 2003
+BIR
+
+2
+-
+1
+
+MCI
+ 
+L
+Saturday 27 December 2003
+EVE
+
+1
+-
+0
+
+BIR
+10 
+Previous Position 12
+
+Aston Villa
+19	6	6	7	19	23	-4	24	
+L
+Friday 5 December 2003
+MUN
+
+4
+-
+0
+
+AVL
+ 
+W
+Saturday 13 December 2003
+AVL
+
+3
+-
+2
+
+WOL
+ 
+W
+Friday 19 December 2003
+BLB
+
+0
+-
+2
+
+AVL
+ 
+D
+Friday 26 December 2003
+LEE
+
+0
+-
+0
+
+AVL
+ 
+W
+Saturday 27 December 2003
+AVL
+
+3
+-
+0
+
+FUL
+11 
+Previous Position 14
+
+Everton
+19	6	5	8	23	25	-2	23	
+D
+Sunday 7 December 2003
+EVE
+
+0
+-
+0
+
+MCI
+ 
+W
+Friday 12 December 2003
+POR
+
+1
+-
+2
+
+EVE
+ 
+W
+Friday 19 December 2003
+EVE
+
+3
+-
+2
+
+LEI
+ 
+L
+Thursday 25 December 2003
+MUN
+
+3
+-
+2
+
+EVE
+ 
+W
+Saturday 27 December 2003
+EVE
+
+1
+-
+0
+
+BIR
+12 
+Previous Position 10
+
+Bolton Wanderers
+19	5	8	6	20	28	-8	23	
+L
+Friday 5 December 2003
+FUL
+
+2
+-
+1
+
+BOL
+ 
+W
+Friday 12 December 2003
+CHE
+
+1
+-
+2
+
+BOL
+ 
+D
+Friday 19 December 2003
+BOL
+
+1
+-
+1
+
+ARS
+ 
+L
+Thursday 25 December 2003
+LIV
+
+3
+-
+1
+
+BOL
+ 
+D
+Saturday 27 December 2003
+BOL
+
+2
+-
+2
+
+LEI
+13 
+Previous Position 13
+
+Manchester City
+19	5	6	8	27	27	0	21	
+D
+Sunday 7 December 2003
+EVE
+
+0
+-
+0
+
+MCI
+ 
+L
+Saturday 13 December 2003
+MUN
+
+3
+-
+1
+
+MCI
+ 
+D
+Monday 22 December 2003
+MCI
+
+1
+-
+1
+
+LEE
+ 
+L
+Friday 26 December 2003
+BIR
+
+2
+-
+1
+
+MCI
+ 
+D
+Sunday 28 December 2003
+MCI
+
+2
+-
+2
+
+LIV
+14 
+Previous Position 16
+
+Blackburn Rovers
+19	6	3	10	26	29	-3	21	
+W
+Friday 5 December 2003
+BIR
+
+0
+-
+4
+
+BLB
+ 
+L
+Saturday 13 December 2003
+ARS
+
+1
+-
+0
+
+BLB
+ 
+L
+Friday 19 December 2003
+BLB
+
+0
+-
+2
+
+AVL
+ 
+D
+Thursday 25 December 2003
+BLB
+
+2
+-
+2
+
+MID
+ 
+W
+Saturday 27 December 2003
+NEW
+
+0
+-
+1
+
+BLB
+15 
+Previous Position 11
+
+Middlesbrough
+18	5	6	7	14	18	-4	21	
+W
+Sunday 30 November 2003
+MCI
+
+0
+-
+1
+
+MID
+ 
+D
+Friday 5 December 2003
+MID
+
+0
+-
+0
+
+POR
+ 
+D
+Friday 12 December 2003
+MID
+
+0
+-
+0
+
+CHA
+ 
+D
+Thursday 25 December 2003
+BLB
+
+2
+-
+2
+
+MID
+ 
+L
+Saturday 27 December 2003
+MID
+
+0
+-
+1
+
+MUN
+16 
+Previous Position 15
+
+Portsmouth
+19	5	4	10	20	28	-8	19	
+D
+Friday 5 December 2003
+MID
+
+0
+-
+0
+
+POR
+ 
+L
+Friday 12 December 2003
+POR
+
+1
+-
+2
+
+EVE
+ 
+L
+Saturday 20 December 2003
+SOU
+
+3
+-
+0
+
+POR
+ 
+W
+Thursday 25 December 2003
+POR
+
+2
+-
+0
+
+TOT
+ 
+L
+Saturday 27 December 2003
+CHE
+
+3
+-
+0
+
+POR
+17 
+Previous Position 18
+
+Leicester City
+19	4	6	9	28	31	-3	18	
+D
+Friday 5 December 2003
+LEI
+
+1
+-
+1
+
+ARS
+ 
+L
+Friday 12 December 2003
+LEI
+
+0
+-
+2
+
+BIR
+ 
+L
+Friday 19 December 2003
+EVE
+
+3
+-
+2
+
+LEI
+ 
+D
+Thursday 25 December 2003
+LEI
+
+1
+-
+1
+
+NEW
+ 
+D
+Saturday 27 December 2003
+BOL
+
+2
+-
+2
+
+LEI
+18 
+Previous Position 17
+
+Tottenham Hotspur
+19	5	3	11	19	29	-10	18	
+W
+Friday 5 December 2003
+TOT
+
+5
+-
+2
+
+WOL
+ 
+L
+Friday 12 December 2003
+NEW
+
+4
+-
+0
+
+TOT
+ 
+L
+Saturday 20 December 2003
+TOT
+
+1
+-
+2
+
+MUN
+ 
+L
+Thursday 25 December 2003
+POR
+
+2
+-
+0
+
+TOT
+ 
+L
+Saturday 27 December 2003
+TOT
+
+0
+-
+1
+
+CHA
+19 
+Previous Position 19
+
+Leeds United
+19	4	5	10	18	40	-22	17	
+D
+Saturday 6 December 2003
+LEE
+
+1
+-
+1
+
+CHE
+ 
+W
+Sunday 14 December 2003
+LEE
+
+3
+-
+2
+
+FUL
+ 
+D
+Monday 22 December 2003
+MCI
+
+1
+-
+1
+
+LEE
+ 
+D
+Friday 26 December 2003
+LEE
+
+0
+-
+0
+
+AVL
+ 
+L
+Sunday 28 December 2003
+WOL
+
+3
+-
+1
+
+LEE
+20 
+Previous Position 20
+
+Wolverhampton Wanderers
+18	3	5	10	16	39	-23	14	
+D
+Saturday 29 November 2003
+WOL
+
+1
+-
+1
+
+NEW
+ 
+L
+Friday 5 December 2003
+TOT
+
+5
+-
+2
+
+WOL
+ 
+L
+Saturday 13 December 2003
+AVL
+
+3
+-
+2
+
+WOL
+ 
+L
+Thursday 25 December 2003
+ARS
+
+3
+-
+0
+
+WOL
+ 
+W
+Sunday 28 December 2003
+WOL
+
+3
+-
+1
+
+LEE

@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Arsenal
+7	5	2	0	17	7	10	17	
+W
+Tuesday 27 August 2002
+ARS
+
+5
+-
+2
+
+WBA
+ 
+D
+Sunday 1 September 2002
+CHE
+
+1
+-
+1
+
+ARS
+ 
+W
+Tuesday 10 September 2002
+ARS
+
+2
+-
+1
+
+MCI
+ 
+W
+Saturday 14 September 2002
+CHA
+
+0
+-
+3
+
+ARS
+ 
+W
+Saturday 21 September 2002
+ARS
+
+2
+-
+1
+
+BOL
+2 
+Previous Position 5
+
+Liverpool
+7	4	3	0	15	8	7	15	
+D
+Wednesday 28 August 2002
+BLB
+
+2
+-
+2
+
+LIV
+ 
+D
+Monday 2 September 2002
+LIV
+
+2
+-
+2
+
+NEW
+ 
+D
+Wednesday 11 September 2002
+LIV
+
+2
+-
+2
+
+BIR
+ 
+W
+Saturday 14 September 2002
+BOL
+
+2
+-
+3
+
+LIV
+ 
+W
+Saturday 21 September 2002
+LIV
+
+2
+-
+0
+
+WBA
+3 
+Previous Position 4
+
+Chelsea
+7	3	4	0	13	8	5	13	
+D
+Wednesday 28 August 2002
+SOU
+
+1
+-
+1
+
+CHE
+ 
+D
+Sunday 1 September 2002
+CHE
+
+1
+-
+1
+
+ARS
+ 
+W
+Wednesday 11 September 2002
+BLB
+
+2
+-
+3
+
+CHE
+ 
+W
+Saturday 14 September 2002
+CHE
+
+3
+-
+0
+
+NEW
+ 
+D
+Monday 23 September 2002
+FUL
+
+0
+-
+0
+
+CHE
+4 
+Previous Position 2
+
+Tottenham Hotspur
+7	4	1	2	11	9	2	13	
+W
+Tuesday 27 August 2002
+CHA
+
+0
+-
+1
+
+TOT
+ 
+W
+Saturday 31 August 2002
+TOT
+
+2
+-
+1
+
+SOU
+ 
+L
+Wednesday 11 September 2002
+FUL
+
+3
+-
+2
+
+TOT
+ 
+W
+Sunday 15 September 2002
+TOT
+
+3
+-
+2
+
+WHU
+ 
+L
+Saturday 21 September 2002
+MUN
+
+1
+-
+0
+
+TOT
+5 
+Previous Position 3
+
+Leeds United
+7	4	0	3	10	5	5	12	
+L
+Wednesday 28 August 2002
+LEE
+
+0
+-
+1
+
+SUN
+ 
+L
+Saturday 31 August 2002
+BIR
+
+2
+-
+1
+
+LEE
+ 
+W
+Wednesday 11 September 2002
+NEW
+
+0
+-
+2
+
+LEE
+ 
+W
+Saturday 14 September 2002
+LEE
+
+1
+-
+0
+
+MUN
+ 
+L
+Sunday 22 September 2002
+BLB
+
+1
+-
+0
+
+LEE
+6 
+Previous Position 6
+
+Fulham
+6	3	2	1	12	6	6	11	
+D
+Saturday 24 August 2002
+MID
+
+2
+-
+2
+
+FUL
+ 
+L
+Saturday 31 August 2002
+WBA
+
+1
+-
+0
+
+FUL
+ 
+W
+Wednesday 11 September 2002
+FUL
+
+3
+-
+2
+
+TOT
+ 
+W
+Saturday 14 September 2002
+SUN
+
+0
+-
+3
+
+FUL
+ 
+D
+Monday 23 September 2002
+FUL
+
+0
+-
+0
+
+CHE
+7 
+Previous Position 8
+
+Middlesbrough
+7	3	2	2	8	5	3	11	
+W
+Saturday 31 August 2002
+MID
+
+1
+-
+0
+
+BLB
+ 
+L
+Tuesday 3 September 2002
+MUN
+
+1
+-
+0
+
+MID
+ 
+W
+Tuesday 10 September 2002
+MID
+
+3
+-
+0
+
+SUN
+ 
+L
+Saturday 14 September 2002
+EVE
+
+2
+-
+1
+
+MID
+ 
+W
+Saturday 21 September 2002
+MID
+
+1
+-
+0
+
+BIR
+8 
+Previous Position 10
+
+Manchester United
+7	3	2	2	6	5	1	11	
+D
+Saturday 31 August 2002
+SUN
+
+1
+-
+1
+
+MUN
+ 
+W
+Tuesday 3 September 2002
+MUN
+
+1
+-
+0
+
+MID
+ 
+L
+Wednesday 11 September 2002
+MUN
+
+0
+-
+1
+
+BOL
+ 
+L
+Saturday 14 September 2002
+LEE
+
+1
+-
+0
+
+MUN
+ 
+W
+Saturday 21 September 2002
+MUN
+
+1
+-
+0
+
+TOT
+9 
+Previous Position 13
+
+Blackburn Rovers
+7	2	3	2	8	8	0	9	
+D
+Wednesday 28 August 2002
+BLB
+
+2
+-
+2
+
+LIV
+ 
+L
+Saturday 31 August 2002
+MID
+
+1
+-
+0
+
+BLB
+ 
+L
+Wednesday 11 September 2002
+BLB
+
+2
+-
+3
+
+CHE
+ 
+D
+Sunday 15 September 2002
+MCI
+
+2
+-
+2
+
+BLB
+ 
+W
+Sunday 22 September 2002
+BLB
+
+1
+-
+0
+
+LEE
+10 
+Previous Position 15
+
+Aston Villa
+7	3	0	4	6	8	-2	9	
+W
+Wednesday 28 August 2002
+AVL
+
+1
+-
+0
+
+MCI
+ 
+L
+Sunday 1 September 2002
+BOL
+
+1
+-
+0
+
+AVL
+ 
+W
+Wednesday 11 September 2002
+AVL
+
+2
+-
+0
+
+CHA
+ 
+L
+Monday 16 September 2002
+BIR
+
+3
+-
+0
+
+AVL
+ 
+W
+Sunday 22 September 2002
+AVL
+
+3
+-
+2
+
+EVE
+11 
+Previous Position 7
+
+West Bromwich Albion
+7	3	0	4	6	11	-5	9	
+L
+Tuesday 27 August 2002
+ARS
+
+5
+-
+2
+
+WBA
+ 
+W
+Saturday 31 August 2002
+WBA
+
+1
+-
+0
+
+FUL
+ 
+W
+Wednesday 11 September 2002
+WHU
+
+0
+-
+1
+
+WBA
+ 
+W
+Saturday 14 September 2002
+WBA
+
+1
+-
+0
+
+SOU
+ 
+L
+Saturday 21 September 2002
+LIV
+
+2
+-
+0
+
+WBA
+12 
+Previous Position 9
+
+Birmingham City
+7	2	2	3	8	8	0	8	
+D
+Wednesday 28 August 2002
+EVE
+
+1
+-
+1
+
+BIR
+ 
+W
+Saturday 31 August 2002
+BIR
+
+2
+-
+1
+
+LEE
+ 
+D
+Wednesday 11 September 2002
+LIV
+
+2
+-
+2
+
+BIR
+ 
+W
+Monday 16 September 2002
+BIR
+
+3
+-
+0
+
+AVL
+ 
+L
+Saturday 21 September 2002
+MID
+
+1
+-
+0
+
+BIR
+13 
+Previous Position 11
+
+Everton
+7	2	2	3	9	11	-2	8	
+D
+Wednesday 28 August 2002
+EVE
+
+1
+-
+1
+
+BIR
+ 
+L
+Saturday 31 August 2002
+MCI
+
+3
+-
+1
+
+EVE
+ 
+L
+Wednesday 11 September 2002
+SOU
+
+1
+-
+0
+
+EVE
+ 
+W
+Saturday 14 September 2002
+EVE
+
+2
+-
+1
+
+MID
+ 
+L
+Sunday 22 September 2002
+AVL
+
+3
+-
+2
+
+EVE
+14 
+Previous Position 12
+
+Manchester City
+7	2	2	3	7	9	-2	8	
+L
+Wednesday 28 August 2002
+AVL
+
+1
+-
+0
+
+MCI
+ 
+W
+Saturday 31 August 2002
+MCI
+
+3
+-
+1
+
+EVE
+ 
+L
+Tuesday 10 September 2002
+ARS
+
+2
+-
+1
+
+MCI
+ 
+D
+Sunday 15 September 2002
+MCI
+
+2
+-
+2
+
+BLB
+ 
+D
+Saturday 21 September 2002
+WHU
+
+0
+-
+0
+
+MCI
+15 
+Previous Position 19
+
+Newcastle United
+6	2	1	3	8	8	0	7	
+L
+Saturday 24 August 2002
+MCI
+
+1
+-
+0
+
+NEW
+ 
+D
+Monday 2 September 2002
+LIV
+
+2
+-
+2
+
+NEW
+ 
+L
+Wednesday 11 September 2002
+NEW
+
+0
+-
+2
+
+LEE
+ 
+L
+Saturday 14 September 2002
+CHE
+
+3
+-
+0
+
+NEW
+ 
+W
+Saturday 21 September 2002
+NEW
+
+2
+-
+0
+
+SUN
+16 
+Previous Position 16
+
+Charlton Athletic
+7	2	1	4	6	10	-4	7	
+L
+Tuesday 27 August 2002
+CHA
+
+0
+-
+1
+
+TOT
+ 
+W
+Saturday 31 August 2002
+WHU
+
+0
+-
+2
+
+CHA
+ 
+L
+Wednesday 11 September 2002
+AVL
+
+2
+-
+0
+
+CHA
+ 
+L
+Saturday 14 September 2002
+CHA
+
+0
+-
+3
+
+ARS
+ 
+D
+Saturday 21 September 2002
+SOU
+
+0
+-
+0
+
+CHA
+17 
+Previous Position 14
+
+Bolton Wanderers
+6	2	0	4	7	11	-4	6	
+L
+Saturday 24 August 2002
+BOL
+
+1
+-
+2
+
+CHA
+ 
+W
+Sunday 1 September 2002
+BOL
+
+1
+-
+0
+
+AVL
+ 
+W
+Wednesday 11 September 2002
+MUN
+
+0
+-
+1
+
+BOL
+ 
+L
+Saturday 14 September 2002
+BOL
+
+2
+-
+3
+
+LIV
+ 
+L
+Saturday 21 September 2002
+ARS
+
+2
+-
+1
+
+BOL
+18 
+Previous Position 17
+
+Southampton
+7	1	3	3	3	7	-4	6	
+D
+Wednesday 28 August 2002
+SOU
+
+1
+-
+1
+
+CHE
+ 
+L
+Saturday 31 August 2002
+TOT
+
+2
+-
+1
+
+SOU
+ 
+W
+Wednesday 11 September 2002
+SOU
+
+1
+-
+0
+
+EVE
+ 
+L
+Saturday 14 September 2002
+WBA
+
+1
+-
+0
+
+SOU
+ 
+D
+Saturday 21 September 2002
+SOU
+
+0
+-
+0
+
+CHA
+19 
+Previous Position 18
+
+Sunderland
+7	1	2	4	2	10	-8	5	
+W
+Wednesday 28 August 2002
+LEE
+
+0
+-
+1
+
+SUN
+ 
+D
+Saturday 31 August 2002
+SUN
+
+1
+-
+1
+
+MUN
+ 
+L
+Tuesday 10 September 2002
+MID
+
+3
+-
+0
+
+SUN
+ 
+L
+Saturday 14 September 2002
+SUN
+
+0
+-
+3
+
+FUL
+ 
+L
+Saturday 21 September 2002
+NEW
+
+2
+-
+0
+
+SUN
+20 
+Previous Position 20
+
+West Ham United
+6	0	2	4	4	12	-8	2	
+D
+Saturday 24 August 2002
+WHU
+
+2
+-
+2
+
+ARS
+ 
+L
+Saturday 31 August 2002
+WHU
+
+0
+-
+2
+
+CHA
+ 
+L
+Wednesday 11 September 2002
+WHU
+
+0
+-
+1
+
+WBA
+ 
+L
+Sunday 15 September 2002
+TOT
+
+3
+-
+2
+
+WHU
+ 
+D
+Saturday 21 September 2002
+WHU
+
+0
+-
+0
+
+MCI
