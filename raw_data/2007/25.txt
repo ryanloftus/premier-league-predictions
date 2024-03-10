@@ -1,0 +1,1080 @@
+1 
+Previous Position 2
+
+Arsenal
+25	18	6	1	52	18	34	60	
+W
+Tuesday 1 January 2008
+ARS
+
+2
+-
+0
+
+WHU
+ 
+D
+Saturday 12 January 2008
+ARS
+
+1
+-
+1
+
+BIR
+ 
+W
+Saturday 19 January 2008
+FUL
+
+0
+-
+3
+
+ARS
+ 
+W
+Tuesday 29 January 2008
+ARS
+
+3
+-
+0
+
+NEW
+ 
+W
+Saturday 2 February 2008
+MCI
+
+1
+-
+3
+
+ARS
+2 
+Previous Position 1
+
+Manchester United
+25	18	4	3	49	12	37	58	
+W
+Tuesday 1 January 2008
+MUN
+
+1
+-
+0
+
+BIR
+ 
+W
+Saturday 12 January 2008
+MUN
+
+6
+-
+0
+
+NEW
+ 
+W
+Saturday 19 January 2008
+RDG
+
+0
+-
+2
+
+MUN
+ 
+W
+Wednesday 30 January 2008
+MUN
+
+2
+-
+0
+
+POR
+ 
+D
+Saturday 2 February 2008
+TOT
+
+1
+-
+1
+
+MUN
+3 
+Previous Position 3
+
+Chelsea
+25	16	6	3	38	17	21	54	
+W
+Tuesday 1 January 2008
+FUL
+
+1
+-
+2
+
+CHE
+ 
+W
+Saturday 12 January 2008
+CHE
+
+2
+-
+0
+
+TOT
+ 
+W
+Saturday 19 January 2008
+BIR
+
+0
+-
+1
+
+CHE
+ 
+W
+Wednesday 30 January 2008
+CHE
+
+1
+-
+0
+
+RDG
+ 
+D
+Saturday 2 February 2008
+POR
+
+1
+-
+1
+
+CHE
+4 
+Previous Position 4
+
+Everton
+25	13	5	7	40	23	17	44	
+W
+Tuesday 1 January 2008
+MID
+
+0
+-
+2
+
+EVE
+ 
+W
+Saturday 12 January 2008
+EVE
+
+1
+-
+0
+
+MCI
+ 
+W
+Sunday 20 January 2008
+WIG
+
+1
+-
+2
+
+EVE
+ 
+D
+Wednesday 30 January 2008
+EVE
+
+0
+-
+0
+
+TOT
+ 
+D
+Saturday 2 February 2008
+BLB
+
+0
+-
+0
+
+EVE
+5 
+Previous Position 7
+
+Liverpool
+24	11	10	3	40	17	23	43	
+D
+Wednesday 2 January 2008
+LIV
+
+1
+-
+1
+
+WIG
+ 
+D
+Saturday 12 January 2008
+MID
+
+1
+-
+1
+
+LIV
+ 
+D
+Monday 21 January 2008
+LIV
+
+2
+-
+2
+
+AVL
+ 
+L
+Wednesday 30 January 2008
+WHU
+
+1
+-
+0
+
+LIV
+ 
+W
+Saturday 2 February 2008
+LIV
+
+3
+-
+0
+
+SUN
+6 
+Previous Position 5
+
+Aston Villa
+25	11	8	6	44	33	11	41	
+W
+Tuesday 1 January 2008
+AVL
+
+2
+-
+1
+
+TOT
+ 
+W
+Saturday 12 January 2008
+AVL
+
+3
+-
+1
+
+RDG
+ 
+D
+Monday 21 January 2008
+LIV
+
+2
+-
+2
+
+AVL
+ 
+D
+Saturday 26 January 2008
+AVL
+
+1
+-
+1
+
+BLB
+ 
+L
+Sunday 3 February 2008
+FUL
+
+2
+-
+1
+
+AVL
+7 
+Previous Position 6
+
+Manchester City
+25	11	8	6	32	28	4	41	
+W
+Wednesday 2 January 2008
+NEW
+
+0
+-
+2
+
+MCI
+ 
+L
+Saturday 12 January 2008
+EVE
+
+1
+-
+0
+
+MCI
+ 
+D
+Sunday 20 January 2008
+MCI
+
+1
+-
+1
+
+WHU
+ 
+D
+Wednesday 30 January 2008
+DER
+
+1
+-
+1
+
+MCI
+ 
+L
+Saturday 2 February 2008
+MCI
+
+1
+-
+3
+
+ARS
+8 
+Previous Position 8
+
+Blackburn Rovers
+25	10	9	6	32	31	1	39	
+W
+Wednesday 2 January 2008
+BLB
+
+1
+-
+0
+
+SUN
+ 
+W
+Sunday 13 January 2008
+BOL
+
+1
+-
+2
+
+BLB
+ 
+D
+Saturday 19 January 2008
+BLB
+
+1
+-
+1
+
+MID
+ 
+D
+Saturday 26 January 2008
+AVL
+
+1
+-
+1
+
+BLB
+ 
+D
+Saturday 2 February 2008
+BLB
+
+0
+-
+0
+
+EVE
+9 
+Previous Position 9
+
+Portsmouth
+25	10	8	7	35	26	9	38	
+W
+Tuesday 1 January 2008
+RDG
+
+0
+-
+2
+
+POR
+ 
+L
+Sunday 13 January 2008
+SUN
+
+2
+-
+0
+
+POR
+ 
+W
+Saturday 19 January 2008
+POR
+
+3
+-
+1
+
+DER
+ 
+L
+Wednesday 30 January 2008
+MUN
+
+2
+-
+0
+
+POR
+ 
+D
+Saturday 2 February 2008
+POR
+
+1
+-
+1
+
+CHE
+10 
+Previous Position 10
+
+West Ham United
+24	10	6	8	29	22	7	36	
+L
+Tuesday 1 January 2008
+ARS
+
+2
+-
+0
+
+WHU
+ 
+W
+Saturday 12 January 2008
+WHU
+
+2
+-
+1
+
+FUL
+ 
+D
+Sunday 20 January 2008
+MCI
+
+1
+-
+1
+
+WHU
+ 
+W
+Wednesday 30 January 2008
+WHU
+
+1
+-
+0
+
+LIV
+ 
+L
+Saturday 2 February 2008
+WIG
+
+1
+-
+0
+
+WHU
+11 
+Previous Position 11
+
+Tottenham Hotspur
+25	7	8	10	45	41	4	29	
+L
+Tuesday 1 January 2008
+AVL
+
+2
+-
+1
+
+TOT
+ 
+L
+Saturday 12 January 2008
+CHE
+
+2
+-
+0
+
+TOT
+ 
+W
+Saturday 19 January 2008
+TOT
+
+2
+-
+0
+
+SUN
+ 
+D
+Wednesday 30 January 2008
+EVE
+
+0
+-
+0
+
+TOT
+ 
+D
+Saturday 2 February 2008
+TOT
+
+1
+-
+1
+
+MUN
+12 
+Previous Position 12
+
+Newcastle United
+25	7	7	11	28	43	-15	28	
+L
+Wednesday 2 January 2008
+NEW
+
+0
+-
+2
+
+MCI
+ 
+L
+Saturday 12 January 2008
+MUN
+
+6
+-
+0
+
+NEW
+ 
+D
+Saturday 19 January 2008
+NEW
+
+0
+-
+0
+
+BOL
+ 
+L
+Tuesday 29 January 2008
+ARS
+
+3
+-
+0
+
+NEW
+ 
+D
+Sunday 3 February 2008
+NEW
+
+1
+-
+1
+
+MID
+13 
+Previous Position 13
+
+Middlesbrough
+25	6	8	11	22	38	-16	26	
+L
+Tuesday 1 January 2008
+MID
+
+0
+-
+2
+
+EVE
+ 
+D
+Saturday 12 January 2008
+MID
+
+1
+-
+1
+
+LIV
+ 
+D
+Saturday 19 January 2008
+BLB
+
+1
+-
+1
+
+MID
+ 
+W
+Tuesday 29 January 2008
+MID
+
+1
+-
+0
+
+WIG
+ 
+D
+Sunday 3 February 2008
+NEW
+
+1
+-
+1
+
+MID
+14 
+Previous Position 15
+
+Bolton Wanderers
+25	6	7	12	26	34	-8	25	
+W
+Wednesday 2 January 2008
+BOL
+
+1
+-
+0
+
+DER
+ 
+L
+Sunday 13 January 2008
+BOL
+
+1
+-
+2
+
+BLB
+ 
+D
+Saturday 19 January 2008
+NEW
+
+0
+-
+0
+
+BOL
+ 
+D
+Tuesday 29 January 2008
+BOL
+
+0
+-
+0
+
+FUL
+ 
+W
+Saturday 2 February 2008
+RDG
+
+0
+-
+2
+
+BOL
+15 
+Previous Position 18
+
+Wigan Athletic
+25	6	5	14	24	40	-16	23	
+D
+Wednesday 2 January 2008
+LIV
+
+1
+-
+1
+
+WIG
+ 
+W
+Saturday 12 January 2008
+DER
+
+0
+-
+1
+
+WIG
+ 
+L
+Sunday 20 January 2008
+WIG
+
+1
+-
+2
+
+EVE
+ 
+L
+Tuesday 29 January 2008
+MID
+
+1
+-
+0
+
+WIG
+ 
+W
+Saturday 2 February 2008
+WIG
+
+1
+-
+0
+
+WHU
+16 
+Previous Position 14
+
+Sunderland
+25	6	5	14	24	45	-21	23	
+L
+Wednesday 2 January 2008
+BLB
+
+1
+-
+0
+
+SUN
+ 
+W
+Sunday 13 January 2008
+SUN
+
+2
+-
+0
+
+POR
+ 
+L
+Saturday 19 January 2008
+TOT
+
+2
+-
+0
+
+SUN
+ 
+W
+Tuesday 29 January 2008
+SUN
+
+2
+-
+0
+
+BIR
+ 
+L
+Saturday 2 February 2008
+LIV
+
+3
+-
+0
+
+SUN
+17 
+Previous Position 16
+
+Reading
+25	6	4	15	30	52	-22	22	
+L
+Tuesday 1 January 2008
+RDG
+
+0
+-
+2
+
+POR
+ 
+L
+Saturday 12 January 2008
+AVL
+
+3
+-
+1
+
+RDG
+ 
+L
+Saturday 19 January 2008
+RDG
+
+0
+-
+2
+
+MUN
+ 
+L
+Wednesday 30 January 2008
+CHE
+
+1
+-
+0
+
+RDG
+ 
+L
+Saturday 2 February 2008
+RDG
+
+0
+-
+2
+
+BOL
+18 
+Previous Position 17
+
+Birmingham City
+25	5	6	14	24	37	-13	21	
+L
+Tuesday 1 January 2008
+MUN
+
+1
+-
+0
+
+BIR
+ 
+D
+Saturday 12 January 2008
+ARS
+
+1
+-
+1
+
+BIR
+ 
+L
+Saturday 19 January 2008
+BIR
+
+0
+-
+1
+
+CHE
+ 
+L
+Tuesday 29 January 2008
+SUN
+
+2
+-
+0
+
+BIR
+ 
+D
+Saturday 2 February 2008
+BIR
+
+1
+-
+1
+
+DER
+19 
+Previous Position 19
+
+Fulham
+25	3	10	12	25	43	-18	19	
+L
+Tuesday 1 January 2008
+FUL
+
+1
+-
+2
+
+CHE
+ 
+L
+Saturday 12 January 2008
+WHU
+
+2
+-
+1
+
+FUL
+ 
+L
+Saturday 19 January 2008
+FUL
+
+0
+-
+3
+
+ARS
+ 
+D
+Tuesday 29 January 2008
+BOL
+
+0
+-
+0
+
+FUL
+ 
+W
+Sunday 3 February 2008
+FUL
+
+2
+-
+1
+
+AVL
+20 
+Previous Position 20
+
+Derby County
+25	1	6	18	13	52	-39	9	
+L
+Wednesday 2 January 2008
+BOL
+
+1
+-
+0
+
+DER
+ 
+L
+Saturday 12 January 2008
+DER
+
+0
+-
+1
+
+WIG
+ 
+L
+Saturday 19 January 2008
+POR
+
+3
+-
+1
+
+DER
+ 
+D
+Wednesday 30 January 2008
+DER
+
+1
+-
+1
+
+MCI
+ 
+D
+Saturday 2 February 2008
+BIR
+
+1
+-
+1
+
+DER

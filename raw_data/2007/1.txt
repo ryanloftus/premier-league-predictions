@@ -1,0 +1,280 @@
+1 
+Previous Position
+
+Newcastle United
+1	1	0	0	3	1	2	3	
+W
+Saturday 11 August 2007
+BOL
+
+1
+-
+3
+
+NEW
+2 
+Previous Position
+
+Manchester City
+1	1	0	0	2	0	2	3	
+W
+Saturday 11 August 2007
+WHU
+
+0
+-
+2
+
+MCI
+3 
+Previous Position
+
+Chelsea
+1	1	0	0	3	2	1	3	
+W
+Sunday 12 August 2007
+CHE
+
+3
+-
+2
+
+BIR
+4 
+Previous Position
+
+Arsenal
+1	1	0	0	2	1	1	3	
+W
+Sunday 12 August 2007
+ARS
+
+2
+-
+1
+
+FUL
+5 
+Previous Position
+
+Blackburn Rovers
+1	1	0	0	2	1	1	3	
+W
+Saturday 11 August 2007
+MID
+
+1
+-
+2
+
+BLB
+6 
+Previous Position
+
+Everton
+1	1	0	0	2	1	1	3	
+W
+Saturday 11 August 2007
+EVE
+
+2
+-
+1
+
+WIG
+7 
+Previous Position
+
+Liverpool
+1	1	0	0	2	1	1	3	
+W
+Saturday 11 August 2007
+AVL
+
+1
+-
+2
+
+LIV
+8 
+Previous Position
+
+Sunderland
+1	1	0	0	1	0	1	3	
+W
+Saturday 11 August 2007
+SUN
+
+1
+-
+0
+
+TOT
+9 
+Previous Position
+
+Derby County
+1	0	1	0	2	2	0	1	
+D
+Saturday 11 August 2007
+DER
+
+2
+-
+2
+
+POR
+10 
+Previous Position
+
+Portsmouth
+1	0	1	0	2	2	0	1	
+D
+Saturday 11 August 2007
+DER
+
+2
+-
+2
+
+POR
+11 
+Previous Position
+
+Manchester United
+1	0	1	0	0	0	0	1	
+D
+Sunday 12 August 2007
+MUN
+
+0
+-
+0
+
+RDG
+12 
+Previous Position
+
+Reading
+1	0	1	0	0	0	0	1	
+D
+Sunday 12 August 2007
+MUN
+
+0
+-
+0
+
+RDG
+13 
+Previous Position
+
+Birmingham City
+1	0	0	1	2	3	-1	0	
+L
+Sunday 12 August 2007
+CHE
+
+3
+-
+2
+
+BIR
+14 
+Previous Position
+
+Aston Villa
+1	0	0	1	1	2	-1	0	
+L
+Saturday 11 August 2007
+AVL
+
+1
+-
+2
+
+LIV
+15 
+Previous Position
+
+Fulham
+1	0	0	1	1	2	-1	0	
+L
+Sunday 12 August 2007
+ARS
+
+2
+-
+1
+
+FUL
+16 
+Previous Position
+
+Middlesbrough
+1	0	0	1	1	2	-1	0	
+L
+Saturday 11 August 2007
+MID
+
+1
+-
+2
+
+BLB
+17 
+Previous Position
+
+Wigan Athletic
+1	0	0	1	1	2	-1	0	
+L
+Saturday 11 August 2007
+EVE
+
+2
+-
+1
+
+WIG
+18 
+Previous Position
+
+Tottenham Hotspur
+1	0	0	1	0	1	-1	0	
+L
+Saturday 11 August 2007
+SUN
+
+1
+-
+0
+
+TOT
+19 
+Previous Position
+
+Bolton Wanderers
+1	0	0	1	1	3	-2	0	
+L
+Saturday 11 August 2007
+BOL
+
+1
+-
+3
+
+NEW
+20 
+Previous Position
+
+West Ham United
+1	0	0	1	0	2	-2	0	
+L
+Saturday 11 August 2007
+WHU
+
+0
+-
+2
+
+MCI

@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Manchester United
+34	25	5	4	72	18	54	80	
+W
+Wednesday 19 March 2008
+MUN
+
+2
+-
+0
+
+BOL
+ 
+W
+Sunday 23 March 2008
+MUN
+
+3
+-
+0
+
+LIV
+ 
+W
+Saturday 29 March 2008
+MUN
+
+4
+-
+0
+
+AVL
+ 
+D
+Sunday 6 April 2008
+MID
+
+2
+-
+2
+
+MUN
+ 
+W
+Sunday 13 April 2008
+MUN
+
+2
+-
+1
+
+ARS
+2 
+Previous Position 2
+
+Chelsea
+35	23	9	3	60	24	36	78	
+W
+Sunday 23 March 2008
+CHE
+
+2
+-
+1
+
+ARS
+ 
+W
+Sunday 30 March 2008
+CHE
+
+1
+-
+0
+
+MID
+ 
+W
+Saturday 5 April 2008
+MCI
+
+0
+-
+2
+
+CHE
+ 
+D
+Monday 14 April 2008
+CHE
+
+1
+-
+1
+
+WIG
+ 
+W
+Thursday 17 April 2008
+EVE
+
+0
+-
+1
+
+CHE
+3 
+Previous Position 3
+
+Arsenal
+34	20	11	3	64	29	35	71	
+D
+Saturday 15 March 2008
+ARS
+
+1
+-
+1
+
+MID
+ 
+L
+Sunday 23 March 2008
+CHE
+
+2
+-
+1
+
+ARS
+ 
+W
+Saturday 29 March 2008
+BOL
+
+2
+-
+3
+
+ARS
+ 
+D
+Saturday 5 April 2008
+ARS
+
+1
+-
+1
+
+LIV
+ 
+L
+Sunday 13 April 2008
+MUN
+
+2
+-
+1
+
+ARS
+4 
+Previous Position 4
+
+Liverpool
+34	18	12	4	60	26	34	66	
+W
+Saturday 15 March 2008
+LIV
+
+2
+-
+1
+
+RDG
+ 
+L
+Sunday 23 March 2008
+MUN
+
+3
+-
+0
+
+LIV
+ 
+W
+Sunday 30 March 2008
+LIV
+
+1
+-
+0
+
+EVE
+ 
+D
+Saturday 5 April 2008
+ARS
+
+1
+-
+1
+
+LIV
+ 
+W
+Sunday 13 April 2008
+LIV
+
+3
+-
+1
+
+BLB
+5 
+Previous Position 5
+
+Everton
+35	18	7	10	50	29	21	61	
+D
+Saturday 22 March 2008
+EVE
+
+1
+-
+1
+
+WHU
+ 
+L
+Sunday 30 March 2008
+LIV
+
+1
+-
+0
+
+EVE
+ 
+W
+Sunday 6 April 2008
+EVE
+
+1
+-
+0
+
+DER
+ 
+D
+Saturday 12 April 2008
+BIR
+
+1
+-
+1
+
+EVE
+ 
+L
+Thursday 17 April 2008
+EVE
+
+0
+-
+1
+
+CHE
+6 
+Previous Position 6
+
+Portsmouth
+34	16	9	9	47	33	14	57	
+W
+Saturday 15 March 2008
+POR
+
+2
+-
+0
+
+AVL
+ 
+L
+Saturday 22 March 2008
+TOT
+
+2
+-
+0
+
+POR
+ 
+W
+Saturday 29 March 2008
+POR
+
+2
+-
+0
+
+WIG
+ 
+W
+Tuesday 8 April 2008
+WHU
+
+0
+-
+1
+
+POR
+ 
+D
+Saturday 12 April 2008
+POR
+
+0
+-
+0
+
+NEW
+7 
+Previous Position 7
+
+Aston Villa
+34	15	10	9	62	44	18	55	
+L
+Saturday 15 March 2008
+POR
+
+2
+-
+0
+
+AVL
+ 
+L
+Saturday 22 March 2008
+AVL
+
+0
+-
+1
+
+SUN
+ 
+L
+Saturday 29 March 2008
+MUN
+
+4
+-
+0
+
+AVL
+ 
+W
+Saturday 5 April 2008
+AVL
+
+4
+-
+0
+
+BOL
+ 
+W
+Saturday 12 April 2008
+DER
+
+0
+-
+6
+
+AVL
+8 
+Previous Position 9
+
+Manchester City
+34	14	10	10	39	40	-1	52	
+W
+Sunday 16 March 2008
+MCI
+
+2
+-
+1
+
+TOT
+ 
+D
+Saturday 22 March 2008
+BOL
+
+0
+-
+0
+
+MCI
+ 
+L
+Saturday 29 March 2008
+BIR
+
+3
+-
+1
+
+MCI
+ 
+L
+Saturday 5 April 2008
+MCI
+
+0
+-
+2
+
+CHE
+ 
+W
+Saturday 12 April 2008
+SUN
+
+1
+-
+2
+
+MCI
+9 
+Previous Position 8
+
+Blackburn Rovers
+34	13	12	9	44	42	2	51	
+L
+Saturday 15 March 2008
+WHU
+
+2
+-
+1
+
+BLB
+ 
+W
+Saturday 22 March 2008
+BLB
+
+3
+-
+1
+
+WIG
+ 
+D
+Saturday 29 March 2008
+RDG
+
+0
+-
+0
+
+BLB
+ 
+D
+Saturday 5 April 2008
+BLB
+
+1
+-
+1
+
+TOT
+ 
+L
+Sunday 13 April 2008
+LIV
+
+3
+-
+1
+
+BLB
+10 
+Previous Position 10
+
+West Ham United
+34	12	8	14	35	41	-6	44	
+W
+Saturday 15 March 2008
+WHU
+
+2
+-
+1
+
+BLB
+ 
+D
+Saturday 22 March 2008
+EVE
+
+1
+-
+1
+
+WHU
+ 
+L
+Saturday 29 March 2008
+SUN
+
+2
+-
+1
+
+WHU
+ 
+L
+Tuesday 8 April 2008
+WHU
+
+0
+-
+1
+
+POR
+ 
+L
+Saturday 12 April 2008
+BOL
+
+1
+-
+0
+
+WHU
+11 
+Previous Position 11
+
+Tottenham Hotspur
+34	10	11	13	63	57	6	41	
+D
+Wednesday 19 March 2008
+TOT
+
+4
+-
+4
+
+CHE
+ 
+W
+Saturday 22 March 2008
+TOT
+
+2
+-
+0
+
+POR
+ 
+L
+Sunday 30 March 2008
+TOT
+
+1
+-
+4
+
+NEW
+ 
+D
+Saturday 5 April 2008
+BLB
+
+1
+-
+1
+
+TOT
+ 
+D
+Saturday 12 April 2008
+TOT
+
+1
+-
+1
+
+MID
+12 
+Previous Position 12
+
+Newcastle United
+34	10	9	15	40	58	-18	39	
+D
+Monday 17 March 2008
+BIR
+
+1
+-
+1
+
+NEW
+ 
+W
+Saturday 22 March 2008
+NEW
+
+2
+-
+0
+
+FUL
+ 
+W
+Sunday 30 March 2008
+TOT
+
+1
+-
+4
+
+NEW
+ 
+W
+Saturday 5 April 2008
+NEW
+
+3
+-
+0
+
+RDG
+ 
+D
+Saturday 12 April 2008
+POR
+
+0
+-
+0
+
+NEW
+13 
+Previous Position 14
+
+Middlesbrough
+34	8	12	14	31	48	-17	36	
+D
+Saturday 15 March 2008
+ARS
+
+1
+-
+1
+
+MID
+ 
+W
+Saturday 22 March 2008
+MID
+
+1
+-
+0
+
+DER
+ 
+L
+Sunday 30 March 2008
+CHE
+
+1
+-
+0
+
+MID
+ 
+D
+Sunday 6 April 2008
+MID
+
+2
+-
+2
+
+MUN
+ 
+D
+Saturday 12 April 2008
+TOT
+
+1
+-
+1
+
+MID
+14 
+Previous Position 13
+
+Sunderland
+34	10	6	18	33	52	-19	36	
+L
+Saturday 15 March 2008
+SUN
+
+0
+-
+1
+
+CHE
+ 
+W
+Saturday 22 March 2008
+AVL
+
+0
+-
+1
+
+SUN
+ 
+W
+Saturday 29 March 2008
+SUN
+
+2
+-
+1
+
+WHU
+ 
+W
+Saturday 5 April 2008
+FUL
+
+1
+-
+3
+
+SUN
+ 
+L
+Saturday 12 April 2008
+SUN
+
+1
+-
+2
+
+MCI
+15 
+Previous Position 15
+
+Wigan Athletic
+34	9	8	17	31	48	-17	35	
+W
+Sunday 16 March 2008
+WIG
+
+1
+-
+0
+
+BOL
+ 
+L
+Saturday 22 March 2008
+BLB
+
+3
+-
+1
+
+WIG
+ 
+L
+Saturday 29 March 2008
+POR
+
+2
+-
+0
+
+WIG
+ 
+W
+Saturday 5 April 2008
+WIG
+
+2
+-
+0
+
+BIR
+ 
+D
+Monday 14 April 2008
+CHE
+
+1
+-
+1
+
+WIG
+16 
+Previous Position 16
+
+Reading
+34	9	5	20	37	63	-26	32	
+L
+Saturday 15 March 2008
+LIV
+
+2
+-
+1
+
+RDG
+ 
+W
+Saturday 22 March 2008
+RDG
+
+2
+-
+1
+
+BIR
+ 
+D
+Saturday 29 March 2008
+RDG
+
+0
+-
+0
+
+BLB
+ 
+L
+Saturday 5 April 2008
+NEW
+
+3
+-
+0
+
+RDG
+ 
+L
+Saturday 12 April 2008
+RDG
+
+0
+-
+2
+
+FUL
+17 
+Previous Position 17
+
+Birmingham City
+34	7	10	17	39	52	-13	31	
+D
+Monday 17 March 2008
+BIR
+
+1
+-
+1
+
+NEW
+ 
+L
+Saturday 22 March 2008
+RDG
+
+2
+-
+1
+
+BIR
+ 
+W
+Saturday 29 March 2008
+BIR
+
+3
+-
+1
+
+MCI
+ 
+L
+Saturday 5 April 2008
+WIG
+
+2
+-
+0
+
+BIR
+ 
+D
+Saturday 12 April 2008
+BIR
+
+1
+-
+1
+
+EVE
+18 
+Previous Position 18
+
+Bolton Wanderers
+34	7	8	19	31	52	-21	29	
+L
+Wednesday 19 March 2008
+MUN
+
+2
+-
+0
+
+BOL
+ 
+D
+Saturday 22 March 2008
+BOL
+
+0
+-
+0
+
+MCI
+ 
+L
+Saturday 29 March 2008
+BOL
+
+2
+-
+3
+
+ARS
+ 
+L
+Saturday 5 April 2008
+AVL
+
+4
+-
+0
+
+BOL
+ 
+W
+Saturday 12 April 2008
+BOL
+
+1
+-
+0
+
+WHU
+19 
+Previous Position 19
+
+Fulham
+34	5	12	17	32	56	-24	27	
+W
+Sunday 16 March 2008
+FUL
+
+1
+-
+0
+
+EVE
+ 
+L
+Saturday 22 March 2008
+NEW
+
+2
+-
+0
+
+FUL
+ 
+D
+Saturday 29 March 2008
+DER
+
+2
+-
+2
+
+FUL
+ 
+L
+Saturday 5 April 2008
+FUL
+
+1
+-
+3
+
+SUN
+ 
+W
+Saturday 12 April 2008
+RDG
+
+0
+-
+2
+
+FUL
+20 
+Previous Position 20
+
+Derby County
+34	1	8	25	16	74	-58	11	
+L
+Saturday 15 March 2008
+DER
+
+0
+-
+1
+
+MUN
+ 
+L
+Saturday 22 March 2008
+MID
+
+1
+-
+0
+
+DER
+ 
+D
+Saturday 29 March 2008
+DER
+
+2
+-
+2
+
+FUL
+ 
+L
+Sunday 6 April 2008
+EVE
+
+1
+-
+0
+
+DER
+ 
+L
+Saturday 12 April 2008
+DER
+
+0
+-
+6
+
+AVL

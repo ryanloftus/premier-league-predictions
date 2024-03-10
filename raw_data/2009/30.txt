@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Manchester United
+31	22	3	6	72	25	47	69	
+L
+Saturday 20 February 2010
+EVE
+
+3
+-
+1
+
+MUN
+ 
+W
+Tuesday 23 February 2010
+MUN
+
+3
+-
+0
+
+WHU
+ 
+W
+Saturday 6 March 2010
+WOL
+
+0
+-
+1
+
+MUN
+ 
+W
+Sunday 14 March 2010
+MUN
+
+3
+-
+0
+
+FUL
+ 
+W
+Sunday 21 March 2010
+MUN
+
+2
+-
+1
+
+LIV
+2 
+Previous Position 3
+
+Chelsea
+31	21	5	5	75	28	47	68	
+W
+Saturday 20 February 2010
+WOL
+
+0
+-
+2
+
+CHE
+ 
+L
+Saturday 27 February 2010
+CHE
+
+2
+-
+4
+
+MCI
+ 
+W
+Saturday 13 March 2010
+CHE
+
+4
+-
+1
+
+WHU
+ 
+D
+Sunday 21 March 2010
+BLB
+
+1
+-
+1
+
+CHE
+ 
+W
+Wednesday 24 March 2010
+POR
+
+0
+-
+5
+
+CHE
+3 
+Previous Position 2
+
+Arsenal
+31	21	4	6	73	33	40	67	
+W
+Saturday 20 February 2010
+ARS
+
+2
+-
+0
+
+SUN
+ 
+W
+Saturday 27 February 2010
+STK
+
+1
+-
+3
+
+ARS
+ 
+W
+Saturday 6 March 2010
+ARS
+
+3
+-
+1
+
+BUR
+ 
+W
+Saturday 13 March 2010
+HUL
+
+1
+-
+2
+
+ARS
+ 
+W
+Saturday 20 March 2010
+ARS
+
+2
+-
+0
+
+WHU
+4 
+Previous Position 4
+
+Tottenham Hotspur
+30	16	7	7	55	29	26	55	
+L
+Wednesday 10 February 2010
+WOL
+
+1
+-
+0
+
+TOT
+ 
+W
+Sunday 21 February 2010
+WIG
+
+0
+-
+3
+
+TOT
+ 
+W
+Sunday 28 February 2010
+TOT
+
+2
+-
+1
+
+EVE
+ 
+W
+Saturday 13 March 2010
+TOT
+
+3
+-
+1
+
+BLB
+ 
+W
+Saturday 20 March 2010
+STK
+
+1
+-
+2
+
+TOT
+5 
+Previous Position 5
+
+Manchester City
+30	14	11	5	55	39	16	53	
+D
+Sunday 21 February 2010
+MCI
+
+0
+-
+0
+
+LIV
+ 
+W
+Saturday 27 February 2010
+CHE
+
+2
+-
+4
+
+MCI
+ 
+D
+Sunday 14 March 2010
+SUN
+
+1
+-
+1
+
+MCI
+ 
+W
+Sunday 21 March 2010
+FUL
+
+1
+-
+2
+
+MCI
+ 
+L
+Wednesday 24 March 2010
+MCI
+
+0
+-
+2
+
+EVE
+6 
+Previous Position 6
+
+Liverpool
+31	15	6	10	50	32	18	51	
+D
+Sunday 21 February 2010
+MCI
+
+0
+-
+0
+
+LIV
+ 
+W
+Sunday 28 February 2010
+LIV
+
+2
+-
+1
+
+BLB
+ 
+L
+Monday 8 March 2010
+WIG
+
+1
+-
+0
+
+LIV
+ 
+W
+Monday 15 March 2010
+LIV
+
+4
+-
+1
+
+POR
+ 
+L
+Sunday 21 March 2010
+MUN
+
+2
+-
+1
+
+LIV
+7 
+Previous Position 7
+
+Aston Villa
+30	13	12	5	42	25	17	51	
+W
+Sunday 21 February 2010
+AVL
+
+5
+-
+2
+
+BUR
+ 
+D
+Saturday 13 March 2010
+STK
+
+0
+-
+0
+
+AVL
+ 
+W
+Tuesday 16 March 2010
+WIG
+
+1
+-
+2
+
+AVL
+ 
+D
+Saturday 20 March 2010
+AVL
+
+2
+-
+2
+
+WOL
+ 
+D
+Wednesday 24 March 2010
+AVL
+
+1
+-
+1
+
+SUN
+8 
+Previous Position 8
+
+Everton
+31	13	9	9	50	42	8	48	
+L
+Sunday 28 February 2010
+TOT
+
+2
+-
+1
+
+EVE
+ 
+W
+Sunday 7 March 2010
+EVE
+
+5
+-
+1
+
+HUL
+ 
+D
+Saturday 13 March 2010
+BIR
+
+2
+-
+2
+
+EVE
+ 
+W
+Saturday 20 March 2010
+EVE
+
+2
+-
+0
+
+BOL
+ 
+W
+Wednesday 24 March 2010
+MCI
+
+0
+-
+2
+
+EVE
+9 
+Previous Position 9
+
+Birmingham City
+31	12	8	11	32	36	-4	44	
+W
+Saturday 27 February 2010
+BIR
+
+1
+-
+0
+
+WIG
+ 
+W
+Tuesday 9 March 2010
+POR
+
+1
+-
+2
+
+BIR
+ 
+D
+Saturday 13 March 2010
+BIR
+
+2
+-
+2
+
+EVE
+ 
+L
+Saturday 20 March 2010
+SUN
+
+3
+-
+1
+
+BIR
+ 
+L
+Wednesday 24 March 2010
+BLB
+
+2
+-
+1
+
+BIR
+10 
+Previous Position 10
+
+Fulham
+30	10	8	12	33	34	-1	38	
+W
+Tuesday 9 February 2010
+FUL
+
+3
+-
+0
+
+BUR
+ 
+W
+Sunday 21 February 2010
+FUL
+
+2
+-
+1
+
+BIR
+ 
+D
+Sunday 28 February 2010
+SUN
+
+0
+-
+0
+
+FUL
+ 
+L
+Sunday 14 March 2010
+MUN
+
+3
+-
+0
+
+FUL
+ 
+L
+Sunday 21 March 2010
+FUL
+
+1
+-
+2
+
+MCI
+11 
+Previous Position 12
+
+Blackburn Rovers
+31	10	8	13	34	50	-16	38	
+W
+Sunday 21 February 2010
+BLB
+
+3
+-
+0
+
+BOL
+ 
+L
+Sunday 28 February 2010
+LIV
+
+2
+-
+1
+
+BLB
+ 
+L
+Saturday 13 March 2010
+TOT
+
+3
+-
+1
+
+BLB
+ 
+D
+Sunday 21 March 2010
+BLB
+
+1
+-
+1
+
+CHE
+ 
+W
+Wednesday 24 March 2010
+BLB
+
+2
+-
+1
+
+BIR
+12 
+Previous Position 11
+
+Stoke City
+30	8	12	10	29	35	-6	36	
+W
+Saturday 20 February 2010
+POR
+
+1
+-
+2
+
+STK
+ 
+L
+Saturday 27 February 2010
+STK
+
+1
+-
+3
+
+ARS
+ 
+D
+Wednesday 10 March 2010
+BUR
+
+1
+-
+1
+
+STK
+ 
+D
+Saturday 13 March 2010
+STK
+
+0
+-
+0
+
+AVL
+ 
+L
+Saturday 20 March 2010
+STK
+
+1
+-
+2
+
+TOT
+13 
+Previous Position 13
+
+Sunderland
+31	8	11	12	41	47	-6	35	
+D
+Sunday 28 February 2010
+SUN
+
+0
+-
+0
+
+FUL
+ 
+W
+Tuesday 9 March 2010
+SUN
+
+4
+-
+0
+
+BOL
+ 
+D
+Sunday 14 March 2010
+SUN
+
+1
+-
+1
+
+MCI
+ 
+W
+Saturday 20 March 2010
+SUN
+
+3
+-
+1
+
+BIR
+ 
+D
+Wednesday 24 March 2010
+AVL
+
+1
+-
+1
+
+SUN
+14 
+Previous Position 14
+
+Bolton Wanderers
+31	8	8	15	36	56	-20	32	
+W
+Saturday 27 February 2010
+BOL
+
+1
+-
+0
+
+WOL
+ 
+W
+Saturday 6 March 2010
+WHU
+
+1
+-
+2
+
+BOL
+ 
+L
+Tuesday 9 March 2010
+SUN
+
+4
+-
+0
+
+BOL
+ 
+W
+Saturday 13 March 2010
+BOL
+
+4
+-
+0
+
+WIG
+ 
+L
+Saturday 20 March 2010
+EVE
+
+2
+-
+0
+
+BOL
+15 
+Previous Position 16
+
+Wolverhampton Wanderers
+31	8	7	16	28	50	-22	31	
+L
+Saturday 27 February 2010
+BOL
+
+1
+-
+0
+
+WOL
+ 
+L
+Saturday 6 March 2010
+WOL
+
+0
+-
+1
+
+MUN
+ 
+W
+Saturday 13 March 2010
+BUR
+
+1
+-
+2
+
+WOL
+ 
+D
+Saturday 20 March 2010
+AVL
+
+2
+-
+2
+
+WOL
+ 
+W
+Tuesday 23 March 2010
+WHU
+
+1
+-
+3
+
+WOL
+16 
+Previous Position 15
+
+Wigan Athletic
+31	8	7	16	29	59	-30	31	
+L
+Saturday 27 February 2010
+BIR
+
+1
+-
+0
+
+WIG
+ 
+W
+Monday 8 March 2010
+WIG
+
+1
+-
+0
+
+LIV
+ 
+L
+Saturday 13 March 2010
+BOL
+
+4
+-
+0
+
+WIG
+ 
+L
+Tuesday 16 March 2010
+WIG
+
+1
+-
+2
+
+AVL
+ 
+W
+Saturday 20 March 2010
+WIG
+
+1
+-
+0
+
+BUR
+17 
+Previous Position 17
+
+West Ham United
+31	6	9	16	38	54	-16	27	
+L
+Tuesday 23 February 2010
+MUN
+
+3
+-
+0
+
+WHU
+ 
+L
+Saturday 6 March 2010
+WHU
+
+1
+-
+2
+
+BOL
+ 
+L
+Saturday 13 March 2010
+CHE
+
+4
+-
+1
+
+WHU
+ 
+L
+Saturday 20 March 2010
+ARS
+
+2
+-
+0
+
+WHU
+ 
+L
+Tuesday 23 March 2010
+WHU
+
+1
+-
+3
+
+WOL
+18 
+Previous Position 18
+
+Burnley
+31	6	6	19	31	64	-33	24	
+L
+Saturday 27 February 2010
+BUR
+
+1
+-
+2
+
+POR
+ 
+L
+Saturday 6 March 2010
+ARS
+
+3
+-
+1
+
+BUR
+ 
+D
+Wednesday 10 March 2010
+BUR
+
+1
+-
+1
+
+STK
+ 
+L
+Saturday 13 March 2010
+BUR
+
+1
+-
+2
+
+WOL
+ 
+L
+Saturday 20 March 2010
+WIG
+
+1
+-
+0
+
+BUR
+19 
+Previous Position 19
+
+Hull City
+30	5	9	16	29	64	-35	24	
+L
+Wednesday 10 February 2010
+BLB
+
+1
+-
+0
+
+HUL
+ 
+L
+Saturday 20 February 2010
+WHU
+
+3
+-
+0
+
+HUL
+ 
+L
+Sunday 7 March 2010
+EVE
+
+5
+-
+1
+
+HUL
+ 
+L
+Saturday 13 March 2010
+HUL
+
+1
+-
+2
+
+ARS
+ 
+L
+Saturday 20 March 2010
+POR
+
+3
+-
+2
+
+HUL
+20 
+Previous Position 20
+
+Portsmouth
+31	6	4	21	28	58	-30	13	
+W
+Saturday 27 February 2010
+BUR
+
+1
+-
+2
+
+POR
+ 
+L
+Tuesday 9 March 2010
+POR
+
+1
+-
+2
+
+BIR
+ 
+L
+Monday 15 March 2010
+LIV
+
+4
+-
+1
+
+POR
+ 
+W
+Saturday 20 March 2010
+POR
+
+3
+-
+2
+
+HUL
+ 
+L
+Wednesday 24 March 2010
+POR
+
+0
+-
+5
+
+CHE

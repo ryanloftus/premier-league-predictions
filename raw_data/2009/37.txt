@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Chelsea
+37	26	5	6	95	32	63	83	
+W
+Saturday 3 April 2010
+MUN
+
+1
+-
+2
+
+CHE
+ 
+W
+Tuesday 13 April 2010
+CHE
+
+1
+-
+0
+
+BOL
+ 
+L
+Saturday 17 April 2010
+TOT
+
+2
+-
+1
+
+CHE
+ 
+W
+Sunday 25 April 2010
+CHE
+
+7
+-
+0
+
+STK
+ 
+W
+Sunday 2 May 2010
+LIV
+
+0
+-
+2
+
+CHE
+2 
+Previous Position 2
+
+Manchester United
+37	26	4	7	82	28	54	82	
+L
+Saturday 3 April 2010
+MUN
+
+1
+-
+2
+
+CHE
+ 
+D
+Sunday 11 April 2010
+BLB
+
+0
+-
+0
+
+MUN
+ 
+W
+Saturday 17 April 2010
+MCI
+
+0
+-
+1
+
+MUN
+ 
+W
+Saturday 24 April 2010
+MUN
+
+3
+-
+1
+
+TOT
+ 
+W
+Sunday 2 May 2010
+SUN
+
+0
+-
+1
+
+MUN
+3 
+Previous Position 3
+
+Arsenal
+37	22	6	9	79	41	38	72	
+W
+Saturday 3 April 2010
+ARS
+
+1
+-
+0
+
+WOL
+ 
+L
+Wednesday 14 April 2010
+TOT
+
+2
+-
+1
+
+ARS
+ 
+L
+Sunday 18 April 2010
+WIG
+
+3
+-
+2
+
+ARS
+ 
+D
+Saturday 24 April 2010
+ARS
+
+0
+-
+0
+
+MCI
+ 
+L
+Monday 3 May 2010
+BLB
+
+2
+-
+1
+
+ARS
+4 
+Previous Position 4
+
+Tottenham Hotspur
+37	21	7	9	65	37	28	70	
+W
+Wednesday 14 April 2010
+TOT
+
+2
+-
+1
+
+ARS
+ 
+W
+Saturday 17 April 2010
+TOT
+
+2
+-
+1
+
+CHE
+ 
+L
+Saturday 24 April 2010
+MUN
+
+3
+-
+1
+
+TOT
+ 
+W
+Saturday 1 May 2010
+TOT
+
+1
+-
+0
+
+BOL
+ 
+W
+Wednesday 5 May 2010
+MCI
+
+0
+-
+1
+
+TOT
+5 
+Previous Position 6
+
+Manchester City
+37	18	12	7	72	44	28	66	
+W
+Sunday 11 April 2010
+MCI
+
+5
+-
+1
+
+BIR
+ 
+L
+Saturday 17 April 2010
+MCI
+
+0
+-
+1
+
+MUN
+ 
+D
+Saturday 24 April 2010
+ARS
+
+0
+-
+0
+
+MCI
+ 
+W
+Saturday 1 May 2010
+MCI
+
+3
+-
+1
+
+AVL
+ 
+L
+Wednesday 5 May 2010
+MCI
+
+0
+-
+1
+
+TOT
+6 
+Previous Position 5
+
+Aston Villa
+37	17	13	7	52	38	14	64	
+D
+Wednesday 14 April 2010
+AVL
+
+2
+-
+2
+
+EVE
+ 
+W
+Sunday 18 April 2010
+POR
+
+1
+-
+2
+
+AVL
+ 
+W
+Wednesday 21 April 2010
+HUL
+
+0
+-
+2
+
+AVL
+ 
+W
+Sunday 25 April 2010
+AVL
+
+1
+-
+0
+
+BIR
+ 
+L
+Saturday 1 May 2010
+MCI
+
+3
+-
+1
+
+AVL
+7 
+Previous Position 7
+
+Liverpool
+37	18	8	11	61	35	26	62	
+D
+Sunday 4 April 2010
+BIR
+
+1
+-
+1
+
+LIV
+ 
+D
+Sunday 11 April 2010
+LIV
+
+0
+-
+0
+
+FUL
+ 
+W
+Monday 19 April 2010
+LIV
+
+3
+-
+0
+
+WHU
+ 
+W
+Sunday 25 April 2010
+BUR
+
+0
+-
+4
+
+LIV
+ 
+L
+Sunday 2 May 2010
+LIV
+
+0
+-
+2
+
+CHE
+8 
+Previous Position 8
+
+Everton
+37	15	13	9	59	49	10	58	
+D
+Sunday 4 April 2010
+EVE
+
+2
+-
+2
+
+WHU
+ 
+D
+Wednesday 14 April 2010
+AVL
+
+2
+-
+2
+
+EVE
+ 
+W
+Saturday 17 April 2010
+BLB
+
+2
+-
+3
+
+EVE
+ 
+W
+Sunday 25 April 2010
+EVE
+
+2
+-
+1
+
+FUL
+ 
+D
+Saturday 1 May 2010
+STK
+
+0
+-
+0
+
+EVE
+9 
+Previous Position 9
+
+Birmingham City
+37	13	11	13	37	45	-8	50	
+D
+Sunday 4 April 2010
+BIR
+
+1
+-
+1
+
+LIV
+ 
+L
+Sunday 11 April 2010
+MCI
+
+5
+-
+1
+
+BIR
+ 
+D
+Saturday 17 April 2010
+BIR
+
+0
+-
+0
+
+HUL
+ 
+L
+Sunday 25 April 2010
+AVL
+
+1
+-
+0
+
+BIR
+ 
+W
+Saturday 1 May 2010
+BIR
+
+2
+-
+1
+
+BUR
+10 
+Previous Position 13
+
+Stoke City
+37	11	14	12	34	44	-10	47	
+D
+Sunday 11 April 2010
+WOL
+
+0
+-
+0
+
+STK
+ 
+L
+Saturday 17 April 2010
+STK
+
+1
+-
+2
+
+BOL
+ 
+L
+Sunday 25 April 2010
+CHE
+
+7
+-
+0
+
+STK
+ 
+D
+Saturday 1 May 2010
+STK
+
+0
+-
+0
+
+EVE
+ 
+W
+Wednesday 5 May 2010
+FUL
+
+0
+-
+1
+
+STK
+11 
+Previous Position 11
+
+Blackburn Rovers
+37	12	11	14	40	55	-15	47	
+D
+Saturday 3 April 2010
+POR
+
+0
+-
+0
+
+BLB
+ 
+D
+Sunday 11 April 2010
+BLB
+
+0
+-
+0
+
+MUN
+ 
+L
+Saturday 17 April 2010
+BLB
+
+2
+-
+3
+
+EVE
+ 
+D
+Saturday 24 April 2010
+WOL
+
+1
+-
+1
+
+BLB
+ 
+W
+Monday 3 May 2010
+BLB
+
+2
+-
+1
+
+ARS
+12 
+Previous Position 12
+
+Fulham
+37	12	10	15	39	42	-3	46	
+D
+Sunday 11 April 2010
+LIV
+
+0
+-
+0
+
+FUL
+ 
+D
+Saturday 17 April 2010
+FUL
+
+0
+-
+0
+
+WOL
+ 
+L
+Sunday 25 April 2010
+EVE
+
+2
+-
+1
+
+FUL
+ 
+W
+Sunday 2 May 2010
+FUL
+
+3
+-
+2
+
+WHU
+ 
+L
+Wednesday 5 May 2010
+FUL
+
+0
+-
+1
+
+STK
+13 
+Previous Position 10
+
+Sunderland
+37	11	11	15	47	54	-7	44	
+W
+Saturday 3 April 2010
+SUN
+
+3
+-
+1
+
+TOT
+ 
+L
+Saturday 10 April 2010
+WHU
+
+1
+-
+0
+
+SUN
+ 
+W
+Saturday 17 April 2010
+SUN
+
+2
+-
+1
+
+BUR
+ 
+W
+Saturday 24 April 2010
+HUL
+
+0
+-
+1
+
+SUN
+ 
+L
+Sunday 2 May 2010
+SUN
+
+0
+-
+1
+
+MUN
+14 
+Previous Position 14
+
+Bolton Wanderers
+37	9	9	19	40	66	-26	36	
+L
+Saturday 3 April 2010
+BOL
+
+0
+-
+1
+
+AVL
+ 
+L
+Tuesday 13 April 2010
+CHE
+
+1
+-
+0
+
+BOL
+ 
+W
+Saturday 17 April 2010
+STK
+
+1
+-
+2
+
+BOL
+ 
+D
+Saturday 24 April 2010
+BOL
+
+2
+-
+2
+
+POR
+ 
+L
+Saturday 1 May 2010
+TOT
+
+1
+-
+0
+
+BOL
+15 
+Previous Position 16
+
+Wigan Athletic
+37	9	9	19	37	71	-34	36	
+L
+Sunday 4 April 2010
+FUL
+
+2
+-
+1
+
+WIG
+ 
+D
+Wednesday 14 April 2010
+WIG
+
+0
+-
+0
+
+POR
+ 
+W
+Sunday 18 April 2010
+WIG
+
+3
+-
+2
+
+ARS
+ 
+L
+Saturday 24 April 2010
+WHU
+
+3
+-
+2
+
+WIG
+ 
+D
+Monday 3 May 2010
+WIG
+
+2
+-
+2
+
+HUL
+16 
+Previous Position 15
+
+Wolverhampton Wanderers
+37	8	11	18	30	55	-25	35	
+L
+Saturday 3 April 2010
+ARS
+
+1
+-
+0
+
+WOL
+ 
+D
+Sunday 11 April 2010
+WOL
+
+0
+-
+0
+
+STK
+ 
+D
+Saturday 17 April 2010
+FUL
+
+0
+-
+0
+
+WOL
+ 
+D
+Saturday 24 April 2010
+WOL
+
+1
+-
+1
+
+BLB
+ 
+L
+Saturday 1 May 2010
+POR
+
+3
+-
+1
+
+WOL
+17 
+Previous Position 17
+
+West Ham United
+37	8	10	19	46	65	-19	34	
+D
+Sunday 4 April 2010
+EVE
+
+2
+-
+2
+
+WHU
+ 
+W
+Saturday 10 April 2010
+WHU
+
+1
+-
+0
+
+SUN
+ 
+L
+Monday 19 April 2010
+LIV
+
+3
+-
+0
+
+WHU
+ 
+W
+Saturday 24 April 2010
+WHU
+
+3
+-
+2
+
+WIG
+ 
+L
+Sunday 2 May 2010
+FUL
+
+3
+-
+2
+
+WHU
+18 
+Previous Position 18
+
+Hull City
+37	6	11	20	34	75	-41	29	
+L
+Saturday 10 April 2010
+HUL
+
+1
+-
+4
+
+BUR
+ 
+D
+Saturday 17 April 2010
+BIR
+
+0
+-
+0
+
+HUL
+ 
+L
+Wednesday 21 April 2010
+HUL
+
+0
+-
+2
+
+AVL
+ 
+L
+Saturday 24 April 2010
+HUL
+
+0
+-
+1
+
+SUN
+ 
+D
+Monday 3 May 2010
+WIG
+
+2
+-
+2
+
+HUL
+19 
+Previous Position 19
+
+Burnley
+37	7	6	24	38	80	-42	27	
+L
+Saturday 3 April 2010
+BUR
+
+1
+-
+6
+
+MCI
+ 
+W
+Saturday 10 April 2010
+HUL
+
+1
+-
+4
+
+BUR
+ 
+L
+Saturday 17 April 2010
+SUN
+
+2
+-
+1
+
+BUR
+ 
+L
+Sunday 25 April 2010
+BUR
+
+0
+-
+4
+
+LIV
+ 
+L
+Saturday 1 May 2010
+BIR
+
+2
+-
+1
+
+BUR
+20 
+Previous Position 20
+
+Portsmouth
+37	7	7	23	34	65	-31	19	
+D
+Saturday 3 April 2010
+POR
+
+0
+-
+0
+
+BLB
+ 
+D
+Wednesday 14 April 2010
+WIG
+
+0
+-
+0
+
+POR
+ 
+L
+Sunday 18 April 2010
+POR
+
+1
+-
+2
+
+AVL
+ 
+D
+Saturday 24 April 2010
+BOL
+
+2
+-
+2
+
+POR
+ 
+W
+Saturday 1 May 2010
+POR
+
+3
+-
+1
+
+WOL

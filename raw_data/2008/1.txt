@@ -1,0 +1,280 @@
+1 
+Previous Position
+
+Chelsea
+1	1	0	0	4	0	4	3	
+W
+Sunday 17 August 2008
+CHE
+
+4
+-
+0
+
+POR
+2 
+Previous Position
+
+Aston Villa
+1	1	0	0	4	2	2	3	
+W
+Sunday 17 August 2008
+AVL
+
+4
+-
+2
+
+MCI
+3 
+Previous Position
+
+Bolton Wanderers
+1	1	0	0	3	1	2	3	
+W
+Saturday 16 August 2008
+BOL
+
+3
+-
+1
+
+STK
+4 
+Previous Position
+
+Blackburn Rovers
+1	1	0	0	3	2	1	3	
+W
+Saturday 16 August 2008
+EVE
+
+2
+-
+3
+
+BLB
+5 
+Previous Position
+
+Hull City
+1	1	0	0	2	1	1	3	
+W
+Saturday 16 August 2008
+HUL
+
+2
+-
+1
+
+FUL
+6 
+Previous Position
+
+Middlesbrough
+1	1	0	0	2	1	1	3	
+W
+Saturday 16 August 2008
+MID
+
+2
+-
+1
+
+TOT
+7 
+Previous Position
+
+West Ham United
+1	1	0	0	2	1	1	3	
+W
+Saturday 16 August 2008
+WHU
+
+2
+-
+1
+
+WIG
+8 
+Previous Position
+
+Arsenal
+1	1	0	0	1	0	1	3	
+W
+Saturday 16 August 2008
+ARS
+
+1
+-
+0
+
+WBA
+9 
+Previous Position
+
+Liverpool
+1	1	0	0	1	0	1	3	
+W
+Saturday 16 August 2008
+SUN
+
+0
+-
+1
+
+LIV
+10 
+Previous Position
+
+Manchester United
+1	0	1	0	1	1	0	1	
+D
+Sunday 17 August 2008
+MUN
+
+1
+-
+1
+
+NEW
+11 
+Previous Position
+
+Newcastle United
+1	0	1	0	1	1	0	1	
+D
+Sunday 17 August 2008
+MUN
+
+1
+-
+1
+
+NEW
+12 
+Previous Position
+
+Everton
+1	0	0	1	2	3	-1	0	
+L
+Saturday 16 August 2008
+EVE
+
+2
+-
+3
+
+BLB
+13 
+Previous Position
+
+Fulham
+1	0	0	1	1	2	-1	0	
+L
+Saturday 16 August 2008
+HUL
+
+2
+-
+1
+
+FUL
+14 
+Previous Position
+
+Tottenham Hotspur
+1	0	0	1	1	2	-1	0	
+L
+Saturday 16 August 2008
+MID
+
+2
+-
+1
+
+TOT
+15 
+Previous Position
+
+Wigan Athletic
+1	0	0	1	1	2	-1	0	
+L
+Saturday 16 August 2008
+WHU
+
+2
+-
+1
+
+WIG
+16 
+Previous Position
+
+Sunderland
+1	0	0	1	0	1	-1	0	
+L
+Saturday 16 August 2008
+SUN
+
+0
+-
+1
+
+LIV
+17 
+Previous Position
+
+West Bromwich Albion
+1	0	0	1	0	1	-1	0	
+L
+Saturday 16 August 2008
+ARS
+
+1
+-
+0
+
+WBA
+18 
+Previous Position
+
+Manchester City
+1	0	0	1	2	4	-2	0	
+L
+Sunday 17 August 2008
+AVL
+
+4
+-
+2
+
+MCI
+19 
+Previous Position
+
+Stoke City
+1	0	0	1	1	3	-2	0	
+L
+Saturday 16 August 2008
+BOL
+
+3
+-
+1
+
+STK
+20 
+Previous Position
+
+Portsmouth
+1	0	0	1	0	4	-4	0	
+L
+Sunday 17 August 2008
+CHE
+
+4
+-
+0
+
+POR

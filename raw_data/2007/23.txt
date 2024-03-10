@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Manchester United
+23	17	3	3	46	11	35	54	
+W
+Wednesday 26 December 2007
+SUN
+
+0
+-
+4
+
+MUN
+ 
+L
+Saturday 29 December 2007
+WHU
+
+2
+-
+1
+
+MUN
+ 
+W
+Tuesday 1 January 2008
+MUN
+
+1
+-
+0
+
+BIR
+ 
+W
+Saturday 12 January 2008
+MUN
+
+6
+-
+0
+
+NEW
+ 
+W
+Saturday 19 January 2008
+RDG
+
+0
+-
+2
+
+MUN
+2 
+Previous Position 2
+
+Arsenal
+23	16	6	1	46	17	29	54	
+D
+Wednesday 26 December 2007
+POR
+
+0
+-
+0
+
+ARS
+ 
+W
+Saturday 29 December 2007
+EVE
+
+1
+-
+4
+
+ARS
+ 
+W
+Tuesday 1 January 2008
+ARS
+
+2
+-
+0
+
+WHU
+ 
+D
+Saturday 12 January 2008
+ARS
+
+1
+-
+1
+
+BIR
+ 
+W
+Saturday 19 January 2008
+FUL
+
+0
+-
+3
+
+ARS
+3 
+Previous Position 3
+
+Chelsea
+23	15	5	3	36	16	20	50	
+D
+Wednesday 26 December 2007
+CHE
+
+4
+-
+4
+
+AVL
+ 
+W
+Saturday 29 December 2007
+CHE
+
+2
+-
+1
+
+NEW
+ 
+W
+Tuesday 1 January 2008
+FUL
+
+1
+-
+2
+
+CHE
+ 
+W
+Saturday 12 January 2008
+CHE
+
+2
+-
+0
+
+TOT
+ 
+W
+Saturday 19 January 2008
+BIR
+
+0
+-
+1
+
+CHE
+4 
+Previous Position 5
+
+Everton
+23	13	3	7	40	23	17	42	
+W
+Wednesday 26 December 2007
+EVE
+
+2
+-
+0
+
+BOL
+ 
+L
+Saturday 29 December 2007
+EVE
+
+1
+-
+4
+
+ARS
+ 
+W
+Tuesday 1 January 2008
+MID
+
+0
+-
+2
+
+EVE
+ 
+W
+Saturday 12 January 2008
+EVE
+
+1
+-
+0
+
+MCI
+ 
+W
+Sunday 20 January 2008
+WIG
+
+1
+-
+2
+
+EVE
+5 
+Previous Position 6
+
+Aston Villa
+24	11	8	5	43	31	12	41	
+W
+Saturday 29 December 2007
+WIG
+
+1
+-
+2
+
+AVL
+ 
+W
+Tuesday 1 January 2008
+AVL
+
+2
+-
+1
+
+TOT
+ 
+W
+Saturday 12 January 2008
+AVL
+
+3
+-
+1
+
+RDG
+ 
+D
+Monday 21 January 2008
+LIV
+
+2
+-
+2
+
+AVL
+ 
+D
+Saturday 26 January 2008
+AVL
+
+1
+-
+1
+
+BLB
+6 
+Previous Position 4
+
+Liverpool
+22	10	10	2	37	16	21	40	
+W
+Wednesday 26 December 2007
+DER
+
+1
+-
+2
+
+LIV
+ 
+D
+Sunday 30 December 2007
+MCI
+
+0
+-
+0
+
+LIV
+ 
+D
+Wednesday 2 January 2008
+LIV
+
+1
+-
+1
+
+WIG
+ 
+D
+Saturday 12 January 2008
+MID
+
+1
+-
+1
+
+LIV
+ 
+D
+Monday 21 January 2008
+LIV
+
+2
+-
+2
+
+AVL
+7 
+Previous Position 7
+
+Manchester City
+23	11	7	5	30	24	6	40	
+D
+Thursday 27 December 2007
+MCI
+
+2
+-
+2
+
+BLB
+ 
+D
+Sunday 30 December 2007
+MCI
+
+0
+-
+0
+
+LIV
+ 
+W
+Wednesday 2 January 2008
+NEW
+
+0
+-
+2
+
+MCI
+ 
+L
+Saturday 12 January 2008
+EVE
+
+1
+-
+0
+
+MCI
+ 
+D
+Sunday 20 January 2008
+MCI
+
+1
+-
+1
+
+WHU
+8 
+Previous Position 8
+
+Blackburn Rovers
+24	10	8	6	32	31	1	38	
+W
+Sunday 30 December 2007
+DER
+
+1
+-
+2
+
+BLB
+ 
+W
+Wednesday 2 January 2008
+BLB
+
+1
+-
+0
+
+SUN
+ 
+W
+Sunday 13 January 2008
+BOL
+
+1
+-
+2
+
+BLB
+ 
+D
+Saturday 19 January 2008
+BLB
+
+1
+-
+1
+
+MID
+ 
+D
+Saturday 26 January 2008
+AVL
+
+1
+-
+1
+
+BLB
+9 
+Previous Position 9
+
+Portsmouth
+23	10	7	6	34	23	11	37	
+D
+Wednesday 26 December 2007
+POR
+
+0
+-
+0
+
+ARS
+ 
+L
+Saturday 29 December 2007
+POR
+
+0
+-
+1
+
+MID
+ 
+W
+Tuesday 1 January 2008
+RDG
+
+0
+-
+2
+
+POR
+ 
+L
+Sunday 13 January 2008
+SUN
+
+2
+-
+0
+
+POR
+ 
+W
+Saturday 19 January 2008
+POR
+
+3
+-
+1
+
+DER
+10 
+Previous Position 10
+
+West Ham United
+22	9	6	7	28	21	7	33	
+D
+Wednesday 26 December 2007
+WHU
+
+1
+-
+1
+
+RDG
+ 
+W
+Saturday 29 December 2007
+WHU
+
+2
+-
+1
+
+MUN
+ 
+L
+Tuesday 1 January 2008
+ARS
+
+2
+-
+0
+
+WHU
+ 
+W
+Saturday 12 January 2008
+WHU
+
+2
+-
+1
+
+FUL
+ 
+D
+Sunday 20 January 2008
+MCI
+
+1
+-
+1
+
+WHU
+11 
+Previous Position 12
+
+Tottenham Hotspur
+23	7	6	10	44	40	4	27	
+W
+Wednesday 26 December 2007
+TOT
+
+5
+-
+1
+
+FUL
+ 
+W
+Saturday 29 December 2007
+TOT
+
+6
+-
+4
+
+RDG
+ 
+L
+Tuesday 1 January 2008
+AVL
+
+2
+-
+1
+
+TOT
+ 
+L
+Saturday 12 January 2008
+CHE
+
+2
+-
+0
+
+TOT
+ 
+W
+Saturday 19 January 2008
+TOT
+
+2
+-
+0
+
+SUN
+12 
+Previous Position 11
+
+Newcastle United
+23	7	6	10	27	39	-12	27	
+L
+Wednesday 26 December 2007
+WIG
+
+1
+-
+0
+
+NEW
+ 
+L
+Saturday 29 December 2007
+CHE
+
+2
+-
+1
+
+NEW
+ 
+L
+Wednesday 2 January 2008
+NEW
+
+0
+-
+2
+
+MCI
+ 
+L
+Saturday 12 January 2008
+MUN
+
+6
+-
+0
+
+NEW
+ 
+D
+Saturday 19 January 2008
+NEW
+
+0
+-
+0
+
+BOL
+13 
+Previous Position 14
+
+Middlesbrough
+23	5	7	11	20	37	-17	22	
+L
+Wednesday 26 December 2007
+BIR
+
+3
+-
+0
+
+MID
+ 
+W
+Saturday 29 December 2007
+POR
+
+0
+-
+1
+
+MID
+ 
+L
+Tuesday 1 January 2008
+MID
+
+0
+-
+2
+
+EVE
+ 
+D
+Saturday 12 January 2008
+MID
+
+1
+-
+1
+
+LIV
+ 
+D
+Saturday 19 January 2008
+BLB
+
+1
+-
+1
+
+MID
+14 
+Previous Position 13
+
+Reading
+23	6	4	13	30	49	-19	22	
+D
+Wednesday 26 December 2007
+WHU
+
+1
+-
+1
+
+RDG
+ 
+L
+Saturday 29 December 2007
+TOT
+
+6
+-
+4
+
+RDG
+ 
+L
+Tuesday 1 January 2008
+RDG
+
+0
+-
+2
+
+POR
+ 
+L
+Saturday 12 January 2008
+AVL
+
+3
+-
+1
+
+RDG
+ 
+L
+Saturday 19 January 2008
+RDG
+
+0
+-
+2
+
+MUN
+15 
+Previous Position 15
+
+Bolton Wanderers
+23	5	6	12	24	34	-10	21	
+L
+Wednesday 26 December 2007
+EVE
+
+2
+-
+0
+
+BOL
+ 
+L
+Saturday 29 December 2007
+SUN
+
+3
+-
+1
+
+BOL
+ 
+W
+Wednesday 2 January 2008
+BOL
+
+1
+-
+0
+
+DER
+ 
+L
+Sunday 13 January 2008
+BOL
+
+1
+-
+2
+
+BLB
+ 
+D
+Saturday 19 January 2008
+NEW
+
+0
+-
+0
+
+BOL
+16 
+Previous Position 16
+
+Birmingham City
+23	5	5	13	23	34	-11	20	
+W
+Wednesday 26 December 2007
+BIR
+
+3
+-
+0
+
+MID
+ 
+D
+Saturday 29 December 2007
+BIR
+
+1
+-
+1
+
+FUL
+ 
+L
+Tuesday 1 January 2008
+MUN
+
+1
+-
+0
+
+BIR
+ 
+D
+Saturday 12 January 2008
+ARS
+
+1
+-
+1
+
+BIR
+ 
+L
+Saturday 19 January 2008
+BIR
+
+0
+-
+1
+
+CHE
+17 
+Previous Position 17
+
+Wigan Athletic
+23	5	5	13	23	39	-16	20	
+W
+Wednesday 26 December 2007
+WIG
+
+1
+-
+0
+
+NEW
+ 
+L
+Saturday 29 December 2007
+WIG
+
+1
+-
+2
+
+AVL
+ 
+D
+Wednesday 2 January 2008
+LIV
+
+1
+-
+1
+
+WIG
+ 
+W
+Saturday 12 January 2008
+DER
+
+0
+-
+1
+
+WIG
+ 
+L
+Sunday 20 January 2008
+WIG
+
+1
+-
+2
+
+EVE
+18 
+Previous Position 18
+
+Sunderland
+23	5	5	13	22	42	-20	20	
+L
+Wednesday 26 December 2007
+SUN
+
+0
+-
+4
+
+MUN
+ 
+W
+Saturday 29 December 2007
+SUN
+
+3
+-
+1
+
+BOL
+ 
+L
+Wednesday 2 January 2008
+BLB
+
+1
+-
+0
+
+SUN
+ 
+W
+Sunday 13 January 2008
+SUN
+
+2
+-
+0
+
+POR
+ 
+L
+Saturday 19 January 2008
+TOT
+
+2
+-
+0
+
+SUN
+19 
+Previous Position 19
+
+Fulham
+23	2	9	12	23	42	-19	15	
+L
+Wednesday 26 December 2007
+TOT
+
+5
+-
+1
+
+FUL
+ 
+D
+Saturday 29 December 2007
+BIR
+
+1
+-
+1
+
+FUL
+ 
+L
+Tuesday 1 January 2008
+FUL
+
+1
+-
+2
+
+CHE
+ 
+L
+Saturday 12 January 2008
+WHU
+
+2
+-
+1
+
+FUL
+ 
+L
+Saturday 19 January 2008
+FUL
+
+0
+-
+3
+
+ARS
+20 
+Previous Position 20
+
+Derby County
+23	1	4	18	11	50	-39	7	
+L
+Wednesday 26 December 2007
+DER
+
+1
+-
+2
+
+LIV
+ 
+L
+Sunday 30 December 2007
+DER
+
+1
+-
+2
+
+BLB
+ 
+L
+Wednesday 2 January 2008
+BOL
+
+1
+-
+0
+
+DER
+ 
+L
+Saturday 12 January 2008
+DER
+
+0
+-
+1
+
+WIG
+ 
+L
+Saturday 19 January 2008
+POR
+
+3
+-
+1
+
+DER

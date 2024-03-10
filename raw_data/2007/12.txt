@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Arsenal
+11	8	3	0	24	9	15	27	
+W
+Saturday 29 September 2007
+WHU
+
+0
+-
+1
+
+ARS
+ 
+W
+Sunday 7 October 2007
+ARS
+
+3
+-
+2
+
+SUN
+ 
+W
+Saturday 20 October 2007
+ARS
+
+2
+-
+0
+
+BOL
+ 
+D
+Sunday 28 October 2007
+LIV
+
+1
+-
+1
+
+ARS
+ 
+D
+Saturday 3 November 2007
+ARS
+
+2
+-
+2
+
+MUN
+2 
+Previous Position 2
+
+Manchester United
+12	8	3	1	21	6	15	27	
+W
+Saturday 29 September 2007
+BIR
+
+0
+-
+1
+
+MUN
+ 
+W
+Saturday 6 October 2007
+MUN
+
+4
+-
+0
+
+WIG
+ 
+W
+Saturday 20 October 2007
+AVL
+
+1
+-
+4
+
+MUN
+ 
+W
+Saturday 27 October 2007
+MUN
+
+4
+-
+1
+
+MID
+ 
+D
+Saturday 3 November 2007
+ARS
+
+2
+-
+2
+
+MUN
+3 
+Previous Position 3
+
+Manchester City
+12	8	1	3	16	13	3	25	
+W
+Saturday 29 September 2007
+MCI
+
+3
+-
+1
+
+NEW
+ 
+W
+Sunday 7 October 2007
+MCI
+
+3
+-
+1
+
+MID
+ 
+W
+Saturday 20 October 2007
+MCI
+
+1
+-
+0
+
+BIR
+ 
+L
+Saturday 27 October 2007
+CHE
+
+6
+-
+0
+
+MCI
+ 
+W
+Monday 5 November 2007
+MCI
+
+1
+-
+0
+
+SUN
+4 
+Previous Position 4
+
+Chelsea
+12	7	3	2	18	8	10	24	
+D
+Saturday 29 September 2007
+CHE
+
+0
+-
+0
+
+FUL
+ 
+W
+Sunday 7 October 2007
+BOL
+
+0
+-
+1
+
+CHE
+ 
+W
+Saturday 20 October 2007
+MID
+
+0
+-
+2
+
+CHE
+ 
+W
+Saturday 27 October 2007
+CHE
+
+6
+-
+0
+
+MCI
+ 
+W
+Saturday 3 November 2007
+WIG
+
+0
+-
+2
+
+CHE
+5 
+Previous Position 7
+
+Portsmouth
+12	6	4	2	23	13	10	22	
+W
+Saturday 29 September 2007
+POR
+
+7
+-
+4
+
+RDG
+ 
+W
+Sunday 7 October 2007
+FUL
+
+0
+-
+2
+
+POR
+ 
+W
+Saturday 20 October 2007
+WIG
+
+0
+-
+2
+
+POR
+ 
+D
+Saturday 27 October 2007
+POR
+
+0
+-
+0
+
+WHU
+ 
+W
+Saturday 3 November 2007
+NEW
+
+1
+-
+4
+
+POR
+6 
+Previous Position 5
+
+Blackburn Rovers
+11	6	4	1	15	9	6	22	
+W
+Saturday 29 September 2007
+SUN
+
+1
+-
+2
+
+BLB
+ 
+W
+Sunday 7 October 2007
+BLB
+
+2
+-
+1
+
+BIR
+ 
+W
+Saturday 20 October 2007
+BLB
+
+4
+-
+2
+
+RDG
+ 
+W
+Sunday 28 October 2007
+TOT
+
+1
+-
+2
+
+BLB
+ 
+D
+Saturday 3 November 2007
+BLB
+
+0
+-
+0
+
+LIV
+7 
+Previous Position 6
+
+Liverpool
+11	5	6	0	17	6	11	21	
+W
+Saturday 29 September 2007
+WIG
+
+0
+-
+1
+
+LIV
+ 
+D
+Sunday 7 October 2007
+LIV
+
+2
+-
+2
+
+TOT
+ 
+W
+Saturday 20 October 2007
+EVE
+
+1
+-
+2
+
+LIV
+ 
+D
+Sunday 28 October 2007
+LIV
+
+1
+-
+1
+
+ARS
+ 
+D
+Saturday 3 November 2007
+BLB
+
+0
+-
+0
+
+LIV
+8 
+Previous Position 9
+
+Everton
+12	6	1	5	18	14	4	19	
+W
+Sunday 30 September 2007
+EVE
+
+2
+-
+0
+
+MID
+ 
+L
+Sunday 7 October 2007
+NEW
+
+3
+-
+2
+
+EVE
+ 
+L
+Saturday 20 October 2007
+EVE
+
+1
+-
+2
+
+LIV
+ 
+W
+Sunday 28 October 2007
+DER
+
+0
+-
+2
+
+EVE
+ 
+W
+Saturday 3 November 2007
+EVE
+
+3
+-
+1
+
+BIR
+9 
+Previous Position 10
+
+Aston Villa
+11	5	3	3	16	13	3	18	
+D
+Monday 1 October 2007
+TOT
+
+4
+-
+4
+
+AVL
+ 
+W
+Saturday 6 October 2007
+AVL
+
+1
+-
+0
+
+WHU
+ 
+L
+Saturday 20 October 2007
+AVL
+
+1
+-
+4
+
+MUN
+ 
+D
+Sunday 28 October 2007
+BOL
+
+1
+-
+1
+
+AVL
+ 
+W
+Saturday 3 November 2007
+AVL
+
+2
+-
+0
+
+DER
+10 
+Previous Position 8
+
+Newcastle United
+11	5	2	4	18	17	1	17	
+L
+Saturday 29 September 2007
+MCI
+
+3
+-
+1
+
+NEW
+ 
+W
+Sunday 7 October 2007
+NEW
+
+3
+-
+2
+
+EVE
+ 
+W
+Monday 22 October 2007
+NEW
+
+3
+-
+1
+
+TOT
+ 
+L
+Saturday 27 October 2007
+RDG
+
+2
+-
+1
+
+NEW
+ 
+L
+Saturday 3 November 2007
+NEW
+
+1
+-
+4
+
+POR
+11 
+Previous Position 11
+
+West Ham United
+11	4	3	4	13	10	3	15	
+L
+Saturday 29 September 2007
+WHU
+
+0
+-
+1
+
+ARS
+ 
+L
+Saturday 6 October 2007
+AVL
+
+1
+-
+0
+
+WHU
+ 
+W
+Sunday 21 October 2007
+WHU
+
+3
+-
+1
+
+SUN
+ 
+D
+Saturday 27 October 2007
+POR
+
+0
+-
+0
+
+WHU
+ 
+D
+Sunday 4 November 2007
+WHU
+
+1
+-
+1
+
+BOL
+12 
+Previous Position 12
+
+Reading
+12	4	1	7	15	26	-11	13	
+L
+Saturday 29 September 2007
+POR
+
+7
+-
+4
+
+RDG
+ 
+W
+Sunday 7 October 2007
+RDG
+
+1
+-
+0
+
+DER
+ 
+L
+Saturday 20 October 2007
+BLB
+
+4
+-
+2
+
+RDG
+ 
+W
+Saturday 27 October 2007
+RDG
+
+2
+-
+1
+
+NEW
+ 
+L
+Saturday 3 November 2007
+FUL
+
+3
+-
+1
+
+RDG
+13 
+Previous Position 14
+
+Fulham
+12	2	6	4	16	18	-2	12	
+D
+Saturday 29 September 2007
+CHE
+
+0
+-
+0
+
+FUL
+ 
+L
+Sunday 7 October 2007
+FUL
+
+0
+-
+2
+
+POR
+ 
+D
+Saturday 20 October 2007
+FUL
+
+0
+-
+0
+
+DER
+ 
+D
+Saturday 27 October 2007
+SUN
+
+1
+-
+1
+
+FUL
+ 
+W
+Saturday 3 November 2007
+FUL
+
+3
+-
+1
+
+RDG
+14 
+Previous Position 13
+
+Birmingham City
+12	3	2	7	12	18	-6	11	
+L
+Saturday 29 September 2007
+BIR
+
+0
+-
+1
+
+MUN
+ 
+L
+Sunday 7 October 2007
+BLB
+
+2
+-
+1
+
+BIR
+ 
+L
+Saturday 20 October 2007
+MCI
+
+1
+-
+0
+
+BIR
+ 
+W
+Saturday 27 October 2007
+BIR
+
+3
+-
+2
+
+WIG
+ 
+L
+Saturday 3 November 2007
+EVE
+
+3
+-
+1
+
+BIR
+15 
+Previous Position 15
+
+Sunderland
+12	2	3	7	12	21	-9	9	
+L
+Saturday 29 September 2007
+SUN
+
+1
+-
+2
+
+BLB
+ 
+L
+Sunday 7 October 2007
+ARS
+
+3
+-
+2
+
+SUN
+ 
+L
+Sunday 21 October 2007
+WHU
+
+3
+-
+1
+
+SUN
+ 
+D
+Saturday 27 October 2007
+SUN
+
+1
+-
+1
+
+FUL
+ 
+L
+Monday 5 November 2007
+MCI
+
+1
+-
+0
+
+SUN
+16 
+Previous Position 17
+
+Middlesbrough
+12	2	3	7	12	23	-11	9	
+L
+Sunday 30 September 2007
+EVE
+
+2
+-
+0
+
+MID
+ 
+L
+Sunday 7 October 2007
+MCI
+
+3
+-
+1
+
+MID
+ 
+L
+Saturday 20 October 2007
+MID
+
+0
+-
+2
+
+CHE
+ 
+L
+Saturday 27 October 2007
+MUN
+
+4
+-
+1
+
+MID
+ 
+D
+Saturday 3 November 2007
+MID
+
+1
+-
+1
+
+TOT
+17 
+Previous Position 18
+
+Tottenham Hotspur
+12	1	5	6	19	24	-5	8	
+D
+Monday 1 October 2007
+TOT
+
+4
+-
+4
+
+AVL
+ 
+D
+Sunday 7 October 2007
+LIV
+
+2
+-
+2
+
+TOT
+ 
+L
+Monday 22 October 2007
+NEW
+
+3
+-
+1
+
+TOT
+ 
+L
+Sunday 28 October 2007
+TOT
+
+1
+-
+2
+
+BLB
+ 
+D
+Saturday 3 November 2007
+MID
+
+1
+-
+1
+
+TOT
+18 
+Previous Position 16
+
+Wigan Athletic
+12	2	2	8	10	19	-9	8	
+L
+Saturday 29 September 2007
+WIG
+
+0
+-
+1
+
+LIV
+ 
+L
+Saturday 6 October 2007
+MUN
+
+4
+-
+0
+
+WIG
+ 
+L
+Saturday 20 October 2007
+WIG
+
+0
+-
+2
+
+POR
+ 
+L
+Saturday 27 October 2007
+BIR
+
+3
+-
+2
+
+WIG
+ 
+L
+Saturday 3 November 2007
+WIG
+
+0
+-
+2
+
+CHE
+19 
+Previous Position 19
+
+Bolton Wanderers
+12	1	4	7	11	18	-7	7	
+D
+Saturday 29 September 2007
+DER
+
+1
+-
+1
+
+BOL
+ 
+L
+Sunday 7 October 2007
+BOL
+
+0
+-
+1
+
+CHE
+ 
+L
+Saturday 20 October 2007
+ARS
+
+2
+-
+0
+
+BOL
+ 
+D
+Sunday 28 October 2007
+BOL
+
+1
+-
+1
+
+AVL
+ 
+D
+Sunday 4 November 2007
+WHU
+
+1
+-
+1
+
+BOL
+20 
+Previous Position 20
+
+Derby County
+12	1	3	8	5	26	-21	6	
+D
+Saturday 29 September 2007
+DER
+
+1
+-
+1
+
+BOL
+ 
+L
+Sunday 7 October 2007
+RDG
+
+1
+-
+0
+
+DER
+ 
+D
+Saturday 20 October 2007
+FUL
+
+0
+-
+0
+
+DER
+ 
+L
+Sunday 28 October 2007
+DER
+
+0
+-
+2
+
+EVE
+ 
+L
+Saturday 3 November 2007
+AVL
+
+2
+-
+0
+
+DER

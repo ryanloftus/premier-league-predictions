@@ -1,0 +1,820 @@
+1 
+Previous Position 2
+
+Chelsea
+4	3	1	0	7	4	3	10	
+W
+Sunday 12 August 2007
+CHE
+
+3
+-
+2
+
+BIR
+ 
+W
+Wednesday 15 August 2007
+RDG
+
+1
+-
+2
+
+CHE
+ 
+D
+Sunday 19 August 2007
+LIV
+
+1
+-
+1
+
+CHE
+ 
+W
+Saturday 25 August 2007
+CHE
+
+1
+-
+0
+
+POR
+2 
+Previous Position 1
+
+Manchester City
+4	3	0	1	4	1	3	9	
+W
+Saturday 11 August 2007
+WHU
+
+0
+-
+2
+
+MCI
+ 
+W
+Wednesday 15 August 2007
+MCI
+
+1
+-
+0
+
+DER
+ 
+W
+Sunday 19 August 2007
+MCI
+
+1
+-
+0
+
+MUN
+ 
+L
+Saturday 25 August 2007
+ARS
+
+1
+-
+0
+
+MCI
+3 
+Previous Position 3
+
+Wigan Athletic
+4	2	1	1	6	3	3	7	
+L
+Saturday 11 August 2007
+EVE
+
+2
+-
+1
+
+WIG
+ 
+W
+Wednesday 15 August 2007
+WIG
+
+1
+-
+0
+
+MID
+ 
+W
+Saturday 18 August 2007
+WIG
+
+3
+-
+0
+
+SUN
+ 
+D
+Saturday 25 August 2007
+WHU
+
+1
+-
+1
+
+WIG
+4 
+Previous Position 9
+
+Liverpool
+3	2	1	0	5	2	3	7	
+W
+Saturday 11 August 2007
+AVL
+
+1
+-
+2
+
+LIV
+ 
+D
+Sunday 19 August 2007
+LIV
+
+1
+-
+1
+
+CHE
+ 
+W
+Saturday 25 August 2007
+SUN
+
+0
+-
+2
+
+LIV
+5 
+Previous Position 4
+
+Everton
+4	2	1	1	6	4	2	7	
+W
+Saturday 11 August 2007
+EVE
+
+2
+-
+1
+
+WIG
+ 
+W
+Tuesday 14 August 2007
+TOT
+
+1
+-
+3
+
+EVE
+ 
+L
+Saturday 18 August 2007
+RDG
+
+1
+-
+0
+
+EVE
+ 
+D
+Saturday 25 August 2007
+EVE
+
+1
+-
+1
+
+BLB
+6 
+Previous Position 7
+
+Arsenal
+3	2	1	0	4	2	2	7	
+W
+Sunday 12 August 2007
+ARS
+
+2
+-
+1
+
+FUL
+ 
+D
+Sunday 19 August 2007
+BLB
+
+1
+-
+1
+
+ARS
+ 
+W
+Saturday 25 August 2007
+ARS
+
+1
+-
+0
+
+MCI
+7 
+Previous Position 6
+
+Newcastle United
+3	1	2	0	5	3	2	5	
+W
+Saturday 11 August 2007
+BOL
+
+1
+-
+3
+
+NEW
+ 
+D
+Saturday 18 August 2007
+NEW
+
+0
+-
+0
+
+AVL
+ 
+D
+Sunday 26 August 2007
+MID
+
+2
+-
+2
+
+NEW
+8 
+Previous Position 5
+
+Portsmouth
+4	1	2	1	6	5	1	5	
+D
+Saturday 11 August 2007
+DER
+
+2
+-
+2
+
+POR
+ 
+D
+Wednesday 15 August 2007
+POR
+
+1
+-
+1
+
+MUN
+ 
+W
+Saturday 18 August 2007
+POR
+
+3
+-
+1
+
+BOL
+ 
+L
+Saturday 25 August 2007
+CHE
+
+1
+-
+0
+
+POR
+9 
+Previous Position 8
+
+Blackburn Rovers
+3	1	2	0	4	3	1	5	
+W
+Saturday 11 August 2007
+MID
+
+1
+-
+2
+
+BLB
+ 
+D
+Sunday 19 August 2007
+BLB
+
+1
+-
+1
+
+ARS
+ 
+D
+Saturday 25 August 2007
+EVE
+
+1
+-
+1
+
+BLB
+10 
+Previous Position 16
+
+Manchester United
+4	1	2	1	2	2	0	5	
+D
+Sunday 12 August 2007
+MUN
+
+0
+-
+0
+
+RDG
+ 
+D
+Wednesday 15 August 2007
+POR
+
+1
+-
+1
+
+MUN
+ 
+L
+Sunday 19 August 2007
+MCI
+
+1
+-
+0
+
+MUN
+ 
+W
+Sunday 26 August 2007
+MUN
+
+1
+-
+0
+
+TOT
+11 
+Previous Position 17
+
+Aston Villa
+3	1	1	1	3	3	0	4	
+L
+Saturday 11 August 2007
+AVL
+
+1
+-
+2
+
+LIV
+ 
+D
+Saturday 18 August 2007
+NEW
+
+0
+-
+0
+
+AVL
+ 
+W
+Saturday 25 August 2007
+AVL
+
+2
+-
+1
+
+FUL
+12 
+Previous Position 18
+
+Birmingham City
+4	1	1	2	6	7	-1	4	
+L
+Sunday 12 August 2007
+CHE
+
+3
+-
+2
+
+BIR
+ 
+D
+Wednesday 15 August 2007
+BIR
+
+2
+-
+2
+
+SUN
+ 
+L
+Saturday 18 August 2007
+BIR
+
+0
+-
+1
+
+WHU
+ 
+W
+Saturday 25 August 2007
+DER
+
+1
+-
+2
+
+BIR
+13 
+Previous Position 14
+
+Middlesbrough
+4	1	1	2	5	6	-1	4	
+L
+Saturday 11 August 2007
+MID
+
+1
+-
+2
+
+BLB
+ 
+L
+Wednesday 15 August 2007
+WIG
+
+1
+-
+0
+
+MID
+ 
+W
+Saturday 18 August 2007
+FUL
+
+1
+-
+2
+
+MID
+ 
+D
+Sunday 26 August 2007
+MID
+
+2
+-
+2
+
+NEW
+14 
+Previous Position 15
+
+West Ham United
+3	1	1	1	2	3	-1	4	
+L
+Saturday 11 August 2007
+WHU
+
+0
+-
+2
+
+MCI
+ 
+W
+Saturday 18 August 2007
+BIR
+
+0
+-
+1
+
+WHU
+ 
+D
+Saturday 25 August 2007
+WHU
+
+1
+-
+1
+
+WIG
+15 
+Previous Position 10
+
+Reading
+4	1	1	2	2	5	-3	4	
+D
+Sunday 12 August 2007
+MUN
+
+0
+-
+0
+
+RDG
+ 
+L
+Wednesday 15 August 2007
+RDG
+
+1
+-
+2
+
+CHE
+ 
+W
+Saturday 18 August 2007
+RDG
+
+1
+-
+0
+
+EVE
+ 
+L
+Saturday 25 August 2007
+BOL
+
+3
+-
+0
+
+RDG
+16 
+Previous Position 11
+
+Sunderland
+4	1	1	2	3	7	-4	4	
+W
+Saturday 11 August 2007
+SUN
+
+1
+-
+0
+
+TOT
+ 
+D
+Wednesday 15 August 2007
+BIR
+
+2
+-
+2
+
+SUN
+ 
+L
+Saturday 18 August 2007
+WIG
+
+3
+-
+0
+
+SUN
+ 
+L
+Saturday 25 August 2007
+SUN
+
+0
+-
+2
+
+LIV
+17 
+Previous Position 12
+
+Tottenham Hotspur
+4	1	0	3	5	5	0	3	
+L
+Saturday 11 August 2007
+SUN
+
+1
+-
+0
+
+TOT
+ 
+L
+Tuesday 14 August 2007
+TOT
+
+1
+-
+3
+
+EVE
+ 
+W
+Saturday 18 August 2007
+TOT
+
+4
+-
+0
+
+DER
+ 
+L
+Sunday 26 August 2007
+MUN
+
+1
+-
+0
+
+TOT
+18 
+Previous Position 20
+
+Bolton Wanderers
+4	1	0	3	6	8	-2	3	
+L
+Saturday 11 August 2007
+BOL
+
+1
+-
+3
+
+NEW
+ 
+L
+Wednesday 15 August 2007
+FUL
+
+2
+-
+1
+
+BOL
+ 
+L
+Saturday 18 August 2007
+POR
+
+3
+-
+1
+
+BOL
+ 
+W
+Saturday 25 August 2007
+BOL
+
+3
+-
+0
+
+RDG
+19 
+Previous Position 13
+
+Fulham
+4	1	0	3	5	7	-2	3	
+L
+Sunday 12 August 2007
+ARS
+
+2
+-
+1
+
+FUL
+ 
+W
+Wednesday 15 August 2007
+FUL
+
+2
+-
+1
+
+BOL
+ 
+L
+Saturday 18 August 2007
+FUL
+
+1
+-
+2
+
+MID
+ 
+L
+Saturday 25 August 2007
+AVL
+
+2
+-
+1
+
+FUL
+20 
+Previous Position 19
+
+Derby County
+4	0	1	3	3	9	-6	1	
+D
+Saturday 11 August 2007
+DER
+
+2
+-
+2
+
+POR
+ 
+L
+Wednesday 15 August 2007
+MCI
+
+1
+-
+0
+
+DER
+ 
+L
+Saturday 18 August 2007
+TOT
+
+4
+-
+0
+
+DER
+ 
+L
+Saturday 25 August 2007
+DER
+
+1
+-
+2
+
+BIR

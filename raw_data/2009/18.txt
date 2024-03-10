@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Chelsea
+18	13	2	3	43	15	28	41	
+W
+Sunday 29 November 2009
+ARS
+
+0
+-
+3
+
+CHE
+ 
+L
+Saturday 5 December 2009
+MCI
+
+2
+-
+1
+
+CHE
+ 
+D
+Saturday 12 December 2009
+CHE
+
+3
+-
+3
+
+EVE
+ 
+W
+Wednesday 16 December 2009
+CHE
+
+2
+-
+1
+
+POR
+ 
+D
+Sunday 20 December 2009
+WHU
+
+1
+-
+1
+
+CHE
+2 
+Previous Position 2
+
+Manchester United
+18	12	1	5	37	17	20	37	
+W
+Saturday 28 November 2009
+POR
+
+1
+-
+4
+
+MUN
+ 
+W
+Saturday 5 December 2009
+WHU
+
+0
+-
+4
+
+MUN
+ 
+L
+Saturday 12 December 2009
+MUN
+
+0
+-
+1
+
+AVL
+ 
+W
+Tuesday 15 December 2009
+MUN
+
+3
+-
+0
+
+WOL
+ 
+L
+Saturday 19 December 2009
+FUL
+
+3
+-
+0
+
+MUN
+3 
+Previous Position 3
+
+Arsenal
+17	11	2	4	44	20	24	35	
+L
+Sunday 29 November 2009
+ARS
+
+0
+-
+3
+
+CHE
+ 
+W
+Saturday 5 December 2009
+ARS
+
+2
+-
+0
+
+STK
+ 
+W
+Sunday 13 December 2009
+LIV
+
+1
+-
+2
+
+ARS
+ 
+D
+Wednesday 16 December 2009
+BUR
+
+1
+-
+1
+
+ARS
+ 
+W
+Saturday 19 December 2009
+ARS
+
+3
+-
+0
+
+HUL
+4 
+Previous Position 4
+
+Aston Villa
+18	10	5	3	29	14	15	35	
+D
+Saturday 28 November 2009
+AVL
+
+1
+-
+1
+
+TOT
+ 
+W
+Saturday 5 December 2009
+AVL
+
+3
+-
+0
+
+HUL
+ 
+W
+Saturday 12 December 2009
+MUN
+
+0
+-
+1
+
+AVL
+ 
+W
+Tuesday 15 December 2009
+SUN
+
+0
+-
+2
+
+AVL
+ 
+W
+Saturday 19 December 2009
+AVL
+
+1
+-
+0
+
+STK
+5 
+Previous Position 5
+
+Tottenham Hotspur
+18	10	3	5	40	22	18	33	
+D
+Saturday 28 November 2009
+AVL
+
+1
+-
+1
+
+TOT
+ 
+D
+Sunday 6 December 2009
+EVE
+
+2
+-
+2
+
+TOT
+ 
+L
+Saturday 12 December 2009
+TOT
+
+0
+-
+1
+
+WOL
+ 
+W
+Wednesday 16 December 2009
+TOT
+
+3
+-
+0
+
+MCI
+ 
+W
+Saturday 19 December 2009
+BLB
+
+0
+-
+2
+
+TOT
+6 
+Previous Position 8
+
+Manchester City
+17	7	8	2	33	27	6	29	
+D
+Saturday 28 November 2009
+MCI
+
+1
+-
+1
+
+HUL
+ 
+W
+Saturday 5 December 2009
+MCI
+
+2
+-
+1
+
+CHE
+ 
+D
+Saturday 12 December 2009
+BOL
+
+3
+-
+3
+
+MCI
+ 
+L
+Wednesday 16 December 2009
+TOT
+
+3
+-
+0
+
+MCI
+ 
+W
+Saturday 19 December 2009
+MCI
+
+4
+-
+3
+
+SUN
+7 
+Previous Position 7
+
+Birmingham City
+18	8	4	6	19	18	1	28	
+W
+Sunday 29 November 2009
+WOL
+
+0
+-
+1
+
+BIR
+ 
+W
+Saturday 5 December 2009
+WIG
+
+2
+-
+3
+
+BIR
+ 
+W
+Saturday 12 December 2009
+BIR
+
+1
+-
+0
+
+WHU
+ 
+W
+Tuesday 15 December 2009
+BIR
+
+2
+-
+1
+
+BLB
+ 
+D
+Sunday 20 December 2009
+EVE
+
+1
+-
+1
+
+BIR
+8 
+Previous Position 6
+
+Liverpool
+18	8	3	7	34	25	9	27	
+W
+Sunday 29 November 2009
+EVE
+
+0
+-
+2
+
+LIV
+ 
+D
+Saturday 5 December 2009
+BLB
+
+0
+-
+0
+
+LIV
+ 
+L
+Sunday 13 December 2009
+LIV
+
+1
+-
+2
+
+ARS
+ 
+W
+Wednesday 16 December 2009
+LIV
+
+2
+-
+1
+
+WIG
+ 
+L
+Saturday 19 December 2009
+POR
+
+2
+-
+0
+
+LIV
+9 
+Previous Position 9
+
+Fulham
+17	7	5	5	23	17	6	26	
+W
+Wednesday 25 November 2009
+FUL
+
+3
+-
+0
+
+BLB
+ 
+D
+Saturday 28 November 2009
+FUL
+
+1
+-
+1
+
+BOL
+ 
+W
+Sunday 6 December 2009
+FUL
+
+1
+-
+0
+
+SUN
+ 
+D
+Saturday 12 December 2009
+BUR
+
+1
+-
+1
+
+FUL
+ 
+W
+Saturday 19 December 2009
+FUL
+
+3
+-
+0
+
+MUN
+10 
+Previous Position 10
+
+Sunderland
+18	6	3	9	25	28	-3	21	
+L
+Saturday 28 November 2009
+WIG
+
+1
+-
+0
+
+SUN
+ 
+L
+Sunday 6 December 2009
+FUL
+
+1
+-
+0
+
+SUN
+ 
+D
+Saturday 12 December 2009
+SUN
+
+1
+-
+1
+
+POR
+ 
+L
+Tuesday 15 December 2009
+SUN
+
+0
+-
+2
+
+AVL
+ 
+L
+Saturday 19 December 2009
+MCI
+
+4
+-
+3
+
+SUN
+11 
+Previous Position 11
+
+Stoke City
+17	5	6	6	15	20	-5	21	
+W
+Sunday 22 November 2009
+STK
+
+1
+-
+0
+
+POR
+ 
+D
+Saturday 28 November 2009
+BLB
+
+0
+-
+0
+
+STK
+ 
+L
+Saturday 5 December 2009
+ARS
+
+2
+-
+0
+
+STK
+ 
+D
+Saturday 12 December 2009
+STK
+
+2
+-
+2
+
+WIG
+ 
+L
+Saturday 19 December 2009
+AVL
+
+1
+-
+0
+
+STK
+12 
+Previous Position 18
+
+Wolverhampton Wanderers
+18	5	4	9	17	31	-14	19	
+L
+Sunday 29 November 2009
+WOL
+
+0
+-
+1
+
+BIR
+ 
+W
+Saturday 5 December 2009
+WOL
+
+2
+-
+1
+
+BOL
+ 
+W
+Saturday 12 December 2009
+TOT
+
+0
+-
+1
+
+WOL
+ 
+L
+Tuesday 15 December 2009
+MUN
+
+3
+-
+0
+
+WOL
+ 
+W
+Sunday 20 December 2009
+WOL
+
+2
+-
+0
+
+BUR
+13 
+Previous Position 12
+
+Blackburn Rovers
+18	5	4	9	17	32	-15	19	
+D
+Saturday 28 November 2009
+BLB
+
+0
+-
+0
+
+STK
+ 
+D
+Saturday 5 December 2009
+BLB
+
+0
+-
+0
+
+LIV
+ 
+D
+Saturday 12 December 2009
+HUL
+
+0
+-
+0
+
+BLB
+ 
+L
+Tuesday 15 December 2009
+BIR
+
+2
+-
+1
+
+BLB
+ 
+L
+Saturday 19 December 2009
+BLB
+
+0
+-
+2
+
+TOT
+14 
+Previous Position 13
+
+Burnley
+18	5	4	9	21	37	-16	19	
+L
+Saturday 28 November 2009
+WHU
+
+5
+-
+3
+
+BUR
+ 
+L
+Saturday 5 December 2009
+POR
+
+2
+-
+0
+
+BUR
+ 
+D
+Saturday 12 December 2009
+BUR
+
+1
+-
+1
+
+FUL
+ 
+D
+Wednesday 16 December 2009
+BUR
+
+1
+-
+1
+
+ARS
+ 
+L
+Sunday 20 December 2009
+WOL
+
+2
+-
+0
+
+BUR
+15 
+Previous Position 15
+
+Everton
+17	4	6	7	23	31	-8	18	
+L
+Wednesday 25 November 2009
+HUL
+
+3
+-
+2
+
+EVE
+ 
+L
+Sunday 29 November 2009
+EVE
+
+0
+-
+2
+
+LIV
+ 
+D
+Sunday 6 December 2009
+EVE
+
+2
+-
+2
+
+TOT
+ 
+D
+Saturday 12 December 2009
+CHE
+
+3
+-
+3
+
+EVE
+ 
+D
+Sunday 20 December 2009
+EVE
+
+1
+-
+1
+
+BIR
+16 
+Previous Position 14
+
+Wigan Athletic
+17	5	3	9	20	38	-18	18	
+L
+Sunday 22 November 2009
+TOT
+
+9
+-
+1
+
+WIG
+ 
+W
+Saturday 28 November 2009
+WIG
+
+1
+-
+0
+
+SUN
+ 
+L
+Saturday 5 December 2009
+WIG
+
+2
+-
+3
+
+BIR
+ 
+D
+Saturday 12 December 2009
+STK
+
+2
+-
+2
+
+WIG
+ 
+L
+Wednesday 16 December 2009
+LIV
+
+2
+-
+1
+
+WIG
+17 
+Previous Position 16
+
+Hull City
+18	4	5	9	17	37	-20	17	
+W
+Wednesday 25 November 2009
+HUL
+
+3
+-
+2
+
+EVE
+ 
+D
+Saturday 28 November 2009
+MCI
+
+1
+-
+1
+
+HUL
+ 
+L
+Saturday 5 December 2009
+AVL
+
+3
+-
+0
+
+HUL
+ 
+D
+Saturday 12 December 2009
+HUL
+
+0
+-
+0
+
+BLB
+ 
+L
+Saturday 19 December 2009
+ARS
+
+3
+-
+0
+
+HUL
+18 
+Previous Position 17
+
+Bolton Wanderers
+16	4	4	8	23	33	-10	16	
+L
+Sunday 22 November 2009
+BOL
+
+0
+-
+2
+
+BLB
+ 
+D
+Saturday 28 November 2009
+FUL
+
+1
+-
+1
+
+BOL
+ 
+L
+Saturday 5 December 2009
+WOL
+
+2
+-
+1
+
+BOL
+ 
+D
+Saturday 12 December 2009
+BOL
+
+3
+-
+3
+
+MCI
+ 
+W
+Tuesday 15 December 2009
+BOL
+
+3
+-
+1
+
+WHU
+19 
+Previous Position 19
+
+West Ham United
+18	3	6	9	26	35	-9	15	
+W
+Saturday 28 November 2009
+WHU
+
+5
+-
+3
+
+BUR
+ 
+L
+Saturday 5 December 2009
+WHU
+
+0
+-
+4
+
+MUN
+ 
+L
+Saturday 12 December 2009
+BIR
+
+1
+-
+0
+
+WHU
+ 
+L
+Tuesday 15 December 2009
+BOL
+
+3
+-
+1
+
+WHU
+ 
+D
+Sunday 20 December 2009
+WHU
+
+1
+-
+1
+
+CHE
+20 
+Previous Position 20
+
+Portsmouth
+18	4	2	12	17	26	-9	14	
+L
+Saturday 28 November 2009
+POR
+
+1
+-
+4
+
+MUN
+ 
+W
+Saturday 5 December 2009
+POR
+
+2
+-
+0
+
+BUR
+ 
+D
+Saturday 12 December 2009
+SUN
+
+1
+-
+1
+
+POR
+ 
+L
+Wednesday 16 December 2009
+CHE
+
+2
+-
+1
+
+POR
+ 
+W
+Saturday 19 December 2009
+POR
+
+2
+-
+0
+
+LIV

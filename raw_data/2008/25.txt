@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Manchester United
+25	18	5	2	44	10	34	59	
+W
+Saturday 17 January 2009
+BOL
+
+0
+-
+1
+
+MUN
+ 
+W
+Tuesday 27 January 2009
+WBA
+
+0
+-
+5
+
+MUN
+ 
+W
+Saturday 31 January 2009
+MUN
+
+1
+-
+0
+
+EVE
+ 
+W
+Sunday 8 February 2009
+WHU
+
+0
+-
+1
+
+MUN
+ 
+W
+Wednesday 18 February 2009
+MUN
+
+3
+-
+0
+
+FUL
+2 
+Previous Position 2
+
+Liverpool
+25	15	9	1	42	17	25	54	
+D
+Saturday 10 January 2009
+STK
+
+0
+-
+0
+
+LIV
+ 
+D
+Monday 19 January 2009
+LIV
+
+1
+-
+1
+
+EVE
+ 
+D
+Wednesday 28 January 2009
+WIG
+
+1
+-
+1
+
+LIV
+ 
+W
+Sunday 1 February 2009
+LIV
+
+2
+-
+0
+
+CHE
+ 
+W
+Saturday 7 February 2009
+POR
+
+2
+-
+3
+
+LIV
+3 
+Previous Position 4
+
+Aston Villa
+25	15	6	4	40	24	16	51	
+W
+Saturday 10 January 2009
+AVL
+
+2
+-
+1
+
+WBA
+ 
+W
+Saturday 17 January 2009
+SUN
+
+1
+-
+2
+
+AVL
+ 
+W
+Tuesday 27 January 2009
+POR
+
+0
+-
+1
+
+AVL
+ 
+D
+Saturday 31 January 2009
+AVL
+
+0
+-
+0
+
+WIG
+ 
+W
+Saturday 7 February 2009
+BLB
+
+0
+-
+2
+
+AVL
+4 
+Previous Position 3
+
+Chelsea
+25	14	7	4	44	15	29	49	
+L
+Sunday 11 January 2009
+MUN
+
+3
+-
+0
+
+CHE
+ 
+W
+Saturday 17 January 2009
+CHE
+
+2
+-
+1
+
+STK
+ 
+W
+Wednesday 28 January 2009
+CHE
+
+2
+-
+0
+
+MID
+ 
+L
+Sunday 1 February 2009
+LIV
+
+2
+-
+0
+
+CHE
+ 
+D
+Saturday 7 February 2009
+CHE
+
+0
+-
+0
+
+HUL
+5 
+Previous Position 5
+
+Arsenal
+25	12	8	5	38	25	13	44	
+W
+Saturday 10 January 2009
+ARS
+
+1
+-
+0
+
+BOL
+ 
+W
+Saturday 17 January 2009
+HUL
+
+1
+-
+3
+
+ARS
+ 
+D
+Wednesday 28 January 2009
+EVE
+
+1
+-
+1
+
+ARS
+ 
+D
+Saturday 31 January 2009
+ARS
+
+0
+-
+0
+
+WHU
+ 
+D
+Sunday 8 February 2009
+TOT
+
+0
+-
+0
+
+ARS
+6 
+Previous Position 6
+
+Everton
+25	11	7	7	34	28	6	40	
+W
+Saturday 10 January 2009
+EVE
+
+2
+-
+0
+
+HUL
+ 
+D
+Monday 19 January 2009
+LIV
+
+1
+-
+1
+
+EVE
+ 
+D
+Wednesday 28 January 2009
+EVE
+
+1
+-
+1
+
+ARS
+ 
+L
+Saturday 31 January 2009
+MUN
+
+1
+-
+0
+
+EVE
+ 
+W
+Saturday 7 February 2009
+EVE
+
+3
+-
+0
+
+BOL
+7 
+Previous Position 7
+
+Wigan Athletic
+25	9	7	9	26	24	2	34	
+L
+Wednesday 14 January 2009
+MUN
+
+1
+-
+0
+
+WIG
+ 
+L
+Saturday 17 January 2009
+MCI
+
+1
+-
+0
+
+WIG
+ 
+D
+Wednesday 28 January 2009
+WIG
+
+1
+-
+1
+
+LIV
+ 
+D
+Saturday 31 January 2009
+AVL
+
+0
+-
+0
+
+WIG
+ 
+D
+Saturday 7 February 2009
+WIG
+
+0
+-
+0
+
+FUL
+8 
+Previous Position 8
+
+West Ham United
+25	9	6	10	31	32	-1	33	
+D
+Saturday 10 January 2009
+NEW
+
+2
+-
+2
+
+WHU
+ 
+W
+Sunday 18 January 2009
+WHU
+
+3
+-
+1
+
+FUL
+ 
+W
+Wednesday 28 January 2009
+WHU
+
+2
+-
+0
+
+HUL
+ 
+D
+Saturday 31 January 2009
+ARS
+
+0
+-
+0
+
+WHU
+ 
+L
+Sunday 8 February 2009
+WHU
+
+0
+-
+1
+
+MUN
+9 
+Previous Position 10
+
+Manchester City
+25	9	4	12	42	34	8	31	
+W
+Saturday 17 January 2009
+MCI
+
+1
+-
+0
+
+WIG
+ 
+W
+Wednesday 28 January 2009
+MCI
+
+2
+-
+1
+
+NEW
+ 
+L
+Saturday 31 January 2009
+STK
+
+1
+-
+0
+
+MCI
+ 
+W
+Saturday 7 February 2009
+MCI
+
+1
+-
+0
+
+MID
+ 
+L
+Saturday 14 February 2009
+POR
+
+2
+-
+0
+
+MCI
+10 
+Previous Position 9
+
+Fulham
+24	7	9	8	22	22	0	30	
+L
+Sunday 18 January 2009
+WHU
+
+3
+-
+1
+
+FUL
+ 
+L
+Tuesday 27 January 2009
+SUN
+
+1
+-
+0
+
+FUL
+ 
+W
+Saturday 31 January 2009
+FUL
+
+3
+-
+1
+
+POR
+ 
+D
+Saturday 7 February 2009
+WIG
+
+0
+-
+0
+
+FUL
+ 
+L
+Wednesday 18 February 2009
+MUN
+
+3
+-
+0
+
+FUL
+11 
+Previous Position 13
+
+Sunderland
+25	8	6	11	27	33	-6	30	
+D
+Saturday 10 January 2009
+MID
+
+1
+-
+1
+
+SUN
+ 
+L
+Saturday 17 January 2009
+SUN
+
+1
+-
+2
+
+AVL
+ 
+W
+Tuesday 27 January 2009
+SUN
+
+1
+-
+0
+
+FUL
+ 
+D
+Sunday 1 February 2009
+NEW
+
+1
+-
+1
+
+SUN
+ 
+W
+Saturday 7 February 2009
+SUN
+
+2
+-
+0
+
+STK
+12 
+Previous Position 11
+
+Hull City
+25	7	8	10	31	46	-15	29	
+L
+Saturday 10 January 2009
+EVE
+
+2
+-
+0
+
+HUL
+ 
+L
+Saturday 17 January 2009
+HUL
+
+1
+-
+3
+
+ARS
+ 
+L
+Wednesday 28 January 2009
+WHU
+
+2
+-
+0
+
+HUL
+ 
+D
+Saturday 31 January 2009
+HUL
+
+2
+-
+2
+
+WBA
+ 
+D
+Saturday 7 February 2009
+CHE
+
+0
+-
+0
+
+HUL
+13 
+Previous Position 15
+
+Newcastle United
+25	6	9	10	33	42	-9	27	
+D
+Saturday 10 January 2009
+NEW
+
+2
+-
+2
+
+WHU
+ 
+L
+Saturday 17 January 2009
+BLB
+
+3
+-
+0
+
+NEW
+ 
+L
+Wednesday 28 January 2009
+MCI
+
+2
+-
+1
+
+NEW
+ 
+D
+Sunday 1 February 2009
+NEW
+
+1
+-
+1
+
+SUN
+ 
+W
+Saturday 7 February 2009
+WBA
+
+2
+-
+3
+
+NEW
+14 
+Previous Position 12
+
+Bolton Wanderers
+25	8	3	14	27	37	-10	27	
+L
+Saturday 10 January 2009
+ARS
+
+1
+-
+0
+
+BOL
+ 
+L
+Saturday 17 January 2009
+BOL
+
+0
+-
+1
+
+MUN
+ 
+D
+Wednesday 28 January 2009
+BLB
+
+2
+-
+2
+
+BOL
+ 
+W
+Saturday 31 January 2009
+BOL
+
+3
+-
+2
+
+TOT
+ 
+L
+Saturday 7 February 2009
+EVE
+
+3
+-
+0
+
+BOL
+15 
+Previous Position 16
+
+Portsmouth
+25	7	6	12	27	41	-14	27	
+D
+Sunday 18 January 2009
+TOT
+
+1
+-
+1
+
+POR
+ 
+L
+Tuesday 27 January 2009
+POR
+
+0
+-
+1
+
+AVL
+ 
+L
+Saturday 31 January 2009
+FUL
+
+3
+-
+1
+
+POR
+ 
+L
+Saturday 7 February 2009
+POR
+
+2
+-
+3
+
+LIV
+ 
+W
+Saturday 14 February 2009
+POR
+
+2
+-
+0
+
+MCI
+16 
+Previous Position 14
+
+Tottenham Hotspur
+25	6	7	12	26	31	-5	25	
+L
+Sunday 11 January 2009
+WIG
+
+1
+-
+0
+
+TOT
+ 
+D
+Sunday 18 January 2009
+TOT
+
+1
+-
+1
+
+POR
+ 
+W
+Tuesday 27 January 2009
+TOT
+
+3
+-
+1
+
+STK
+ 
+L
+Saturday 31 January 2009
+BOL
+
+3
+-
+2
+
+TOT
+ 
+D
+Sunday 8 February 2009
+TOT
+
+0
+-
+0
+
+ARS
+17 
+Previous Position 17
+
+Stoke City
+25	6	6	13	21	40	-19	24	
+D
+Saturday 10 January 2009
+STK
+
+0
+-
+0
+
+LIV
+ 
+L
+Saturday 17 January 2009
+CHE
+
+2
+-
+1
+
+STK
+ 
+L
+Tuesday 27 January 2009
+TOT
+
+3
+-
+1
+
+STK
+ 
+W
+Saturday 31 January 2009
+STK
+
+1
+-
+0
+
+MCI
+ 
+L
+Saturday 7 February 2009
+SUN
+
+2
+-
+0
+
+STK
+18 
+Previous Position 18
+
+Blackburn Rovers
+24	5	8	11	27	40	-13	23	
+D
+Sunday 28 December 2008
+BLB
+
+2
+-
+2
+
+MCI
+ 
+W
+Saturday 17 January 2009
+BLB
+
+3
+-
+0
+
+NEW
+ 
+D
+Wednesday 28 January 2009
+BLB
+
+2
+-
+2
+
+BOL
+ 
+D
+Saturday 31 January 2009
+MID
+
+0
+-
+0
+
+BLB
+ 
+L
+Saturday 7 February 2009
+BLB
+
+0
+-
+2
+
+AVL
+19 
+Previous Position 19
+
+Middlesbrough
+25	5	7	13	18	36	-18	22	
+D
+Saturday 10 January 2009
+MID
+
+1
+-
+1
+
+SUN
+ 
+L
+Saturday 17 January 2009
+WBA
+
+3
+-
+0
+
+MID
+ 
+L
+Wednesday 28 January 2009
+CHE
+
+2
+-
+0
+
+MID
+ 
+D
+Saturday 31 January 2009
+MID
+
+0
+-
+0
+
+BLB
+ 
+L
+Saturday 7 February 2009
+MCI
+
+1
+-
+0
+
+MID
+20 
+Previous Position 20
+
+West Bromwich Albion
+25	6	4	15	24	47	-23	22	
+L
+Saturday 10 January 2009
+AVL
+
+2
+-
+1
+
+WBA
+ 
+W
+Saturday 17 January 2009
+WBA
+
+3
+-
+0
+
+MID
+ 
+L
+Tuesday 27 January 2009
+WBA
+
+0
+-
+5
+
+MUN
+ 
+D
+Saturday 31 January 2009
+HUL
+
+2
+-
+2
+
+WBA
+ 
+L
+Saturday 7 February 2009
+WBA
+
+2
+-
+3
+
+NEW

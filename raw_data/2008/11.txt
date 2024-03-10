@@ -1,0 +1,1080 @@
+1 
+Previous Position 2
+
+Chelsea
+11	8	2	1	27	4	23	26	
+W
+Sunday 5 October 2008
+CHE
+
+2
+-
+0
+
+AVL
+ 
+W
+Saturday 18 October 2008
+MID
+
+0
+-
+5
+
+CHE
+ 
+L
+Sunday 26 October 2008
+CHE
+
+0
+-
+1
+
+LIV
+ 
+W
+Wednesday 29 October 2008
+HUL
+
+0
+-
+3
+
+CHE
+ 
+W
+Saturday 1 November 2008
+CHE
+
+5
+-
+0
+
+SUN
+2 
+Previous Position 1
+
+Liverpool
+11	8	2	1	16	8	8	26	
+W
+Sunday 5 October 2008
+MCI
+
+2
+-
+3
+
+LIV
+ 
+W
+Saturday 18 October 2008
+LIV
+
+3
+-
+2
+
+WIG
+ 
+W
+Sunday 26 October 2008
+CHE
+
+0
+-
+1
+
+LIV
+ 
+W
+Wednesday 29 October 2008
+LIV
+
+1
+-
+0
+
+POR
+ 
+L
+Saturday 1 November 2008
+TOT
+
+2
+-
+1
+
+LIV
+3 
+Previous Position 6
+
+Manchester United
+10	6	3	1	19	8	11	21	
+W
+Saturday 4 October 2008
+BLB
+
+0
+-
+2
+
+MUN
+ 
+W
+Saturday 18 October 2008
+MUN
+
+4
+-
+0
+
+WBA
+ 
+D
+Saturday 25 October 2008
+EVE
+
+1
+-
+1
+
+MUN
+ 
+W
+Wednesday 29 October 2008
+MUN
+
+2
+-
+0
+
+WHU
+ 
+W
+Saturday 1 November 2008
+MUN
+
+4
+-
+3
+
+HUL
+4 
+Previous Position 3
+
+Arsenal
+11	6	2	3	23	12	11	20	
+D
+Saturday 4 October 2008
+SUN
+
+1
+-
+1
+
+ARS
+ 
+W
+Saturday 18 October 2008
+ARS
+
+3
+-
+1
+
+EVE
+ 
+W
+Sunday 26 October 2008
+WHU
+
+0
+-
+2
+
+ARS
+ 
+D
+Wednesday 29 October 2008
+ARS
+
+4
+-
+4
+
+TOT
+ 
+L
+Saturday 1 November 2008
+STK
+
+2
+-
+1
+
+ARS
+5 
+Previous Position 4
+
+Aston Villa
+11	6	2	3	19	14	5	20	
+L
+Sunday 5 October 2008
+CHE
+
+2
+-
+0
+
+AVL
+ 
+D
+Saturday 18 October 2008
+AVL
+
+0
+-
+0
+
+POR
+ 
+W
+Sunday 26 October 2008
+WIG
+
+0
+-
+4
+
+AVL
+ 
+W
+Wednesday 29 October 2008
+AVL
+
+3
+-
+2
+
+BLB
+ 
+L
+Monday 3 November 2008
+NEW
+
+2
+-
+0
+
+AVL
+6 
+Previous Position 5
+
+Hull City
+11	6	2	3	17	18	-1	20	
+W
+Sunday 5 October 2008
+TOT
+
+0
+-
+1
+
+HUL
+ 
+W
+Sunday 19 October 2008
+HUL
+
+1
+-
+0
+
+WHU
+ 
+W
+Saturday 25 October 2008
+WBA
+
+0
+-
+3
+
+HUL
+ 
+L
+Wednesday 29 October 2008
+HUL
+
+0
+-
+3
+
+CHE
+ 
+L
+Saturday 1 November 2008
+MUN
+
+4
+-
+3
+
+HUL
+7 
+Previous Position 12
+
+Everton
+11	4	3	4	15	19	-4	15	
+D
+Sunday 5 October 2008
+EVE
+
+2
+-
+2
+
+NEW
+ 
+L
+Saturday 18 October 2008
+ARS
+
+3
+-
+1
+
+EVE
+ 
+D
+Saturday 25 October 2008
+EVE
+
+1
+-
+1
+
+MUN
+ 
+W
+Wednesday 29 October 2008
+BOL
+
+0
+-
+1
+
+EVE
+ 
+W
+Saturday 1 November 2008
+EVE
+
+1
+-
+0
+
+FUL
+8 
+Previous Position 9
+
+Middlesbrough
+11	4	2	5	11	16	-5	14	
+W
+Saturday 4 October 2008
+WIG
+
+0
+-
+1
+
+MID
+ 
+L
+Saturday 18 October 2008
+MID
+
+0
+-
+5
+
+CHE
+ 
+D
+Saturday 25 October 2008
+BLB
+
+1
+-
+1
+
+MID
+ 
+W
+Wednesday 29 October 2008
+MID
+
+2
+-
+0
+
+MCI
+ 
+D
+Saturday 1 November 2008
+MID
+
+1
+-
+1
+
+WHU
+9 
+Previous Position 7
+
+Portsmouth
+11	4	2	5	11	17	-6	14	
+W
+Sunday 5 October 2008
+POR
+
+2
+-
+1
+
+STK
+ 
+D
+Saturday 18 October 2008
+AVL
+
+0
+-
+0
+
+POR
+ 
+D
+Sunday 26 October 2008
+POR
+
+1
+-
+1
+
+FUL
+ 
+L
+Wednesday 29 October 2008
+LIV
+
+1
+-
+0
+
+POR
+ 
+L
+Saturday 1 November 2008
+POR
+
+1
+-
+2
+
+WIG
+10 
+Previous Position 8
+
+Manchester City
+11	4	1	6	23	18	5	13	
+L
+Sunday 5 October 2008
+MCI
+
+2
+-
+3
+
+LIV
+ 
+D
+Monday 20 October 2008
+NEW
+
+2
+-
+2
+
+MCI
+ 
+W
+Sunday 26 October 2008
+MCI
+
+3
+-
+0
+
+STK
+ 
+L
+Wednesday 29 October 2008
+MID
+
+2
+-
+0
+
+MCI
+ 
+L
+Sunday 2 November 2008
+BOL
+
+2
+-
+0
+
+MCI
+11 
+Previous Position 11
+
+West Ham United
+11	4	1	6	15	19	-4	13	
+L
+Sunday 5 October 2008
+WHU
+
+1
+-
+3
+
+BOL
+ 
+L
+Sunday 19 October 2008
+HUL
+
+1
+-
+0
+
+WHU
+ 
+L
+Sunday 26 October 2008
+WHU
+
+0
+-
+2
+
+ARS
+ 
+L
+Wednesday 29 October 2008
+MUN
+
+2
+-
+0
+
+WHU
+ 
+D
+Saturday 1 November 2008
+MID
+
+1
+-
+1
+
+WHU
+12 
+Previous Position 15
+
+Stoke City
+11	4	1	6	13	19	-6	13	
+L
+Sunday 5 October 2008
+POR
+
+2
+-
+1
+
+STK
+ 
+W
+Sunday 19 October 2008
+STK
+
+2
+-
+1
+
+TOT
+ 
+L
+Sunday 26 October 2008
+MCI
+
+3
+-
+0
+
+STK
+ 
+W
+Wednesday 29 October 2008
+STK
+
+1
+-
+0
+
+SUN
+ 
+W
+Saturday 1 November 2008
+STK
+
+2
+-
+1
+
+ARS
+13 
+Previous Position 13
+
+Blackburn Rovers
+11	3	4	4	13	20	-7	13	
+L
+Saturday 4 October 2008
+BLB
+
+0
+-
+2
+
+MUN
+ 
+D
+Saturday 18 October 2008
+BOL
+
+0
+-
+0
+
+BLB
+ 
+D
+Saturday 25 October 2008
+BLB
+
+1
+-
+1
+
+MID
+ 
+L
+Wednesday 29 October 2008
+AVL
+
+3
+-
+2
+
+BLB
+ 
+D
+Saturday 1 November 2008
+WBA
+
+2
+-
+2
+
+BLB
+14 
+Previous Position 17
+
+Newcastle United
+11	3	3	5	14	18	-4	12	
+D
+Sunday 5 October 2008
+EVE
+
+2
+-
+2
+
+NEW
+ 
+D
+Monday 20 October 2008
+NEW
+
+2
+-
+2
+
+MCI
+ 
+L
+Saturday 25 October 2008
+SUN
+
+2
+-
+1
+
+NEW
+ 
+W
+Tuesday 28 October 2008
+NEW
+
+2
+-
+1
+
+WBA
+ 
+W
+Monday 3 November 2008
+NEW
+
+2
+-
+0
+
+AVL
+15 
+Previous Position 10
+
+Sunderland
+11	3	3	5	9	16	-7	12	
+D
+Saturday 4 October 2008
+SUN
+
+1
+-
+1
+
+ARS
+ 
+D
+Saturday 18 October 2008
+FUL
+
+0
+-
+0
+
+SUN
+ 
+W
+Saturday 25 October 2008
+SUN
+
+2
+-
+1
+
+NEW
+ 
+L
+Wednesday 29 October 2008
+STK
+
+1
+-
+0
+
+SUN
+ 
+L
+Saturday 1 November 2008
+CHE
+
+5
+-
+0
+
+SUN
+16 
+Previous Position 14
+
+Fulham
+10	3	2	5	8	9	-1	11	
+L
+Saturday 4 October 2008
+WBA
+
+1
+-
+0
+
+FUL
+ 
+D
+Saturday 18 October 2008
+FUL
+
+0
+-
+0
+
+SUN
+ 
+D
+Sunday 26 October 2008
+POR
+
+1
+-
+1
+
+FUL
+ 
+W
+Wednesday 29 October 2008
+FUL
+
+2
+-
+0
+
+WIG
+ 
+L
+Saturday 1 November 2008
+EVE
+
+1
+-
+0
+
+FUL
+17 
+Previous Position 18
+
+Wigan Athletic
+11	3	2	6	13	16	-3	11	
+L
+Saturday 4 October 2008
+WIG
+
+0
+-
+1
+
+MID
+ 
+L
+Saturday 18 October 2008
+LIV
+
+3
+-
+2
+
+WIG
+ 
+L
+Sunday 26 October 2008
+WIG
+
+0
+-
+4
+
+AVL
+ 
+L
+Wednesday 29 October 2008
+FUL
+
+2
+-
+0
+
+WIG
+ 
+W
+Saturday 1 November 2008
+POR
+
+1
+-
+2
+
+WIG
+18 
+Previous Position 19
+
+Bolton Wanderers
+11	3	2	6	10	13	-3	11	
+W
+Sunday 5 October 2008
+WHU
+
+1
+-
+3
+
+BOL
+ 
+D
+Saturday 18 October 2008
+BOL
+
+0
+-
+0
+
+BLB
+ 
+L
+Sunday 26 October 2008
+TOT
+
+2
+-
+0
+
+BOL
+ 
+L
+Wednesday 29 October 2008
+BOL
+
+0
+-
+1
+
+EVE
+ 
+W
+Sunday 2 November 2008
+BOL
+
+2
+-
+0
+
+MCI
+19 
+Previous Position 16
+
+West Bromwich Albion
+11	3	2	6	10	18	-8	11	
+W
+Saturday 4 October 2008
+WBA
+
+1
+-
+0
+
+FUL
+ 
+L
+Saturday 18 October 2008
+MUN
+
+4
+-
+0
+
+WBA
+ 
+L
+Saturday 25 October 2008
+WBA
+
+0
+-
+3
+
+HUL
+ 
+L
+Tuesday 28 October 2008
+NEW
+
+2
+-
+1
+
+WBA
+ 
+D
+Saturday 1 November 2008
+WBA
+
+2
+-
+2
+
+BLB
+20 
+Previous Position 20
+
+Tottenham Hotspur
+11	2	3	6	13	17	-4	9	
+L
+Sunday 5 October 2008
+TOT
+
+0
+-
+1
+
+HUL
+ 
+L
+Sunday 19 October 2008
+STK
+
+2
+-
+1
+
+TOT
+ 
+W
+Sunday 26 October 2008
+TOT
+
+2
+-
+0
+
+BOL
+ 
+D
+Wednesday 29 October 2008
+ARS
+
+4
+-
+4
+
+TOT
+ 
+W
+Saturday 1 November 2008
+TOT
+
+2
+-
+1
+
+LIV
