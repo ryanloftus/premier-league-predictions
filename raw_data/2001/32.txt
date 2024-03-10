@@ -1,0 +1,1080 @@
+1 
+Previous Position 3
+
+Arsenal
+32	20	9	3	66	32	34	69	
+W
+Saturday 2 March 2002
+NEW
+
+0
+-
+2
+
+ARS
+ 
+W
+Tuesday 5 March 2002
+ARS
+
+1
+-
+0
+
+DER
+ 
+W
+Sunday 17 March 2002
+AVL
+
+1
+-
+2
+
+ARS
+ 
+W
+Saturday 30 March 2002
+ARS
+
+3
+-
+0
+
+SUN
+ 
+W
+Monday 1 April 2002
+CHA
+
+0
+-
+3
+
+ARS
+2 
+Previous Position 1
+
+Liverpool
+33	20	8	5	55	26	29	68	
+W
+Saturday 2 March 2002
+FUL
+
+0
+-
+2
+
+LIV
+ 
+W
+Wednesday 6 March 2002
+LIV
+
+3
+-
+0
+
+NEW
+ 
+W
+Saturday 16 March 2002
+MID
+
+1
+-
+2
+
+LIV
+ 
+W
+Sunday 24 March 2002
+LIV
+
+1
+-
+0
+
+CHE
+ 
+W
+Saturday 30 March 2002
+LIV
+
+2
+-
+0
+
+CHA
+3 
+Previous Position 2
+
+Manchester United
+33	21	4	8	82	44	38	67	
+D
+Sunday 3 March 2002
+DER
+
+2
+-
+2
+
+MUN
+ 
+W
+Wednesday 6 March 2002
+MUN
+
+4
+-
+0
+
+TOT
+ 
+W
+Saturday 16 March 2002
+WHU
+
+3
+-
+5
+
+MUN
+ 
+L
+Saturday 23 March 2002
+MUN
+
+0
+-
+1
+
+MID
+ 
+W
+Saturday 30 March 2002
+LEE
+
+3
+-
+4
+
+MUN
+4 
+Previous Position 4
+
+Newcastle United
+32	18	6	8	61	43	18	60	
+L
+Saturday 2 March 2002
+NEW
+
+0
+-
+2
+
+ARS
+ 
+L
+Wednesday 6 March 2002
+LIV
+
+3
+-
+0
+
+NEW
+ 
+D
+Saturday 16 March 2002
+NEW
+
+2
+-
+2
+
+IPS
+ 
+W
+Friday 29 March 2002
+NEW
+
+6
+-
+2
+
+EVE
+ 
+D
+Tuesday 2 April 2002
+AVL
+
+1
+-
+1
+
+NEW
+5 
+Previous Position 5
+
+Chelsea
+33	15	12	6	60	32	28	57	
+W
+Wednesday 13 March 2002
+CHE
+
+4
+-
+0
+
+TOT
+ 
+W
+Saturday 16 March 2002
+CHE
+
+4
+-
+0
+
+SUN
+ 
+L
+Sunday 24 March 2002
+LIV
+
+1
+-
+0
+
+CHE
+ 
+W
+Saturday 30 March 2002
+CHE
+
+2
+-
+1
+
+DER
+ 
+D
+Monday 1 April 2002
+IPS
+
+0
+-
+0
+
+CHE
+6 
+Previous Position 6
+
+Leeds United
+33	14	12	7	48	36	12	54	
+W
+Wednesday 6 March 2002
+LEE
+
+2
+-
+0
+
+IPS
+ 
+W
+Sunday 17 March 2002
+LEE
+
+3
+-
+1
+
+BLB
+ 
+W
+Saturday 23 March 2002
+LEI
+
+0
+-
+2
+
+LEE
+ 
+L
+Saturday 30 March 2002
+LEE
+
+3
+-
+4
+
+MUN
+ 
+L
+Monday 1 April 2002
+TOT
+
+2
+-
+1
+
+LEE
+7 
+Previous Position 8
+
+Tottenham Hotspur
+33	13	6	14	44	47	-3	45	
+L
+Wednesday 13 March 2002
+CHE
+
+4
+-
+0
+
+TOT
+ 
+L
+Monday 18 March 2002
+TOT
+
+0
+-
+1
+
+CHA
+ 
+W
+Sunday 24 March 2002
+FUL
+
+0
+-
+2
+
+TOT
+ 
+D
+Saturday 30 March 2002
+MID
+
+1
+-
+1
+
+TOT
+ 
+W
+Monday 1 April 2002
+TOT
+
+2
+-
+1
+
+LEE
+8 
+Previous Position 7
+
+Aston Villa
+33	10	13	10	38	40	-2	43	
+L
+Tuesday 5 March 2002
+BLB
+
+3
+-
+0
+
+AVL
+ 
+L
+Sunday 17 March 2002
+AVL
+
+1
+-
+2
+
+ARS
+ 
+D
+Saturday 23 March 2002
+IPS
+
+0
+-
+0
+
+AVL
+ 
+L
+Saturday 30 March 2002
+BOL
+
+3
+-
+2
+
+AVL
+ 
+D
+Tuesday 2 April 2002
+AVL
+
+1
+-
+1
+
+NEW
+9 
+Previous Position 10
+
+West Ham United
+32	12	7	13	39	50	-11	43	
+L
+Saturday 2 March 2002
+AVL
+
+2
+-
+1
+
+WHU
+ 
+W
+Wednesday 6 March 2002
+WHU
+
+1
+-
+0
+
+EVE
+ 
+L
+Saturday 16 March 2002
+WHU
+
+3
+-
+5
+
+MUN
+ 
+W
+Saturday 30 March 2002
+WHU
+
+3
+-
+1
+
+IPS
+ 
+W
+Monday 1 April 2002
+FUL
+
+0
+-
+1
+
+WHU
+10 
+Previous Position 11
+
+Middlesbrough
+33	11	9	13	32	39	-7	42	
+D
+Wednesday 6 March 2002
+SOU
+
+1
+-
+1
+
+MID
+ 
+L
+Saturday 16 March 2002
+MID
+
+1
+-
+2
+
+LIV
+ 
+W
+Saturday 23 March 2002
+MUN
+
+0
+-
+1
+
+MID
+ 
+D
+Saturday 30 March 2002
+MID
+
+1
+-
+1
+
+TOT
+ 
+W
+Monday 1 April 2002
+DER
+
+0
+-
+1
+
+MID
+11 
+Previous Position 9
+
+Charlton Athletic
+33	10	11	12	35	41	-6	41	
+D
+Saturday 9 March 2002
+LEI
+
+1
+-
+1
+
+CHA
+ 
+W
+Monday 18 March 2002
+TOT
+
+0
+-
+1
+
+CHA
+ 
+L
+Saturday 23 March 2002
+CHA
+
+1
+-
+2
+
+BOL
+ 
+L
+Saturday 30 March 2002
+LIV
+
+2
+-
+0
+
+CHA
+ 
+L
+Monday 1 April 2002
+CHA
+
+0
+-
+3
+
+ARS
+12 
+Previous Position 14
+
+Everton
+33	10	9	14	38	46	-8	39	
+L
+Wednesday 6 March 2002
+WHU
+
+1
+-
+0
+
+EVE
+ 
+W
+Saturday 16 March 2002
+EVE
+
+2
+-
+1
+
+FUL
+ 
+W
+Saturday 23 March 2002
+DER
+
+3
+-
+4
+
+EVE
+ 
+L
+Friday 29 March 2002
+NEW
+
+6
+-
+2
+
+EVE
+ 
+W
+Monday 1 April 2002
+EVE
+
+3
+-
+1
+
+BOL
+13 
+Previous Position 12
+
+Southampton
+33	10	8	15	39	49	-10	38	
+D
+Wednesday 6 March 2002
+SOU
+
+1
+-
+1
+
+MID
+ 
+D
+Saturday 16 March 2002
+SOU
+
+2
+-
+2
+
+LEI
+ 
+D
+Saturday 23 March 2002
+SUN
+
+1
+-
+1
+
+SOU
+ 
+D
+Saturday 30 March 2002
+SOU
+
+1
+-
+1
+
+FUL
+ 
+L
+Monday 1 April 2002
+BLB
+
+2
+-
+0
+
+SOU
+14 
+Previous Position 16
+
+Sunderland
+33	10	8	15	26	42	-16	38	
+W
+Tuesday 5 March 2002
+SUN
+
+1
+-
+0
+
+BOL
+ 
+L
+Saturday 16 March 2002
+CHE
+
+4
+-
+0
+
+SUN
+ 
+D
+Saturday 23 March 2002
+SUN
+
+1
+-
+1
+
+SOU
+ 
+L
+Saturday 30 March 2002
+ARS
+
+3
+-
+0
+
+SUN
+ 
+W
+Monday 1 April 2002
+SUN
+
+2
+-
+1
+
+LEI
+15 
+Previous Position 13
+
+Fulham
+33	8	12	13	31	40	-9	36	
+L
+Wednesday 6 March 2002
+CHE
+
+3
+-
+2
+
+FUL
+ 
+L
+Saturday 16 March 2002
+EVE
+
+2
+-
+1
+
+FUL
+ 
+L
+Sunday 24 March 2002
+FUL
+
+0
+-
+2
+
+TOT
+ 
+D
+Saturday 30 March 2002
+SOU
+
+1
+-
+1
+
+FUL
+ 
+L
+Monday 1 April 2002
+FUL
+
+0
+-
+1
+
+WHU
+16 
+Previous Position 15
+
+Bolton Wanderers
+33	8	12	13	38	53	-15	36	
+L
+Tuesday 5 March 2002
+SUN
+
+1
+-
+0
+
+BOL
+ 
+L
+Saturday 16 March 2002
+BOL
+
+1
+-
+3
+
+DER
+ 
+W
+Saturday 23 March 2002
+CHA
+
+1
+-
+2
+
+BOL
+ 
+W
+Saturday 30 March 2002
+BOL
+
+3
+-
+2
+
+AVL
+ 
+L
+Monday 1 April 2002
+EVE
+
+3
+-
+1
+
+BOL
+17 
+Previous Position 17
+
+Blackburn Rovers
+32	9	8	15	42	43	-1	35	
+W
+Tuesday 5 March 2002
+BLB
+
+3
+-
+0
+
+AVL
+ 
+W
+Wednesday 13 March 2002
+BLB
+
+2
+-
+1
+
+IPS
+ 
+L
+Sunday 17 March 2002
+LEE
+
+3
+-
+1
+
+BLB
+ 
+L
+Saturday 30 March 2002
+LEI
+
+2
+-
+1
+
+BLB
+ 
+W
+Monday 1 April 2002
+BLB
+
+2
+-
+0
+
+SOU
+18 
+Previous Position 18
+
+Ipswich Town
+33	8	9	16	39	52	-13	33	
+L
+Wednesday 13 March 2002
+BLB
+
+2
+-
+1
+
+IPS
+ 
+D
+Saturday 16 March 2002
+NEW
+
+2
+-
+2
+
+IPS
+ 
+D
+Saturday 23 March 2002
+IPS
+
+0
+-
+0
+
+AVL
+ 
+L
+Saturday 30 March 2002
+WHU
+
+3
+-
+1
+
+IPS
+ 
+D
+Monday 1 April 2002
+IPS
+
+0
+-
+0
+
+CHE
+19 
+Previous Position 19
+
+Derby County
+33	8	5	20	30	54	-24	29	
+L
+Tuesday 5 March 2002
+ARS
+
+1
+-
+0
+
+DER
+ 
+W
+Saturday 16 March 2002
+BOL
+
+1
+-
+3
+
+DER
+ 
+L
+Saturday 23 March 2002
+DER
+
+3
+-
+4
+
+EVE
+ 
+L
+Saturday 30 March 2002
+CHE
+
+2
+-
+1
+
+DER
+ 
+L
+Monday 1 April 2002
+DER
+
+0
+-
+1
+
+MID
+20 
+Previous Position 20
+
+Leicester City
+33	4	10	19	24	58	-34	22	
+D
+Saturday 9 March 2002
+LEI
+
+1
+-
+1
+
+CHA
+ 
+D
+Saturday 16 March 2002
+SOU
+
+2
+-
+2
+
+LEI
+ 
+L
+Saturday 23 March 2002
+LEI
+
+0
+-
+2
+
+LEE
+ 
+W
+Saturday 30 March 2002
+LEI
+
+2
+-
+1
+
+BLB
+ 
+L
+Monday 1 April 2002
+SUN
+
+2
+-
+1
+
+LEI

@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Manchester United
+35	25	7	3	90	42	48	82	
+W
+Saturday 1 April 2000
+MUN
+
+7
+-
+1
+
+WHU
+ 
+W
+Monday 10 April 2000
+MID
+
+3
+-
+4
+
+MUN
+ 
+W
+Saturday 15 April 2000
+MUN
+
+4
+-
+0
+
+SUN
+ 
+W
+Saturday 22 April 2000
+SOU
+
+1
+-
+3
+
+MUN
+ 
+W
+Monday 24 April 2000
+MUN
+
+3
+-
+2
+
+CHE
+2 
+Previous Position 2
+
+Liverpool
+34	19	9	6	51	25	26	66	
+W
+Saturday 25 March 2000
+LIV
+
+2
+-
+1
+
+NEW
+ 
+W
+Saturday 1 April 2000
+COV
+
+0
+-
+3
+
+LIV
+ 
+W
+Sunday 9 April 2000
+LIV
+
+2
+-
+0
+
+TOT
+ 
+W
+Sunday 16 April 2000
+WIM
+
+1
+-
+2
+
+LIV
+ 
+D
+Friday 21 April 2000
+EVE
+
+0
+-
+0
+
+LIV
+3 
+Previous Position 3
+
+Arsenal
+33	19	6	8	63	34	29	63	
+W
+Sunday 19 March 2000
+ARS
+
+2
+-
+1
+
+TOT
+ 
+W
+Sunday 26 March 2000
+ARS
+
+3
+-
+0
+
+COV
+ 
+W
+Saturday 1 April 2000
+WIM
+
+1
+-
+3
+
+ARS
+ 
+W
+Sunday 16 April 2000
+LEE
+
+0
+-
+4
+
+ARS
+ 
+W
+Sunday 23 April 2000
+WAT
+
+2
+-
+3
+
+ARS
+4 
+Previous Position 4
+
+Leeds United
+34	19	4	11	51	41	10	61	
+L
+Sunday 26 March 2000
+LEI
+
+2
+-
+1
+
+LEE
+ 
+L
+Saturday 1 April 2000
+LEE
+
+0
+-
+1
+
+CHE
+ 
+L
+Sunday 9 April 2000
+AVL
+
+1
+-
+0
+
+LEE
+ 
+L
+Sunday 16 April 2000
+LEE
+
+0
+-
+4
+
+ARS
+ 
+D
+Sunday 23 April 2000
+NEW
+
+2
+-
+2
+
+LEE
+5 
+Previous Position 5
+
+Chelsea
+35	16	11	8	46	32	14	59	
+W
+Saturday 1 April 2000
+LEE
+
+0
+-
+1
+
+CHE
+ 
+W
+Wednesday 12 April 2000
+CHE
+
+2
+-
+1
+
+COV
+ 
+L
+Saturday 15 April 2000
+SHW
+
+1
+-
+0
+
+CHE
+ 
+D
+Saturday 22 April 2000
+CHE
+
+1
+-
+1
+
+MID
+ 
+L
+Monday 24 April 2000
+MUN
+
+3
+-
+2
+
+CHE
+6 
+Previous Position 6
+
+Aston Villa
+35	15	11	9	43	31	12	56	
+W
+Saturday 25 March 2000
+AVL
+
+2
+-
+0
+
+DER
+ 
+W
+Wednesday 5 April 2000
+SHW
+
+0
+-
+1
+
+AVL
+ 
+W
+Sunday 9 April 2000
+AVL
+
+1
+-
+0
+
+LEE
+ 
+W
+Saturday 15 April 2000
+TOT
+
+2
+-
+4
+
+AVL
+ 
+D
+Saturday 22 April 2000
+AVL
+
+2
+-
+2
+
+LEI
+7 
+Previous Position 7
+
+Sunderland
+35	15	9	11	54	52	2	54	
+W
+Saturday 1 April 2000
+SOU
+
+1
+-
+2
+
+SUN
+ 
+W
+Saturday 8 April 2000
+SUN
+
+2
+-
+1
+
+WIM
+ 
+L
+Saturday 15 April 2000
+MUN
+
+4
+-
+0
+
+SUN
+ 
+W
+Saturday 22 April 2000
+SHW
+
+0
+-
+2
+
+SUN
+ 
+L
+Monday 24 April 2000
+SUN
+
+0
+-
+1
+
+BRA
+8 
+Previous Position 8
+
+West Ham United
+34	15	9	10	51	49	2	54	
+W
+Sunday 26 March 2000
+WHU
+
+2
+-
+1
+
+WIM
+ 
+L
+Saturday 1 April 2000
+MUN
+
+7
+-
+1
+
+WHU
+ 
+W
+Wednesday 12 April 2000
+WHU
+
+2
+-
+1
+
+NEW
+ 
+W
+Saturday 15 April 2000
+DER
+
+1
+-
+2
+
+WHU
+ 
+W
+Saturday 22 April 2000
+WHU
+
+5
+-
+0
+
+COV
+9 
+Previous Position 9
+
+Everton
+35	12	13	10	58	45	13	49	
+L
+Saturday 25 March 2000
+SUN
+
+2
+-
+1
+
+EVE
+ 
+W
+Saturday 1 April 2000
+EVE
+
+4
+-
+2
+
+WAT
+ 
+D
+Saturday 8 April 2000
+LEI
+
+1
+-
+1
+
+EVE
+ 
+W
+Saturday 15 April 2000
+EVE
+
+4
+-
+0
+
+BRA
+ 
+D
+Friday 21 April 2000
+EVE
+
+0
+-
+0
+
+LIV
+10 
+Previous Position 10
+
+Tottenham Hotspur
+35	14	7	14	52	44	8	49	
+L
+Monday 3 April 2000
+TOT
+
+2
+-
+3
+
+MID
+ 
+L
+Sunday 9 April 2000
+LIV
+
+2
+-
+0
+
+TOT
+ 
+L
+Saturday 15 April 2000
+TOT
+
+2
+-
+4
+
+AVL
+ 
+W
+Wednesday 19 April 2000
+LEI
+
+0
+-
+1
+
+TOT
+ 
+W
+Saturday 22 April 2000
+TOT
+
+2
+-
+0
+
+WIM
+11 
+Previous Position 11
+
+Leicester City
+34	13	7	14	48	50	-2	46	
+L
+Sunday 2 April 2000
+DER
+
+3
+-
+0
+
+LEI
+ 
+D
+Saturday 8 April 2000
+LEI
+
+1
+-
+1
+
+EVE
+ 
+W
+Saturday 15 April 2000
+NEW
+
+0
+-
+2
+
+LEI
+ 
+L
+Wednesday 19 April 2000
+LEI
+
+0
+-
+1
+
+TOT
+ 
+D
+Saturday 22 April 2000
+AVL
+
+2
+-
+2
+
+LEI
+12 
+Previous Position 12
+
+Newcastle United
+34	12	8	14	55	50	5	44	
+L
+Saturday 25 March 2000
+LIV
+
+2
+-
+1
+
+NEW
+ 
+W
+Saturday 1 April 2000
+NEW
+
+2
+-
+0
+
+BRA
+ 
+L
+Wednesday 12 April 2000
+WHU
+
+2
+-
+1
+
+NEW
+ 
+L
+Saturday 15 April 2000
+NEW
+
+0
+-
+2
+
+LEI
+ 
+D
+Sunday 23 April 2000
+NEW
+
+2
+-
+2
+
+LEE
+13 
+Previous Position 13
+
+Middlesbrough
+34	12	8	14	40	49	-9	44	
+W
+Saturday 25 March 2000
+MID
+
+1
+-
+0
+
+SHW
+ 
+W
+Monday 3 April 2000
+TOT
+
+2
+-
+3
+
+MID
+ 
+L
+Monday 10 April 2000
+MID
+
+3
+-
+4
+
+MUN
+ 
+L
+Saturday 15 April 2000
+COV
+
+2
+-
+1
+
+MID
+ 
+D
+Saturday 22 April 2000
+CHE
+
+1
+-
+1
+
+MID
+14 
+Previous Position 14
+
+Coventry City
+35	11	8	16	43	50	-7	41	
+L
+Sunday 26 March 2000
+ARS
+
+3
+-
+0
+
+COV
+ 
+L
+Saturday 1 April 2000
+COV
+
+0
+-
+3
+
+LIV
+ 
+L
+Wednesday 12 April 2000
+CHE
+
+2
+-
+1
+
+COV
+ 
+W
+Saturday 15 April 2000
+COV
+
+2
+-
+1
+
+MID
+ 
+L
+Saturday 22 April 2000
+WHU
+
+5
+-
+0
+
+COV
+15 
+Previous Position 15
+
+Southampton
+35	11	7	17	42	60	-18	40	
+L
+Saturday 1 April 2000
+SOU
+
+1
+-
+2
+
+SUN
+ 
+W
+Saturday 8 April 2000
+BRA
+
+1
+-
+2
+
+SOU
+ 
+W
+Saturday 15 April 2000
+SOU
+
+2
+-
+0
+
+WAT
+ 
+L
+Saturday 22 April 2000
+SOU
+
+1
+-
+3
+
+MUN
+ 
+L
+Monday 24 April 2000
+DER
+
+2
+-
+0
+
+SOU
+16 
+Previous Position 16
+
+Derby County
+35	9	9	17	43	52	-9	36	
+W
+Sunday 2 April 2000
+DER
+
+3
+-
+0
+
+LEI
+ 
+D
+Saturday 8 April 2000
+WAT
+
+0
+-
+0
+
+DER
+ 
+L
+Saturday 15 April 2000
+DER
+
+1
+-
+2
+
+WHU
+ 
+D
+Friday 21 April 2000
+BRA
+
+4
+-
+4
+
+DER
+ 
+W
+Monday 24 April 2000
+DER
+
+2
+-
+0
+
+SOU
+17 
+Previous Position 17
+
+Wimbledon
+35	7	11	17	44	67	-23	32	
+L
+Saturday 1 April 2000
+WIM
+
+1
+-
+3
+
+ARS
+ 
+L
+Saturday 8 April 2000
+SUN
+
+2
+-
+1
+
+WIM
+ 
+L
+Wednesday 12 April 2000
+WIM
+
+0
+-
+2
+
+SHW
+ 
+L
+Sunday 16 April 2000
+WIM
+
+1
+-
+2
+
+LIV
+ 
+L
+Saturday 22 April 2000
+TOT
+
+2
+-
+0
+
+WIM
+18 
+Previous Position 19
+
+Bradford City
+35	7	9	19	34	65	-31	30	
+L
+Saturday 1 April 2000
+NEW
+
+2
+-
+0
+
+BRA
+ 
+L
+Saturday 8 April 2000
+BRA
+
+1
+-
+2
+
+SOU
+ 
+L
+Saturday 15 April 2000
+EVE
+
+4
+-
+0
+
+BRA
+ 
+D
+Friday 21 April 2000
+BRA
+
+4
+-
+4
+
+DER
+ 
+W
+Monday 24 April 2000
+SUN
+
+0
+-
+1
+
+BRA
+19 
+Previous Position 18
+
+Sheffield Wednesday
+34	7	6	21	30	60	-30	27	
+L
+Saturday 25 March 2000
+MID
+
+1
+-
+0
+
+SHW
+ 
+L
+Wednesday 5 April 2000
+SHW
+
+0
+-
+1
+
+AVL
+ 
+W
+Wednesday 12 April 2000
+WIM
+
+0
+-
+2
+
+SHW
+ 
+W
+Saturday 15 April 2000
+SHW
+
+1
+-
+0
+
+CHE
+ 
+L
+Saturday 22 April 2000
+SHW
+
+0
+-
+2
+
+SUN
+20 
+Previous Position 20
+
+Watford
+34	5	5	24	30	70	-40	20	
+D
+Saturday 25 March 2000
+WAT
+
+1
+-
+1
+
+TOT
+ 
+L
+Saturday 1 April 2000
+EVE
+
+4
+-
+2
+
+WAT
+ 
+D
+Saturday 8 April 2000
+WAT
+
+0
+-
+0
+
+DER
+ 
+L
+Saturday 15 April 2000
+SOU
+
+2
+-
+0
+
+WAT
+ 
+L
+Sunday 23 April 2000
+WAT
+
+2
+-
+3
+
+ARS

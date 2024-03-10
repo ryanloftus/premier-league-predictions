@@ -1,0 +1,1080 @@
+1 
+Previous Position 3
+
+Leeds United
+21	11	8	2	33	17	16	41	
+W
+Wednesday 19 December 2001
+LEE
+
+3
+-
+2
+
+EVE
+ 
+L
+Saturday 22 December 2001
+LEE
+
+3
+-
+4
+
+NEW
+ 
+W
+Wednesday 26 December 2001
+BOL
+
+0
+-
+3
+
+LEE
+ 
+W
+Saturday 29 December 2001
+SOU
+
+0
+-
+1
+
+LEE
+ 
+W
+Tuesday 1 January 2002
+LEE
+
+3
+-
+0
+
+WHU
+2 
+Previous Position 5
+
+Manchester United
+21	12	3	6	51	31	20	39	
+W
+Saturday 15 December 2001
+MID
+
+0
+-
+1
+
+MUN
+ 
+W
+Saturday 22 December 2001
+MUN
+
+6
+-
+1
+
+SOU
+ 
+W
+Wednesday 26 December 2001
+EVE
+
+0
+-
+2
+
+MUN
+ 
+W
+Sunday 30 December 2001
+FUL
+
+2
+-
+3
+
+MUN
+ 
+W
+Wednesday 2 January 2002
+MUN
+
+3
+-
+1
+
+NEW
+3 
+Previous Position 1
+
+Arsenal
+20	11	6	3	41	24	17	39	
+D
+Saturday 15 December 2001
+WHU
+
+1
+-
+1
+
+ARS
+ 
+L
+Tuesday 18 December 2001
+ARS
+
+1
+-
+3
+
+NEW
+ 
+W
+Sunday 23 December 2001
+LIV
+
+1
+-
+2
+
+ARS
+ 
+W
+Wednesday 26 December 2001
+ARS
+
+2
+-
+1
+
+CHE
+ 
+W
+Saturday 29 December 2001
+ARS
+
+2
+-
+1
+
+MID
+4 
+Previous Position 2
+
+Newcastle United
+21	12	3	6	39	28	11	39	
+W
+Tuesday 18 December 2001
+ARS
+
+1
+-
+3
+
+NEW
+ 
+W
+Saturday 22 December 2001
+LEE
+
+3
+-
+4
+
+NEW
+ 
+W
+Wednesday 26 December 2001
+NEW
+
+3
+-
+0
+
+MID
+ 
+L
+Saturday 29 December 2001
+NEW
+
+1
+-
+2
+
+CHE
+ 
+L
+Wednesday 2 January 2002
+MUN
+
+3
+-
+1
+
+NEW
+5 
+Previous Position 4
+
+Liverpool
+21	11	5	5	30	22	8	38	
+L
+Sunday 23 December 2001
+LIV
+
+1
+-
+2
+
+ARS
+ 
+W
+Wednesday 26 December 2001
+AVL
+
+1
+-
+2
+
+LIV
+ 
+D
+Saturday 29 December 2001
+WHU
+
+1
+-
+1
+
+LIV
+ 
+D
+Tuesday 1 January 2002
+LIV
+
+1
+-
+1
+
+BOL
+ 
+L
+Wednesday 9 January 2002
+SOU
+
+2
+-
+0
+
+LIV
+6 
+Previous Position 6
+
+Chelsea
+21	8	9	4	33	20	13	33	
+W
+Sunday 16 December 2001
+CHE
+
+4
+-
+0
+
+LIV
+ 
+W
+Sunday 23 December 2001
+CHE
+
+5
+-
+1
+
+BOL
+ 
+L
+Wednesday 26 December 2001
+ARS
+
+2
+-
+1
+
+CHE
+ 
+W
+Saturday 29 December 2001
+NEW
+
+1
+-
+2
+
+CHE
+ 
+L
+Tuesday 1 January 2002
+CHE
+
+2
+-
+4
+
+SOU
+7 
+Previous Position 7
+
+Tottenham Hotspur
+21	9	4	8	32	27	5	31	
+W
+Saturday 15 December 2001
+TOT
+
+4
+-
+0
+
+FUL
+ 
+L
+Saturday 22 December 2001
+TOT
+
+1
+-
+2
+
+IPS
+ 
+L
+Wednesday 26 December 2001
+SOU
+
+1
+-
+0
+
+TOT
+ 
+D
+Saturday 29 December 2001
+AVL
+
+1
+-
+1
+
+TOT
+ 
+W
+Tuesday 1 January 2002
+TOT
+
+1
+-
+0
+
+BLB
+8 
+Previous Position 9
+
+Charlton Athletic
+21	7	8	6	27	24	3	29	
+D
+Saturday 15 December 2001
+BOL
+
+0
+-
+0
+
+CHA
+ 
+L
+Saturday 22 December 2001
+CHA
+
+0
+-
+2
+
+BLB
+ 
+D
+Wednesday 26 December 2001
+FUL
+
+0
+-
+0
+
+CHA
+ 
+W
+Saturday 29 December 2001
+EVE
+
+0
+-
+3
+
+CHA
+ 
+W
+Tuesday 1 January 2002
+CHA
+
+3
+-
+2
+
+IPS
+9 
+Previous Position 8
+
+Aston Villa
+21	7	8	6	27	26	1	29	
+W
+Monday 17 December 2001
+AVL
+
+2
+-
+1
+
+IPS
+ 
+L
+Saturday 22 December 2001
+DER
+
+3
+-
+1
+
+AVL
+ 
+L
+Wednesday 26 December 2001
+AVL
+
+1
+-
+2
+
+LIV
+ 
+D
+Saturday 29 December 2001
+AVL
+
+1
+-
+1
+
+TOT
+ 
+D
+Tuesday 1 January 2002
+SUN
+
+1
+-
+1
+
+AVL
+10 
+Previous Position 12
+
+Fulham
+20	6	9	5	20	20	0	27	
+D
+Wednesday 12 December 2001
+LIV
+
+0
+-
+0
+
+FUL
+ 
+L
+Saturday 15 December 2001
+TOT
+
+4
+-
+0
+
+FUL
+ 
+D
+Wednesday 26 December 2001
+FUL
+
+0
+-
+0
+
+CHA
+ 
+L
+Sunday 30 December 2001
+FUL
+
+2
+-
+3
+
+MUN
+ 
+W
+Wednesday 2 January 2002
+DER
+
+0
+-
+1
+
+FUL
+11 
+Previous Position 10
+
+Sunderland
+21	7	6	8	18	23	-5	27	
+L
+Saturday 15 December 2001
+SOU
+
+2
+-
+0
+
+SUN
+ 
+W
+Saturday 22 December 2001
+SUN
+
+1
+-
+0
+
+EVE
+ 
+W
+Wednesday 26 December 2001
+BLB
+
+0
+-
+3
+
+SUN
+ 
+L
+Saturday 29 December 2001
+IPS
+
+5
+-
+0
+
+SUN
+ 
+D
+Tuesday 1 January 2002
+SUN
+
+1
+-
+1
+
+AVL
+12 
+Previous Position 17
+
+Southampton
+21	8	1	12	25	33	-8	25	
+L
+Saturday 22 December 2001
+MUN
+
+6
+-
+1
+
+SOU
+ 
+W
+Wednesday 26 December 2001
+SOU
+
+1
+-
+0
+
+TOT
+ 
+L
+Saturday 29 December 2001
+SOU
+
+0
+-
+1
+
+LEE
+ 
+W
+Tuesday 1 January 2002
+CHE
+
+2
+-
+4
+
+SOU
+ 
+W
+Wednesday 9 January 2002
+SOU
+
+2
+-
+0
+
+LIV
+13 
+Previous Position 11
+
+West Ham United
+21	6	7	8	25	34	-9	25	
+D
+Saturday 15 December 2001
+WHU
+
+1
+-
+1
+
+ARS
+ 
+D
+Saturday 22 December 2001
+LEI
+
+1
+-
+1
+
+WHU
+ 
+W
+Wednesday 26 December 2001
+WHU
+
+4
+-
+0
+
+DER
+ 
+D
+Saturday 29 December 2001
+WHU
+
+1
+-
+1
+
+LIV
+ 
+L
+Tuesday 1 January 2002
+LEE
+
+3
+-
+0
+
+WHU
+14 
+Previous Position 13
+
+Everton
+21	6	5	10	23	29	-6	23	
+L
+Wednesday 19 December 2001
+LEE
+
+3
+-
+2
+
+EVE
+ 
+L
+Saturday 22 December 2001
+SUN
+
+1
+-
+0
+
+EVE
+ 
+L
+Wednesday 26 December 2001
+EVE
+
+0
+-
+2
+
+MUN
+ 
+L
+Saturday 29 December 2001
+EVE
+
+0
+-
+3
+
+CHA
+ 
+L
+Tuesday 1 January 2002
+MID
+
+1
+-
+0
+
+EVE
+15 
+Previous Position 15
+
+Bolton Wanderers
+21	5	8	8	24	32	-8	23	
+D
+Saturday 15 December 2001
+BOL
+
+0
+-
+0
+
+CHA
+ 
+L
+Sunday 23 December 2001
+CHE
+
+5
+-
+1
+
+BOL
+ 
+L
+Wednesday 26 December 2001
+BOL
+
+0
+-
+3
+
+LEE
+ 
+D
+Saturday 29 December 2001
+BOL
+
+2
+-
+2
+
+LEI
+ 
+D
+Tuesday 1 January 2002
+LIV
+
+1
+-
+1
+
+BOL
+16 
+Previous Position 14
+
+Blackburn Rovers
+21	5	7	9	25	26	-1	22	
+L
+Saturday 15 December 2001
+NEW
+
+2
+-
+1
+
+BLB
+ 
+W
+Saturday 22 December 2001
+CHA
+
+0
+-
+2
+
+BLB
+ 
+L
+Wednesday 26 December 2001
+BLB
+
+0
+-
+3
+
+SUN
+ 
+L
+Saturday 29 December 2001
+BLB
+
+0
+-
+1
+
+DER
+ 
+L
+Tuesday 1 January 2002
+TOT
+
+1
+-
+0
+
+BLB
+17 
+Previous Position 16
+
+Middlesbrough
+20	6	4	10	19	28	-9	22	
+L
+Saturday 8 December 2001
+LIV
+
+2
+-
+0
+
+MID
+ 
+L
+Saturday 15 December 2001
+MID
+
+0
+-
+1
+
+MUN
+ 
+L
+Wednesday 26 December 2001
+NEW
+
+3
+-
+0
+
+MID
+ 
+L
+Saturday 29 December 2001
+ARS
+
+2
+-
+1
+
+MID
+ 
+W
+Tuesday 1 January 2002
+MID
+
+1
+-
+0
+
+EVE
+18 
+Previous Position 18
+
+Derby County
+21	5	4	12	15	36	-21	19	
+L
+Saturday 15 December 2001
+EVE
+
+1
+-
+0
+
+DER
+ 
+W
+Saturday 22 December 2001
+DER
+
+3
+-
+1
+
+AVL
+ 
+L
+Wednesday 26 December 2001
+WHU
+
+4
+-
+0
+
+DER
+ 
+W
+Saturday 29 December 2001
+BLB
+
+0
+-
+1
+
+DER
+ 
+L
+Wednesday 2 January 2002
+DER
+
+0
+-
+1
+
+FUL
+19 
+Previous Position 19
+
+Ipswich Town
+21	4	6	11	26	31	-5	18	
+L
+Monday 17 December 2001
+AVL
+
+2
+-
+1
+
+IPS
+ 
+W
+Saturday 22 December 2001
+TOT
+
+1
+-
+2
+
+IPS
+ 
+W
+Wednesday 26 December 2001
+IPS
+
+2
+-
+0
+
+LEI
+ 
+W
+Saturday 29 December 2001
+IPS
+
+5
+-
+0
+
+SUN
+ 
+L
+Tuesday 1 January 2002
+CHA
+
+3
+-
+2
+
+IPS
+20 
+Previous Position 20
+
+Leicester City
+20	3	7	10	14	36	-22	16	
+L
+Saturday 8 December 2001
+LEI
+
+0
+-
+4
+
+SOU
+ 
+D
+Sunday 16 December 2001
+LEE
+
+2
+-
+2
+
+LEI
+ 
+D
+Saturday 22 December 2001
+LEI
+
+1
+-
+1
+
+WHU
+ 
+L
+Wednesday 26 December 2001
+IPS
+
+2
+-
+0
+
+LEI
+ 
+D
+Saturday 29 December 2001
+BOL
+
+2
+-
+2
+
+LEI

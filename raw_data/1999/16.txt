@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Leeds United
+18	13	2	3	32	19	13	41	
+L
+Sunday 7 November 1999
+WIM
+
+2
+-
+0
+
+LEE
+ 
+W
+Saturday 20 November 1999
+LEE
+
+2
+-
+1
+
+BRA
+ 
+W
+Sunday 28 November 1999
+LEE
+
+1
+-
+0
+
+SOU
+ 
+W
+Sunday 5 December 1999
+DER
+
+0
+-
+1
+
+LEE
+ 
+W
+Sunday 19 December 1999
+CHE
+
+0
+-
+2
+
+LEE
+2 
+Previous Position 2
+
+Manchester United
+17	12	3	2	44	23	21	39	
+W
+Saturday 30 October 1999
+MUN
+
+3
+-
+0
+
+AVL
+ 
+W
+Saturday 6 November 1999
+MUN
+
+2
+-
+0
+
+LEI
+ 
+W
+Saturday 20 November 1999
+DER
+
+1
+-
+2
+
+MUN
+ 
+W
+Saturday 4 December 1999
+MUN
+
+5
+-
+1
+
+EVE
+ 
+W
+Saturday 18 December 1999
+WHU
+
+2
+-
+4
+
+MUN
+3 
+Previous Position 4
+
+Sunderland
+18	11	4	3	33	17	16	37	
+D
+Saturday 6 November 1999
+MID
+
+1
+-
+1
+
+SUN
+ 
+L
+Saturday 20 November 1999
+SUN
+
+0
+-
+2
+
+LIV
+ 
+W
+Saturday 27 November 1999
+WAT
+
+2
+-
+3
+
+SUN
+ 
+W
+Saturday 4 December 1999
+SUN
+
+4
+-
+1
+
+CHE
+ 
+W
+Saturday 18 December 1999
+SUN
+
+2
+-
+0
+
+SOU
+4 
+Previous Position 3
+
+Arsenal
+18	11	3	4	32	17	15	36	
+L
+Sunday 7 November 1999
+TOT
+
+2
+-
+1
+
+ARS
+ 
+W
+Saturday 20 November 1999
+ARS
+
+5
+-
+1
+
+MID
+ 
+W
+Sunday 28 November 1999
+ARS
+
+2
+-
+1
+
+DER
+ 
+W
+Saturday 4 December 1999
+LEI
+
+0
+-
+3
+
+ARS
+ 
+D
+Saturday 18 December 1999
+ARS
+
+1
+-
+1
+
+WIM
+5 
+Previous Position 5
+
+Liverpool
+18	10	3	5	26	14	12	33	
+W
+Saturday 6 November 1999
+LIV
+
+2
+-
+0
+
+DER
+ 
+W
+Saturday 20 November 1999
+SUN
+
+0
+-
+2
+
+LIV
+ 
+L
+Saturday 27 November 1999
+WHU
+
+1
+-
+0
+
+LIV
+ 
+W
+Sunday 5 December 1999
+LIV
+
+4
+-
+1
+
+SHW
+ 
+W
+Saturday 18 December 1999
+LIV
+
+2
+-
+0
+
+COV
+6 
+Previous Position 6
+
+Leicester City
+18	9	2	7	26	24	2	29	
+L
+Saturday 6 November 1999
+MUN
+
+2
+-
+0
+
+LEI
+ 
+W
+Saturday 20 November 1999
+LEI
+
+2
+-
+1
+
+WIM
+ 
+W
+Saturday 27 November 1999
+COV
+
+0
+-
+1
+
+LEI
+ 
+L
+Saturday 4 December 1999
+LEI
+
+0
+-
+3
+
+ARS
+ 
+L
+Saturday 18 December 1999
+LEI
+
+0
+-
+1
+
+DER
+7 
+Previous Position 7
+
+Tottenham Hotspur
+17	8	3	6	26	22	4	27	
+W
+Sunday 7 November 1999
+TOT
+
+2
+-
+1
+
+ARS
+ 
+W
+Saturday 20 November 1999
+SOU
+
+0
+-
+1
+
+TOT
+ 
+L
+Sunday 28 November 1999
+NEW
+
+2
+-
+1
+
+TOT
+ 
+D
+Monday 6 December 1999
+TOT
+
+0
+-
+0
+
+WHU
+ 
+L
+Saturday 18 December 1999
+MID
+
+2
+-
+1
+
+TOT
+8 
+Previous Position 10
+
+Middlesbrough
+18	8	3	7	23	25	-2	27	
+D
+Saturday 6 November 1999
+MID
+
+1
+-
+1
+
+SUN
+ 
+L
+Saturday 20 November 1999
+ARS
+
+5
+-
+1
+
+MID
+ 
+D
+Saturday 27 November 1999
+MID
+
+0
+-
+0
+
+WIM
+ 
+D
+Saturday 4 December 1999
+BRA
+
+1
+-
+1
+
+MID
+ 
+W
+Saturday 18 December 1999
+MID
+
+2
+-
+1
+
+TOT
+9 
+Previous Position 8
+
+West Ham United
+17	7	4	6	19	18	1	25	
+D
+Sunday 7 November 1999
+CHE
+
+0
+-
+0
+
+WHU
+ 
+W
+Sunday 21 November 1999
+WHU
+
+4
+-
+3
+
+SHW
+ 
+W
+Saturday 27 November 1999
+WHU
+
+1
+-
+0
+
+LIV
+ 
+D
+Monday 6 December 1999
+TOT
+
+0
+-
+0
+
+WHU
+ 
+L
+Saturday 18 December 1999
+WHU
+
+2
+-
+4
+
+MUN
+10 
+Previous Position 9
+
+Chelsea
+16	7	3	6	21	17	4	24	
+D
+Sunday 7 November 1999
+CHE
+
+0
+-
+0
+
+WHU
+ 
+D
+Saturday 20 November 1999
+EVE
+
+1
+-
+1
+
+CHE
+ 
+W
+Sunday 28 November 1999
+CHE
+
+1
+-
+0
+
+BRA
+ 
+L
+Saturday 4 December 1999
+SUN
+
+4
+-
+1
+
+CHE
+ 
+L
+Sunday 19 December 1999
+CHE
+
+0
+-
+2
+
+LEE
+11 
+Previous Position 12
+
+Everton
+18	6	6	6	28	28	0	24	
+D
+Sunday 7 November 1999
+NEW
+
+1
+-
+1
+
+EVE
+ 
+D
+Saturday 20 November 1999
+EVE
+
+1
+-
+1
+
+CHE
+ 
+D
+Saturday 27 November 1999
+EVE
+
+0
+-
+0
+
+AVL
+ 
+L
+Saturday 4 December 1999
+MUN
+
+5
+-
+1
+
+EVE
+ 
+W
+Saturday 18 December 1999
+WAT
+
+1
+-
+3
+
+EVE
+12 
+Previous Position 15
+
+Aston Villa
+18	6	4	8	16	20	-4	22	
+L
+Saturday 6 November 1999
+AVL
+
+0
+-
+1
+
+SOU
+ 
+L
+Monday 22 November 1999
+COV
+
+2
+-
+1
+
+AVL
+ 
+D
+Saturday 27 November 1999
+EVE
+
+0
+-
+0
+
+AVL
+ 
+L
+Saturday 4 December 1999
+AVL
+
+0
+-
+1
+
+NEW
+ 
+W
+Saturday 18 December 1999
+AVL
+
+2
+-
+1
+
+SHW
+13 
+Previous Position 11
+
+Coventry City
+18	5	6	7	23	20	3	21	
+D
+Saturday 6 November 1999
+BRA
+
+1
+-
+1
+
+COV
+ 
+W
+Monday 22 November 1999
+COV
+
+2
+-
+1
+
+AVL
+ 
+L
+Saturday 27 November 1999
+COV
+
+0
+-
+1
+
+LEI
+ 
+D
+Saturday 4 December 1999
+SOU
+
+0
+-
+0
+
+COV
+ 
+L
+Saturday 18 December 1999
+LIV
+
+2
+-
+0
+
+COV
+14 
+Previous Position 13
+
+Wimbledon
+18	4	9	5	28	30	-2	21	
+W
+Sunday 7 November 1999
+WIM
+
+2
+-
+0
+
+LEE
+ 
+L
+Saturday 20 November 1999
+LEI
+
+2
+-
+1
+
+WIM
+ 
+D
+Saturday 27 November 1999
+MID
+
+0
+-
+0
+
+WIM
+ 
+W
+Saturday 4 December 1999
+WIM
+
+5
+-
+0
+
+WAT
+ 
+D
+Saturday 18 December 1999
+ARS
+
+1
+-
+1
+
+WIM
+15 
+Previous Position 14
+
+Newcastle United
+18	5	4	9	28	32	-4	19	
+D
+Sunday 7 November 1999
+NEW
+
+1
+-
+1
+
+EVE
+ 
+D
+Saturday 20 November 1999
+WAT
+
+1
+-
+1
+
+NEW
+ 
+W
+Sunday 28 November 1999
+NEW
+
+2
+-
+1
+
+TOT
+ 
+W
+Saturday 4 December 1999
+AVL
+
+0
+-
+1
+
+NEW
+ 
+L
+Saturday 18 December 1999
+BRA
+
+2
+-
+0
+
+NEW
+16 
+Previous Position 16
+
+Southampton
+17	4	5	8	20	27	-7	17	
+W
+Saturday 6 November 1999
+AVL
+
+0
+-
+1
+
+SOU
+ 
+L
+Saturday 20 November 1999
+SOU
+
+0
+-
+1
+
+TOT
+ 
+L
+Sunday 28 November 1999
+LEE
+
+1
+-
+0
+
+SOU
+ 
+D
+Saturday 4 December 1999
+SOU
+
+0
+-
+0
+
+COV
+ 
+L
+Saturday 18 December 1999
+SUN
+
+2
+-
+0
+
+SOU
+17 
+Previous Position 17
+
+Bradford City
+17	4	4	9	15	25	-10	16	
+D
+Saturday 6 November 1999
+BRA
+
+1
+-
+1
+
+COV
+ 
+L
+Saturday 20 November 1999
+LEE
+
+2
+-
+1
+
+BRA
+ 
+L
+Sunday 28 November 1999
+CHE
+
+1
+-
+0
+
+BRA
+ 
+D
+Saturday 4 December 1999
+BRA
+
+1
+-
+1
+
+MID
+ 
+W
+Saturday 18 December 1999
+BRA
+
+2
+-
+0
+
+NEW
+18 
+Previous Position 18
+
+Derby County
+18	4	3	11	16	29	-13	15	
+L
+Saturday 6 November 1999
+LIV
+
+2
+-
+0
+
+DER
+ 
+L
+Saturday 20 November 1999
+DER
+
+1
+-
+2
+
+MUN
+ 
+L
+Sunday 28 November 1999
+ARS
+
+2
+-
+1
+
+DER
+ 
+L
+Sunday 5 December 1999
+DER
+
+0
+-
+1
+
+LEE
+ 
+W
+Saturday 18 December 1999
+LEI
+
+0
+-
+1
+
+DER
+19 
+Previous Position 19
+
+Watford
+18	3	2	13	14	36	-22	11	
+D
+Saturday 6 November 1999
+SHW
+
+2
+-
+2
+
+WAT
+ 
+D
+Saturday 20 November 1999
+WAT
+
+1
+-
+1
+
+NEW
+ 
+L
+Saturday 27 November 1999
+WAT
+
+2
+-
+3
+
+SUN
+ 
+L
+Saturday 4 December 1999
+WIM
+
+5
+-
+0
+
+WAT
+ 
+L
+Saturday 18 December 1999
+WAT
+
+1
+-
+3
+
+EVE
+20 
+Previous Position 20
+
+Sheffield Wednesday
+17	1	3	13	15	42	-27	6	
+L
+Saturday 30 October 1999
+LEI
+
+3
+-
+0
+
+SHW
+ 
+D
+Saturday 6 November 1999
+SHW
+
+2
+-
+2
+
+WAT
+ 
+L
+Sunday 21 November 1999
+WHU
+
+4
+-
+3
+
+SHW
+ 
+L
+Sunday 5 December 1999
+LIV
+
+4
+-
+1
+
+SHW
+ 
+L
+Saturday 18 December 1999
+AVL
+
+2
+-
+1
+
+SHW

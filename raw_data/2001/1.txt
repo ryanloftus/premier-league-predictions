@@ -1,0 +1,400 @@
+1 
+Previous Position
+
+Bolton Wanderers
+2	2	0	0	6	0	6	6	
+W
+Saturday 18 August 2001
+LEI
+
+0
+-
+5
+
+BOL
+ 
+W
+Tuesday 21 August 2001
+BOL
+
+1
+-
+0
+
+MID
+2 
+Previous Position
+
+Leeds United
+2	2	0	0	4	1	3	6	
+W
+Saturday 18 August 2001
+LEE
+
+2
+-
+0
+
+SOU
+ 
+W
+Tuesday 21 August 2001
+ARS
+
+1
+-
+2
+
+LEE
+3 
+Previous Position
+
+Manchester United
+2	1	1	0	5	4	1	4	
+W
+Sunday 19 August 2001
+MUN
+
+3
+-
+2
+
+FUL
+ 
+D
+Wednesday 22 August 2001
+BLB
+
+2
+-
+2
+
+MUN
+4 
+Previous Position
+
+Everton
+2	1	1	0	3	2	1	4	
+W
+Saturday 18 August 2001
+CHA
+
+1
+-
+2
+
+EVE
+ 
+D
+Monday 20 August 2001
+EVE
+
+1
+-
+1
+
+TOT
+5 
+Previous Position
+
+Arsenal
+2	1	0	1	5	2	3	3	
+W
+Saturday 18 August 2001
+MID
+
+0
+-
+4
+
+ARS
+ 
+L
+Tuesday 21 August 2001
+ARS
+
+1
+-
+2
+
+LEE
+6 
+Previous Position
+
+Fulham
+2	1	0	1	4	3	1	3	
+L
+Sunday 19 August 2001
+MUN
+
+3
+-
+2
+
+FUL
+ 
+W
+Wednesday 22 August 2001
+FUL
+
+2
+-
+0
+
+SUN
+7 
+Previous Position
+
+Ipswich Town
+2	1	0	1	3	2	1	3	
+L
+Saturday 18 August 2001
+SUN
+
+1
+-
+0
+
+IPS
+ 
+W
+Tuesday 21 August 2001
+IPS
+
+3
+-
+1
+
+DER
+8 
+Previous Position
+
+Liverpool
+1	1	0	0	2	1	1	3	
+W
+Saturday 18 August 2001
+LIV
+
+2
+-
+1
+
+WHU
+9 
+Previous Position
+
+Derby County
+2	1	0	1	3	4	-1	3	
+W
+Saturday 18 August 2001
+DER
+
+2
+-
+1
+
+BLB
+ 
+L
+Tuesday 21 August 2001
+IPS
+
+3
+-
+1
+
+DER
+10 
+Previous Position
+
+Sunderland
+2	1	0	1	1	2	-1	3	
+W
+Saturday 18 August 2001
+SUN
+
+1
+-
+0
+
+IPS
+ 
+L
+Wednesday 22 August 2001
+FUL
+
+2
+-
+0
+
+SUN
+11 
+Previous Position
+
+Tottenham Hotspur
+2	0	2	0	1	1	0	2	
+D
+Saturday 18 August 2001
+TOT
+
+0
+-
+0
+
+AVL
+ 
+D
+Monday 20 August 2001
+EVE
+
+1
+-
+1
+
+TOT
+12 
+Previous Position
+
+Chelsea
+1	0	1	0	1	1	0	1	
+D
+Sunday 19 August 2001
+CHE
+
+1
+-
+1
+
+NEW
+13 
+Previous Position
+
+Newcastle United
+1	0	1	0	1	1	0	1	
+D
+Sunday 19 August 2001
+CHE
+
+1
+-
+1
+
+NEW
+14 
+Previous Position
+
+Aston Villa
+1	0	1	0	0	0	0	1	
+D
+Saturday 18 August 2001
+TOT
+
+0
+-
+0
+
+AVL
+15 
+Previous Position
+
+Blackburn Rovers
+2	0	1	1	3	4	-1	1	
+L
+Saturday 18 August 2001
+DER
+
+2
+-
+1
+
+BLB
+ 
+D
+Wednesday 22 August 2001
+BLB
+
+2
+-
+2
+
+MUN
+16 
+Previous Position
+
+Charlton Athletic
+1	0	0	1	1	2	-1	0	
+L
+Saturday 18 August 2001
+CHA
+
+1
+-
+2
+
+EVE
+17 
+Previous Position
+
+West Ham United
+1	0	0	1	1	2	-1	0	
+L
+Saturday 18 August 2001
+LIV
+
+2
+-
+1
+
+WHU
+18 
+Previous Position
+
+Southampton
+1	0	0	1	0	2	-2	0	
+L
+Saturday 18 August 2001
+LEE
+
+2
+-
+0
+
+SOU
+19 
+Previous Position
+
+Leicester City
+1	0	0	1	0	5	-5	0	
+L
+Saturday 18 August 2001
+LEI
+
+0
+-
+5
+
+BOL
+20 
+Previous Position
+
+Middlesbrough
+2	0	0	2	0	5	-5	0	
+L
+Saturday 18 August 2001
+MID
+
+0
+-
+4
+
+ARS
+ 
+L
+Tuesday 21 August 2001
+BOL
+
+1
+-
+0
+
+MID

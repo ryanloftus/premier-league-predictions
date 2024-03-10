@@ -1,0 +1,860 @@
+1 
+Previous Position 3
+
+Newcastle United
+4	3	0	1	7	4	3	9	
+L
+Sunday 20 August 2000
+MUN
+
+2
+-
+0
+
+NEW
+ 
+W
+Wednesday 23 August 2000
+NEW
+
+3
+-
+2
+
+DER
+ 
+W
+Saturday 26 August 2000
+NEW
+
+2
+-
+0
+
+TOT
+ 
+W
+Wednesday 6 September 2000
+COV
+
+0
+-
+2
+
+NEW
+2 
+Previous Position 5
+
+Manchester United
+4	2	2	0	11	3	8	8	
+W
+Sunday 20 August 2000
+MUN
+
+2
+-
+0
+
+NEW
+ 
+D
+Tuesday 22 August 2000
+IPS
+
+1
+-
+1
+
+MUN
+ 
+D
+Saturday 26 August 2000
+WHU
+
+2
+-
+2
+
+MUN
+ 
+W
+Tuesday 5 September 2000
+MUN
+
+6
+-
+0
+
+BRA
+3 
+Previous Position 6
+
+Leicester City
+4	2	2	0	3	1	2	8	
+D
+Saturday 19 August 2000
+LEI
+
+0
+-
+0
+
+AVL
+ 
+W
+Wednesday 23 August 2000
+WHU
+
+0
+-
+1
+
+LEI
+ 
+D
+Saturday 26 August 2000
+BRA
+
+0
+-
+0
+
+LEI
+ 
+W
+Wednesday 6 September 2000
+LEI
+
+2
+-
+1
+
+IPS
+4 
+Previous Position 1
+
+Arsenal
+4	2	1	1	9	6	3	7	
+L
+Saturday 19 August 2000
+SUN
+
+1
+-
+0
+
+ARS
+ 
+W
+Monday 21 August 2000
+ARS
+
+2
+-
+0
+
+LIV
+ 
+W
+Saturday 26 August 2000
+ARS
+
+5
+-
+3
+
+CHA
+ 
+D
+Wednesday 6 September 2000
+CHE
+
+2
+-
+2
+
+ARS
+5 
+Previous Position 12
+
+Liverpool
+4	2	1	1	7	6	1	7	
+W
+Saturday 19 August 2000
+LIV
+
+1
+-
+0
+
+BRA
+ 
+L
+Monday 21 August 2000
+ARS
+
+2
+-
+0
+
+LIV
+ 
+D
+Saturday 26 August 2000
+SOU
+
+3
+-
+3
+
+LIV
+ 
+W
+Wednesday 6 September 2000
+LIV
+
+3
+-
+1
+
+AVL
+6 
+Previous Position 11
+
+Tottenham Hotspur
+4	2	1	1	7	6	1	7	
+W
+Saturday 19 August 2000
+TOT
+
+3
+-
+1
+
+IPS
+ 
+D
+Tuesday 22 August 2000
+MID
+
+1
+-
+1
+
+TOT
+ 
+L
+Saturday 26 August 2000
+NEW
+
+2
+-
+0
+
+TOT
+ 
+W
+Tuesday 5 September 2000
+TOT
+
+3
+-
+2
+
+EVE
+7 
+Previous Position 2
+
+Leeds United
+3	2	0	1	5	3	2	6	
+W
+Saturday 19 August 2000
+LEE
+
+2
+-
+0
+
+EVE
+ 
+W
+Saturday 26 August 2000
+MID
+
+1
+-
+2
+
+LEE
+ 
+L
+Tuesday 5 September 2000
+LEE
+
+1
+-
+2
+
+MCI
+8 
+Previous Position 16
+
+Manchester City
+4	2	0	2	7	9	-2	6	
+L
+Saturday 19 August 2000
+CHA
+
+4
+-
+0
+
+MCI
+ 
+W
+Wednesday 23 August 2000
+MCI
+
+4
+-
+2
+
+SUN
+ 
+L
+Saturday 26 August 2000
+MCI
+
+1
+-
+2
+
+COV
+ 
+W
+Tuesday 5 September 2000
+LEE
+
+1
+-
+2
+
+MCI
+9 
+Previous Position 4
+
+Coventry City
+4	2	0	2	5	7	-2	6	
+L
+Saturday 19 August 2000
+COV
+
+1
+-
+3
+
+MID
+ 
+W
+Wednesday 23 August 2000
+SOU
+
+1
+-
+2
+
+COV
+ 
+W
+Saturday 26 August 2000
+MCI
+
+1
+-
+2
+
+COV
+ 
+L
+Wednesday 6 September 2000
+COV
+
+0
+-
+2
+
+NEW
+10 
+Previous Position 8
+
+Middlesbrough
+4	1	2	1	8	7	1	5	
+W
+Saturday 19 August 2000
+COV
+
+1
+-
+3
+
+MID
+ 
+D
+Tuesday 22 August 2000
+MID
+
+1
+-
+1
+
+TOT
+ 
+L
+Saturday 26 August 2000
+MID
+
+1
+-
+2
+
+LEE
+ 
+D
+Wednesday 6 September 2000
+DER
+
+3
+-
+3
+
+MID
+11 
+Previous Position 10
+
+Chelsea
+4	1	2	1	7	7	0	5	
+W
+Saturday 19 August 2000
+CHE
+
+4
+-
+2
+
+WHU
+ 
+L
+Tuesday 22 August 2000
+BRA
+
+2
+-
+0
+
+CHE
+ 
+D
+Sunday 27 August 2000
+AVL
+
+1
+-
+1
+
+CHE
+ 
+D
+Wednesday 6 September 2000
+CHE
+
+2
+-
+2
+
+ARS
+12 
+Previous Position 7
+
+Everton
+4	1	1	2	7	7	0	4	
+L
+Saturday 19 August 2000
+LEE
+
+2
+-
+0
+
+EVE
+ 
+W
+Wednesday 23 August 2000
+EVE
+
+3
+-
+0
+
+CHA
+ 
+D
+Saturday 26 August 2000
+EVE
+
+2
+-
+2
+
+DER
+ 
+L
+Tuesday 5 September 2000
+TOT
+
+3
+-
+2
+
+EVE
+13 
+Previous Position 14
+
+Charlton Athletic
+4	1	1	2	8	9	-1	4	
+W
+Saturday 19 August 2000
+CHA
+
+4
+-
+0
+
+MCI
+ 
+L
+Wednesday 23 August 2000
+EVE
+
+3
+-
+0
+
+CHA
+ 
+L
+Saturday 26 August 2000
+ARS
+
+5
+-
+3
+
+CHA
+ 
+D
+Wednesday 6 September 2000
+CHA
+
+1
+-
+1
+
+SOU
+14 
+Previous Position 13
+
+Ipswich Town
+4	1	1	2	4	6	-2	4	
+L
+Saturday 19 August 2000
+TOT
+
+3
+-
+1
+
+IPS
+ 
+D
+Tuesday 22 August 2000
+IPS
+
+1
+-
+1
+
+MUN
+ 
+W
+Saturday 26 August 2000
+IPS
+
+1
+-
+0
+
+SUN
+ 
+L
+Wednesday 6 September 2000
+LEI
+
+2
+-
+1
+
+IPS
+15 
+Previous Position 15
+
+Sunderland
+4	1	1	2	4	6	-2	4	
+W
+Saturday 19 August 2000
+SUN
+
+1
+-
+0
+
+ARS
+ 
+L
+Wednesday 23 August 2000
+MCI
+
+4
+-
+2
+
+SUN
+ 
+L
+Saturday 26 August 2000
+IPS
+
+1
+-
+0
+
+SUN
+ 
+D
+Tuesday 5 September 2000
+SUN
+
+1
+-
+1
+
+WHU
+16 
+Previous Position 9
+
+Bradford City
+4	1	1	2	2	7	-5	4	
+L
+Saturday 19 August 2000
+LIV
+
+1
+-
+0
+
+BRA
+ 
+W
+Tuesday 22 August 2000
+BRA
+
+2
+-
+0
+
+CHE
+ 
+D
+Saturday 26 August 2000
+BRA
+
+0
+-
+0
+
+LEI
+ 
+L
+Tuesday 5 September 2000
+MUN
+
+6
+-
+0
+
+BRA
+17 
+Previous Position 18
+
+Derby County
+4	0	3	1	9	10	-1	3	
+D
+Saturday 19 August 2000
+DER
+
+2
+-
+2
+
+SOU
+ 
+L
+Wednesday 23 August 2000
+NEW
+
+3
+-
+2
+
+DER
+ 
+D
+Saturday 26 August 2000
+EVE
+
+2
+-
+2
+
+DER
+ 
+D
+Wednesday 6 September 2000
+DER
+
+3
+-
+3
+
+MID
+18 
+Previous Position 19
+
+Southampton
+4	0	3	1	7	8	-1	3	
+D
+Saturday 19 August 2000
+DER
+
+2
+-
+2
+
+SOU
+ 
+L
+Wednesday 23 August 2000
+SOU
+
+1
+-
+2
+
+COV
+ 
+D
+Saturday 26 August 2000
+SOU
+
+3
+-
+3
+
+LIV
+ 
+D
+Wednesday 6 September 2000
+CHA
+
+1
+-
+1
+
+SOU
+19 
+Previous Position 17
+
+Aston Villa
+3	0	2	1	2	4	-2	2	
+D
+Saturday 19 August 2000
+LEI
+
+0
+-
+0
+
+AVL
+ 
+D
+Sunday 27 August 2000
+AVL
+
+1
+-
+1
+
+CHE
+ 
+L
+Wednesday 6 September 2000
+LIV
+
+3
+-
+1
+
+AVL
+20 
+Previous Position 20
+
+West Ham United
+4	0	2	2	5	8	-3	2	
+L
+Saturday 19 August 2000
+CHE
+
+4
+-
+2
+
+WHU
+ 
+L
+Wednesday 23 August 2000
+WHU
+
+0
+-
+1
+
+LEI
+ 
+D
+Saturday 26 August 2000
+WHU
+
+2
+-
+2
+
+MUN
+ 
+D
+Tuesday 5 September 2000
+SUN
+
+1
+-
+1
+
+WHU

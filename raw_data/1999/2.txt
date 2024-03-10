@@ -1,0 +1,640 @@
+1 
+Previous Position 3
+
+Manchester United
+3	2	1	0	7	1	6	7	
+D
+Sunday 8 August 1999
+EVE
+
+1
+-
+1
+
+MUN
+ 
+W
+Wednesday 11 August 1999
+MUN
+
+4
+-
+0
+
+SHW
+ 
+W
+Saturday 14 August 1999
+MUN
+
+2
+-
+0
+
+LEE
+2 
+Previous Position 1
+
+Aston Villa
+3	2	1	0	6	2	4	7	
+W
+Saturday 7 August 1999
+NEW
+
+0
+-
+1
+
+AVL
+ 
+W
+Wednesday 11 August 1999
+AVL
+
+3
+-
+0
+
+EVE
+ 
+D
+Monday 16 August 1999
+AVL
+
+2
+-
+2
+
+WHU
+3 
+Previous Position 2
+
+Arsenal
+3	2	1	0	4	2	2	7	
+W
+Saturday 7 August 1999
+ARS
+
+2
+-
+1
+
+LEI
+ 
+W
+Tuesday 10 August 1999
+DER
+
+1
+-
+2
+
+ARS
+ 
+D
+Saturday 14 August 1999
+SUN
+
+0
+-
+0
+
+ARS
+4 
+Previous Position 11
+
+Middlesbrough
+3	2	0	1	6	4	2	6	
+L
+Saturday 7 August 1999
+MID
+
+0
+-
+1
+
+BRA
+ 
+W
+Tuesday 10 August 1999
+WIM
+
+2
+-
+3
+
+MID
+ 
+W
+Saturday 14 August 1999
+DER
+
+1
+-
+3
+
+MID
+5 
+Previous Position 6
+
+Tottenham Hotspur
+3	2	0	1	6	4	2	6	
+L
+Saturday 7 August 1999
+WHU
+
+1
+-
+0
+
+TOT
+ 
+W
+Monday 9 August 1999
+TOT
+
+3
+-
+1
+
+NEW
+ 
+W
+Saturday 14 August 1999
+TOT
+
+3
+-
+2
+
+EVE
+6 
+Previous Position 14
+
+Southampton
+3	2	0	1	5	5	0	6	
+W
+Saturday 7 August 1999
+COV
+
+0
+-
+1
+
+SOU
+ 
+L
+Wednesday 11 August 1999
+SOU
+
+0
+-
+3
+
+LEE
+ 
+W
+Sunday 15 August 1999
+SOU
+
+4
+-
+2
+
+NEW
+7 
+Previous Position 5
+
+Chelsea
+2	1	1	0	6	2	4	4	
+W
+Saturday 7 August 1999
+CHE
+
+4
+-
+0
+
+SUN
+ 
+D
+Saturday 14 August 1999
+LEI
+
+2
+-
+2
+
+CHE
+8 
+Previous Position 4
+
+Leeds United
+3	1	1	1	3	2	1	4	
+D
+Saturday 7 August 1999
+LEE
+
+0
+-
+0
+
+DER
+ 
+W
+Wednesday 11 August 1999
+SOU
+
+0
+-
+3
+
+LEE
+ 
+L
+Saturday 14 August 1999
+MUN
+
+2
+-
+0
+
+LEE
+9 
+Previous Position 9
+
+West Ham United
+2	1	1	0	3	2	1	4	
+W
+Saturday 7 August 1999
+WHU
+
+1
+-
+0
+
+TOT
+ 
+D
+Monday 16 August 1999
+AVL
+
+2
+-
+2
+
+WHU
+10 
+Previous Position 8
+
+Bradford City
+2	1	1	0	2	1	1	4	
+W
+Saturday 7 August 1999
+MID
+
+0
+-
+1
+
+BRA
+ 
+D
+Saturday 14 August 1999
+BRA
+
+1
+-
+1
+
+SHW
+11 
+Previous Position 10
+
+Wimbledon
+3	1	1	1	6	6	0	4	
+W
+Saturday 7 August 1999
+WAT
+
+2
+-
+3
+
+WIM
+ 
+L
+Tuesday 10 August 1999
+WIM
+
+2
+-
+3
+
+MID
+ 
+D
+Saturday 14 August 1999
+WIM
+
+1
+-
+1
+
+COV
+12 
+Previous Position 12
+
+Leicester City
+3	1	1	1	4	4	0	4	
+L
+Saturday 7 August 1999
+ARS
+
+2
+-
+1
+
+LEI
+ 
+W
+Wednesday 11 August 1999
+LEI
+
+1
+-
+0
+
+COV
+ 
+D
+Saturday 14 August 1999
+LEI
+
+2
+-
+2
+
+CHE
+13 
+Previous Position 13
+
+Sunderland
+3	1	1	1	2	4	-2	4	
+L
+Saturday 7 August 1999
+CHE
+
+4
+-
+0
+
+SUN
+ 
+W
+Tuesday 10 August 1999
+SUN
+
+2
+-
+0
+
+WAT
+ 
+D
+Saturday 14 August 1999
+SUN
+
+0
+-
+0
+
+ARS
+14 
+Previous Position 7
+
+Liverpool
+2	1	0	1	2	2	0	3	
+W
+Saturday 7 August 1999
+SHW
+
+1
+-
+2
+
+LIV
+ 
+L
+Saturday 14 August 1999
+LIV
+
+0
+-
+1
+
+WAT
+15 
+Previous Position 18
+
+Watford
+3	1	0	2	3	5	-2	3	
+L
+Saturday 7 August 1999
+WAT
+
+2
+-
+3
+
+WIM
+ 
+L
+Tuesday 10 August 1999
+SUN
+
+2
+-
+0
+
+WAT
+ 
+W
+Saturday 14 August 1999
+LIV
+
+0
+-
+1
+
+WAT
+16 
+Previous Position 17
+
+Coventry City
+3	0	1	2	1	3	-2	1	
+L
+Saturday 7 August 1999
+COV
+
+0
+-
+1
+
+SOU
+ 
+L
+Wednesday 11 August 1999
+LEI
+
+1
+-
+0
+
+COV
+ 
+D
+Saturday 14 August 1999
+WIM
+
+1
+-
+1
+
+COV
+17 
+Previous Position 15
+
+Derby County
+3	0	1	2	2	5	-3	1	
+D
+Saturday 7 August 1999
+LEE
+
+0
+-
+0
+
+DER
+ 
+L
+Tuesday 10 August 1999
+DER
+
+1
+-
+2
+
+ARS
+ 
+L
+Saturday 14 August 1999
+DER
+
+1
+-
+3
+
+MID
+18 
+Previous Position 16
+
+Everton
+3	0	1	2	3	7	-4	1	
+D
+Sunday 8 August 1999
+EVE
+
+1
+-
+1
+
+MUN
+ 
+L
+Wednesday 11 August 1999
+AVL
+
+3
+-
+0
+
+EVE
+ 
+L
+Saturday 14 August 1999
+TOT
+
+3
+-
+2
+
+EVE
+19 
+Previous Position 20
+
+Sheffield Wednesday
+3	0	1	2	2	7	-5	1	
+L
+Saturday 7 August 1999
+SHW
+
+1
+-
+2
+
+LIV
+ 
+L
+Wednesday 11 August 1999
+MUN
+
+4
+-
+0
+
+SHW
+ 
+D
+Saturday 14 August 1999
+BRA
+
+1
+-
+1
+
+SHW
+20 
+Previous Position 19
+
+Newcastle United
+3	0	0	3	3	8	-5	0	
+L
+Saturday 7 August 1999
+NEW
+
+0
+-
+1
+
+AVL
+ 
+L
+Monday 9 August 1999
+TOT
+
+3
+-
+1
+
+NEW
+ 
+L
+Sunday 15 August 1999
+SOU
+
+4
+-
+2
+
+NEW

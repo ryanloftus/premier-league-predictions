@@ -1,0 +1,1080 @@
+1 
+Previous Position 2
+
+Manchester United
+22	15	5	2	53	26	27	50	
+W
+Sunday 26 December 1999
+MUN
+
+4
+-
+0
+
+BRA
+ 
+D
+Tuesday 28 December 1999
+SUN
+
+2
+-
+2
+
+MUN
+ 
+D
+Monday 24 January 2000
+MUN
+
+1
+-
+1
+
+ARS
+ 
+W
+Saturday 29 January 2000
+MUN
+
+1
+-
+0
+
+MID
+ 
+W
+Wednesday 2 February 2000
+SHW
+
+0
+-
+1
+
+MUN
+2 
+Previous Position 1
+
+Leeds United
+22	15	2	5	37	25	12	47	
+W
+Sunday 19 December 1999
+CHE
+
+0
+-
+2
+
+LEE
+ 
+W
+Sunday 26 December 1999
+LEE
+
+2
+-
+1
+
+LEI
+ 
+L
+Tuesday 28 December 1999
+ARS
+
+2
+-
+0
+
+LEE
+ 
+L
+Monday 3 January 2000
+LEE
+
+1
+-
+2
+
+AVL
+ 
+W
+Sunday 23 January 2000
+SUN
+
+1
+-
+2
+
+LEE
+3 
+Previous Position 3
+
+Arsenal
+23	13	5	5	42	23	19	44	
+L
+Sunday 26 December 1999
+COV
+
+3
+-
+2
+
+ARS
+ 
+W
+Tuesday 28 December 1999
+ARS
+
+2
+-
+0
+
+LEE
+ 
+D
+Monday 3 January 2000
+SHW
+
+1
+-
+1
+
+ARS
+ 
+W
+Saturday 15 January 2000
+ARS
+
+4
+-
+1
+
+SUN
+ 
+D
+Monday 24 January 2000
+MUN
+
+1
+-
+1
+
+ARS
+4 
+Previous Position 4
+
+Liverpool
+23	12	5	6	34	20	14	41	
+D
+Sunday 26 December 1999
+NEW
+
+2
+-
+2
+
+LIV
+ 
+W
+Tuesday 28 December 1999
+LIV
+
+3
+-
+1
+
+WIM
+ 
+L
+Monday 3 January 2000
+TOT
+
+1
+-
+0
+
+LIV
+ 
+W
+Saturday 15 January 2000
+WAT
+
+2
+-
+3
+
+LIV
+ 
+D
+Saturday 22 January 2000
+LIV
+
+0
+-
+0
+
+MID
+5 
+Previous Position 5
+
+Sunderland
+23	11	5	7	37	31	6	38	
+L
+Sunday 26 December 1999
+EVE
+
+5
+-
+0
+
+SUN
+ 
+D
+Tuesday 28 December 1999
+SUN
+
+2
+-
+2
+
+MUN
+ 
+L
+Monday 3 January 2000
+WIM
+
+1
+-
+0
+
+SUN
+ 
+L
+Saturday 15 January 2000
+ARS
+
+4
+-
+1
+
+SUN
+ 
+L
+Sunday 23 January 2000
+SUN
+
+1
+-
+2
+
+LEE
+6 
+Previous Position 6
+
+Chelsea
+23	10	7	6	31	22	9	37	
+D
+Tuesday 4 January 2000
+COV
+
+2
+-
+2
+
+CHE
+ 
+D
+Saturday 8 January 2000
+BRA
+
+1
+-
+1
+
+CHE
+ 
+W
+Wednesday 12 January 2000
+CHE
+
+1
+-
+0
+
+TOT
+ 
+D
+Saturday 15 January 2000
+CHE
+
+1
+-
+1
+
+LEI
+ 
+D
+Saturday 22 January 2000
+AVL
+
+0
+-
+0
+
+CHE
+7 
+Previous Position 7
+
+Tottenham Hotspur
+23	10	5	8	34	27	7	35	
+D
+Wednesday 29 December 1999
+AVL
+
+1
+-
+1
+
+TOT
+ 
+W
+Monday 3 January 2000
+TOT
+
+1
+-
+0
+
+LIV
+ 
+L
+Wednesday 12 January 2000
+CHE
+
+1
+-
+0
+
+TOT
+ 
+D
+Saturday 15 January 2000
+EVE
+
+2
+-
+2
+
+TOT
+ 
+L
+Saturday 22 January 2000
+TOT
+
+0
+-
+1
+
+SHW
+8 
+Previous Position 11
+
+West Ham United
+22	8	8	6	28	25	3	32	
+D
+Sunday 26 December 1999
+WIM
+
+2
+-
+2
+
+WHU
+ 
+D
+Tuesday 28 December 1999
+WHU
+
+1
+-
+1
+
+DER
+ 
+D
+Monday 3 January 2000
+NEW
+
+2
+-
+2
+
+WHU
+ 
+D
+Saturday 15 January 2000
+WHU
+
+1
+-
+1
+
+AVL
+ 
+W
+Saturday 22 January 2000
+LEI
+
+1
+-
+3
+
+WHU
+9 
+Previous Position 10
+
+Aston Villa
+23	8	7	8	22	23	-1	31	
+W
+Sunday 26 December 1999
+DER
+
+0
+-
+2
+
+AVL
+ 
+D
+Wednesday 29 December 1999
+AVL
+
+1
+-
+1
+
+TOT
+ 
+W
+Monday 3 January 2000
+LEE
+
+1
+-
+2
+
+AVL
+ 
+D
+Saturday 15 January 2000
+WHU
+
+1
+-
+1
+
+AVL
+ 
+D
+Saturday 22 January 2000
+AVL
+
+0
+-
+0
+
+CHE
+10 
+Previous Position 8
+
+Leicester City
+23	9	4	10	32	34	-2	31	
+L
+Sunday 26 December 1999
+LEE
+
+2
+-
+1
+
+LEI
+ 
+L
+Tuesday 28 December 1999
+LEI
+
+1
+-
+2
+
+NEW
+ 
+D
+Monday 3 January 2000
+EVE
+
+2
+-
+2
+
+LEI
+ 
+D
+Saturday 15 January 2000
+CHE
+
+1
+-
+1
+
+LEI
+ 
+L
+Saturday 22 January 2000
+LEI
+
+1
+-
+3
+
+WHU
+11 
+Previous Position 9
+
+Everton
+23	7	9	7	37	34	3	30	
+W
+Sunday 26 December 1999
+EVE
+
+5
+-
+0
+
+SUN
+ 
+D
+Tuesday 28 December 1999
+BRA
+
+0
+-
+0
+
+EVE
+ 
+D
+Monday 3 January 2000
+EVE
+
+2
+-
+2
+
+LEI
+ 
+D
+Saturday 15 January 2000
+EVE
+
+2
+-
+2
+
+TOT
+ 
+L
+Saturday 22 January 2000
+SOU
+
+2
+-
+0
+
+EVE
+12 
+Previous Position 12
+
+Coventry City
+22	7	8	7	30	24	6	29	
+L
+Saturday 18 December 1999
+LIV
+
+2
+-
+0
+
+COV
+ 
+W
+Sunday 26 December 1999
+COV
+
+3
+-
+2
+
+ARS
+ 
+D
+Tuesday 4 January 2000
+COV
+
+2
+-
+2
+
+CHE
+ 
+W
+Saturday 15 January 2000
+COV
+
+2
+-
+0
+
+WIM
+ 
+D
+Saturday 22 January 2000
+DER
+
+0
+-
+0
+
+COV
+13 
+Previous Position 15
+
+Wimbledon
+23	6	10	7	34	37	-3	28	
+D
+Sunday 26 December 1999
+WIM
+
+2
+-
+2
+
+WHU
+ 
+L
+Tuesday 28 December 1999
+LIV
+
+3
+-
+1
+
+WIM
+ 
+W
+Monday 3 January 2000
+WIM
+
+1
+-
+0
+
+SUN
+ 
+L
+Saturday 15 January 2000
+COV
+
+2
+-
+0
+
+WIM
+ 
+W
+Saturday 22 January 2000
+WIM
+
+2
+-
+0
+
+NEW
+14 
+Previous Position 14
+
+Middlesbrough
+22	8	4	10	24	31	-7	28	
+W
+Saturday 18 December 1999
+MID
+
+2
+-
+1
+
+TOT
+ 
+L
+Sunday 26 December 1999
+SHW
+
+1
+-
+0
+
+MID
+ 
+L
+Saturday 15 January 2000
+MID
+
+1
+-
+4
+
+DER
+ 
+D
+Saturday 22 January 2000
+LIV
+
+0
+-
+0
+
+MID
+ 
+L
+Saturday 29 January 2000
+MUN
+
+1
+-
+0
+
+MID
+15 
+Previous Position 13
+
+Newcastle United
+23	7	6	10	39	39	0	27	
+D
+Sunday 26 December 1999
+NEW
+
+2
+-
+2
+
+LIV
+ 
+W
+Tuesday 28 December 1999
+LEI
+
+1
+-
+2
+
+NEW
+ 
+D
+Monday 3 January 2000
+NEW
+
+2
+-
+2
+
+WHU
+ 
+W
+Sunday 16 January 2000
+NEW
+
+5
+-
+0
+
+SOU
+ 
+L
+Saturday 22 January 2000
+WIM
+
+2
+-
+0
+
+NEW
+16 
+Previous Position 16
+
+Derby County
+23	6	5	12	23	33	-10	23	
+L
+Sunday 26 December 1999
+DER
+
+0
+-
+2
+
+AVL
+ 
+D
+Tuesday 28 December 1999
+WHU
+
+1
+-
+1
+
+DER
+ 
+W
+Monday 3 January 2000
+DER
+
+2
+-
+0
+
+WAT
+ 
+W
+Saturday 15 January 2000
+MID
+
+1
+-
+4
+
+DER
+ 
+D
+Saturday 22 January 2000
+DER
+
+0
+-
+0
+
+COV
+17 
+Previous Position 17
+
+Southampton
+22	6	5	11	26	37	-11	23	
+L
+Sunday 26 December 1999
+SOU
+
+1
+-
+2
+
+CHE
+ 
+L
+Tuesday 28 December 1999
+WAT
+
+3
+-
+2
+
+SOU
+ 
+W
+Monday 3 January 2000
+SOU
+
+1
+-
+0
+
+BRA
+ 
+L
+Sunday 16 January 2000
+NEW
+
+5
+-
+0
+
+SOU
+ 
+W
+Saturday 22 January 2000
+SOU
+
+2
+-
+0
+
+EVE
+18 
+Previous Position 18
+
+Bradford City
+23	5	6	12	19	35	-16	21	
+D
+Tuesday 28 December 1999
+BRA
+
+0
+-
+0
+
+EVE
+ 
+L
+Monday 3 January 2000
+SOU
+
+1
+-
+0
+
+BRA
+ 
+D
+Saturday 8 January 2000
+BRA
+
+1
+-
+1
+
+CHE
+ 
+L
+Saturday 15 January 2000
+SHW
+
+2
+-
+0
+
+BRA
+ 
+W
+Saturday 22 January 2000
+BRA
+
+3
+-
+2
+
+WAT
+19 
+Previous Position 20
+
+Sheffield Wednesday
+23	4	4	15	20	47	-27	16	
+L
+Wednesday 29 December 1999
+CHE
+
+3
+-
+0
+
+SHW
+ 
+D
+Monday 3 January 2000
+SHW
+
+1
+-
+1
+
+ARS
+ 
+W
+Saturday 15 January 2000
+SHW
+
+2
+-
+0
+
+BRA
+ 
+W
+Saturday 22 January 2000
+TOT
+
+0
+-
+1
+
+SHW
+ 
+L
+Wednesday 2 February 2000
+SHW
+
+0
+-
+1
+
+MUN
+20 
+Previous Position 19
+
+Watford
+23	4	2	17	21	50	-29	14	
+L
+Sunday 26 December 1999
+TOT
+
+4
+-
+0
+
+WAT
+ 
+W
+Tuesday 28 December 1999
+WAT
+
+3
+-
+2
+
+SOU
+ 
+L
+Monday 3 January 2000
+DER
+
+2
+-
+0
+
+WAT
+ 
+L
+Saturday 15 January 2000
+WAT
+
+2
+-
+3
+
+LIV
+ 
+L
+Saturday 22 January 2000
+BRA
+
+3
+-
+2
+
+WAT

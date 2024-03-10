@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Manchester United
+22	15	5	2	51	16	35	50	
+L
+Sunday 17 December 2000
+MUN
+
+0
+-
+1
+
+LIV
+ 
+W
+Saturday 23 December 2000
+MUN
+
+2
+-
+0
+
+IPS
+ 
+W
+Tuesday 26 December 2000
+AVL
+
+0
+-
+1
+
+MUN
+ 
+D
+Saturday 30 December 2000
+NEW
+
+1
+-
+1
+
+MUN
+ 
+W
+Monday 1 January 2001
+MUN
+
+3
+-
+1
+
+WHU
+2 
+Previous Position 2
+
+Arsenal
+22	11	6	5	38	22	16	39	
+D
+Monday 18 December 2000
+TOT
+
+1
+-
+1
+
+ARS
+ 
+L
+Saturday 23 December 2000
+LIV
+
+4
+-
+0
+
+ARS
+ 
+W
+Tuesday 26 December 2000
+ARS
+
+6
+-
+1
+
+LEI
+ 
+D
+Saturday 30 December 2000
+ARS
+
+2
+-
+2
+
+SUN
+ 
+L
+Monday 1 January 2001
+CHA
+
+1
+-
+0
+
+ARS
+3 
+Previous Position 4
+
+Sunderland
+22	11	6	5	29	22	7	39	
+L
+Saturday 16 December 2000
+LEE
+
+2
+-
+0
+
+SUN
+ 
+W
+Saturday 23 December 2000
+SUN
+
+1
+-
+0
+
+MCI
+ 
+W
+Tuesday 26 December 2000
+BRA
+
+1
+-
+4
+
+SUN
+ 
+D
+Saturday 30 December 2000
+ARS
+
+2
+-
+2
+
+SUN
+ 
+W
+Monday 1 January 2001
+SUN
+
+4
+-
+1
+
+IPS
+4 
+Previous Position 3
+
+Ipswich Town
+22	11	4	7	33	26	7	37	
+W
+Saturday 16 December 2000
+IPS
+
+3
+-
+1
+
+SOU
+ 
+L
+Saturday 23 December 2000
+MUN
+
+2
+-
+0
+
+IPS
+ 
+D
+Tuesday 26 December 2000
+IPS
+
+2
+-
+2
+
+CHE
+ 
+W
+Saturday 30 December 2000
+IPS
+
+3
+-
+0
+
+TOT
+ 
+L
+Monday 1 January 2001
+SUN
+
+4
+-
+1
+
+IPS
+5 
+Previous Position 6
+
+Liverpool
+21	11	3	7	39	26	13	36	
+L
+Sunday 10 December 2000
+LIV
+
+0
+-
+1
+
+IPS
+ 
+W
+Sunday 17 December 2000
+MUN
+
+0
+-
+1
+
+LIV
+ 
+W
+Saturday 23 December 2000
+LIV
+
+4
+-
+0
+
+ARS
+ 
+L
+Tuesday 26 December 2000
+MID
+
+1
+-
+0
+
+LIV
+ 
+W
+Monday 1 January 2001
+LIV
+
+2
+-
+1
+
+SOU
+6 
+Previous Position 5
+
+Leicester City
+21	10	5	6	24	23	1	35	
+L
+Sunday 10 December 2000
+COV
+
+1
+-
+0
+
+LEI
+ 
+W
+Saturday 16 December 2000
+LEI
+
+3
+-
+1
+
+CHA
+ 
+W
+Saturday 23 December 2000
+LEI
+
+2
+-
+1
+
+WHU
+ 
+L
+Tuesday 26 December 2000
+ARS
+
+6
+-
+1
+
+LEI
+ 
+L
+Monday 1 January 2001
+LEI
+
+1
+-
+2
+
+BRA
+7 
+Previous Position 10
+
+Charlton Athletic
+22	9	4	9	31	36	-5	31	
+L
+Saturday 16 December 2000
+LEI
+
+3
+-
+1
+
+CHA
+ 
+W
+Saturday 23 December 2000
+CHA
+
+1
+-
+0
+
+EVE
+ 
+L
+Tuesday 26 December 2000
+WHU
+
+5
+-
+0
+
+CHA
+ 
+W
+Saturday 30 December 2000
+MCI
+
+1
+-
+4
+
+CHA
+ 
+W
+Monday 1 January 2001
+CHA
+
+1
+-
+0
+
+ARS
+8 
+Previous Position 7
+
+Newcastle United
+22	9	4	9	25	30	-5	31	
+W
+Saturday 16 December 2000
+NEW
+
+2
+-
+1
+
+BRA
+ 
+L
+Saturday 23 December 2000
+DER
+
+2
+-
+0
+
+NEW
+ 
+W
+Tuesday 26 December 2000
+NEW
+
+2
+-
+1
+
+LEE
+ 
+D
+Saturday 30 December 2000
+NEW
+
+1
+-
+1
+
+MUN
+ 
+L
+Tuesday 2 January 2001
+TOT
+
+4
+-
+2
+
+NEW
+9 
+Previous Position 11
+
+Chelsea
+21	8	6	7	38	27	11	30	
+W
+Saturday 9 December 2000
+CHE
+
+4
+-
+1
+
+DER
+ 
+L
+Saturday 16 December 2000
+MID
+
+1
+-
+0
+
+CHE
+ 
+W
+Saturday 23 December 2000
+CHE
+
+3
+-
+0
+
+BRA
+ 
+D
+Tuesday 26 December 2000
+IPS
+
+2
+-
+2
+
+CHE
+ 
+W
+Monday 1 January 2001
+CHE
+
+1
+-
+0
+
+AVL
+10 
+Previous Position 8
+
+West Ham United
+21	7	8	6	31	24	7	29	
+D
+Saturday 9 December 2000
+WHU
+
+1
+-
+1
+
+AVL
+ 
+D
+Saturday 16 December 2000
+EVE
+
+1
+-
+1
+
+WHU
+ 
+L
+Saturday 23 December 2000
+LEI
+
+2
+-
+1
+
+WHU
+ 
+W
+Tuesday 26 December 2000
+WHU
+
+5
+-
+0
+
+CHA
+ 
+L
+Monday 1 January 2001
+MUN
+
+3
+-
+1
+
+WHU
+11 
+Previous Position 9
+
+Aston Villa
+20	7	8	5	23	19	4	29	
+D
+Saturday 9 December 2000
+WHU
+
+1
+-
+1
+
+AVL
+ 
+D
+Saturday 16 December 2000
+AVL
+
+2
+-
+2
+
+MCI
+ 
+W
+Saturday 23 December 2000
+LEE
+
+1
+-
+2
+
+AVL
+ 
+L
+Tuesday 26 December 2000
+AVL
+
+0
+-
+1
+
+MUN
+ 
+L
+Monday 1 January 2001
+CHE
+
+1
+-
+0
+
+AVL
+12 
+Previous Position 13
+
+Tottenham Hotspur
+22	8	5	9	30	34	-4	29	
+D
+Monday 18 December 2000
+TOT
+
+1
+-
+1
+
+ARS
+ 
+D
+Saturday 23 December 2000
+TOT
+
+0
+-
+0
+
+MID
+ 
+L
+Wednesday 27 December 2000
+SOU
+
+2
+-
+0
+
+TOT
+ 
+L
+Saturday 30 December 2000
+IPS
+
+3
+-
+0
+
+TOT
+ 
+W
+Tuesday 2 January 2001
+TOT
+
+4
+-
+2
+
+NEW
+13 
+Previous Position 12
+
+Southampton
+22	7	6	9	28	34	-6	27	
+L
+Saturday 16 December 2000
+IPS
+
+3
+-
+1
+
+SOU
+ 
+D
+Friday 22 December 2000
+COV
+
+1
+-
+1
+
+SOU
+ 
+W
+Wednesday 27 December 2000
+SOU
+
+2
+-
+0
+
+TOT
+ 
+W
+Saturday 30 December 2000
+SOU
+
+1
+-
+0
+
+DER
+ 
+L
+Monday 1 January 2001
+LIV
+
+2
+-
+1
+
+SOU
+14 
+Previous Position 14
+
+Leeds United
+20	7	5	8	27	28	-1	26	
+L
+Saturday 9 December 2000
+SOU
+
+1
+-
+0
+
+LEE
+ 
+W
+Saturday 16 December 2000
+LEE
+
+2
+-
+0
+
+SUN
+ 
+L
+Saturday 23 December 2000
+LEE
+
+1
+-
+2
+
+AVL
+ 
+L
+Tuesday 26 December 2000
+NEW
+
+2
+-
+1
+
+LEE
+ 
+D
+Monday 1 January 2001
+LEE
+
+1
+-
+1
+
+MID
+15 
+Previous Position 16
+
+Derby County
+22	5	8	9	24	36	-12	23	
+W
+Saturday 16 December 2000
+DER
+
+1
+-
+0
+
+COV
+ 
+W
+Saturday 23 December 2000
+DER
+
+2
+-
+0
+
+NEW
+ 
+D
+Tuesday 26 December 2000
+MCI
+
+0
+-
+0
+
+DER
+ 
+L
+Saturday 30 December 2000
+SOU
+
+1
+-
+0
+
+DER
+ 
+W
+Monday 1 January 2001
+DER
+
+1
+-
+0
+
+EVE
+16 
+Previous Position 15
+
+Everton
+21	6	4	11	21	33	-12	22	
+L
+Saturday 9 December 2000
+MCI
+
+5
+-
+0
+
+EVE
+ 
+D
+Saturday 16 December 2000
+EVE
+
+1
+-
+1
+
+WHU
+ 
+L
+Saturday 23 December 2000
+CHA
+
+1
+-
+0
+
+EVE
+ 
+L
+Tuesday 26 December 2000
+EVE
+
+1
+-
+2
+
+COV
+ 
+L
+Monday 1 January 2001
+DER
+
+1
+-
+0
+
+EVE
+17 
+Previous Position 17
+
+Coventry City
+22	5	6	11	21	37	-16	21	
+L
+Saturday 16 December 2000
+DER
+
+1
+-
+0
+
+COV
+ 
+D
+Friday 22 December 2000
+COV
+
+1
+-
+1
+
+SOU
+ 
+W
+Tuesday 26 December 2000
+EVE
+
+1
+-
+2
+
+COV
+ 
+D
+Saturday 30 December 2000
+MID
+
+1
+-
+1
+
+COV
+ 
+D
+Monday 1 January 2001
+COV
+
+1
+-
+1
+
+MCI
+18 
+Previous Position 18
+
+Middlesbrough
+22	4	8	10	23	30	-7	20	
+W
+Saturday 16 December 2000
+MID
+
+1
+-
+0
+
+CHE
+ 
+D
+Saturday 23 December 2000
+TOT
+
+0
+-
+0
+
+MID
+ 
+W
+Tuesday 26 December 2000
+MID
+
+1
+-
+0
+
+LIV
+ 
+D
+Saturday 30 December 2000
+MID
+
+1
+-
+1
+
+COV
+ 
+D
+Monday 1 January 2001
+LEE
+
+1
+-
+1
+
+MID
+19 
+Previous Position 19
+
+Manchester City
+22	5	5	12	27	38	-11	20	
+D
+Saturday 16 December 2000
+AVL
+
+2
+-
+2
+
+MCI
+ 
+L
+Saturday 23 December 2000
+SUN
+
+1
+-
+0
+
+MCI
+ 
+D
+Tuesday 26 December 2000
+MCI
+
+0
+-
+0
+
+DER
+ 
+L
+Saturday 30 December 2000
+MCI
+
+1
+-
+4
+
+CHA
+ 
+D
+Monday 1 January 2001
+COV
+
+1
+-
+1
+
+MCI
+20 
+Previous Position 20
+
+Bradford City
+21	3	6	12	16	38	-22	15	
+D
+Saturday 9 December 2000
+BRA
+
+3
+-
+3
+
+TOT
+ 
+L
+Saturday 16 December 2000
+NEW
+
+2
+-
+1
+
+BRA
+ 
+L
+Saturday 23 December 2000
+CHE
+
+3
+-
+0
+
+BRA
+ 
+L
+Tuesday 26 December 2000
+BRA
+
+1
+-
+4
+
+SUN
+ 
+W
+Monday 1 January 2001
+LEI
+
+1
+-
+2
+
+BRA

@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Manchester United
+8	6	2	0	20	7	13	20	
+W
+Sunday 22 August 1999
+ARS
+
+1
+-
+2
+
+MUN
+ 
+W
+Wednesday 25 August 1999
+COV
+
+1
+-
+2
+
+MUN
+ 
+W
+Monday 30 August 1999
+MUN
+
+5
+-
+1
+
+NEW
+ 
+W
+Saturday 11 September 1999
+LIV
+
+2
+-
+3
+
+MUN
+ 
+D
+Saturday 18 September 1999
+MUN
+
+1
+-
+1
+
+WIM
+2 
+Previous Position 4
+
+Leeds United
+8	5	1	2	14	9	5	16	
+W
+Saturday 21 August 1999
+LEE
+
+2
+-
+1
+
+SUN
+ 
+L
+Monday 23 August 1999
+LEE
+
+1
+-
+2
+
+LIV
+ 
+W
+Saturday 28 August 1999
+TOT
+
+1
+-
+2
+
+LEE
+ 
+W
+Saturday 11 September 1999
+COV
+
+3
+-
+4
+
+LEE
+ 
+W
+Sunday 19 September 1999
+LEE
+
+2
+-
+0
+
+MID
+3 
+Previous Position 5
+
+Arsenal
+8	5	1	2	11	7	4	16	
+L
+Sunday 22 August 1999
+ARS
+
+1
+-
+2
+
+MUN
+ 
+W
+Wednesday 25 August 1999
+ARS
+
+2
+-
+0
+
+BRA
+ 
+L
+Saturday 28 August 1999
+LIV
+
+2
+-
+0
+
+ARS
+ 
+W
+Saturday 11 September 1999
+ARS
+
+3
+-
+1
+
+AVL
+ 
+W
+Saturday 18 September 1999
+SOU
+
+0
+-
+1
+
+ARS
+4 
+Previous Position 6
+
+Aston Villa
+8	5	1	2	10	6	4	16	
+L
+Saturday 21 August 1999
+CHE
+
+1
+-
+0
+
+AVL
+ 
+W
+Tuesday 24 August 1999
+WAT
+
+0
+-
+1
+
+AVL
+ 
+W
+Saturday 28 August 1999
+AVL
+
+1
+-
+0
+
+MID
+ 
+L
+Saturday 11 September 1999
+ARS
+
+3
+-
+1
+
+AVL
+ 
+W
+Saturday 18 September 1999
+AVL
+
+1
+-
+0
+
+BRA
+5 
+Previous Position 8
+
+Sunderland
+8	4	2	2	13	8	5	14	
+L
+Saturday 21 August 1999
+LEE
+
+2
+-
+1
+
+SUN
+ 
+W
+Wednesday 25 August 1999
+NEW
+
+1
+-
+2
+
+SUN
+ 
+D
+Sunday 29 August 1999
+SUN
+
+1
+-
+1
+
+COV
+ 
+W
+Saturday 11 September 1999
+SUN
+
+2
+-
+0
+
+LEI
+ 
+W
+Saturday 18 September 1999
+DER
+
+0
+-
+5
+
+SUN
+6 
+Previous Position 2
+
+Chelsea
+6	4	1	1	9	3	6	13	
+D
+Saturday 14 August 1999
+LEI
+
+2
+-
+2
+
+CHE
+ 
+W
+Saturday 21 August 1999
+CHE
+
+1
+-
+0
+
+AVL
+ 
+W
+Saturday 28 August 1999
+WIM
+
+0
+-
+1
+
+CHE
+ 
+W
+Saturday 11 September 1999
+CHE
+
+1
+-
+0
+
+NEW
+ 
+L
+Saturday 18 September 1999
+WAT
+
+1
+-
+0
+
+CHE
+7 
+Previous Position 9
+
+Everton
+8	4	1	3	14	9	5	13	
+W
+Saturday 21 August 1999
+EVE
+
+4
+-
+1
+
+SOU
+ 
+W
+Wednesday 25 August 1999
+EVE
+
+4
+-
+0
+
+WIM
+ 
+L
+Saturday 28 August 1999
+DER
+
+1
+-
+0
+
+EVE
+ 
+W
+Saturday 11 September 1999
+SHW
+
+0
+-
+2
+
+EVE
+ 
+W
+Sunday 19 September 1999
+EVE
+
+1
+-
+0
+
+WHU
+8 
+Previous Position 3
+
+West Ham United
+6	4	1	1	9	4	5	13	
+D
+Monday 16 August 1999
+AVL
+
+2
+-
+2
+
+WHU
+ 
+W
+Saturday 21 August 1999
+WHU
+
+2
+-
+1
+
+LEI
+ 
+W
+Saturday 28 August 1999
+BRA
+
+0
+-
+3
+
+WHU
+ 
+W
+Saturday 11 September 1999
+WHU
+
+1
+-
+0
+
+WAT
+ 
+L
+Sunday 19 September 1999
+EVE
+
+1
+-
+0
+
+WHU
+9 
+Previous Position 10
+
+Tottenham Hotspur
+7	4	1	2	13	10	3	13	
+W
+Saturday 14 August 1999
+TOT
+
+3
+-
+2
+
+EVE
+ 
+W
+Saturday 21 August 1999
+SHW
+
+1
+-
+2
+
+TOT
+ 
+L
+Saturday 28 August 1999
+TOT
+
+1
+-
+2
+
+LEE
+ 
+D
+Sunday 12 September 1999
+BRA
+
+1
+-
+1
+
+TOT
+ 
+W
+Sunday 19 September 1999
+TOT
+
+3
+-
+2
+
+COV
+10 
+Previous Position 7
+
+Middlesbrough
+8	4	0	4	10	12	-2	12	
+W
+Saturday 21 August 1999
+MID
+
+1
+-
+0
+
+LIV
+ 
+L
+Tuesday 24 August 1999
+MID
+
+0
+-
+3
+
+LEI
+ 
+L
+Saturday 28 August 1999
+AVL
+
+1
+-
+0
+
+MID
+ 
+W
+Saturday 11 September 1999
+MID
+
+3
+-
+2
+
+SOU
+ 
+L
+Sunday 19 September 1999
+LEE
+
+2
+-
+0
+
+MID
+11 
+Previous Position 11
+
+Leicester City
+8	3	2	3	11	10	1	11	
+L
+Saturday 21 August 1999
+WHU
+
+2
+-
+1
+
+LEI
+ 
+W
+Tuesday 24 August 1999
+MID
+
+0
+-
+3
+
+LEI
+ 
+W
+Monday 30 August 1999
+LEI
+
+1
+-
+0
+
+WAT
+ 
+L
+Saturday 11 September 1999
+SUN
+
+2
+-
+0
+
+LEI
+ 
+D
+Saturday 18 September 1999
+LEI
+
+2
+-
+2
+
+LIV
+12 
+Previous Position 12
+
+Liverpool
+7	3	1	3	10	9	1	10	
+L
+Saturday 21 August 1999
+MID
+
+1
+-
+0
+
+LIV
+ 
+W
+Monday 23 August 1999
+LEE
+
+1
+-
+2
+
+LIV
+ 
+W
+Saturday 28 August 1999
+LIV
+
+2
+-
+0
+
+ARS
+ 
+L
+Saturday 11 September 1999
+LIV
+
+2
+-
+3
+
+MUN
+ 
+D
+Saturday 18 September 1999
+LEI
+
+2
+-
+2
+
+LIV
+13 
+Previous Position 13
+
+Southampton
+7	3	0	4	10	13	-3	9	
+W
+Sunday 15 August 1999
+SOU
+
+4
+-
+2
+
+NEW
+ 
+L
+Saturday 21 August 1999
+EVE
+
+4
+-
+1
+
+SOU
+ 
+W
+Saturday 28 August 1999
+SOU
+
+2
+-
+0
+
+SHW
+ 
+L
+Saturday 11 September 1999
+MID
+
+3
+-
+2
+
+SOU
+ 
+L
+Saturday 18 September 1999
+SOU
+
+0
+-
+1
+
+ARS
+14 
+Previous Position 15
+
+Watford
+8	3	0	5	5	8	-3	9	
+W
+Saturday 21 August 1999
+WAT
+
+1
+-
+0
+
+BRA
+ 
+L
+Tuesday 24 August 1999
+WAT
+
+0
+-
+1
+
+AVL
+ 
+L
+Monday 30 August 1999
+LEI
+
+1
+-
+0
+
+WAT
+ 
+L
+Saturday 11 September 1999
+WHU
+
+1
+-
+0
+
+WAT
+ 
+W
+Saturday 18 September 1999
+WAT
+
+1
+-
+0
+
+CHE
+15 
+Previous Position 14
+
+Derby County
+8	2	2	4	7	14	-7	8	
+L
+Saturday 21 August 1999
+COV
+
+2
+-
+0
+
+DER
+ 
+W
+Wednesday 25 August 1999
+SHW
+
+0
+-
+2
+
+DER
+ 
+W
+Saturday 28 August 1999
+DER
+
+1
+-
+0
+
+EVE
+ 
+D
+Saturday 11 September 1999
+WIM
+
+2
+-
+2
+
+DER
+ 
+L
+Saturday 18 September 1999
+DER
+
+0
+-
+5
+
+SUN
+16 
+Previous Position 16
+
+Wimbledon
+8	1	4	3	12	17	-5	7	
+D
+Saturday 21 August 1999
+NEW
+
+3
+-
+3
+
+WIM
+ 
+L
+Wednesday 25 August 1999
+EVE
+
+4
+-
+0
+
+WIM
+ 
+L
+Saturday 28 August 1999
+WIM
+
+0
+-
+1
+
+CHE
+ 
+D
+Saturday 11 September 1999
+WIM
+
+2
+-
+2
+
+DER
+ 
+D
+Saturday 18 September 1999
+MUN
+
+1
+-
+1
+
+WIM
+17 
+Previous Position 17
+
+Coventry City
+8	1	2	5	10	13	-3	5	
+W
+Saturday 21 August 1999
+COV
+
+2
+-
+0
+
+DER
+ 
+L
+Wednesday 25 August 1999
+COV
+
+1
+-
+2
+
+MUN
+ 
+D
+Sunday 29 August 1999
+SUN
+
+1
+-
+1
+
+COV
+ 
+L
+Saturday 11 September 1999
+COV
+
+3
+-
+4
+
+LEE
+ 
+L
+Sunday 19 September 1999
+TOT
+
+3
+-
+2
+
+COV
+18 
+Previous Position 18
+
+Bradford City
+7	1	2	4	3	9	-6	5	
+L
+Saturday 21 August 1999
+WAT
+
+1
+-
+0
+
+BRA
+ 
+L
+Wednesday 25 August 1999
+ARS
+
+2
+-
+0
+
+BRA
+ 
+L
+Saturday 28 August 1999
+BRA
+
+0
+-
+3
+
+WHU
+ 
+D
+Sunday 12 September 1999
+BRA
+
+1
+-
+1
+
+TOT
+ 
+L
+Saturday 18 September 1999
+AVL
+
+1
+-
+0
+
+BRA
+19 
+Previous Position 19
+
+Newcastle United
+8	1	1	6	16	19	-3	4	
+D
+Saturday 21 August 1999
+NEW
+
+3
+-
+3
+
+WIM
+ 
+L
+Wednesday 25 August 1999
+NEW
+
+1
+-
+2
+
+SUN
+ 
+L
+Monday 30 August 1999
+MUN
+
+5
+-
+1
+
+NEW
+ 
+L
+Saturday 11 September 1999
+CHE
+
+1
+-
+0
+
+NEW
+ 
+W
+Sunday 19 September 1999
+NEW
+
+8
+-
+0
+
+SHW
+20 
+Previous Position 20
+
+Sheffield Wednesday
+8	0	1	7	3	23	-20	1	
+L
+Saturday 21 August 1999
+SHW
+
+1
+-
+2
+
+TOT
+ 
+L
+Wednesday 25 August 1999
+SHW
+
+0
+-
+2
+
+DER
+ 
+L
+Saturday 28 August 1999
+SOU
+
+2
+-
+0
+
+SHW
+ 
+L
+Saturday 11 September 1999
+SHW
+
+0
+-
+2
+
+EVE
+ 
+L
+Sunday 19 September 1999
+NEW
+
+8
+-
+0
+
+SHW
