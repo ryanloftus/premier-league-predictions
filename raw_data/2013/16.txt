@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Arsenal
+16	11	2	3	33	17	16	35	
+W
+Saturday 23 November 2013
+ARS
+
+2
+-
+0
+
+SOU
+ 
+W
+Saturday 30 November 2013
+CAR
+
+0
+-
+3
+
+ARS
+ 
+W
+Wednesday 4 December 2013
+ARS
+
+2
+-
+0
+
+HUL
+ 
+D
+Sunday 8 December 2013
+ARS
+
+1
+-
+1
+
+EVE
+ 
+L
+Saturday 14 December 2013
+MCI
+
+6
+-
+3
+
+ARS
+2 
+Previous Position 2
+
+Liverpool
+16	10	3	3	39	18	21	33	
+D
+Saturday 23 November 2013
+EVE
+
+3
+-
+3
+
+LIV
+ 
+L
+Sunday 1 December 2013
+HUL
+
+3
+-
+1
+
+LIV
+ 
+W
+Wednesday 4 December 2013
+LIV
+
+5
+-
+1
+
+NOR
+ 
+W
+Saturday 7 December 2013
+LIV
+
+4
+-
+1
+
+WHU
+ 
+W
+Sunday 15 December 2013
+TOT
+
+0
+-
+5
+
+LIV
+3 
+Previous Position 3
+
+Chelsea
+16	10	3	3	32	18	14	33	
+W
+Saturday 23 November 2013
+WHU
+
+0
+-
+3
+
+CHE
+ 
+W
+Sunday 1 December 2013
+CHE
+
+3
+-
+1
+
+SOU
+ 
+W
+Wednesday 4 December 2013
+SUN
+
+3
+-
+4
+
+CHE
+ 
+L
+Saturday 7 December 2013
+STK
+
+3
+-
+2
+
+CHE
+ 
+W
+Saturday 14 December 2013
+CHE
+
+2
+-
+1
+
+CRY
+4 
+Previous Position 4
+
+Manchester City
+16	10	2	4	47	18	29	32	
+W
+Sunday 24 November 2013
+MCI
+
+6
+-
+0
+
+TOT
+ 
+W
+Sunday 1 December 2013
+MCI
+
+3
+-
+0
+
+SWA
+ 
+W
+Wednesday 4 December 2013
+WBA
+
+2
+-
+3
+
+MCI
+ 
+D
+Saturday 7 December 2013
+SOU
+
+1
+-
+1
+
+MCI
+ 
+W
+Saturday 14 December 2013
+MCI
+
+6
+-
+3
+
+ARS
+5 
+Previous Position 5
+
+Everton
+16	8	7	1	27	15	12	31	
+D
+Saturday 23 November 2013
+EVE
+
+3
+-
+3
+
+LIV
+ 
+W
+Saturday 30 November 2013
+EVE
+
+4
+-
+0
+
+STK
+ 
+W
+Wednesday 4 December 2013
+MUN
+
+0
+-
+1
+
+EVE
+ 
+D
+Sunday 8 December 2013
+ARS
+
+1
+-
+1
+
+EVE
+ 
+W
+Saturday 14 December 2013
+EVE
+
+4
+-
+1
+
+FUL
+6 
+Previous Position 7
+
+Newcastle United
+16	8	3	5	21	22	-1	27	
+W
+Saturday 23 November 2013
+NEW
+
+2
+-
+1
+
+NOR
+ 
+W
+Saturday 30 November 2013
+NEW
+
+2
+-
+1
+
+WBA
+ 
+L
+Wednesday 4 December 2013
+SWA
+
+3
+-
+0
+
+NEW
+ 
+W
+Saturday 7 December 2013
+MUN
+
+0
+-
+1
+
+NEW
+ 
+D
+Saturday 14 December 2013
+NEW
+
+1
+-
+1
+
+SOU
+7 
+Previous Position 6
+
+Tottenham Hotspur
+16	8	3	5	15	21	-6	27	
+L
+Sunday 24 November 2013
+MCI
+
+6
+-
+0
+
+TOT
+ 
+D
+Sunday 1 December 2013
+TOT
+
+2
+-
+2
+
+MUN
+ 
+W
+Wednesday 4 December 2013
+FUL
+
+1
+-
+2
+
+TOT
+ 
+W
+Saturday 7 December 2013
+SUN
+
+1
+-
+2
+
+TOT
+ 
+L
+Sunday 15 December 2013
+TOT
+
+0
+-
+5
+
+LIV
+8 
+Previous Position 9
+
+Manchester United
+16	7	4	5	25	19	6	25	
+D
+Sunday 24 November 2013
+CAR
+
+2
+-
+2
+
+MUN
+ 
+D
+Sunday 1 December 2013
+TOT
+
+2
+-
+2
+
+MUN
+ 
+L
+Wednesday 4 December 2013
+MUN
+
+0
+-
+1
+
+EVE
+ 
+L
+Saturday 7 December 2013
+MUN
+
+0
+-
+1
+
+NEW
+ 
+W
+Sunday 15 December 2013
+AVL
+
+0
+-
+3
+
+MUN
+9 
+Previous Position 8
+
+Southampton
+16	6	6	4	20	15	5	24	
+L
+Saturday 23 November 2013
+ARS
+
+2
+-
+0
+
+SOU
+ 
+L
+Sunday 1 December 2013
+CHE
+
+3
+-
+1
+
+SOU
+ 
+L
+Wednesday 4 December 2013
+SOU
+
+2
+-
+3
+
+AVL
+ 
+D
+Saturday 7 December 2013
+SOU
+
+1
+-
+1
+
+MCI
+ 
+D
+Saturday 14 December 2013
+NEW
+
+1
+-
+1
+
+SOU
+10 
+Previous Position 10
+
+Swansea City
+16	5	5	6	22	21	1	20	
+W
+Saturday 23 November 2013
+FUL
+
+1
+-
+2
+
+SWA
+ 
+L
+Sunday 1 December 2013
+MCI
+
+3
+-
+0
+
+SWA
+ 
+W
+Wednesday 4 December 2013
+SWA
+
+3
+-
+0
+
+NEW
+ 
+D
+Monday 9 December 2013
+SWA
+
+1
+-
+1
+
+HUL
+ 
+D
+Sunday 15 December 2013
+NOR
+
+1
+-
+1
+
+SWA
+11 
+Previous Position 11
+
+Aston Villa
+16	5	4	7	16	21	-5	19	
+D
+Monday 25 November 2013
+WBA
+
+2
+-
+2
+
+AVL
+ 
+D
+Saturday 30 November 2013
+AVL
+
+0
+-
+0
+
+SUN
+ 
+W
+Wednesday 4 December 2013
+SOU
+
+2
+-
+3
+
+AVL
+ 
+L
+Sunday 8 December 2013
+FUL
+
+2
+-
+0
+
+AVL
+ 
+L
+Sunday 15 December 2013
+AVL
+
+0
+-
+3
+
+MUN
+12 
+Previous Position 12
+
+Hull City
+16	5	4	7	13	19	-6	19	
+L
+Saturday 23 November 2013
+HUL
+
+0
+-
+1
+
+CRY
+ 
+W
+Sunday 1 December 2013
+HUL
+
+3
+-
+1
+
+LIV
+ 
+L
+Wednesday 4 December 2013
+ARS
+
+2
+-
+0
+
+HUL
+ 
+D
+Monday 9 December 2013
+SWA
+
+1
+-
+1
+
+HUL
+ 
+D
+Saturday 14 December 2013
+HUL
+
+0
+-
+0
+
+STK
+13 
+Previous Position 13
+
+Stoke City
+16	4	6	6	15	20	-5	18	
+W
+Saturday 23 November 2013
+STK
+
+2
+-
+0
+
+SUN
+ 
+L
+Saturday 30 November 2013
+EVE
+
+4
+-
+0
+
+STK
+ 
+D
+Wednesday 4 December 2013
+STK
+
+0
+-
+0
+
+CAR
+ 
+W
+Saturday 7 December 2013
+STK
+
+3
+-
+2
+
+CHE
+ 
+D
+Saturday 14 December 2013
+HUL
+
+0
+-
+0
+
+STK
+14 
+Previous Position 14
+
+Norwich City
+16	5	3	8	15	29	-14	18	
+L
+Saturday 23 November 2013
+NEW
+
+2
+-
+1
+
+NOR
+ 
+W
+Saturday 30 November 2013
+NOR
+
+1
+-
+0
+
+CRY
+ 
+L
+Wednesday 4 December 2013
+LIV
+
+5
+-
+1
+
+NOR
+ 
+W
+Saturday 7 December 2013
+WBA
+
+0
+-
+2
+
+NOR
+ 
+D
+Sunday 15 December 2013
+NOR
+
+1
+-
+1
+
+SWA
+15 
+Previous Position 16
+
+Cardiff City
+16	4	5	7	12	22	-10	17	
+D
+Sunday 24 November 2013
+CAR
+
+2
+-
+2
+
+MUN
+ 
+L
+Saturday 30 November 2013
+CAR
+
+0
+-
+3
+
+ARS
+ 
+D
+Wednesday 4 December 2013
+STK
+
+0
+-
+0
+
+CAR
+ 
+L
+Saturday 7 December 2013
+CRY
+
+2
+-
+0
+
+CAR
+ 
+W
+Saturday 14 December 2013
+CAR
+
+1
+-
+0
+
+WBA
+16 
+Previous Position 15
+
+West Bromwich Albion
+16	3	6	7	17	22	-5	15	
+D
+Monday 25 November 2013
+WBA
+
+2
+-
+2
+
+AVL
+ 
+L
+Saturday 30 November 2013
+NEW
+
+2
+-
+1
+
+WBA
+ 
+L
+Wednesday 4 December 2013
+WBA
+
+2
+-
+3
+
+MCI
+ 
+L
+Saturday 7 December 2013
+WBA
+
+0
+-
+2
+
+NOR
+ 
+L
+Saturday 14 December 2013
+CAR
+
+1
+-
+0
+
+WBA
+17 
+Previous Position 17
+
+West Ham United
+16	3	5	8	13	19	-6	14	
+L
+Saturday 23 November 2013
+WHU
+
+0
+-
+3
+
+CHE
+ 
+W
+Saturday 30 November 2013
+WHU
+
+3
+-
+0
+
+FUL
+ 
+L
+Tuesday 3 December 2013
+CRY
+
+1
+-
+0
+
+WHU
+ 
+L
+Saturday 7 December 2013
+LIV
+
+4
+-
+1
+
+WHU
+ 
+D
+Saturday 14 December 2013
+WHU
+
+0
+-
+0
+
+SUN
+18 
+Previous Position 19
+
+Crystal Palace
+16	4	1	11	11	24	-13	13	
+W
+Saturday 23 November 2013
+HUL
+
+0
+-
+1
+
+CRY
+ 
+L
+Saturday 30 November 2013
+NOR
+
+1
+-
+0
+
+CRY
+ 
+W
+Tuesday 3 December 2013
+CRY
+
+1
+-
+0
+
+WHU
+ 
+W
+Saturday 7 December 2013
+CRY
+
+2
+-
+0
+
+CAR
+ 
+L
+Saturday 14 December 2013
+CHE
+
+2
+-
+1
+
+CRY
+19 
+Previous Position 18
+
+Fulham
+16	4	1	11	15	30	-15	13	
+L
+Saturday 23 November 2013
+FUL
+
+1
+-
+2
+
+SWA
+ 
+L
+Saturday 30 November 2013
+WHU
+
+3
+-
+0
+
+FUL
+ 
+L
+Wednesday 4 December 2013
+FUL
+
+1
+-
+2
+
+TOT
+ 
+W
+Sunday 8 December 2013
+FUL
+
+2
+-
+0
+
+AVL
+ 
+L
+Saturday 14 December 2013
+EVE
+
+4
+-
+1
+
+FUL
+20 
+Previous Position 20
+
+Sunderland
+16	2	3	11	12	30	-18	9	
+L
+Saturday 23 November 2013
+STK
+
+2
+-
+0
+
+SUN
+ 
+D
+Saturday 30 November 2013
+AVL
+
+0
+-
+0
+
+SUN
+ 
+L
+Wednesday 4 December 2013
+SUN
+
+3
+-
+4
+
+CHE
+ 
+L
+Saturday 7 December 2013
+SUN
+
+1
+-
+2
+
+TOT
+ 
+D
+Saturday 14 December 2013
+WHU
+
+0
+-
+0
+
+SUN

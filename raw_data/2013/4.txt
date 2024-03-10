@@ -1,0 +1,880 @@
+1 
+Previous Position 1
+
+Liverpool
+4	3	1	0	5	2	3	10	
+W
+Saturday 17 August 2013
+LIV
+
+1
+-
+0
+
+STK
+ 
+W
+Saturday 24 August 2013
+AVL
+
+0
+-
+1
+
+LIV
+ 
+W
+Sunday 1 September 2013
+LIV
+
+1
+-
+0
+
+MUN
+ 
+D
+Monday 16 September 2013
+SWA
+
+2
+-
+2
+
+LIV
+2 
+Previous Position 4
+
+Arsenal
+4	3	0	1	8	5	3	9	
+L
+Saturday 17 August 2013
+ARS
+
+1
+-
+3
+
+AVL
+ 
+W
+Saturday 24 August 2013
+FUL
+
+1
+-
+3
+
+ARS
+ 
+W
+Sunday 1 September 2013
+ARS
+
+1
+-
+0
+
+TOT
+ 
+W
+Saturday 14 September 2013
+SUN
+
+1
+-
+3
+
+ARS
+3 
+Previous Position 6
+
+Tottenham Hotspur
+4	3	0	1	4	1	3	9	
+W
+Sunday 18 August 2013
+CRY
+
+0
+-
+1
+
+TOT
+ 
+W
+Sunday 25 August 2013
+TOT
+
+1
+-
+0
+
+SWA
+ 
+L
+Sunday 1 September 2013
+ARS
+
+1
+-
+0
+
+TOT
+ 
+W
+Saturday 14 September 2013
+TOT
+
+2
+-
+0
+
+NOR
+4 
+Previous Position 3
+
+Manchester City
+4	2	1	1	8	3	5	7	
+W
+Monday 19 August 2013
+MCI
+
+4
+-
+0
+
+NEW
+ 
+L
+Sunday 25 August 2013
+CAR
+
+3
+-
+2
+
+MCI
+ 
+W
+Saturday 31 August 2013
+MCI
+
+2
+-
+0
+
+HUL
+ 
+D
+Saturday 14 September 2013
+STK
+
+0
+-
+0
+
+MCI
+5 
+Previous Position 7
+
+Manchester United
+4	2	1	1	6	2	4	7	
+W
+Saturday 17 August 2013
+SWA
+
+1
+-
+4
+
+MUN
+ 
+D
+Monday 26 August 2013
+MUN
+
+0
+-
+0
+
+CHE
+ 
+L
+Sunday 1 September 2013
+LIV
+
+1
+-
+0
+
+MUN
+ 
+W
+Saturday 14 September 2013
+MUN
+
+2
+-
+0
+
+CRY
+6 
+Previous Position 2
+
+Chelsea
+4	2	1	1	4	2	2	7	
+W
+Sunday 18 August 2013
+CHE
+
+2
+-
+0
+
+HUL
+ 
+W
+Wednesday 21 August 2013
+CHE
+
+2
+-
+1
+
+AVL
+ 
+D
+Monday 26 August 2013
+MUN
+
+0
+-
+0
+
+CHE
+ 
+L
+Saturday 14 September 2013
+EVE
+
+1
+-
+0
+
+CHE
+7 
+Previous Position 5
+
+Stoke City
+4	2	1	1	3	2	1	7	
+L
+Saturday 17 August 2013
+LIV
+
+1
+-
+0
+
+STK
+ 
+W
+Saturday 24 August 2013
+STK
+
+2
+-
+1
+
+CRY
+ 
+W
+Saturday 31 August 2013
+WHU
+
+0
+-
+1
+
+STK
+ 
+D
+Saturday 14 September 2013
+STK
+
+0
+-
+0
+
+MCI
+8 
+Previous Position 12
+
+Newcastle United
+4	2	1	1	3	5	-2	7	
+L
+Monday 19 August 2013
+MCI
+
+4
+-
+0
+
+NEW
+ 
+D
+Saturday 24 August 2013
+NEW
+
+0
+-
+0
+
+WHU
+ 
+W
+Saturday 31 August 2013
+NEW
+
+1
+-
+0
+
+FUL
+ 
+W
+Saturday 14 September 2013
+AVL
+
+1
+-
+2
+
+NEW
+9 
+Previous Position 15
+
+Everton
+4	1	3	0	3	2	1	6	
+D
+Saturday 17 August 2013
+NOR
+
+2
+-
+2
+
+EVE
+ 
+D
+Saturday 24 August 2013
+EVE
+
+0
+-
+0
+
+WBA
+ 
+D
+Saturday 31 August 2013
+CAR
+
+0
+-
+0
+
+EVE
+ 
+W
+Saturday 14 September 2013
+EVE
+
+1
+-
+0
+
+CHE
+10 
+Previous Position 8
+
+West Ham United
+4	1	2	1	2	1	1	5	
+W
+Saturday 17 August 2013
+WHU
+
+2
+-
+0
+
+CAR
+ 
+D
+Saturday 24 August 2013
+NEW
+
+0
+-
+0
+
+WHU
+ 
+L
+Saturday 31 August 2013
+WHU
+
+0
+-
+1
+
+STK
+ 
+D
+Sunday 15 September 2013
+SOU
+
+0
+-
+0
+
+WHU
+11 
+Previous Position 10
+
+Southampton
+4	1	2	1	2	2	0	5	
+W
+Saturday 17 August 2013
+WBA
+
+0
+-
+1
+
+SOU
+ 
+D
+Saturday 24 August 2013
+SOU
+
+1
+-
+1
+
+SUN
+ 
+L
+Saturday 31 August 2013
+NOR
+
+1
+-
+0
+
+SOU
+ 
+D
+Sunday 15 September 2013
+SOU
+
+0
+-
+0
+
+WHU
+12 
+Previous Position 11
+
+Cardiff City
+4	1	2	1	4	5	-1	5	
+L
+Saturday 17 August 2013
+WHU
+
+2
+-
+0
+
+CAR
+ 
+W
+Sunday 25 August 2013
+CAR
+
+3
+-
+2
+
+MCI
+ 
+D
+Saturday 31 August 2013
+CAR
+
+0
+-
+0
+
+EVE
+ 
+D
+Saturday 14 September 2013
+HUL
+
+1
+-
+1
+
+CAR
+13 
+Previous Position 16
+
+Swansea City
+4	1	1	2	5	7	-2	4	
+L
+Saturday 17 August 2013
+SWA
+
+1
+-
+4
+
+MUN
+ 
+L
+Sunday 25 August 2013
+TOT
+
+1
+-
+0
+
+SWA
+ 
+W
+Sunday 1 September 2013
+WBA
+
+0
+-
+2
+
+SWA
+ 
+D
+Monday 16 September 2013
+SWA
+
+2
+-
+2
+
+LIV
+14 
+Previous Position 17
+
+Fulham
+4	1	1	2	3	5	-2	4	
+W
+Saturday 17 August 2013
+SUN
+
+0
+-
+1
+
+FUL
+ 
+L
+Saturday 24 August 2013
+FUL
+
+1
+-
+3
+
+ARS
+ 
+L
+Saturday 31 August 2013
+NEW
+
+1
+-
+0
+
+FUL
+ 
+D
+Saturday 14 September 2013
+FUL
+
+1
+-
+1
+
+WBA
+15 
+Previous Position 9
+
+Norwich City
+4	1	1	2	3	5	-2	4	
+D
+Saturday 17 August 2013
+NOR
+
+2
+-
+2
+
+EVE
+ 
+L
+Saturday 24 August 2013
+HUL
+
+1
+-
+0
+
+NOR
+ 
+W
+Saturday 31 August 2013
+NOR
+
+1
+-
+0
+
+SOU
+ 
+L
+Saturday 14 September 2013
+TOT
+
+2
+-
+0
+
+NOR
+16 
+Previous Position 18
+
+Hull City
+4	1	1	2	2	5	-3	4	
+L
+Sunday 18 August 2013
+CHE
+
+2
+-
+0
+
+HUL
+ 
+W
+Saturday 24 August 2013
+HUL
+
+1
+-
+0
+
+NOR
+ 
+L
+Saturday 31 August 2013
+MCI
+
+2
+-
+0
+
+HUL
+ 
+D
+Saturday 14 September 2013
+HUL
+
+1
+-
+1
+
+CAR
+17 
+Previous Position 13
+
+Aston Villa
+4	1	0	3	5	6	-1	3	
+W
+Saturday 17 August 2013
+ARS
+
+1
+-
+3
+
+AVL
+ 
+L
+Wednesday 21 August 2013
+CHE
+
+2
+-
+1
+
+AVL
+ 
+L
+Saturday 24 August 2013
+AVL
+
+0
+-
+1
+
+LIV
+ 
+L
+Saturday 14 September 2013
+AVL
+
+1
+-
+2
+
+NEW
+18 
+Previous Position 14
+
+Crystal Palace
+4	1	0	3	4	6	-2	3	
+L
+Sunday 18 August 2013
+CRY
+
+0
+-
+1
+
+TOT
+ 
+L
+Saturday 24 August 2013
+STK
+
+2
+-
+1
+
+CRY
+ 
+W
+Saturday 31 August 2013
+CRY
+
+3
+-
+1
+
+SUN
+ 
+L
+Saturday 14 September 2013
+MUN
+
+2
+-
+0
+
+CRY
+19 
+Previous Position 20
+
+West Bromwich Albion
+4	0	2	2	1	4	-3	2	
+L
+Saturday 17 August 2013
+WBA
+
+0
+-
+1
+
+SOU
+ 
+D
+Saturday 24 August 2013
+EVE
+
+0
+-
+0
+
+WBA
+ 
+L
+Sunday 1 September 2013
+WBA
+
+0
+-
+2
+
+SWA
+ 
+D
+Saturday 14 September 2013
+FUL
+
+1
+-
+1
+
+WBA
+20 
+Previous Position 19
+
+Sunderland
+4	0	1	3	3	8	-5	1	
+L
+Saturday 17 August 2013
+SUN
+
+0
+-
+1
+
+FUL
+ 
+D
+Saturday 24 August 2013
+SOU
+
+1
+-
+1
+
+SUN
+ 
+L
+Saturday 31 August 2013
+CRY
+
+3
+-
+1
+
+SUN
+ 
+L
+Saturday 14 September 2013
+SUN
+
+1
+-
+3
+
+ARS

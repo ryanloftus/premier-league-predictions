@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Chelsea
+13	10	1	2	29	10	19	31	
+W
+Sunday 23 October 2016
+CHE
+
+4
+-
+0
+
+MUN
+ 
+W
+Sunday 30 October 2016
+SOU
+
+0
+-
+2
+
+CHE
+ 
+W
+Saturday 5 November 2016
+CHE
+
+5
+-
+0
+
+EVE
+ 
+W
+Sunday 20 November 2016
+MID
+
+0
+-
+1
+
+CHE
+ 
+W
+Saturday 26 November 2016
+CHE
+
+2
+-
+1
+
+TOT
+2 
+Previous Position 2
+
+Liverpool
+13	9	3	1	32	14	18	30	
+W
+Saturday 22 October 2016
+LIV
+
+2
+-
+1
+
+WBA
+ 
+W
+Saturday 29 October 2016
+CRY
+
+2
+-
+4
+
+LIV
+ 
+W
+Sunday 6 November 2016
+LIV
+
+6
+-
+1
+
+WAT
+ 
+D
+Saturday 19 November 2016
+SOU
+
+0
+-
+0
+
+LIV
+ 
+W
+Saturday 26 November 2016
+LIV
+
+2
+-
+0
+
+SUN
+3 
+Previous Position 3
+
+Manchester City
+13	9	3	1	29	12	17	30	
+D
+Sunday 23 October 2016
+MCI
+
+1
+-
+1
+
+SOU
+ 
+W
+Saturday 29 October 2016
+WBA
+
+0
+-
+4
+
+MCI
+ 
+D
+Saturday 5 November 2016
+MCI
+
+1
+-
+1
+
+MID
+ 
+W
+Saturday 19 November 2016
+CRY
+
+1
+-
+2
+
+MCI
+ 
+W
+Saturday 26 November 2016
+BUR
+
+1
+-
+2
+
+MCI
+4 
+Previous Position 4
+
+Arsenal
+13	8	4	1	28	13	15	28	
+D
+Saturday 22 October 2016
+ARS
+
+0
+-
+0
+
+MID
+ 
+W
+Saturday 29 October 2016
+SUN
+
+1
+-
+4
+
+ARS
+ 
+D
+Sunday 6 November 2016
+ARS
+
+1
+-
+1
+
+TOT
+ 
+D
+Saturday 19 November 2016
+MUN
+
+1
+-
+1
+
+ARS
+ 
+W
+Sunday 27 November 2016
+ARS
+
+3
+-
+1
+
+BOU
+5 
+Previous Position 5
+
+Tottenham Hotspur
+13	6	6	1	19	10	9	24	
+D
+Saturday 22 October 2016
+BOU
+
+0
+-
+0
+
+TOT
+ 
+D
+Saturday 29 October 2016
+TOT
+
+1
+-
+1
+
+LEI
+ 
+D
+Sunday 6 November 2016
+ARS
+
+1
+-
+1
+
+TOT
+ 
+W
+Saturday 19 November 2016
+TOT
+
+3
+-
+2
+
+WHU
+ 
+L
+Saturday 26 November 2016
+CHE
+
+2
+-
+1
+
+TOT
+6 
+Previous Position 6
+
+Manchester United
+13	5	5	3	18	15	3	20	
+L
+Sunday 23 October 2016
+CHE
+
+4
+-
+0
+
+MUN
+ 
+D
+Saturday 29 October 2016
+MUN
+
+0
+-
+0
+
+BUR
+ 
+W
+Sunday 6 November 2016
+SWA
+
+1
+-
+3
+
+MUN
+ 
+D
+Saturday 19 November 2016
+MUN
+
+1
+-
+1
+
+ARS
+ 
+D
+Sunday 27 November 2016
+MUN
+
+1
+-
+1
+
+WHU
+7 
+Previous Position 7
+
+Everton
+13	5	4	4	16	15	1	19	
+L
+Saturday 22 October 2016
+BUR
+
+2
+-
+1
+
+EVE
+ 
+W
+Sunday 30 October 2016
+EVE
+
+2
+-
+0
+
+WHU
+ 
+L
+Saturday 5 November 2016
+CHE
+
+5
+-
+0
+
+EVE
+ 
+D
+Saturday 19 November 2016
+EVE
+
+1
+-
+1
+
+SWA
+ 
+L
+Sunday 27 November 2016
+SOU
+
+1
+-
+0
+
+EVE
+8 
+Previous Position 8
+
+Watford
+13	5	3	5	17	21	-4	18	
+D
+Saturday 22 October 2016
+SWA
+
+0
+-
+0
+
+WAT
+ 
+W
+Saturday 29 October 2016
+WAT
+
+1
+-
+0
+
+HUL
+ 
+L
+Sunday 6 November 2016
+LIV
+
+6
+-
+1
+
+WAT
+ 
+W
+Saturday 19 November 2016
+WAT
+
+2
+-
+1
+
+LEI
+ 
+L
+Sunday 27 November 2016
+WAT
+
+0
+-
+1
+
+STK
+9 
+Previous Position 9
+
+West Bromwich Albion
+13	4	5	4	17	16	1	17	
+L
+Saturday 22 October 2016
+LIV
+
+2
+-
+1
+
+WBA
+ 
+L
+Saturday 29 October 2016
+WBA
+
+0
+-
+4
+
+MCI
+ 
+W
+Sunday 6 November 2016
+LEI
+
+1
+-
+2
+
+WBA
+ 
+W
+Monday 21 November 2016
+WBA
+
+4
+-
+0
+
+BUR
+ 
+D
+Saturday 26 November 2016
+HUL
+
+1
+-
+1
+
+WBA
+10 
+Previous Position 11
+
+Southampton
+13	4	5	4	13	12	1	17	
+D
+Sunday 23 October 2016
+MCI
+
+1
+-
+1
+
+SOU
+ 
+L
+Sunday 30 October 2016
+SOU
+
+0
+-
+2
+
+CHE
+ 
+L
+Sunday 6 November 2016
+HUL
+
+2
+-
+1
+
+SOU
+ 
+D
+Saturday 19 November 2016
+SOU
+
+0
+-
+0
+
+LIV
+ 
+W
+Sunday 27 November 2016
+SOU
+
+1
+-
+0
+
+EVE
+11 
+Previous Position 13
+
+Stoke City
+13	4	4	5	14	19	-5	16	
+W
+Saturday 22 October 2016
+HUL
+
+0
+-
+2
+
+STK
+ 
+W
+Monday 31 October 2016
+STK
+
+3
+-
+1
+
+SWA
+ 
+D
+Saturday 5 November 2016
+WHU
+
+1
+-
+1
+
+STK
+ 
+L
+Saturday 19 November 2016
+STK
+
+0
+-
+1
+
+BOU
+ 
+W
+Sunday 27 November 2016
+WAT
+
+0
+-
+1
+
+STK
+12 
+Previous Position 10
+
+Bournemouth
+13	4	3	6	15	19	-4	15	
+D
+Saturday 22 October 2016
+BOU
+
+0
+-
+0
+
+TOT
+ 
+L
+Saturday 29 October 2016
+MID
+
+2
+-
+0
+
+BOU
+ 
+L
+Saturday 5 November 2016
+BOU
+
+1
+-
+2
+
+SUN
+ 
+W
+Saturday 19 November 2016
+STK
+
+0
+-
+1
+
+BOU
+ 
+L
+Sunday 27 November 2016
+ARS
+
+3
+-
+1
+
+BOU
+13 
+Previous Position 12
+
+Burnley
+13	4	2	7	12	21	-9	14	
+W
+Saturday 22 October 2016
+BUR
+
+2
+-
+1
+
+EVE
+ 
+D
+Saturday 29 October 2016
+MUN
+
+0
+-
+0
+
+BUR
+ 
+W
+Saturday 5 November 2016
+BUR
+
+3
+-
+2
+
+CRY
+ 
+L
+Monday 21 November 2016
+WBA
+
+4
+-
+0
+
+BUR
+ 
+L
+Saturday 26 November 2016
+BUR
+
+1
+-
+2
+
+MCI
+14 
+Previous Position 14
+
+Leicester City
+13	3	4	6	16	22	-6	13	
+W
+Saturday 22 October 2016
+LEI
+
+3
+-
+1
+
+CRY
+ 
+D
+Saturday 29 October 2016
+TOT
+
+1
+-
+1
+
+LEI
+ 
+L
+Sunday 6 November 2016
+LEI
+
+1
+-
+2
+
+WBA
+ 
+L
+Saturday 19 November 2016
+WAT
+
+2
+-
+1
+
+LEI
+ 
+D
+Saturday 26 November 2016
+LEI
+
+2
+-
+2
+
+MID
+15 
+Previous Position 15
+
+Middlesbrough
+13	2	6	5	12	15	-3	12	
+D
+Saturday 22 October 2016
+ARS
+
+0
+-
+0
+
+MID
+ 
+W
+Saturday 29 October 2016
+MID
+
+2
+-
+0
+
+BOU
+ 
+D
+Saturday 5 November 2016
+MCI
+
+1
+-
+1
+
+MID
+ 
+L
+Sunday 20 November 2016
+MID
+
+0
+-
+1
+
+CHE
+ 
+D
+Saturday 26 November 2016
+LEI
+
+2
+-
+2
+
+MID
+16 
+Previous Position 17
+
+West Ham United
+13	3	3	7	14	24	-10	12	
+W
+Saturday 22 October 2016
+WHU
+
+1
+-
+0
+
+SUN
+ 
+L
+Sunday 30 October 2016
+EVE
+
+2
+-
+0
+
+WHU
+ 
+D
+Saturday 5 November 2016
+WHU
+
+1
+-
+1
+
+STK
+ 
+L
+Saturday 19 November 2016
+TOT
+
+3
+-
+2
+
+WHU
+ 
+D
+Sunday 27 November 2016
+MUN
+
+1
+-
+1
+
+WHU
+17 
+Previous Position 16
+
+Crystal Palace
+13	3	2	8	21	26	-5	11	
+L
+Saturday 22 October 2016
+LEI
+
+3
+-
+1
+
+CRY
+ 
+L
+Saturday 29 October 2016
+CRY
+
+2
+-
+4
+
+LIV
+ 
+L
+Saturday 5 November 2016
+BUR
+
+3
+-
+2
+
+CRY
+ 
+L
+Saturday 19 November 2016
+CRY
+
+1
+-
+2
+
+MCI
+ 
+L
+Saturday 26 November 2016
+SWA
+
+5
+-
+4
+
+CRY
+18 
+Previous Position 18
+
+Hull City
+13	3	2	8	11	28	-17	11	
+L
+Saturday 22 October 2016
+HUL
+
+0
+-
+2
+
+STK
+ 
+L
+Saturday 29 October 2016
+WAT
+
+1
+-
+0
+
+HUL
+ 
+W
+Sunday 6 November 2016
+HUL
+
+2
+-
+1
+
+SOU
+ 
+L
+Saturday 19 November 2016
+SUN
+
+3
+-
+0
+
+HUL
+ 
+D
+Saturday 26 November 2016
+HUL
+
+1
+-
+1
+
+WBA
+19 
+Previous Position 20
+
+Swansea City
+13	2	3	8	16	26	-10	9	
+D
+Saturday 22 October 2016
+SWA
+
+0
+-
+0
+
+WAT
+ 
+L
+Monday 31 October 2016
+STK
+
+3
+-
+1
+
+SWA
+ 
+L
+Sunday 6 November 2016
+SWA
+
+1
+-
+3
+
+MUN
+ 
+D
+Saturday 19 November 2016
+EVE
+
+1
+-
+1
+
+SWA
+ 
+W
+Saturday 26 November 2016
+SWA
+
+5
+-
+4
+
+CRY
+20 
+Previous Position 19
+
+Sunderland
+13	2	2	9	12	23	-11	8	
+L
+Saturday 22 October 2016
+WHU
+
+1
+-
+0
+
+SUN
+ 
+L
+Saturday 29 October 2016
+SUN
+
+1
+-
+4
+
+ARS
+ 
+W
+Saturday 5 November 2016
+BOU
+
+1
+-
+2
+
+SUN
+ 
+W
+Saturday 19 November 2016
+SUN
+
+3
+-
+0
+
+HUL
+ 
+L
+Saturday 26 November 2016
+LIV
+
+2
+-
+0
+
+SUN

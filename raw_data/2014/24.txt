@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Chelsea
+24	17	5	2	54	21	33	56	
+L
+Thursday 1 January 2015
+TOT
+
+5
+-
+3
+
+CHE
+ 
+W
+Saturday 10 January 2015
+CHE
+
+2
+-
+0
+
+NEW
+ 
+W
+Saturday 17 January 2015
+SWA
+
+0
+-
+5
+
+CHE
+ 
+D
+Saturday 31 January 2015
+CHE
+
+1
+-
+1
+
+MCI
+ 
+W
+Saturday 7 February 2015
+AVL
+
+1
+-
+2
+
+CHE
+2 
+Previous Position 2
+
+Manchester City
+24	14	7	3	47	24	23	49	
+W
+Thursday 1 January 2015
+MCI
+
+3
+-
+2
+
+SUN
+ 
+D
+Saturday 10 January 2015
+EVE
+
+1
+-
+1
+
+MCI
+ 
+L
+Sunday 18 January 2015
+MCI
+
+0
+-
+2
+
+ARS
+ 
+D
+Saturday 31 January 2015
+CHE
+
+1
+-
+1
+
+MCI
+ 
+D
+Saturday 7 February 2015
+MCI
+
+1
+-
+1
+
+HUL
+3 
+Previous Position 4
+
+Southampton
+24	14	3	7	38	17	21	45	
+W
+Thursday 1 January 2015
+SOU
+
+2
+-
+0
+
+ARS
+ 
+W
+Sunday 11 January 2015
+MUN
+
+0
+-
+1
+
+SOU
+ 
+W
+Saturday 17 January 2015
+NEW
+
+1
+-
+2
+
+SOU
+ 
+L
+Sunday 1 February 2015
+SOU
+
+0
+-
+1
+
+SWA
+ 
+W
+Saturday 7 February 2015
+QPR
+
+0
+-
+1
+
+SOU
+4 
+Previous Position 3
+
+Manchester United
+24	12	8	4	40	23	17	44	
+D
+Thursday 1 January 2015
+STK
+
+1
+-
+1
+
+MUN
+ 
+L
+Sunday 11 January 2015
+MUN
+
+0
+-
+1
+
+SOU
+ 
+W
+Saturday 17 January 2015
+QPR
+
+0
+-
+2
+
+MUN
+ 
+W
+Saturday 31 January 2015
+MUN
+
+3
+-
+1
+
+LEI
+ 
+D
+Sunday 8 February 2015
+WHU
+
+1
+-
+1
+
+MUN
+5 
+Previous Position 6
+
+Tottenham Hotspur
+24	13	4	7	37	31	6	43	
+W
+Thursday 1 January 2015
+TOT
+
+5
+-
+3
+
+CHE
+ 
+L
+Saturday 10 January 2015
+CRY
+
+2
+-
+1
+
+TOT
+ 
+W
+Saturday 17 January 2015
+TOT
+
+2
+-
+1
+
+SUN
+ 
+W
+Saturday 31 January 2015
+WBA
+
+0
+-
+3
+
+TOT
+ 
+W
+Saturday 7 February 2015
+TOT
+
+2
+-
+1
+
+ARS
+6 
+Previous Position 5
+
+Arsenal
+24	12	6	6	45	27	18	42	
+L
+Thursday 1 January 2015
+SOU
+
+2
+-
+0
+
+ARS
+ 
+W
+Sunday 11 January 2015
+ARS
+
+3
+-
+0
+
+STK
+ 
+W
+Sunday 18 January 2015
+MCI
+
+0
+-
+2
+
+ARS
+ 
+W
+Sunday 1 February 2015
+ARS
+
+5
+-
+0
+
+AVL
+ 
+L
+Saturday 7 February 2015
+TOT
+
+2
+-
+1
+
+ARS
+7 
+Previous Position 7
+
+Liverpool
+24	11	6	7	33	27	6	39	
+D
+Thursday 1 January 2015
+LIV
+
+2
+-
+2
+
+LEI
+ 
+W
+Saturday 10 January 2015
+SUN
+
+0
+-
+1
+
+LIV
+ 
+W
+Saturday 17 January 2015
+AVL
+
+0
+-
+2
+
+LIV
+ 
+W
+Saturday 31 January 2015
+LIV
+
+2
+-
+0
+
+WHU
+ 
+D
+Saturday 7 February 2015
+EVE
+
+0
+-
+0
+
+LIV
+8 
+Previous Position 8
+
+West Ham United
+24	10	7	7	36	28	8	37	
+D
+Thursday 1 January 2015
+WHU
+
+1
+-
+1
+
+WBA
+ 
+D
+Saturday 10 January 2015
+SWA
+
+1
+-
+1
+
+WHU
+ 
+W
+Sunday 18 January 2015
+WHU
+
+3
+-
+0
+
+HUL
+ 
+L
+Saturday 31 January 2015
+LIV
+
+2
+-
+0
+
+WHU
+ 
+D
+Sunday 8 February 2015
+WHU
+
+1
+-
+1
+
+MUN
+9 
+Previous Position 9
+
+Swansea City
+24	9	7	8	28	31	-3	34	
+D
+Thursday 1 January 2015
+QPR
+
+1
+-
+1
+
+SWA
+ 
+D
+Saturday 10 January 2015
+SWA
+
+1
+-
+1
+
+WHU
+ 
+L
+Saturday 17 January 2015
+SWA
+
+0
+-
+5
+
+CHE
+ 
+W
+Sunday 1 February 2015
+SOU
+
+0
+-
+1
+
+SWA
+ 
+D
+Saturday 7 February 2015
+SWA
+
+1
+-
+1
+
+SUN
+10 
+Previous Position 10
+
+Stoke City
+24	9	6	9	27	29	-2	33	
+D
+Thursday 1 January 2015
+STK
+
+1
+-
+1
+
+MUN
+ 
+L
+Sunday 11 January 2015
+ARS
+
+3
+-
+0
+
+STK
+ 
+W
+Saturday 17 January 2015
+LEI
+
+0
+-
+1
+
+STK
+ 
+W
+Saturday 31 January 2015
+STK
+
+3
+-
+1
+
+QPR
+ 
+D
+Sunday 8 February 2015
+NEW
+
+1
+-
+1
+
+STK
+11 
+Previous Position 11
+
+Newcastle United
+24	8	7	9	30	36	-6	31	
+D
+Thursday 1 January 2015
+NEW
+
+3
+-
+3
+
+BUR
+ 
+L
+Saturday 10 January 2015
+CHE
+
+2
+-
+0
+
+NEW
+ 
+L
+Saturday 17 January 2015
+NEW
+
+1
+-
+2
+
+SOU
+ 
+W
+Saturday 31 January 2015
+HUL
+
+0
+-
+3
+
+NEW
+ 
+D
+Sunday 8 February 2015
+NEW
+
+1
+-
+1
+
+STK
+12 
+Previous Position 12
+
+Everton
+24	6	9	9	31	34	-3	27	
+L
+Thursday 1 January 2015
+HUL
+
+2
+-
+0
+
+EVE
+ 
+D
+Saturday 10 January 2015
+EVE
+
+1
+-
+1
+
+MCI
+ 
+D
+Monday 19 January 2015
+EVE
+
+0
+-
+0
+
+WBA
+ 
+W
+Saturday 31 January 2015
+CRY
+
+0
+-
+1
+
+EVE
+ 
+D
+Saturday 7 February 2015
+EVE
+
+0
+-
+0
+
+LIV
+13 
+Previous Position 13
+
+Crystal Palace
+24	6	8	10	26	34	-8	26	
+D
+Thursday 1 January 2015
+AVL
+
+0
+-
+0
+
+CRY
+ 
+W
+Saturday 10 January 2015
+CRY
+
+2
+-
+1
+
+TOT
+ 
+W
+Saturday 17 January 2015
+BUR
+
+2
+-
+3
+
+CRY
+ 
+L
+Saturday 31 January 2015
+CRY
+
+0
+-
+1
+
+EVE
+ 
+W
+Saturday 7 February 2015
+LEI
+
+0
+-
+1
+
+CRY
+14 
+Previous Position 14
+
+Sunderland
+24	4	12	8	22	34	-12	24	
+L
+Thursday 1 January 2015
+MCI
+
+3
+-
+2
+
+SUN
+ 
+L
+Saturday 10 January 2015
+SUN
+
+0
+-
+1
+
+LIV
+ 
+L
+Saturday 17 January 2015
+TOT
+
+2
+-
+1
+
+SUN
+ 
+W
+Saturday 31 January 2015
+SUN
+
+2
+-
+0
+
+BUR
+ 
+D
+Saturday 7 February 2015
+SWA
+
+1
+-
+1
+
+SUN
+15 
+Previous Position 15
+
+West Bromwich Albion
+24	5	8	11	22	34	-12	23	
+D
+Thursday 1 January 2015
+WHU
+
+1
+-
+1
+
+WBA
+ 
+W
+Saturday 10 January 2015
+WBA
+
+1
+-
+0
+
+HUL
+ 
+D
+Monday 19 January 2015
+EVE
+
+0
+-
+0
+
+WBA
+ 
+L
+Saturday 31 January 2015
+WBA
+
+0
+-
+3
+
+TOT
+ 
+D
+Sunday 8 February 2015
+BUR
+
+2
+-
+2
+
+WBA
+16 
+Previous Position 16
+
+Aston Villa
+24	5	7	12	12	32	-20	22	
+D
+Thursday 1 January 2015
+AVL
+
+0
+-
+0
+
+CRY
+ 
+L
+Saturday 10 January 2015
+LEI
+
+1
+-
+0
+
+AVL
+ 
+L
+Saturday 17 January 2015
+AVL
+
+0
+-
+2
+
+LIV
+ 
+L
+Sunday 1 February 2015
+ARS
+
+5
+-
+0
+
+AVL
+ 
+L
+Saturday 7 February 2015
+AVL
+
+1
+-
+2
+
+CHE
+17 
+Previous Position 17
+
+Burnley
+24	4	9	11	23	40	-17	21	
+D
+Thursday 1 January 2015
+NEW
+
+3
+-
+3
+
+BUR
+ 
+W
+Saturday 10 January 2015
+BUR
+
+2
+-
+1
+
+QPR
+ 
+L
+Saturday 17 January 2015
+BUR
+
+2
+-
+3
+
+CRY
+ 
+L
+Saturday 31 January 2015
+SUN
+
+2
+-
+0
+
+BUR
+ 
+D
+Sunday 8 February 2015
+BUR
+
+2
+-
+2
+
+WBA
+18 
+Previous Position 18
+
+Hull City
+24	4	8	12	21	34	-13	20	
+W
+Thursday 1 January 2015
+HUL
+
+2
+-
+0
+
+EVE
+ 
+L
+Saturday 10 January 2015
+WBA
+
+1
+-
+0
+
+HUL
+ 
+L
+Sunday 18 January 2015
+WHU
+
+3
+-
+0
+
+HUL
+ 
+L
+Saturday 31 January 2015
+HUL
+
+0
+-
+3
+
+NEW
+ 
+D
+Saturday 7 February 2015
+MCI
+
+1
+-
+1
+
+HUL
+19 
+Previous Position 19
+
+Queens Park Rangers
+24	5	4	15	24	43	-19	19	
+D
+Thursday 1 January 2015
+QPR
+
+1
+-
+1
+
+SWA
+ 
+L
+Saturday 10 January 2015
+BUR
+
+2
+-
+1
+
+QPR
+ 
+L
+Saturday 17 January 2015
+QPR
+
+0
+-
+2
+
+MUN
+ 
+L
+Saturday 31 January 2015
+STK
+
+3
+-
+1
+
+QPR
+ 
+L
+Saturday 7 February 2015
+QPR
+
+0
+-
+1
+
+SOU
+20 
+Previous Position 20
+
+Leicester City
+24	4	5	15	21	38	-17	17	
+D
+Thursday 1 January 2015
+LIV
+
+2
+-
+2
+
+LEI
+ 
+W
+Saturday 10 January 2015
+LEI
+
+1
+-
+0
+
+AVL
+ 
+L
+Saturday 17 January 2015
+LEI
+
+0
+-
+1
+
+STK
+ 
+L
+Saturday 31 January 2015
+MUN
+
+3
+-
+1
+
+LEI
+ 
+L
+Saturday 7 February 2015
+LEI
+
+0
+-
+1
+
+CRY

@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Chelsea
+5	4	1	0	16	7	9	13	
+W
+Monday 18 August 2014
+BUR
+
+1
+-
+3
+
+CHE
+ 
+W
+Saturday 23 August 2014
+CHE
+
+2
+-
+0
+
+LEI
+ 
+W
+Saturday 30 August 2014
+EVE
+
+3
+-
+6
+
+CHE
+ 
+W
+Saturday 13 September 2014
+CHE
+
+4
+-
+2
+
+SWA
+ 
+D
+Sunday 21 September 2014
+MCI
+
+1
+-
+1
+
+CHE
+2 
+Previous Position 4
+
+Southampton
+5	3	1	1	9	3	6	10	
+L
+Sunday 17 August 2014
+LIV
+
+2
+-
+1
+
+SOU
+ 
+D
+Saturday 23 August 2014
+SOU
+
+0
+-
+0
+
+WBA
+ 
+W
+Saturday 30 August 2014
+WHU
+
+1
+-
+3
+
+SOU
+ 
+W
+Saturday 13 September 2014
+SOU
+
+4
+-
+0
+
+NEW
+ 
+W
+Saturday 20 September 2014
+SWA
+
+0
+-
+1
+
+SOU
+3 
+Previous Position 2
+
+Aston Villa
+5	3	1	1	4	4	0	10	
+W
+Saturday 16 August 2014
+STK
+
+0
+-
+1
+
+AVL
+ 
+D
+Saturday 23 August 2014
+AVL
+
+0
+-
+0
+
+NEW
+ 
+W
+Sunday 31 August 2014
+AVL
+
+2
+-
+1
+
+HUL
+ 
+W
+Saturday 13 September 2014
+LIV
+
+0
+-
+1
+
+AVL
+ 
+L
+Saturday 20 September 2014
+AVL
+
+0
+-
+3
+
+ARS
+4 
+Previous Position 7
+
+Arsenal
+5	2	3	0	10	6	4	9	
+W
+Saturday 16 August 2014
+ARS
+
+2
+-
+1
+
+CRY
+ 
+D
+Saturday 23 August 2014
+EVE
+
+2
+-
+2
+
+ARS
+ 
+D
+Sunday 31 August 2014
+LEI
+
+1
+-
+1
+
+ARS
+ 
+D
+Saturday 13 September 2014
+ARS
+
+2
+-
+2
+
+MCI
+ 
+W
+Saturday 20 September 2014
+AVL
+
+0
+-
+3
+
+ARS
+5 
+Previous Position 3
+
+Swansea City
+5	3	0	2	8	6	2	9	
+W
+Saturday 16 August 2014
+MUN
+
+1
+-
+2
+
+SWA
+ 
+W
+Saturday 23 August 2014
+SWA
+
+1
+-
+0
+
+BUR
+ 
+W
+Saturday 30 August 2014
+SWA
+
+3
+-
+0
+
+WBA
+ 
+L
+Saturday 13 September 2014
+CHE
+
+4
+-
+2
+
+SWA
+ 
+L
+Saturday 20 September 2014
+SWA
+
+0
+-
+1
+
+SOU
+6 
+Previous Position 5
+
+Manchester City
+5	2	2	1	8	5	3	8	
+W
+Sunday 17 August 2014
+NEW
+
+0
+-
+2
+
+MCI
+ 
+W
+Monday 25 August 2014
+MCI
+
+3
+-
+1
+
+LIV
+ 
+L
+Saturday 30 August 2014
+MCI
+
+0
+-
+1
+
+STK
+ 
+D
+Saturday 13 September 2014
+ARS
+
+2
+-
+2
+
+MCI
+ 
+D
+Sunday 21 September 2014
+MCI
+
+1
+-
+1
+
+CHE
+7 
+Previous Position 12
+
+Leicester City
+5	2	2	1	9	8	1	8	
+D
+Saturday 16 August 2014
+LEI
+
+2
+-
+2
+
+EVE
+ 
+L
+Saturday 23 August 2014
+CHE
+
+2
+-
+0
+
+LEI
+ 
+D
+Sunday 31 August 2014
+LEI
+
+1
+-
+1
+
+ARS
+ 
+W
+Saturday 13 September 2014
+STK
+
+0
+-
+1
+
+LEI
+ 
+W
+Sunday 21 September 2014
+LEI
+
+5
+-
+3
+
+MUN
+8 
+Previous Position 13
+
+West Ham United
+5	2	1	2	9	8	1	7	
+L
+Saturday 16 August 2014
+WHU
+
+0
+-
+1
+
+TOT
+ 
+W
+Saturday 23 August 2014
+CRY
+
+1
+-
+3
+
+WHU
+ 
+L
+Saturday 30 August 2014
+WHU
+
+1
+-
+3
+
+SOU
+ 
+D
+Monday 15 September 2014
+HUL
+
+2
+-
+2
+
+WHU
+ 
+W
+Saturday 20 September 2014
+WHU
+
+3
+-
+1
+
+LIV
+9 
+Previous Position 6
+
+Tottenham Hotspur
+5	2	1	2	7	6	1	7	
+W
+Saturday 16 August 2014
+WHU
+
+0
+-
+1
+
+TOT
+ 
+W
+Sunday 24 August 2014
+TOT
+
+4
+-
+0
+
+QPR
+ 
+L
+Sunday 31 August 2014
+TOT
+
+0
+-
+3
+
+LIV
+ 
+D
+Saturday 13 September 2014
+SUN
+
+2
+-
+2
+
+TOT
+ 
+L
+Sunday 21 September 2014
+TOT
+
+0
+-
+1
+
+WBA
+10 
+Previous Position 10
+
+Hull City
+5	1	3	1	7	7	0	6	
+W
+Saturday 16 August 2014
+QPR
+
+0
+-
+1
+
+HUL
+ 
+D
+Sunday 24 August 2014
+HUL
+
+1
+-
+1
+
+STK
+ 
+L
+Sunday 31 August 2014
+AVL
+
+2
+-
+1
+
+HUL
+ 
+D
+Monday 15 September 2014
+HUL
+
+2
+-
+2
+
+WHU
+ 
+D
+Saturday 20 September 2014
+NEW
+
+2
+-
+2
+
+HUL
+11 
+Previous Position 8
+
+Liverpool
+5	2	0	3	7	8	-1	6	
+W
+Sunday 17 August 2014
+LIV
+
+2
+-
+1
+
+SOU
+ 
+L
+Monday 25 August 2014
+MCI
+
+3
+-
+1
+
+LIV
+ 
+W
+Sunday 31 August 2014
+TOT
+
+0
+-
+3
+
+LIV
+ 
+L
+Saturday 13 September 2014
+LIV
+
+0
+-
+1
+
+AVL
+ 
+L
+Saturday 20 September 2014
+WHU
+
+3
+-
+1
+
+LIV
+12 
+Previous Position 9
+
+Manchester United
+5	1	2	2	9	8	1	5	
+L
+Saturday 16 August 2014
+MUN
+
+1
+-
+2
+
+SWA
+ 
+D
+Sunday 24 August 2014
+SUN
+
+1
+-
+1
+
+MUN
+ 
+D
+Saturday 30 August 2014
+BUR
+
+0
+-
+0
+
+MUN
+ 
+W
+Sunday 14 September 2014
+MUN
+
+4
+-
+0
+
+QPR
+ 
+L
+Sunday 21 September 2014
+LEI
+
+5
+-
+3
+
+MUN
+13 
+Previous Position 14
+
+Stoke City
+5	1	2	2	4	5	-1	5	
+L
+Saturday 16 August 2014
+STK
+
+0
+-
+1
+
+AVL
+ 
+D
+Sunday 24 August 2014
+HUL
+
+1
+-
+1
+
+STK
+ 
+W
+Saturday 30 August 2014
+MCI
+
+0
+-
+1
+
+STK
+ 
+L
+Saturday 13 September 2014
+STK
+
+0
+-
+1
+
+LEI
+ 
+D
+Saturday 20 September 2014
+QPR
+
+2
+-
+2
+
+STK
+14 
+Previous Position 11
+
+Everton
+5	1	2	2	11	13	-2	5	
+D
+Saturday 16 August 2014
+LEI
+
+2
+-
+2
+
+EVE
+ 
+D
+Saturday 23 August 2014
+EVE
+
+2
+-
+2
+
+ARS
+ 
+L
+Saturday 30 August 2014
+EVE
+
+3
+-
+6
+
+CHE
+ 
+W
+Saturday 13 September 2014
+WBA
+
+0
+-
+2
+
+EVE
+ 
+L
+Sunday 21 September 2014
+EVE
+
+2
+-
+3
+
+CRY
+15 
+Previous Position 17
+
+Crystal Palace
+5	1	2	2	8	10	-2	5	
+L
+Saturday 16 August 2014
+ARS
+
+2
+-
+1
+
+CRY
+ 
+L
+Saturday 23 August 2014
+CRY
+
+1
+-
+3
+
+WHU
+ 
+D
+Saturday 30 August 2014
+NEW
+
+3
+-
+3
+
+CRY
+ 
+D
+Saturday 13 September 2014
+CRY
+
+0
+-
+0
+
+BUR
+ 
+W
+Sunday 21 September 2014
+EVE
+
+2
+-
+3
+
+CRY
+16 
+Previous Position 19
+
+West Bromwich Albion
+5	1	2	2	3	7	-4	5	
+D
+Saturday 16 August 2014
+WBA
+
+2
+-
+2
+
+SUN
+ 
+D
+Saturday 23 August 2014
+SOU
+
+0
+-
+0
+
+WBA
+ 
+L
+Saturday 30 August 2014
+SWA
+
+3
+-
+0
+
+WBA
+ 
+L
+Saturday 13 September 2014
+WBA
+
+0
+-
+2
+
+EVE
+ 
+W
+Sunday 21 September 2014
+TOT
+
+0
+-
+1
+
+WBA
+17 
+Previous Position 15
+
+Sunderland
+5	0	4	1	5	6	-1	4	
+D
+Saturday 16 August 2014
+WBA
+
+2
+-
+2
+
+SUN
+ 
+D
+Sunday 24 August 2014
+SUN
+
+1
+-
+1
+
+MUN
+ 
+L
+Saturday 30 August 2014
+QPR
+
+1
+-
+0
+
+SUN
+ 
+D
+Saturday 13 September 2014
+SUN
+
+2
+-
+2
+
+TOT
+ 
+D
+Saturday 20 September 2014
+BUR
+
+0
+-
+0
+
+SUN
+18 
+Previous Position 16
+
+Queens Park Rangers
+5	1	1	3	3	11	-8	4	
+L
+Saturday 16 August 2014
+QPR
+
+0
+-
+1
+
+HUL
+ 
+L
+Sunday 24 August 2014
+TOT
+
+4
+-
+0
+
+QPR
+ 
+W
+Saturday 30 August 2014
+QPR
+
+1
+-
+0
+
+SUN
+ 
+L
+Sunday 14 September 2014
+MUN
+
+4
+-
+0
+
+QPR
+ 
+D
+Saturday 20 September 2014
+QPR
+
+2
+-
+2
+
+STK
+19 
+Previous Position 18
+
+Burnley
+5	0	3	2	1	4	-3	3	
+L
+Monday 18 August 2014
+BUR
+
+1
+-
+3
+
+CHE
+ 
+L
+Saturday 23 August 2014
+SWA
+
+1
+-
+0
+
+BUR
+ 
+D
+Saturday 30 August 2014
+BUR
+
+0
+-
+0
+
+MUN
+ 
+D
+Saturday 13 September 2014
+CRY
+
+0
+-
+0
+
+BUR
+ 
+D
+Saturday 20 September 2014
+BUR
+
+0
+-
+0
+
+SUN
+20 
+Previous Position 20
+
+Newcastle United
+5	0	3	2	5	11	-6	3	
+L
+Sunday 17 August 2014
+NEW
+
+0
+-
+2
+
+MCI
+ 
+D
+Saturday 23 August 2014
+AVL
+
+0
+-
+0
+
+NEW
+ 
+D
+Saturday 30 August 2014
+NEW
+
+3
+-
+3
+
+CRY
+ 
+L
+Saturday 13 September 2014
+SOU
+
+4
+-
+0
+
+NEW
+ 
+D
+Saturday 20 September 2014
+NEW
+
+2
+-
+2
+
+HUL

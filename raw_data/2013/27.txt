@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Chelsea
+27	18	6	3	49	21	28	60	
+D
+Wednesday 29 January 2014
+CHE
+
+0
+-
+0
+
+WHU
+ 
+W
+Monday 3 February 2014
+MCI
+
+0
+-
+1
+
+CHE
+ 
+W
+Saturday 8 February 2014
+CHE
+
+3
+-
+0
+
+NEW
+ 
+D
+Tuesday 11 February 2014
+WBA
+
+1
+-
+1
+
+CHE
+ 
+W
+Saturday 22 February 2014
+CHE
+
+1
+-
+0
+
+EVE
+2 
+Previous Position 2
+
+Arsenal
+27	18	5	4	52	27	25	59	
+D
+Tuesday 28 January 2014
+SOU
+
+2
+-
+2
+
+ARS
+ 
+W
+Sunday 2 February 2014
+ARS
+
+2
+-
+0
+
+CRY
+ 
+L
+Saturday 8 February 2014
+LIV
+
+5
+-
+1
+
+ARS
+ 
+D
+Wednesday 12 February 2014
+ARS
+
+0
+-
+0
+
+MUN
+ 
+W
+Saturday 22 February 2014
+ARS
+
+4
+-
+1
+
+SUN
+3 
+Previous Position 3
+
+Manchester City
+26	18	3	5	69	27	42	57	
+W
+Saturday 18 January 2014
+MCI
+
+4
+-
+2
+
+CAR
+ 
+W
+Wednesday 29 January 2014
+TOT
+
+1
+-
+5
+
+MCI
+ 
+L
+Monday 3 February 2014
+MCI
+
+0
+-
+1
+
+CHE
+ 
+D
+Saturday 8 February 2014
+NOR
+
+0
+-
+0
+
+MCI
+ 
+W
+Saturday 22 February 2014
+MCI
+
+1
+-
+0
+
+STK
+4 
+Previous Position 4
+
+Liverpool
+27	17	5	5	70	35	35	56	
+W
+Tuesday 28 January 2014
+LIV
+
+4
+-
+0
+
+EVE
+ 
+D
+Sunday 2 February 2014
+WBA
+
+1
+-
+1
+
+LIV
+ 
+W
+Saturday 8 February 2014
+LIV
+
+5
+-
+1
+
+ARS
+ 
+W
+Wednesday 12 February 2014
+FUL
+
+2
+-
+3
+
+LIV
+ 
+W
+Sunday 23 February 2014
+LIV
+
+4
+-
+3
+
+SWA
+5 
+Previous Position 5
+
+Tottenham Hotspur
+27	15	5	7	36	33	3	50	
+L
+Wednesday 29 January 2014
+TOT
+
+1
+-
+5
+
+MCI
+ 
+D
+Saturday 1 February 2014
+HUL
+
+1
+-
+1
+
+TOT
+ 
+W
+Sunday 9 February 2014
+TOT
+
+1
+-
+0
+
+EVE
+ 
+W
+Wednesday 12 February 2014
+NEW
+
+0
+-
+4
+
+TOT
+ 
+L
+Sunday 23 February 2014
+NOR
+
+1
+-
+0
+
+TOT
+6 
+Previous Position 7
+
+Manchester United
+27	13	6	8	43	31	12	45	
+W
+Tuesday 28 January 2014
+MUN
+
+2
+-
+0
+
+CAR
+ 
+L
+Saturday 1 February 2014
+STK
+
+2
+-
+1
+
+MUN
+ 
+D
+Sunday 9 February 2014
+MUN
+
+2
+-
+2
+
+FUL
+ 
+D
+Wednesday 12 February 2014
+ARS
+
+0
+-
+0
+
+MUN
+ 
+W
+Saturday 22 February 2014
+CRY
+
+0
+-
+2
+
+MUN
+7 
+Previous Position 6
+
+Everton
+26	12	9	5	37	27	10	45	
+D
+Monday 20 January 2014
+WBA
+
+1
+-
+1
+
+EVE
+ 
+L
+Tuesday 28 January 2014
+LIV
+
+4
+-
+0
+
+EVE
+ 
+W
+Saturday 1 February 2014
+EVE
+
+2
+-
+1
+
+AVL
+ 
+L
+Sunday 9 February 2014
+TOT
+
+1
+-
+0
+
+EVE
+ 
+L
+Saturday 22 February 2014
+CHE
+
+1
+-
+0
+
+EVE
+8 
+Previous Position 9
+
+Newcastle United
+27	12	4	11	33	38	-5	40	
+D
+Tuesday 28 January 2014
+NOR
+
+0
+-
+0
+
+NEW
+ 
+L
+Saturday 1 February 2014
+NEW
+
+0
+-
+3
+
+SUN
+ 
+L
+Saturday 8 February 2014
+CHE
+
+3
+-
+0
+
+NEW
+ 
+L
+Wednesday 12 February 2014
+NEW
+
+0
+-
+4
+
+TOT
+ 
+W
+Sunday 23 February 2014
+NEW
+
+1
+-
+0
+
+AVL
+9 
+Previous Position 8
+
+Southampton
+27	10	9	8	38	32	6	39	
+D
+Tuesday 28 January 2014
+SOU
+
+2
+-
+2
+
+ARS
+ 
+W
+Saturday 1 February 2014
+FUL
+
+0
+-
+3
+
+SOU
+ 
+D
+Saturday 8 February 2014
+SOU
+
+2
+-
+2
+
+STK
+ 
+W
+Tuesday 11 February 2014
+HUL
+
+0
+-
+1
+
+SOU
+ 
+L
+Saturday 22 February 2014
+WHU
+
+3
+-
+1
+
+SOU
+10 
+Previous Position 11
+
+West Ham United
+27	8	7	12	31	34	-3	31	
+D
+Wednesday 29 January 2014
+CHE
+
+0
+-
+0
+
+WHU
+ 
+W
+Saturday 1 February 2014
+WHU
+
+2
+-
+0
+
+SWA
+ 
+W
+Saturday 8 February 2014
+AVL
+
+0
+-
+2
+
+WHU
+ 
+W
+Tuesday 11 February 2014
+WHU
+
+2
+-
+0
+
+NOR
+ 
+W
+Saturday 22 February 2014
+WHU
+
+3
+-
+1
+
+SOU
+11 
+Previous Position 13
+
+Hull City
+27	8	6	13	29	31	-2	30	
+L
+Tuesday 28 January 2014
+CRY
+
+1
+-
+0
+
+HUL
+ 
+D
+Saturday 1 February 2014
+HUL
+
+1
+-
+1
+
+TOT
+ 
+W
+Saturday 8 February 2014
+SUN
+
+0
+-
+2
+
+HUL
+ 
+L
+Tuesday 11 February 2014
+HUL
+
+0
+-
+1
+
+SOU
+ 
+W
+Saturday 22 February 2014
+CAR
+
+0
+-
+4
+
+HUL
+12 
+Previous Position 10
+
+Swansea City
+27	7	7	13	36	40	-4	28	
+W
+Tuesday 28 January 2014
+SWA
+
+2
+-
+0
+
+FUL
+ 
+L
+Saturday 1 February 2014
+WHU
+
+2
+-
+0
+
+SWA
+ 
+W
+Saturday 8 February 2014
+SWA
+
+3
+-
+0
+
+CAR
+ 
+D
+Wednesday 12 February 2014
+STK
+
+1
+-
+1
+
+SWA
+ 
+L
+Sunday 23 February 2014
+LIV
+
+4
+-
+3
+
+SWA
+13 
+Previous Position 12
+
+Aston Villa
+27	7	7	13	27	37	-10	28	
+W
+Wednesday 29 January 2014
+AVL
+
+4
+-
+3
+
+WBA
+ 
+L
+Saturday 1 February 2014
+EVE
+
+2
+-
+1
+
+AVL
+ 
+L
+Saturday 8 February 2014
+AVL
+
+0
+-
+2
+
+WHU
+ 
+D
+Tuesday 11 February 2014
+CAR
+
+0
+-
+0
+
+AVL
+ 
+L
+Sunday 23 February 2014
+NEW
+
+1
+-
+0
+
+AVL
+14 
+Previous Position 16
+
+Norwich City
+27	7	7	13	20	39	-19	28	
+D
+Tuesday 28 January 2014
+NOR
+
+0
+-
+0
+
+NEW
+ 
+L
+Saturday 1 February 2014
+CAR
+
+2
+-
+1
+
+NOR
+ 
+D
+Saturday 8 February 2014
+NOR
+
+0
+-
+0
+
+MCI
+ 
+L
+Tuesday 11 February 2014
+WHU
+
+2
+-
+0
+
+NOR
+ 
+W
+Sunday 23 February 2014
+NOR
+
+1
+-
+0
+
+TOT
+15 
+Previous Position 14
+
+Stoke City
+27	6	9	12	27	42	-15	27	
+L
+Wednesday 29 January 2014
+SUN
+
+1
+-
+0
+
+STK
+ 
+W
+Saturday 1 February 2014
+STK
+
+2
+-
+1
+
+MUN
+ 
+D
+Saturday 8 February 2014
+SOU
+
+2
+-
+2
+
+STK
+ 
+D
+Wednesday 12 February 2014
+STK
+
+1
+-
+1
+
+SWA
+ 
+L
+Saturday 22 February 2014
+MCI
+
+1
+-
+0
+
+STK
+16 
+Previous Position 15
+
+Crystal Palace
+26	8	2	16	18	36	-18	26	
+W
+Saturday 18 January 2014
+CRY
+
+1
+-
+0
+
+STK
+ 
+W
+Tuesday 28 January 2014
+CRY
+
+1
+-
+0
+
+HUL
+ 
+L
+Sunday 2 February 2014
+ARS
+
+2
+-
+0
+
+CRY
+ 
+W
+Saturday 8 February 2014
+CRY
+
+3
+-
+1
+
+WBA
+ 
+L
+Saturday 22 February 2014
+CRY
+
+0
+-
+2
+
+MUN
+17 
+Previous Position 17
+
+West Bromwich Albion
+27	4	13	10	31	39	-8	25	
+L
+Wednesday 29 January 2014
+AVL
+
+4
+-
+3
+
+WBA
+ 
+D
+Sunday 2 February 2014
+WBA
+
+1
+-
+1
+
+LIV
+ 
+L
+Saturday 8 February 2014
+CRY
+
+3
+-
+1
+
+WBA
+ 
+D
+Tuesday 11 February 2014
+WBA
+
+1
+-
+1
+
+CHE
+ 
+D
+Saturday 22 February 2014
+WBA
+
+1
+-
+1
+
+FUL
+18 
+Previous Position 18
+
+Sunderland
+26	6	6	14	26	42	-16	24	
+D
+Saturday 18 January 2014
+SUN
+
+2
+-
+2
+
+SOU
+ 
+W
+Wednesday 29 January 2014
+SUN
+
+1
+-
+0
+
+STK
+ 
+W
+Saturday 1 February 2014
+NEW
+
+0
+-
+3
+
+SUN
+ 
+L
+Saturday 8 February 2014
+SUN
+
+0
+-
+2
+
+HUL
+ 
+L
+Saturday 22 February 2014
+ARS
+
+4
+-
+1
+
+SUN
+19 
+Previous Position 19
+
+Cardiff City
+27	5	7	15	19	48	-29	22	
+L
+Tuesday 28 January 2014
+MUN
+
+2
+-
+0
+
+CAR
+ 
+W
+Saturday 1 February 2014
+CAR
+
+2
+-
+1
+
+NOR
+ 
+L
+Saturday 8 February 2014
+SWA
+
+3
+-
+0
+
+CAR
+ 
+D
+Tuesday 11 February 2014
+CAR
+
+0
+-
+0
+
+AVL
+ 
+L
+Saturday 22 February 2014
+CAR
+
+0
+-
+4
+
+HUL
+20 
+Previous Position 20
+
+Fulham
+27	6	3	18	27	59	-32	21	
+L
+Tuesday 28 January 2014
+SWA
+
+2
+-
+0
+
+FUL
+ 
+L
+Saturday 1 February 2014
+FUL
+
+0
+-
+3
+
+SOU
+ 
+D
+Sunday 9 February 2014
+MUN
+
+2
+-
+2
+
+FUL
+ 
+L
+Wednesday 12 February 2014
+FUL
+
+2
+-
+3
+
+LIV
+ 
+D
+Saturday 22 February 2014
+WBA
+
+1
+-
+1
+
+FUL

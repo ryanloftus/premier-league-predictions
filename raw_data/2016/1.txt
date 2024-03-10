@@ -1,0 +1,280 @@
+1 
+Previous Position
+
+Manchester United
+1	1	0	0	3	1	2	3	
+W
+Sunday 14 August 2016
+BOU
+
+1
+-
+3
+
+MUN
+2 
+Previous Position
+
+Liverpool
+1	1	0	0	4	3	1	3	
+W
+Sunday 14 August 2016
+ARS
+
+3
+-
+4
+
+LIV
+3 
+Previous Position
+
+Chelsea
+1	1	0	0	2	1	1	3	
+W
+Monday 15 August 2016
+CHE
+
+2
+-
+1
+
+WHU
+4 
+Previous Position
+
+Hull City
+1	1	0	0	2	1	1	3	
+W
+Saturday 13 August 2016
+HUL
+
+2
+-
+1
+
+LEI
+5 
+Previous Position
+
+Manchester City
+1	1	0	0	2	1	1	3	
+W
+Saturday 13 August 2016
+MCI
+
+2
+-
+1
+
+SUN
+6 
+Previous Position
+
+Swansea City
+1	1	0	0	1	0	1	3	
+W
+Saturday 13 August 2016
+BUR
+
+0
+-
+1
+
+SWA
+7 
+Previous Position
+
+West Bromwich Albion
+1	1	0	0	1	0	1	3	
+W
+Saturday 13 August 2016
+CRY
+
+0
+-
+1
+
+WBA
+8 
+Previous Position
+
+Everton
+1	0	1	0	1	1	0	1	
+D
+Saturday 13 August 2016
+EVE
+
+1
+-
+1
+
+TOT
+9 
+Previous Position
+
+Middlesbrough
+1	0	1	0	1	1	0	1	
+D
+Saturday 13 August 2016
+MID
+
+1
+-
+1
+
+STK
+10 
+Previous Position
+
+Southampton
+1	0	1	0	1	1	0	1	
+D
+Saturday 13 August 2016
+SOU
+
+1
+-
+1
+
+WAT
+11 
+Previous Position
+
+Stoke City
+1	0	1	0	1	1	0	1	
+D
+Saturday 13 August 2016
+MID
+
+1
+-
+1
+
+STK
+12 
+Previous Position
+
+Tottenham Hotspur
+1	0	1	0	1	1	0	1	
+D
+Saturday 13 August 2016
+EVE
+
+1
+-
+1
+
+TOT
+13 
+Previous Position
+
+Watford
+1	0	1	0	1	1	0	1	
+D
+Saturday 13 August 2016
+SOU
+
+1
+-
+1
+
+WAT
+14 
+Previous Position
+
+Arsenal
+1	0	0	1	3	4	-1	0	
+L
+Sunday 14 August 2016
+ARS
+
+3
+-
+4
+
+LIV
+15 
+Previous Position
+
+Leicester City
+1	0	0	1	1	2	-1	0	
+L
+Saturday 13 August 2016
+HUL
+
+2
+-
+1
+
+LEI
+16 
+Previous Position
+
+Sunderland
+1	0	0	1	1	2	-1	0	
+L
+Saturday 13 August 2016
+MCI
+
+2
+-
+1
+
+SUN
+17 
+Previous Position
+
+West Ham United
+1	0	0	1	1	2	-1	0	
+L
+Monday 15 August 2016
+CHE
+
+2
+-
+1
+
+WHU
+18 
+Previous Position
+
+Burnley
+1	0	0	1	0	1	-1	0	
+L
+Saturday 13 August 2016
+BUR
+
+0
+-
+1
+
+SWA
+19 
+Previous Position
+
+Crystal Palace
+1	0	0	1	0	1	-1	0	
+L
+Saturday 13 August 2016
+CRY
+
+0
+-
+1
+
+WBA
+20 
+Previous Position
+
+Bournemouth
+1	0	0	1	1	3	-2	0	
+L
+Sunday 14 August 2016
+BOU
+
+1
+-
+3
+
+MUN

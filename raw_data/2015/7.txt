@@ -1,0 +1,1080 @@
+1 
+Previous Position 2
+
+Manchester United
+7	5	1	1	12	5	7	16	
+D
+Saturday 22 August 2015
+MUN
+
+0
+-
+0
+
+NEW
+ 
+L
+Sunday 30 August 2015
+SWA
+
+2
+-
+1
+
+MUN
+ 
+W
+Saturday 12 September 2015
+MUN
+
+3
+-
+1
+
+LIV
+ 
+W
+Sunday 20 September 2015
+SOU
+
+2
+-
+3
+
+MUN
+ 
+W
+Saturday 26 September 2015
+MUN
+
+3
+-
+0
+
+SUN
+2 
+Previous Position 1
+
+Manchester City
+7	5	0	2	13	6	7	15	
+W
+Sunday 23 August 2015
+EVE
+
+0
+-
+2
+
+MCI
+ 
+W
+Saturday 29 August 2015
+MCI
+
+2
+-
+0
+
+WAT
+ 
+W
+Saturday 12 September 2015
+CRY
+
+0
+-
+1
+
+MCI
+ 
+L
+Saturday 19 September 2015
+MCI
+
+1
+-
+2
+
+WHU
+ 
+L
+Saturday 26 September 2015
+TOT
+
+4
+-
+1
+
+MCI
+3 
+Previous Position 3
+
+West Ham United
+7	4	1	2	15	9	6	13	
+L
+Saturday 22 August 2015
+WHU
+
+3
+-
+4
+
+BOU
+ 
+W
+Saturday 29 August 2015
+LIV
+
+0
+-
+3
+
+WHU
+ 
+W
+Monday 14 September 2015
+WHU
+
+2
+-
+0
+
+NEW
+ 
+W
+Saturday 19 September 2015
+MCI
+
+1
+-
+2
+
+WHU
+ 
+D
+Saturday 26 September 2015
+WHU
+
+2
+-
+2
+
+NOR
+4 
+Previous Position 5
+
+Arsenal
+7	4	1	2	10	7	3	13	
+D
+Monday 24 August 2015
+ARS
+
+0
+-
+0
+
+LIV
+ 
+W
+Saturday 29 August 2015
+NEW
+
+0
+-
+1
+
+ARS
+ 
+W
+Saturday 12 September 2015
+ARS
+
+2
+-
+0
+
+STK
+ 
+L
+Saturday 19 September 2015
+CHE
+
+2
+-
+0
+
+ARS
+ 
+W
+Saturday 26 September 2015
+LEI
+
+2
+-
+5
+
+ARS
+5 
+Previous Position 6
+
+Everton
+7	3	3	1	11	7	4	12	
+L
+Sunday 23 August 2015
+EVE
+
+0
+-
+2
+
+MCI
+ 
+D
+Saturday 29 August 2015
+TOT
+
+0
+-
+0
+
+EVE
+ 
+W
+Saturday 12 September 2015
+EVE
+
+3
+-
+1
+
+CHE
+ 
+D
+Saturday 19 September 2015
+SWA
+
+0
+-
+0
+
+EVE
+ 
+W
+Monday 28 September 2015
+WBA
+
+2
+-
+3
+
+EVE
+6 
+Previous Position 9
+
+Tottenham Hotspur
+7	3	3	1	9	5	4	12	
+D
+Saturday 22 August 2015
+LEI
+
+1
+-
+1
+
+TOT
+ 
+D
+Saturday 29 August 2015
+TOT
+
+0
+-
+0
+
+EVE
+ 
+W
+Sunday 13 September 2015
+SUN
+
+0
+-
+1
+
+TOT
+ 
+W
+Sunday 20 September 2015
+TOT
+
+1
+-
+0
+
+CRY
+ 
+W
+Saturday 26 September 2015
+TOT
+
+4
+-
+1
+
+MCI
+7 
+Previous Position 8
+
+Crystal Palace
+7	4	0	3	9	7	2	12	
+W
+Saturday 22 August 2015
+CRY
+
+2
+-
+1
+
+AVL
+ 
+W
+Saturday 29 August 2015
+CHE
+
+1
+-
+2
+
+CRY
+ 
+L
+Saturday 12 September 2015
+CRY
+
+0
+-
+1
+
+MCI
+ 
+L
+Sunday 20 September 2015
+TOT
+
+1
+-
+0
+
+CRY
+ 
+W
+Sunday 27 September 2015
+WAT
+
+0
+-
+1
+
+CRY
+8 
+Previous Position 4
+
+Leicester City
+7	3	3	1	15	14	1	12	
+D
+Saturday 22 August 2015
+LEI
+
+1
+-
+1
+
+TOT
+ 
+D
+Saturday 29 August 2015
+BOU
+
+1
+-
+1
+
+LEI
+ 
+W
+Sunday 13 September 2015
+LEI
+
+3
+-
+2
+
+AVL
+ 
+D
+Saturday 19 September 2015
+STK
+
+2
+-
+2
+
+LEI
+ 
+L
+Saturday 26 September 2015
+LEI
+
+2
+-
+5
+
+ARS
+9 
+Previous Position 13
+
+Liverpool
+7	3	2	2	7	9	-2	11	
+D
+Monday 24 August 2015
+ARS
+
+0
+-
+0
+
+LIV
+ 
+L
+Saturday 29 August 2015
+LIV
+
+0
+-
+3
+
+WHU
+ 
+L
+Saturday 12 September 2015
+MUN
+
+3
+-
+1
+
+LIV
+ 
+D
+Sunday 20 September 2015
+LIV
+
+1
+-
+1
+
+NOR
+ 
+W
+Saturday 26 September 2015
+LIV
+
+3
+-
+2
+
+AVL
+10 
+Previous Position 16
+
+Southampton
+7	2	3	2	10	9	1	9	
+D
+Sunday 23 August 2015
+WAT
+
+0
+-
+0
+
+SOU
+ 
+W
+Sunday 30 August 2015
+SOU
+
+3
+-
+0
+
+NOR
+ 
+D
+Saturday 12 September 2015
+WBA
+
+0
+-
+0
+
+SOU
+ 
+L
+Sunday 20 September 2015
+SOU
+
+2
+-
+3
+
+MUN
+ 
+W
+Saturday 26 September 2015
+SOU
+
+3
+-
+1
+
+SWA
+11 
+Previous Position 7
+
+Swansea City
+7	2	3	2	8	8	0	9	
+D
+Saturday 22 August 2015
+SUN
+
+1
+-
+1
+
+SWA
+ 
+W
+Sunday 30 August 2015
+SWA
+
+2
+-
+1
+
+MUN
+ 
+L
+Saturday 12 September 2015
+WAT
+
+1
+-
+0
+
+SWA
+ 
+D
+Saturday 19 September 2015
+SWA
+
+0
+-
+0
+
+EVE
+ 
+L
+Saturday 26 September 2015
+SOU
+
+3
+-
+1
+
+SWA
+12 
+Previous Position 11
+
+Norwich City
+7	2	3	2	11	12	-1	9	
+D
+Saturday 22 August 2015
+NOR
+
+1
+-
+1
+
+STK
+ 
+L
+Sunday 30 August 2015
+SOU
+
+3
+-
+0
+
+NOR
+ 
+W
+Saturday 12 September 2015
+NOR
+
+3
+-
+1
+
+BOU
+ 
+D
+Sunday 20 September 2015
+LIV
+
+1
+-
+1
+
+NOR
+ 
+D
+Saturday 26 September 2015
+WHU
+
+2
+-
+2
+
+NOR
+13 
+Previous Position 10
+
+Watford
+7	2	3	2	5	6	-1	9	
+D
+Sunday 23 August 2015
+WAT
+
+0
+-
+0
+
+SOU
+ 
+L
+Saturday 29 August 2015
+MCI
+
+2
+-
+0
+
+WAT
+ 
+W
+Saturday 12 September 2015
+WAT
+
+1
+-
+0
+
+SWA
+ 
+W
+Saturday 19 September 2015
+NEW
+
+1
+-
+2
+
+WAT
+ 
+L
+Sunday 27 September 2015
+WAT
+
+0
+-
+1
+
+CRY
+14 
+Previous Position 15
+
+Chelsea
+7	2	2	3	11	14	-3	8	
+W
+Sunday 23 August 2015
+WBA
+
+2
+-
+3
+
+CHE
+ 
+L
+Saturday 29 August 2015
+CHE
+
+1
+-
+2
+
+CRY
+ 
+L
+Saturday 12 September 2015
+EVE
+
+3
+-
+1
+
+CHE
+ 
+W
+Saturday 19 September 2015
+CHE
+
+2
+-
+0
+
+ARS
+ 
+D
+Saturday 26 September 2015
+NEW
+
+2
+-
+2
+
+CHE
+15 
+Previous Position 12
+
+West Bromwich Albion
+7	2	2	3	6	9	-3	8	
+L
+Sunday 23 August 2015
+WBA
+
+2
+-
+3
+
+CHE
+ 
+W
+Saturday 29 August 2015
+STK
+
+0
+-
+1
+
+WBA
+ 
+D
+Saturday 12 September 2015
+WBA
+
+0
+-
+0
+
+SOU
+ 
+W
+Saturday 19 September 2015
+AVL
+
+0
+-
+1
+
+WBA
+ 
+L
+Monday 28 September 2015
+WBA
+
+2
+-
+3
+
+EVE
+16 
+Previous Position 14
+
+Bournemouth
+7	2	1	4	9	11	-2	7	
+W
+Saturday 22 August 2015
+WHU
+
+3
+-
+4
+
+BOU
+ 
+D
+Saturday 29 August 2015
+BOU
+
+1
+-
+1
+
+LEI
+ 
+L
+Saturday 12 September 2015
+NOR
+
+3
+-
+1
+
+BOU
+ 
+W
+Saturday 19 September 2015
+BOU
+
+2
+-
+0
+
+SUN
+ 
+L
+Saturday 26 September 2015
+STK
+
+2
+-
+1
+
+BOU
+17 
+Previous Position 18
+
+Stoke City
+7	1	3	3	7	10	-3	6	
+D
+Saturday 22 August 2015
+NOR
+
+1
+-
+1
+
+STK
+ 
+L
+Saturday 29 August 2015
+STK
+
+0
+-
+1
+
+WBA
+ 
+L
+Saturday 12 September 2015
+ARS
+
+2
+-
+0
+
+STK
+ 
+D
+Saturday 19 September 2015
+STK
+
+2
+-
+2
+
+LEI
+ 
+W
+Saturday 26 September 2015
+STK
+
+2
+-
+1
+
+BOU
+18 
+Previous Position 17
+
+Aston Villa
+7	1	1	5	8	12	-4	4	
+L
+Saturday 22 August 2015
+CRY
+
+2
+-
+1
+
+AVL
+ 
+D
+Saturday 29 August 2015
+AVL
+
+2
+-
+2
+
+SUN
+ 
+L
+Sunday 13 September 2015
+LEI
+
+3
+-
+2
+
+AVL
+ 
+L
+Saturday 19 September 2015
+AVL
+
+0
+-
+1
+
+WBA
+ 
+L
+Saturday 26 September 2015
+LIV
+
+3
+-
+2
+
+AVL
+19 
+Previous Position 19
+
+Newcastle United
+7	0	3	4	5	11	-6	3	
+D
+Saturday 22 August 2015
+MUN
+
+0
+-
+0
+
+NEW
+ 
+L
+Saturday 29 August 2015
+NEW
+
+0
+-
+1
+
+ARS
+ 
+L
+Monday 14 September 2015
+WHU
+
+2
+-
+0
+
+NEW
+ 
+L
+Saturday 19 September 2015
+NEW
+
+1
+-
+2
+
+WAT
+ 
+D
+Saturday 26 September 2015
+NEW
+
+2
+-
+2
+
+CHE
+20 
+Previous Position 20
+
+Sunderland
+7	0	2	5	6	16	-10	2	
+D
+Saturday 22 August 2015
+SUN
+
+1
+-
+1
+
+SWA
+ 
+D
+Saturday 29 August 2015
+AVL
+
+2
+-
+2
+
+SUN
+ 
+L
+Sunday 13 September 2015
+SUN
+
+0
+-
+1
+
+TOT
+ 
+L
+Saturday 19 September 2015
+BOU
+
+2
+-
+0
+
+SUN
+ 
+L
+Saturday 26 September 2015
+MUN
+
+3
+-
+0
+
+SUN

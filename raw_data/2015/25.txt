@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Leicester City
+25	15	8	2	47	27	20	53	
+W
+Wednesday 13 January 2016
+TOT
+
+0
+-
+1
+
+LEI
+ 
+D
+Saturday 16 January 2016
+AVL
+
+1
+-
+1
+
+LEI
+ 
+W
+Saturday 23 January 2016
+LEI
+
+3
+-
+0
+
+STK
+ 
+W
+Tuesday 2 February 2016
+LEI
+
+2
+-
+0
+
+LIV
+ 
+W
+Saturday 6 February 2016
+MCI
+
+1
+-
+3
+
+LEI
+2 
+Previous Position 3
+
+Tottenham Hotspur
+25	13	9	3	45	19	26	48	
+L
+Wednesday 13 January 2016
+TOT
+
+0
+-
+1
+
+LEI
+ 
+W
+Saturday 16 January 2016
+TOT
+
+4
+-
+1
+
+SUN
+ 
+W
+Saturday 23 January 2016
+CRY
+
+1
+-
+3
+
+TOT
+ 
+W
+Tuesday 2 February 2016
+NOR
+
+0
+-
+3
+
+TOT
+ 
+W
+Saturday 6 February 2016
+TOT
+
+1
+-
+0
+
+WAT
+3 
+Previous Position 4
+
+Arsenal
+25	14	6	5	39	22	17	48	
+D
+Wednesday 13 January 2016
+LIV
+
+3
+-
+3
+
+ARS
+ 
+D
+Sunday 17 January 2016
+STK
+
+0
+-
+0
+
+ARS
+ 
+L
+Sunday 24 January 2016
+ARS
+
+0
+-
+1
+
+CHE
+ 
+D
+Tuesday 2 February 2016
+ARS
+
+0
+-
+0
+
+SOU
+ 
+W
+Sunday 7 February 2016
+BOU
+
+0
+-
+2
+
+ARS
+4 
+Previous Position 2
+
+Manchester City
+25	14	5	6	47	26	21	47	
+D
+Wednesday 13 January 2016
+MCI
+
+0
+-
+0
+
+EVE
+ 
+W
+Saturday 16 January 2016
+MCI
+
+4
+-
+0
+
+CRY
+ 
+D
+Saturday 23 January 2016
+WHU
+
+2
+-
+2
+
+MCI
+ 
+W
+Tuesday 2 February 2016
+SUN
+
+0
+-
+1
+
+MCI
+ 
+L
+Saturday 6 February 2016
+MCI
+
+1
+-
+3
+
+LEI
+5 
+Previous Position 5
+
+Manchester United
+25	11	8	6	32	22	10	41	
+D
+Tuesday 12 January 2016
+NEW
+
+3
+-
+3
+
+MUN
+ 
+W
+Sunday 17 January 2016
+LIV
+
+0
+-
+1
+
+MUN
+ 
+L
+Saturday 23 January 2016
+MUN
+
+0
+-
+1
+
+SOU
+ 
+W
+Tuesday 2 February 2016
+MUN
+
+3
+-
+0
+
+STK
+ 
+D
+Sunday 7 February 2016
+CHE
+
+1
+-
+1
+
+MUN
+6 
+Previous Position 6
+
+West Ham United
+25	10	9	6	38	29	9	39	
+W
+Tuesday 12 January 2016
+BOU
+
+1
+-
+3
+
+WHU
+ 
+L
+Saturday 16 January 2016
+NEW
+
+2
+-
+1
+
+WHU
+ 
+D
+Saturday 23 January 2016
+WHU
+
+2
+-
+2
+
+MCI
+ 
+W
+Tuesday 2 February 2016
+WHU
+
+2
+-
+0
+
+AVL
+ 
+L
+Saturday 6 February 2016
+SOU
+
+1
+-
+0
+
+WHU
+7 
+Previous Position 7
+
+Southampton
+25	10	7	8	33	24	9	37	
+W
+Wednesday 13 January 2016
+SOU
+
+2
+-
+0
+
+WAT
+ 
+W
+Saturday 16 January 2016
+SOU
+
+3
+-
+0
+
+WBA
+ 
+W
+Saturday 23 January 2016
+MUN
+
+0
+-
+1
+
+SOU
+ 
+D
+Tuesday 2 February 2016
+ARS
+
+0
+-
+0
+
+SOU
+ 
+W
+Saturday 6 February 2016
+SOU
+
+1
+-
+0
+
+WHU
+8 
+Previous Position 11
+
+Everton
+25	8	11	6	46	34	12	35	
+D
+Wednesday 13 January 2016
+MCI
+
+0
+-
+0
+
+EVE
+ 
+D
+Saturday 16 January 2016
+CHE
+
+3
+-
+3
+
+EVE
+ 
+L
+Sunday 24 January 2016
+EVE
+
+1
+-
+2
+
+SWA
+ 
+W
+Wednesday 3 February 2016
+EVE
+
+3
+-
+0
+
+NEW
+ 
+W
+Saturday 6 February 2016
+STK
+
+0
+-
+3
+
+EVE
+9 
+Previous Position 8
+
+Liverpool
+25	9	8	8	32	36	-4	35	
+D
+Wednesday 13 January 2016
+LIV
+
+3
+-
+3
+
+ARS
+ 
+L
+Sunday 17 January 2016
+LIV
+
+0
+-
+1
+
+MUN
+ 
+W
+Saturday 23 January 2016
+NOR
+
+4
+-
+5
+
+LIV
+ 
+L
+Tuesday 2 February 2016
+LEI
+
+2
+-
+0
+
+LIV
+ 
+D
+Saturday 6 February 2016
+LIV
+
+2
+-
+2
+
+SUN
+10 
+Previous Position 9
+
+Watford
+25	9	6	10	27	27	0	33	
+L
+Wednesday 13 January 2016
+SOU
+
+2
+-
+0
+
+WAT
+ 
+L
+Monday 18 January 2016
+SWA
+
+1
+-
+0
+
+WAT
+ 
+W
+Saturday 23 January 2016
+WAT
+
+2
+-
+1
+
+NEW
+ 
+D
+Wednesday 3 February 2016
+WAT
+
+0
+-
+0
+
+CHE
+ 
+L
+Saturday 6 February 2016
+TOT
+
+1
+-
+0
+
+WAT
+11 
+Previous Position 10
+
+Stoke City
+25	9	6	10	24	31	-7	33	
+W
+Wednesday 13 January 2016
+STK
+
+3
+-
+1
+
+NOR
+ 
+D
+Sunday 17 January 2016
+STK
+
+0
+-
+0
+
+ARS
+ 
+L
+Saturday 23 January 2016
+LEI
+
+3
+-
+0
+
+STK
+ 
+L
+Tuesday 2 February 2016
+MUN
+
+3
+-
+0
+
+STK
+ 
+L
+Saturday 6 February 2016
+STK
+
+0
+-
+3
+
+EVE
+12 
+Previous Position 12
+
+Crystal Palace
+25	9	5	11	26	30	-4	32	
+L
+Tuesday 12 January 2016
+AVL
+
+1
+-
+0
+
+CRY
+ 
+L
+Saturday 16 January 2016
+MCI
+
+4
+-
+0
+
+CRY
+ 
+L
+Saturday 23 January 2016
+CRY
+
+1
+-
+3
+
+TOT
+ 
+L
+Tuesday 2 February 2016
+CRY
+
+1
+-
+2
+
+BOU
+ 
+D
+Saturday 6 February 2016
+SWA
+
+1
+-
+1
+
+CRY
+13 
+Previous Position 13
+
+Chelsea
+25	7	9	9	33	35	-2	30	
+D
+Wednesday 13 January 2016
+CHE
+
+2
+-
+2
+
+WBA
+ 
+D
+Saturday 16 January 2016
+CHE
+
+3
+-
+3
+
+EVE
+ 
+W
+Sunday 24 January 2016
+ARS
+
+0
+-
+1
+
+CHE
+ 
+D
+Wednesday 3 February 2016
+WAT
+
+0
+-
+0
+
+CHE
+ 
+D
+Sunday 7 February 2016
+CHE
+
+1
+-
+1
+
+MUN
+14 
+Previous Position 14
+
+West Bromwich Albion
+25	7	8	10	23	32	-9	29	
+D
+Wednesday 13 January 2016
+CHE
+
+2
+-
+2
+
+WBA
+ 
+L
+Saturday 16 January 2016
+SOU
+
+3
+-
+0
+
+WBA
+ 
+D
+Saturday 23 January 2016
+WBA
+
+0
+-
+0
+
+AVL
+ 
+D
+Tuesday 2 February 2016
+WBA
+
+1
+-
+1
+
+SWA
+ 
+L
+Saturday 6 February 2016
+NEW
+
+1
+-
+0
+
+WBA
+15 
+Previous Position 15
+
+Bournemouth
+25	7	7	11	29	41	-12	28	
+L
+Tuesday 12 January 2016
+BOU
+
+1
+-
+3
+
+WHU
+ 
+W
+Saturday 16 January 2016
+BOU
+
+3
+-
+0
+
+NOR
+ 
+D
+Saturday 23 January 2016
+SUN
+
+1
+-
+1
+
+BOU
+ 
+W
+Tuesday 2 February 2016
+CRY
+
+1
+-
+2
+
+BOU
+ 
+L
+Sunday 7 February 2016
+BOU
+
+0
+-
+2
+
+ARS
+16 
+Previous Position 16
+
+Swansea City
+25	6	9	10	24	33	-9	27	
+L
+Wednesday 13 January 2016
+SWA
+
+2
+-
+4
+
+SUN
+ 
+W
+Monday 18 January 2016
+SWA
+
+1
+-
+0
+
+WAT
+ 
+W
+Sunday 24 January 2016
+EVE
+
+1
+-
+2
+
+SWA
+ 
+D
+Tuesday 2 February 2016
+WBA
+
+1
+-
+1
+
+SWA
+ 
+D
+Saturday 6 February 2016
+SWA
+
+1
+-
+1
+
+CRY
+17 
+Previous Position 18
+
+Newcastle United
+25	6	6	13	26	44	-18	24	
+D
+Tuesday 12 January 2016
+NEW
+
+3
+-
+3
+
+MUN
+ 
+W
+Saturday 16 January 2016
+NEW
+
+2
+-
+1
+
+WHU
+ 
+L
+Saturday 23 January 2016
+WAT
+
+2
+-
+1
+
+NEW
+ 
+L
+Wednesday 3 February 2016
+EVE
+
+3
+-
+0
+
+NEW
+ 
+W
+Saturday 6 February 2016
+NEW
+
+1
+-
+0
+
+WBA
+18 
+Previous Position 17
+
+Norwich City
+25	6	5	14	28	48	-20	23	
+L
+Wednesday 13 January 2016
+STK
+
+3
+-
+1
+
+NOR
+ 
+L
+Saturday 16 January 2016
+BOU
+
+3
+-
+0
+
+NOR
+ 
+L
+Saturday 23 January 2016
+NOR
+
+4
+-
+5
+
+LIV
+ 
+L
+Tuesday 2 February 2016
+NOR
+
+0
+-
+3
+
+TOT
+ 
+L
+Saturday 6 February 2016
+AVL
+
+2
+-
+0
+
+NOR
+19 
+Previous Position 19
+
+Sunderland
+25	5	5	15	30	49	-19	20	
+W
+Wednesday 13 January 2016
+SWA
+
+2
+-
+4
+
+SUN
+ 
+L
+Saturday 16 January 2016
+TOT
+
+4
+-
+1
+
+SUN
+ 
+D
+Saturday 23 January 2016
+SUN
+
+1
+-
+1
+
+BOU
+ 
+L
+Tuesday 2 February 2016
+SUN
+
+0
+-
+1
+
+MCI
+ 
+D
+Saturday 6 February 2016
+LIV
+
+2
+-
+2
+
+SUN
+20 
+Previous Position 20
+
+Aston Villa
+25	3	7	15	20	40	-20	16	
+W
+Tuesday 12 January 2016
+AVL
+
+1
+-
+0
+
+CRY
+ 
+D
+Saturday 16 January 2016
+AVL
+
+1
+-
+1
+
+LEI
+ 
+D
+Saturday 23 January 2016
+WBA
+
+0
+-
+0
+
+AVL
+ 
+L
+Tuesday 2 February 2016
+WHU
+
+2
+-
+0
+
+AVL
+ 
+W
+Saturday 6 February 2016
+AVL
+
+2
+-
+0
+
+NOR

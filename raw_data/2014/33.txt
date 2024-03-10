@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Chelsea
+32	23	7	2	65	26	39	76	
+D
+Sunday 15 March 2015
+CHE
+
+1
+-
+1
+
+SOU
+ 
+W
+Sunday 22 March 2015
+HUL
+
+2
+-
+3
+
+CHE
+ 
+W
+Saturday 4 April 2015
+CHE
+
+2
+-
+1
+
+STK
+ 
+W
+Sunday 12 April 2015
+QPR
+
+0
+-
+1
+
+CHE
+ 
+W
+Saturday 18 April 2015
+CHE
+
+1
+-
+0
+
+MUN
+2 
+Previous Position 2
+
+Arsenal
+32	20	6	6	63	32	31	66	
+W
+Wednesday 4 March 2015
+QPR
+
+1
+-
+2
+
+ARS
+ 
+W
+Saturday 14 March 2015
+ARS
+
+3
+-
+0
+
+WHU
+ 
+W
+Saturday 21 March 2015
+NEW
+
+1
+-
+2
+
+ARS
+ 
+W
+Saturday 4 April 2015
+ARS
+
+4
+-
+1
+
+LIV
+ 
+W
+Saturday 11 April 2015
+BUR
+
+0
+-
+1
+
+ARS
+3 
+Previous Position 3
+
+Manchester United
+33	19	8	6	59	31	28	65	
+W
+Sunday 15 March 2015
+MUN
+
+3
+-
+0
+
+TOT
+ 
+W
+Sunday 22 March 2015
+LIV
+
+1
+-
+2
+
+MUN
+ 
+W
+Saturday 4 April 2015
+MUN
+
+3
+-
+1
+
+AVL
+ 
+W
+Sunday 12 April 2015
+MUN
+
+4
+-
+2
+
+MCI
+ 
+L
+Saturday 18 April 2015
+CHE
+
+1
+-
+0
+
+MUN
+4 
+Previous Position 4
+
+Manchester City
+33	19	7	7	67	34	33	64	
+L
+Saturday 14 March 2015
+BUR
+
+1
+-
+0
+
+MCI
+ 
+W
+Saturday 21 March 2015
+MCI
+
+3
+-
+0
+
+WBA
+ 
+L
+Monday 6 April 2015
+CRY
+
+2
+-
+1
+
+MCI
+ 
+L
+Sunday 12 April 2015
+MUN
+
+4
+-
+2
+
+MCI
+ 
+W
+Sunday 19 April 2015
+MCI
+
+2
+-
+0
+
+WHU
+5 
+Previous Position 5
+
+Liverpool
+32	17	6	9	47	36	11	57	
+W
+Wednesday 4 March 2015
+LIV
+
+2
+-
+0
+
+BUR
+ 
+W
+Monday 16 March 2015
+SWA
+
+0
+-
+1
+
+LIV
+ 
+L
+Sunday 22 March 2015
+LIV
+
+1
+-
+2
+
+MUN
+ 
+L
+Saturday 4 April 2015
+ARS
+
+4
+-
+1
+
+LIV
+ 
+W
+Monday 13 April 2015
+LIV
+
+2
+-
+0
+
+NEW
+6 
+Previous Position 7
+
+Tottenham Hotspur
+33	17	6	10	53	47	6	57	
+L
+Sunday 15 March 2015
+MUN
+
+3
+-
+0
+
+TOT
+ 
+W
+Saturday 21 March 2015
+TOT
+
+4
+-
+3
+
+LEI
+ 
+D
+Sunday 5 April 2015
+BUR
+
+0
+-
+0
+
+TOT
+ 
+L
+Saturday 11 April 2015
+TOT
+
+0
+-
+1
+
+AVL
+ 
+W
+Sunday 19 April 2015
+NEW
+
+1
+-
+3
+
+TOT
+7 
+Previous Position 6
+
+Southampton
+33	17	5	11	45	24	21	56	
+D
+Sunday 15 March 2015
+CHE
+
+1
+-
+1
+
+SOU
+ 
+W
+Saturday 21 March 2015
+SOU
+
+2
+-
+0
+
+BUR
+ 
+L
+Saturday 4 April 2015
+EVE
+
+1
+-
+0
+
+SOU
+ 
+W
+Saturday 11 April 2015
+SOU
+
+2
+-
+0
+
+HUL
+ 
+L
+Saturday 18 April 2015
+STK
+
+2
+-
+1
+
+SOU
+8 
+Previous Position 8
+
+Swansea City
+33	13	8	12	38	42	-4	47	
+L
+Monday 16 March 2015
+SWA
+
+0
+-
+1
+
+LIV
+ 
+W
+Saturday 21 March 2015
+AVL
+
+0
+-
+1
+
+SWA
+ 
+W
+Saturday 4 April 2015
+SWA
+
+3
+-
+1
+
+HUL
+ 
+D
+Saturday 11 April 2015
+SWA
+
+1
+-
+1
+
+EVE
+ 
+L
+Saturday 18 April 2015
+LEI
+
+2
+-
+0
+
+SWA
+9 
+Previous Position 10
+
+Stoke City
+33	13	7	13	38	41	-3	46	
+L
+Saturday 14 March 2015
+WBA
+
+1
+-
+0
+
+STK
+ 
+L
+Saturday 21 March 2015
+STK
+
+1
+-
+2
+
+CRY
+ 
+L
+Saturday 4 April 2015
+CHE
+
+2
+-
+1
+
+STK
+ 
+D
+Saturday 11 April 2015
+WHU
+
+1
+-
+1
+
+STK
+ 
+W
+Saturday 18 April 2015
+STK
+
+2
+-
+1
+
+SOU
+10 
+Previous Position 9
+
+West Ham United
+33	11	10	12	42	42	0	43	
+L
+Saturday 14 March 2015
+ARS
+
+3
+-
+0
+
+WHU
+ 
+W
+Saturday 21 March 2015
+WHU
+
+1
+-
+0
+
+SUN
+ 
+L
+Saturday 4 April 2015
+LEI
+
+2
+-
+1
+
+WHU
+ 
+D
+Saturday 11 April 2015
+WHU
+
+1
+-
+1
+
+STK
+ 
+L
+Sunday 19 April 2015
+MCI
+
+2
+-
+0
+
+WHU
+11 
+Previous Position 11
+
+Crystal Palace
+33	11	9	13	42	45	-3	42	
+W
+Saturday 14 March 2015
+CRY
+
+3
+-
+1
+
+QPR
+ 
+W
+Saturday 21 March 2015
+STK
+
+1
+-
+2
+
+CRY
+ 
+W
+Monday 6 April 2015
+CRY
+
+2
+-
+1
+
+MCI
+ 
+W
+Saturday 11 April 2015
+SUN
+
+1
+-
+4
+
+CRY
+ 
+L
+Saturday 18 April 2015
+CRY
+
+0
+-
+2
+
+WBA
+12 
+Previous Position 12
+
+Everton
+33	10	11	12	41	43	-2	41	
+W
+Sunday 15 March 2015
+EVE
+
+3
+-
+0
+
+NEW
+ 
+W
+Sunday 22 March 2015
+QPR
+
+1
+-
+2
+
+EVE
+ 
+W
+Saturday 4 April 2015
+EVE
+
+1
+-
+0
+
+SOU
+ 
+D
+Saturday 11 April 2015
+SWA
+
+1
+-
+1
+
+EVE
+ 
+W
+Saturday 18 April 2015
+EVE
+
+1
+-
+0
+
+BUR
+13 
+Previous Position 14
+
+West Bromwich Albion
+33	9	9	15	32	46	-14	36	
+W
+Saturday 14 March 2015
+WBA
+
+1
+-
+0
+
+STK
+ 
+L
+Saturday 21 March 2015
+MCI
+
+3
+-
+0
+
+WBA
+ 
+L
+Saturday 4 April 2015
+WBA
+
+1
+-
+4
+
+QPR
+ 
+L
+Saturday 11 April 2015
+WBA
+
+2
+-
+3
+
+LEI
+ 
+W
+Saturday 18 April 2015
+CRY
+
+0
+-
+2
+
+WBA
+14 
+Previous Position 13
+
+Newcastle United
+33	9	8	16	34	54	-20	35	
+L
+Sunday 15 March 2015
+EVE
+
+3
+-
+0
+
+NEW
+ 
+L
+Saturday 21 March 2015
+NEW
+
+1
+-
+2
+
+ARS
+ 
+L
+Sunday 5 April 2015
+SUN
+
+1
+-
+0
+
+NEW
+ 
+L
+Monday 13 April 2015
+LIV
+
+2
+-
+0
+
+NEW
+ 
+L
+Sunday 19 April 2015
+NEW
+
+1
+-
+3
+
+TOT
+15 
+Previous Position 15
+
+Aston Villa
+33	8	8	17	24	45	-21	32	
+W
+Saturday 14 March 2015
+SUN
+
+0
+-
+4
+
+AVL
+ 
+L
+Saturday 21 March 2015
+AVL
+
+0
+-
+1
+
+SWA
+ 
+L
+Saturday 4 April 2015
+MUN
+
+3
+-
+1
+
+AVL
+ 
+D
+Tuesday 7 April 2015
+AVL
+
+3
+-
+3
+
+QPR
+ 
+W
+Saturday 11 April 2015
+TOT
+
+0
+-
+1
+
+AVL
+16 
+Previous Position 16
+
+Sunderland
+32	5	14	13	25	48	-23	29	
+D
+Tuesday 3 March 2015
+HUL
+
+1
+-
+1
+
+SUN
+ 
+L
+Saturday 14 March 2015
+SUN
+
+0
+-
+4
+
+AVL
+ 
+L
+Saturday 21 March 2015
+WHU
+
+1
+-
+0
+
+SUN
+ 
+W
+Sunday 5 April 2015
+SUN
+
+1
+-
+0
+
+NEW
+ 
+L
+Saturday 11 April 2015
+SUN
+
+1
+-
+4
+
+CRY
+17 
+Previous Position 17
+
+Hull City
+32	6	10	16	29	45	-16	28	
+D
+Tuesday 3 March 2015
+HUL
+
+1
+-
+1
+
+SUN
+ 
+D
+Saturday 14 March 2015
+LEI
+
+0
+-
+0
+
+HUL
+ 
+L
+Sunday 22 March 2015
+HUL
+
+2
+-
+3
+
+CHE
+ 
+L
+Saturday 4 April 2015
+SWA
+
+3
+-
+1
+
+HUL
+ 
+L
+Saturday 11 April 2015
+SOU
+
+2
+-
+0
+
+HUL
+18 
+Previous Position 20
+
+Leicester City
+32	7	7	18	34	51	-17	28	
+D
+Saturday 14 March 2015
+LEI
+
+0
+-
+0
+
+HUL
+ 
+L
+Saturday 21 March 2015
+TOT
+
+4
+-
+3
+
+LEI
+ 
+W
+Saturday 4 April 2015
+LEI
+
+2
+-
+1
+
+WHU
+ 
+W
+Saturday 11 April 2015
+WBA
+
+2
+-
+3
+
+LEI
+ 
+W
+Saturday 18 April 2015
+LEI
+
+2
+-
+0
+
+SWA
+19 
+Previous Position 18
+
+Queens Park Rangers
+33	7	5	21	38	59	-21	26	
+L
+Saturday 14 March 2015
+CRY
+
+3
+-
+1
+
+QPR
+ 
+L
+Sunday 22 March 2015
+QPR
+
+1
+-
+2
+
+EVE
+ 
+W
+Saturday 4 April 2015
+WBA
+
+1
+-
+4
+
+QPR
+ 
+D
+Tuesday 7 April 2015
+AVL
+
+3
+-
+3
+
+QPR
+ 
+L
+Sunday 12 April 2015
+QPR
+
+0
+-
+1
+
+CHE
+20 
+Previous Position 19
+
+Burnley
+33	5	11	17	26	51	-25	26	
+W
+Saturday 14 March 2015
+BUR
+
+1
+-
+0
+
+MCI
+ 
+L
+Saturday 21 March 2015
+SOU
+
+2
+-
+0
+
+BUR
+ 
+D
+Sunday 5 April 2015
+BUR
+
+0
+-
+0
+
+TOT
+ 
+L
+Saturday 11 April 2015
+BUR
+
+0
+-
+1
+
+ARS
+ 
+L
+Saturday 18 April 2015
+EVE
+
+1
+-
+0
+
+BUR

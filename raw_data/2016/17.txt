@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Chelsea
+17	14	1	2	35	11	24	43	
+W
+Saturday 26 November 2016
+CHE
+
+2
+-
+1
+
+TOT
+ 
+W
+Saturday 3 December 2016
+MCI
+
+1
+-
+3
+
+CHE
+ 
+W
+Sunday 11 December 2016
+CHE
+
+1
+-
+0
+
+WBA
+ 
+W
+Wednesday 14 December 2016
+SUN
+
+0
+-
+1
+
+CHE
+ 
+W
+Saturday 17 December 2016
+CRY
+
+0
+-
+1
+
+CHE
+2 
+Previous Position 2
+
+Liverpool
+17	11	4	2	41	20	21	37	
+W
+Saturday 26 November 2016
+LIV
+
+2
+-
+0
+
+SUN
+ 
+L
+Sunday 4 December 2016
+BOU
+
+4
+-
+3
+
+LIV
+ 
+D
+Sunday 11 December 2016
+LIV
+
+2
+-
+2
+
+WHU
+ 
+W
+Wednesday 14 December 2016
+MID
+
+0
+-
+3
+
+LIV
+ 
+W
+Monday 19 December 2016
+EVE
+
+0
+-
+1
+
+LIV
+3 
+Previous Position 4
+
+Manchester City
+17	11	3	3	36	20	16	36	
+W
+Saturday 26 November 2016
+BUR
+
+1
+-
+2
+
+MCI
+ 
+L
+Saturday 3 December 2016
+MCI
+
+1
+-
+3
+
+CHE
+ 
+L
+Saturday 10 December 2016
+LEI
+
+4
+-
+2
+
+MCI
+ 
+W
+Wednesday 14 December 2016
+MCI
+
+2
+-
+0
+
+WAT
+ 
+W
+Sunday 18 December 2016
+MCI
+
+2
+-
+1
+
+ARS
+4 
+Previous Position 3
+
+Arsenal
+17	10	4	3	38	19	19	34	
+W
+Sunday 27 November 2016
+ARS
+
+3
+-
+1
+
+BOU
+ 
+W
+Saturday 3 December 2016
+WHU
+
+1
+-
+5
+
+ARS
+ 
+W
+Saturday 10 December 2016
+ARS
+
+3
+-
+1
+
+STK
+ 
+L
+Tuesday 13 December 2016
+EVE
+
+2
+-
+1
+
+ARS
+ 
+L
+Sunday 18 December 2016
+MCI
+
+2
+-
+1
+
+ARS
+5 
+Previous Position 5
+
+Tottenham Hotspur
+17	9	6	2	29	12	17	33	
+L
+Saturday 26 November 2016
+CHE
+
+2
+-
+1
+
+TOT
+ 
+W
+Saturday 3 December 2016
+TOT
+
+5
+-
+0
+
+SWA
+ 
+L
+Sunday 11 December 2016
+MUN
+
+1
+-
+0
+
+TOT
+ 
+W
+Wednesday 14 December 2016
+TOT
+
+3
+-
+0
+
+HUL
+ 
+W
+Sunday 18 December 2016
+TOT
+
+2
+-
+1
+
+BUR
+6 
+Previous Position 6
+
+Manchester United
+17	8	6	3	24	17	7	30	
+D
+Sunday 27 November 2016
+MUN
+
+1
+-
+1
+
+WHU
+ 
+D
+Sunday 4 December 2016
+EVE
+
+1
+-
+1
+
+MUN
+ 
+W
+Sunday 11 December 2016
+MUN
+
+1
+-
+0
+
+TOT
+ 
+W
+Wednesday 14 December 2016
+CRY
+
+1
+-
+2
+
+MUN
+ 
+W
+Saturday 17 December 2016
+WBA
+
+0
+-
+2
+
+MUN
+7 
+Previous Position 9
+
+Southampton
+17	6	6	5	17	16	1	24	
+W
+Sunday 27 November 2016
+SOU
+
+1
+-
+0
+
+EVE
+ 
+L
+Saturday 3 December 2016
+CRY
+
+3
+-
+0
+
+SOU
+ 
+W
+Sunday 11 December 2016
+SOU
+
+1
+-
+0
+
+MID
+ 
+D
+Wednesday 14 December 2016
+STK
+
+0
+-
+0
+
+SOU
+ 
+W
+Sunday 18 December 2016
+BOU
+
+1
+-
+3
+
+SOU
+8 
+Previous Position 7
+
+West Bromwich Albion
+17	6	5	6	23	21	2	23	
+D
+Saturday 26 November 2016
+HUL
+
+1
+-
+1
+
+WBA
+ 
+W
+Saturday 3 December 2016
+WBA
+
+3
+-
+1
+
+WAT
+ 
+L
+Sunday 11 December 2016
+CHE
+
+1
+-
+0
+
+WBA
+ 
+W
+Wednesday 14 December 2016
+WBA
+
+3
+-
+1
+
+SWA
+ 
+L
+Saturday 17 December 2016
+WBA
+
+0
+-
+2
+
+MUN
+9 
+Previous Position 8
+
+Everton
+17	6	5	6	21	21	0	23	
+L
+Sunday 27 November 2016
+SOU
+
+1
+-
+0
+
+EVE
+ 
+D
+Sunday 4 December 2016
+EVE
+
+1
+-
+1
+
+MUN
+ 
+L
+Saturday 10 December 2016
+WAT
+
+3
+-
+2
+
+EVE
+ 
+W
+Tuesday 13 December 2016
+EVE
+
+2
+-
+1
+
+ARS
+ 
+L
+Monday 19 December 2016
+EVE
+
+0
+-
+1
+
+LIV
+10 
+Previous Position 10
+
+Bournemouth
+17	6	3	8	23	28	-5	21	
+L
+Sunday 27 November 2016
+ARS
+
+3
+-
+1
+
+BOU
+ 
+W
+Sunday 4 December 2016
+BOU
+
+4
+-
+3
+
+LIV
+ 
+L
+Saturday 10 December 2016
+BUR
+
+3
+-
+2
+
+BOU
+ 
+W
+Tuesday 13 December 2016
+BOU
+
+1
+-
+0
+
+LEI
+ 
+L
+Sunday 18 December 2016
+BOU
+
+1
+-
+3
+
+SOU
+11 
+Previous Position 12
+
+Stoke City
+17	5	6	6	19	24	-5	21	
+W
+Sunday 27 November 2016
+WAT
+
+0
+-
+1
+
+STK
+ 
+W
+Saturday 3 December 2016
+STK
+
+2
+-
+0
+
+BUR
+ 
+L
+Saturday 10 December 2016
+ARS
+
+3
+-
+1
+
+STK
+ 
+D
+Wednesday 14 December 2016
+STK
+
+0
+-
+0
+
+SOU
+ 
+D
+Saturday 17 December 2016
+STK
+
+2
+-
+2
+
+LEI
+12 
+Previous Position 11
+
+Watford
+17	6	3	8	21	29	-8	21	
+L
+Sunday 27 November 2016
+WAT
+
+0
+-
+1
+
+STK
+ 
+L
+Saturday 3 December 2016
+WBA
+
+3
+-
+1
+
+WAT
+ 
+W
+Saturday 10 December 2016
+WAT
+
+3
+-
+2
+
+EVE
+ 
+L
+Wednesday 14 December 2016
+MCI
+
+2
+-
+0
+
+WAT
+ 
+L
+Saturday 17 December 2016
+SUN
+
+1
+-
+0
+
+WAT
+13 
+Previous Position 15
+
+West Ham United
+17	5	4	8	19	31	-12	19	
+D
+Sunday 27 November 2016
+MUN
+
+1
+-
+1
+
+WHU
+ 
+L
+Saturday 3 December 2016
+WHU
+
+1
+-
+5
+
+ARS
+ 
+D
+Sunday 11 December 2016
+LIV
+
+2
+-
+2
+
+WHU
+ 
+W
+Wednesday 14 December 2016
+WHU
+
+1
+-
+0
+
+BUR
+ 
+W
+Saturday 17 December 2016
+WHU
+
+1
+-
+0
+
+HUL
+14 
+Previous Position 17
+
+Middlesbrough
+17	4	6	7	16	19	-3	18	
+D
+Saturday 26 November 2016
+LEI
+
+2
+-
+2
+
+MID
+ 
+W
+Monday 5 December 2016
+MID
+
+1
+-
+0
+
+HUL
+ 
+L
+Sunday 11 December 2016
+SOU
+
+1
+-
+0
+
+MID
+ 
+L
+Wednesday 14 December 2016
+MID
+
+0
+-
+3
+
+LIV
+ 
+W
+Saturday 17 December 2016
+MID
+
+3
+-
+0
+
+SWA
+15 
+Previous Position 14
+
+Leicester City
+17	4	5	8	23	29	-6	17	
+D
+Saturday 26 November 2016
+LEI
+
+2
+-
+2
+
+MID
+ 
+L
+Saturday 3 December 2016
+SUN
+
+2
+-
+1
+
+LEI
+ 
+W
+Saturday 10 December 2016
+LEI
+
+4
+-
+2
+
+MCI
+ 
+L
+Tuesday 13 December 2016
+BOU
+
+1
+-
+0
+
+LEI
+ 
+D
+Saturday 17 December 2016
+STK
+
+2
+-
+2
+
+LEI
+16 
+Previous Position 13
+
+Burnley
+17	5	2	10	16	28	-12	17	
+L
+Saturday 26 November 2016
+BUR
+
+1
+-
+2
+
+MCI
+ 
+L
+Saturday 3 December 2016
+STK
+
+2
+-
+0
+
+BUR
+ 
+W
+Saturday 10 December 2016
+BUR
+
+3
+-
+2
+
+BOU
+ 
+L
+Wednesday 14 December 2016
+WHU
+
+1
+-
+0
+
+BUR
+ 
+L
+Sunday 18 December 2016
+TOT
+
+2
+-
+1
+
+BUR
+17 
+Previous Position 16
+
+Crystal Palace
+17	4	3	10	28	32	-4	15	
+L
+Saturday 26 November 2016
+SWA
+
+5
+-
+4
+
+CRY
+ 
+W
+Saturday 3 December 2016
+CRY
+
+3
+-
+0
+
+SOU
+ 
+D
+Saturday 10 December 2016
+HUL
+
+3
+-
+3
+
+CRY
+ 
+L
+Wednesday 14 December 2016
+CRY
+
+1
+-
+2
+
+MUN
+ 
+L
+Saturday 17 December 2016
+CRY
+
+0
+-
+1
+
+CHE
+18 
+Previous Position 20
+
+Sunderland
+17	4	2	11	15	28	-13	14	
+L
+Saturday 26 November 2016
+LIV
+
+2
+-
+0
+
+SUN
+ 
+W
+Saturday 3 December 2016
+SUN
+
+2
+-
+1
+
+LEI
+ 
+L
+Saturday 10 December 2016
+SWA
+
+3
+-
+0
+
+SUN
+ 
+L
+Wednesday 14 December 2016
+SUN
+
+0
+-
+1
+
+CHE
+ 
+W
+Saturday 17 December 2016
+SUN
+
+1
+-
+0
+
+WAT
+19 
+Previous Position 18
+
+Swansea City
+17	3	3	11	20	37	-17	12	
+W
+Saturday 26 November 2016
+SWA
+
+5
+-
+4
+
+CRY
+ 
+L
+Saturday 3 December 2016
+TOT
+
+5
+-
+0
+
+SWA
+ 
+W
+Saturday 10 December 2016
+SWA
+
+3
+-
+0
+
+SUN
+ 
+L
+Wednesday 14 December 2016
+WBA
+
+3
+-
+1
+
+SWA
+ 
+L
+Saturday 17 December 2016
+MID
+
+3
+-
+0
+
+SWA
+20 
+Previous Position 19
+
+Hull City
+17	3	3	11	14	36	-22	12	
+D
+Saturday 26 November 2016
+HUL
+
+1
+-
+1
+
+WBA
+ 
+L
+Monday 5 December 2016
+MID
+
+1
+-
+0
+
+HUL
+ 
+D
+Saturday 10 December 2016
+HUL
+
+3
+-
+3
+
+CRY
+ 
+L
+Wednesday 14 December 2016
+TOT
+
+3
+-
+0
+
+HUL
+ 
+L
+Saturday 17 December 2016
+WHU
+
+1
+-
+0
+
+HUL

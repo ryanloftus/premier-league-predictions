@@ -1,0 +1,1080 @@
+1 
+Previous Position 3
+
+Manchester City
+14	9	2	3	30	14	16	29	
+D
+Sunday 25 October 2015
+MUN
+
+0
+-
+0
+
+MCI
+ 
+W
+Saturday 31 October 2015
+MCI
+
+2
+-
+1
+
+NOR
+ 
+D
+Sunday 8 November 2015
+AVL
+
+0
+-
+0
+
+MCI
+ 
+L
+Saturday 21 November 2015
+MCI
+
+1
+-
+4
+
+LIV
+ 
+W
+Saturday 28 November 2015
+MCI
+
+3
+-
+1
+
+SOU
+2 
+Previous Position 1
+
+Leicester City
+14	8	5	1	29	21	8	29	
+W
+Saturday 24 October 2015
+LEI
+
+1
+-
+0
+
+CRY
+ 
+W
+Saturday 31 October 2015
+WBA
+
+2
+-
+3
+
+LEI
+ 
+W
+Saturday 7 November 2015
+LEI
+
+2
+-
+1
+
+WAT
+ 
+W
+Saturday 21 November 2015
+NEW
+
+0
+-
+3
+
+LEI
+ 
+D
+Saturday 28 November 2015
+LEI
+
+1
+-
+1
+
+MUN
+3 
+Previous Position 2
+
+Manchester United
+14	8	4	2	20	10	10	28	
+D
+Sunday 25 October 2015
+MUN
+
+0
+-
+0
+
+MCI
+ 
+D
+Saturday 31 October 2015
+CRY
+
+0
+-
+0
+
+MUN
+ 
+W
+Saturday 7 November 2015
+MUN
+
+2
+-
+0
+
+WBA
+ 
+W
+Saturday 21 November 2015
+WAT
+
+1
+-
+2
+
+MUN
+ 
+D
+Saturday 28 November 2015
+LEI
+
+1
+-
+1
+
+MUN
+4 
+Previous Position 4
+
+Arsenal
+14	8	3	3	24	12	12	27	
+W
+Saturday 24 October 2015
+ARS
+
+2
+-
+1
+
+EVE
+ 
+W
+Saturday 31 October 2015
+SWA
+
+0
+-
+3
+
+ARS
+ 
+D
+Sunday 8 November 2015
+ARS
+
+1
+-
+1
+
+TOT
+ 
+L
+Saturday 21 November 2015
+WBA
+
+2
+-
+1
+
+ARS
+ 
+D
+Sunday 29 November 2015
+NOR
+
+1
+-
+1
+
+ARS
+5 
+Previous Position 5
+
+Tottenham Hotspur
+14	6	7	1	24	11	13	25	
+W
+Sunday 25 October 2015
+BOU
+
+1
+-
+5
+
+TOT
+ 
+W
+Monday 2 November 2015
+TOT
+
+3
+-
+1
+
+AVL
+ 
+D
+Sunday 8 November 2015
+ARS
+
+1
+-
+1
+
+TOT
+ 
+W
+Sunday 22 November 2015
+TOT
+
+4
+-
+1
+
+WHU
+ 
+D
+Sunday 29 November 2015
+TOT
+
+0
+-
+0
+
+CHE
+6 
+Previous Position 9
+
+Liverpool
+14	6	5	3	18	15	3	23	
+D
+Sunday 25 October 2015
+LIV
+
+1
+-
+1
+
+SOU
+ 
+W
+Saturday 31 October 2015
+CHE
+
+1
+-
+3
+
+LIV
+ 
+L
+Sunday 8 November 2015
+LIV
+
+1
+-
+2
+
+CRY
+ 
+W
+Saturday 21 November 2015
+MCI
+
+1
+-
+4
+
+LIV
+ 
+W
+Sunday 29 November 2015
+LIV
+
+1
+-
+0
+
+SWA
+7 
+Previous Position 10
+
+Crystal Palace
+14	7	1	6	19	14	5	22	
+L
+Saturday 24 October 2015
+LEI
+
+1
+-
+0
+
+CRY
+ 
+D
+Saturday 31 October 2015
+CRY
+
+0
+-
+0
+
+MUN
+ 
+W
+Sunday 8 November 2015
+LIV
+
+1
+-
+2
+
+CRY
+ 
+L
+Monday 23 November 2015
+CRY
+
+0
+-
+1
+
+SUN
+ 
+W
+Saturday 28 November 2015
+CRY
+
+5
+-
+1
+
+NEW
+8 
+Previous Position 6
+
+West Ham United
+14	6	4	4	25	21	4	22	
+W
+Saturday 24 October 2015
+WHU
+
+2
+-
+1
+
+CHE
+ 
+L
+Saturday 31 October 2015
+WAT
+
+2
+-
+0
+
+WHU
+ 
+D
+Saturday 7 November 2015
+WHU
+
+1
+-
+1
+
+EVE
+ 
+L
+Sunday 22 November 2015
+TOT
+
+4
+-
+1
+
+WHU
+ 
+D
+Sunday 29 November 2015
+WHU
+
+1
+-
+1
+
+WBA
+9 
+Previous Position 7
+
+Everton
+14	5	6	3	27	19	8	21	
+L
+Saturday 24 October 2015
+ARS
+
+2
+-
+1
+
+EVE
+ 
+W
+Sunday 1 November 2015
+EVE
+
+6
+-
+2
+
+SUN
+ 
+D
+Saturday 7 November 2015
+WHU
+
+1
+-
+1
+
+EVE
+ 
+W
+Saturday 21 November 2015
+EVE
+
+4
+-
+0
+
+AVL
+ 
+D
+Saturday 28 November 2015
+BOU
+
+3
+-
+3
+
+EVE
+10 
+Previous Position 8
+
+Southampton
+14	5	5	4	20	17	3	20	
+D
+Sunday 25 October 2015
+LIV
+
+1
+-
+1
+
+SOU
+ 
+W
+Sunday 1 November 2015
+SOU
+
+2
+-
+0
+
+BOU
+ 
+W
+Saturday 7 November 2015
+SUN
+
+0
+-
+1
+
+SOU
+ 
+L
+Saturday 21 November 2015
+SOU
+
+0
+-
+1
+
+STK
+ 
+L
+Saturday 28 November 2015
+MCI
+
+3
+-
+1
+
+SOU
+11 
+Previous Position 13
+
+Watford
+14	5	4	5	15	16	-1	19	
+W
+Saturday 24 October 2015
+STK
+
+0
+-
+2
+
+WAT
+ 
+W
+Saturday 31 October 2015
+WAT
+
+2
+-
+0
+
+WHU
+ 
+L
+Saturday 7 November 2015
+LEI
+
+2
+-
+1
+
+WAT
+ 
+L
+Saturday 21 November 2015
+WAT
+
+1
+-
+2
+
+MUN
+ 
+W
+Saturday 28 November 2015
+AVL
+
+2
+-
+3
+
+WAT
+12 
+Previous Position 11
+
+Stoke City
+14	5	4	5	11	14	-3	19	
+L
+Saturday 24 October 2015
+STK
+
+0
+-
+2
+
+WAT
+ 
+D
+Saturday 31 October 2015
+NEW
+
+0
+-
+0
+
+STK
+ 
+W
+Saturday 7 November 2015
+STK
+
+1
+-
+0
+
+CHE
+ 
+W
+Saturday 21 November 2015
+SOU
+
+0
+-
+1
+
+STK
+ 
+L
+Saturday 28 November 2015
+SUN
+
+2
+-
+0
+
+STK
+13 
+Previous Position 12
+
+West Bromwich Albion
+14	5	3	6	13	18	-5	18	
+W
+Saturday 24 October 2015
+NOR
+
+0
+-
+1
+
+WBA
+ 
+L
+Saturday 31 October 2015
+WBA
+
+2
+-
+3
+
+LEI
+ 
+L
+Saturday 7 November 2015
+MUN
+
+2
+-
+0
+
+WBA
+ 
+W
+Saturday 21 November 2015
+WBA
+
+2
+-
+1
+
+ARS
+ 
+D
+Sunday 29 November 2015
+WHU
+
+1
+-
+1
+
+WBA
+14 
+Previous Position 15
+
+Chelsea
+14	4	3	7	17	23	-6	15	
+L
+Saturday 24 October 2015
+WHU
+
+2
+-
+1
+
+CHE
+ 
+L
+Saturday 31 October 2015
+CHE
+
+1
+-
+3
+
+LIV
+ 
+L
+Saturday 7 November 2015
+STK
+
+1
+-
+0
+
+CHE
+ 
+W
+Saturday 21 November 2015
+CHE
+
+1
+-
+0
+
+NOR
+ 
+D
+Sunday 29 November 2015
+TOT
+
+0
+-
+0
+
+CHE
+15 
+Previous Position 14
+
+Swansea City
+14	3	5	6	14	19	-5	14	
+W
+Saturday 24 October 2015
+AVL
+
+1
+-
+2
+
+SWA
+ 
+L
+Saturday 31 October 2015
+SWA
+
+0
+-
+3
+
+ARS
+ 
+L
+Saturday 7 November 2015
+NOR
+
+1
+-
+0
+
+SWA
+ 
+D
+Saturday 21 November 2015
+SWA
+
+2
+-
+2
+
+BOU
+ 
+L
+Sunday 29 November 2015
+LIV
+
+1
+-
+0
+
+SWA
+16 
+Previous Position 16
+
+Norwich City
+14	3	4	7	17	25	-8	13	
+L
+Saturday 24 October 2015
+NOR
+
+0
+-
+1
+
+WBA
+ 
+L
+Saturday 31 October 2015
+MCI
+
+2
+-
+1
+
+NOR
+ 
+W
+Saturday 7 November 2015
+NOR
+
+1
+-
+0
+
+SWA
+ 
+L
+Saturday 21 November 2015
+CHE
+
+1
+-
+0
+
+NOR
+ 
+D
+Sunday 29 November 2015
+NOR
+
+1
+-
+1
+
+ARS
+17 
+Previous Position 18
+
+Sunderland
+14	3	3	8	16	26	-10	12	
+W
+Sunday 25 October 2015
+SUN
+
+3
+-
+0
+
+NEW
+ 
+L
+Sunday 1 November 2015
+EVE
+
+6
+-
+2
+
+SUN
+ 
+L
+Saturday 7 November 2015
+SUN
+
+0
+-
+1
+
+SOU
+ 
+W
+Monday 23 November 2015
+CRY
+
+0
+-
+1
+
+SUN
+ 
+W
+Saturday 28 November 2015
+SUN
+
+2
+-
+0
+
+STK
+18 
+Previous Position 19
+
+Bournemouth
+14	2	4	8	17	30	-13	10	
+L
+Sunday 25 October 2015
+BOU
+
+1
+-
+5
+
+TOT
+ 
+L
+Sunday 1 November 2015
+SOU
+
+2
+-
+0
+
+BOU
+ 
+L
+Saturday 7 November 2015
+BOU
+
+0
+-
+1
+
+NEW
+ 
+D
+Saturday 21 November 2015
+SWA
+
+2
+-
+2
+
+BOU
+ 
+D
+Saturday 28 November 2015
+BOU
+
+3
+-
+3
+
+EVE
+19 
+Previous Position 17
+
+Newcastle United
+14	2	4	8	14	30	-16	10	
+L
+Sunday 25 October 2015
+SUN
+
+3
+-
+0
+
+NEW
+ 
+D
+Saturday 31 October 2015
+NEW
+
+0
+-
+0
+
+STK
+ 
+W
+Saturday 7 November 2015
+BOU
+
+0
+-
+1
+
+NEW
+ 
+L
+Saturday 21 November 2015
+NEW
+
+0
+-
+3
+
+LEI
+ 
+L
+Saturday 28 November 2015
+CRY
+
+5
+-
+1
+
+NEW
+20 
+Previous Position 20
+
+Aston Villa
+14	1	2	11	12	27	-15	5	
+L
+Saturday 24 October 2015
+AVL
+
+1
+-
+2
+
+SWA
+ 
+L
+Monday 2 November 2015
+TOT
+
+3
+-
+1
+
+AVL
+ 
+D
+Sunday 8 November 2015
+AVL
+
+0
+-
+0
+
+MCI
+ 
+L
+Saturday 21 November 2015
+EVE
+
+4
+-
+0
+
+AVL
+ 
+L
+Saturday 28 November 2015
+AVL
+
+2
+-
+3
+
+WAT

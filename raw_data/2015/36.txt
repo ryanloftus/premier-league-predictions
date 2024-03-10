@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Leicester City
+36	22	11	3	64	34	30	77	
+W
+Sunday 3 April 2016
+LEI
+
+1
+-
+0
+
+SOU
+ 
+W
+Sunday 10 April 2016
+SUN
+
+0
+-
+2
+
+LEI
+ 
+D
+Sunday 17 April 2016
+LEI
+
+2
+-
+2
+
+WHU
+ 
+W
+Sunday 24 April 2016
+LEI
+
+4
+-
+0
+
+SWA
+ 
+D
+Sunday 1 May 2016
+MUN
+
+1
+-
+1
+
+LEI
+2 
+Previous Position 2
+
+Tottenham Hotspur
+36	19	13	4	67	28	39	70	
+D
+Saturday 2 April 2016
+LIV
+
+1
+-
+1
+
+TOT
+ 
+W
+Sunday 10 April 2016
+TOT
+
+3
+-
+0
+
+MUN
+ 
+W
+Monday 18 April 2016
+STK
+
+0
+-
+4
+
+TOT
+ 
+D
+Monday 25 April 2016
+TOT
+
+1
+-
+1
+
+WBA
+ 
+D
+Monday 2 May 2016
+CHE
+
+2
+-
+2
+
+TOT
+3 
+Previous Position 4
+
+Arsenal
+36	19	10	7	59	34	25	67	
+D
+Saturday 9 April 2016
+WHU
+
+3
+-
+3
+
+ARS
+ 
+D
+Sunday 17 April 2016
+ARS
+
+1
+-
+1
+
+CRY
+ 
+W
+Thursday 21 April 2016
+ARS
+
+2
+-
+0
+
+WBA
+ 
+D
+Sunday 24 April 2016
+SUN
+
+0
+-
+0
+
+ARS
+ 
+W
+Saturday 30 April 2016
+ARS
+
+1
+-
+0
+
+NOR
+4 
+Previous Position 3
+
+Manchester City
+36	19	7	10	68	38	30	64	
+W
+Saturday 9 April 2016
+MCI
+
+2
+-
+1
+
+WBA
+ 
+W
+Saturday 16 April 2016
+CHE
+
+0
+-
+3
+
+MCI
+ 
+D
+Tuesday 19 April 2016
+NEW
+
+1
+-
+1
+
+MCI
+ 
+W
+Saturday 23 April 2016
+MCI
+
+4
+-
+0
+
+STK
+ 
+L
+Sunday 1 May 2016
+SOU
+
+4
+-
+2
+
+MCI
+5 
+Previous Position 5
+
+Manchester United
+35	17	9	9	43	31	12	60	
+W
+Sunday 3 April 2016
+MUN
+
+1
+-
+0
+
+EVE
+ 
+L
+Sunday 10 April 2016
+TOT
+
+3
+-
+0
+
+MUN
+ 
+W
+Saturday 16 April 2016
+MUN
+
+1
+-
+0
+
+AVL
+ 
+W
+Wednesday 20 April 2016
+MUN
+
+2
+-
+0
+
+CRY
+ 
+D
+Sunday 1 May 2016
+MUN
+
+1
+-
+1
+
+LEI
+6 
+Previous Position 6
+
+West Ham United
+35	15	14	6	60	43	17	59	
+D
+Saturday 2 April 2016
+WHU
+
+2
+-
+2
+
+CRY
+ 
+D
+Saturday 9 April 2016
+WHU
+
+3
+-
+3
+
+ARS
+ 
+D
+Sunday 17 April 2016
+LEI
+
+2
+-
+2
+
+WHU
+ 
+W
+Wednesday 20 April 2016
+WHU
+
+3
+-
+1
+
+WAT
+ 
+W
+Saturday 30 April 2016
+WBA
+
+0
+-
+3
+
+WHU
+7 
+Previous Position 8
+
+Southampton
+36	16	9	11	53	39	14	57	
+L
+Sunday 3 April 2016
+LEI
+
+1
+-
+0
+
+SOU
+ 
+W
+Saturday 9 April 2016
+SOU
+
+3
+-
+1
+
+NEW
+ 
+D
+Saturday 16 April 2016
+EVE
+
+1
+-
+1
+
+SOU
+ 
+W
+Saturday 23 April 2016
+AVL
+
+2
+-
+4
+
+SOU
+ 
+W
+Sunday 1 May 2016
+SOU
+
+4
+-
+2
+
+MCI
+8 
+Previous Position 7
+
+Liverpool
+35	15	10	10	59	48	11	55	
+W
+Sunday 10 April 2016
+LIV
+
+4
+-
+1
+
+STK
+ 
+W
+Sunday 17 April 2016
+BOU
+
+1
+-
+2
+
+LIV
+ 
+W
+Wednesday 20 April 2016
+LIV
+
+4
+-
+0
+
+EVE
+ 
+D
+Saturday 23 April 2016
+LIV
+
+2
+-
+2
+
+NEW
+ 
+L
+Sunday 1 May 2016
+SWA
+
+3
+-
+1
+
+LIV
+9 
+Previous Position 9
+
+Chelsea
+35	12	12	11	55	48	7	48	
+W
+Saturday 2 April 2016
+AVL
+
+0
+-
+4
+
+CHE
+ 
+L
+Saturday 9 April 2016
+SWA
+
+1
+-
+0
+
+CHE
+ 
+L
+Saturday 16 April 2016
+CHE
+
+0
+-
+3
+
+MCI
+ 
+W
+Saturday 23 April 2016
+BOU
+
+1
+-
+4
+
+CHE
+ 
+D
+Monday 2 May 2016
+CHE
+
+2
+-
+2
+
+TOT
+10 
+Previous Position 10
+
+Stoke City
+36	13	9	14	38	52	-14	48	
+D
+Saturday 2 April 2016
+STK
+
+2
+-
+2
+
+SWA
+ 
+L
+Sunday 10 April 2016
+LIV
+
+4
+-
+1
+
+STK
+ 
+L
+Monday 18 April 2016
+STK
+
+0
+-
+4
+
+TOT
+ 
+L
+Saturday 23 April 2016
+MCI
+
+4
+-
+0
+
+STK
+ 
+D
+Saturday 30 April 2016
+STK
+
+1
+-
+1
+
+SUN
+11 
+Previous Position 11
+
+Everton
+35	10	14	11	55	49	6	44	
+D
+Saturday 9 April 2016
+WAT
+
+1
+-
+1
+
+EVE
+ 
+D
+Wednesday 13 April 2016
+CRY
+
+0
+-
+0
+
+EVE
+ 
+D
+Saturday 16 April 2016
+EVE
+
+1
+-
+1
+
+SOU
+ 
+L
+Wednesday 20 April 2016
+LIV
+
+4
+-
+0
+
+EVE
+ 
+W
+Saturday 30 April 2016
+EVE
+
+2
+-
+1
+
+BOU
+12 
+Previous Position 12
+
+Watford
+35	12	8	15	36	42	-6	44	
+L
+Saturday 2 April 2016
+ARS
+
+4
+-
+0
+
+WAT
+ 
+D
+Saturday 9 April 2016
+WAT
+
+1
+-
+1
+
+EVE
+ 
+W
+Saturday 16 April 2016
+WBA
+
+0
+-
+1
+
+WAT
+ 
+L
+Wednesday 20 April 2016
+WHU
+
+3
+-
+1
+
+WAT
+ 
+W
+Saturday 30 April 2016
+WAT
+
+3
+-
+2
+
+AVL
+13 
+Previous Position 15
+
+Swansea City
+36	11	10	15	37	50	-13	43	
+D
+Saturday 2 April 2016
+STK
+
+2
+-
+2
+
+SWA
+ 
+W
+Saturday 9 April 2016
+SWA
+
+1
+-
+0
+
+CHE
+ 
+L
+Saturday 16 April 2016
+NEW
+
+3
+-
+0
+
+SWA
+ 
+L
+Sunday 24 April 2016
+LEI
+
+4
+-
+0
+
+SWA
+ 
+W
+Sunday 1 May 2016
+SWA
+
+3
+-
+1
+
+LIV
+14 
+Previous Position 13
+
+West Bromwich Albion
+36	10	11	15	32	46	-14	41	
+L
+Saturday 9 April 2016
+MCI
+
+2
+-
+1
+
+WBA
+ 
+L
+Saturday 16 April 2016
+WBA
+
+0
+-
+1
+
+WAT
+ 
+L
+Thursday 21 April 2016
+ARS
+
+2
+-
+0
+
+WBA
+ 
+D
+Monday 25 April 2016
+TOT
+
+1
+-
+1
+
+WBA
+ 
+L
+Saturday 30 April 2016
+WBA
+
+0
+-
+3
+
+WHU
+15 
+Previous Position 14
+
+Bournemouth
+36	11	8	17	43	63	-20	41	
+L
+Saturday 2 April 2016
+BOU
+
+0
+-
+4
+
+MCI
+ 
+W
+Saturday 9 April 2016
+AVL
+
+1
+-
+2
+
+BOU
+ 
+L
+Sunday 17 April 2016
+BOU
+
+1
+-
+2
+
+LIV
+ 
+L
+Saturday 23 April 2016
+BOU
+
+1
+-
+4
+
+CHE
+ 
+L
+Saturday 30 April 2016
+EVE
+
+2
+-
+1
+
+BOU
+16 
+Previous Position 16
+
+Crystal Palace
+36	10	9	17	36	46	-10	39	
+W
+Saturday 9 April 2016
+CRY
+
+1
+-
+0
+
+NOR
+ 
+D
+Wednesday 13 April 2016
+CRY
+
+0
+-
+0
+
+EVE
+ 
+D
+Sunday 17 April 2016
+ARS
+
+1
+-
+1
+
+CRY
+ 
+L
+Wednesday 20 April 2016
+MUN
+
+2
+-
+0
+
+CRY
+ 
+L
+Saturday 30 April 2016
+NEW
+
+1
+-
+0
+
+CRY
+17 
+Previous Position 19
+
+Newcastle United
+36	8	9	19	39	64	-25	33	
+L
+Saturday 9 April 2016
+SOU
+
+3
+-
+1
+
+NEW
+ 
+W
+Saturday 16 April 2016
+NEW
+
+3
+-
+0
+
+SWA
+ 
+D
+Tuesday 19 April 2016
+NEW
+
+1
+-
+1
+
+MCI
+ 
+D
+Saturday 23 April 2016
+LIV
+
+2
+-
+2
+
+NEW
+ 
+W
+Saturday 30 April 2016
+NEW
+
+1
+-
+0
+
+CRY
+18 
+Previous Position 17
+
+Sunderland
+35	7	11	17	40	58	-18	32	
+D
+Saturday 2 April 2016
+SUN
+
+0
+-
+0
+
+WBA
+ 
+L
+Sunday 10 April 2016
+SUN
+
+0
+-
+2
+
+LEI
+ 
+W
+Saturday 16 April 2016
+NOR
+
+0
+-
+3
+
+SUN
+ 
+D
+Sunday 24 April 2016
+SUN
+
+0
+-
+0
+
+ARS
+ 
+D
+Saturday 30 April 2016
+STK
+
+1
+-
+1
+
+SUN
+19 
+Previous Position 18
+
+Norwich City
+35	8	7	20	35	61	-26	31	
+W
+Saturday 19 March 2016
+WBA
+
+0
+-
+1
+
+NOR
+ 
+W
+Saturday 2 April 2016
+NOR
+
+3
+-
+2
+
+NEW
+ 
+L
+Saturday 9 April 2016
+CRY
+
+1
+-
+0
+
+NOR
+ 
+L
+Saturday 16 April 2016
+NOR
+
+0
+-
+3
+
+SUN
+ 
+L
+Saturday 30 April 2016
+ARS
+
+1
+-
+0
+
+NOR
+20 
+Previous Position 20
+
+Aston Villa
+36	3	7	26	27	72	-45	16	
+L
+Saturday 2 April 2016
+AVL
+
+0
+-
+4
+
+CHE
+ 
+L
+Saturday 9 April 2016
+AVL
+
+1
+-
+2
+
+BOU
+ 
+L
+Saturday 16 April 2016
+MUN
+
+1
+-
+0
+
+AVL
+ 
+L
+Saturday 23 April 2016
+AVL
+
+2
+-
+4
+
+SOU
+ 
+L
+Saturday 30 April 2016
+WAT
+
+3
+-
+2
+
+AVL

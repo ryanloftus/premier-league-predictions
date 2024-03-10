@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Manchester City
+6	6	0	0	18	5	13	18	
+W
+Saturday 20 August 2016
+STK
+
+1
+-
+4
+
+MCI
+ 
+W
+Sunday 28 August 2016
+MCI
+
+3
+-
+1
+
+WHU
+ 
+W
+Saturday 10 September 2016
+MUN
+
+1
+-
+2
+
+MCI
+ 
+W
+Saturday 17 September 2016
+MCI
+
+4
+-
+0
+
+BOU
+ 
+W
+Saturday 24 September 2016
+SWA
+
+1
+-
+3
+
+MCI
+2 
+Previous Position 3
+
+Tottenham Hotspur
+6	4	2	0	10	3	7	14	
+W
+Saturday 20 August 2016
+TOT
+
+1
+-
+0
+
+CRY
+ 
+D
+Saturday 27 August 2016
+TOT
+
+1
+-
+1
+
+LIV
+ 
+W
+Saturday 10 September 2016
+STK
+
+0
+-
+4
+
+TOT
+ 
+W
+Sunday 18 September 2016
+TOT
+
+1
+-
+0
+
+SUN
+ 
+W
+Saturday 24 September 2016
+MID
+
+1
+-
+2
+
+TOT
+3 
+Previous Position 4
+
+Arsenal
+6	4	1	1	15	7	8	13	
+D
+Saturday 20 August 2016
+LEI
+
+0
+-
+0
+
+ARS
+ 
+W
+Saturday 27 August 2016
+WAT
+
+1
+-
+3
+
+ARS
+ 
+W
+Saturday 10 September 2016
+ARS
+
+2
+-
+1
+
+SOU
+ 
+W
+Saturday 17 September 2016
+HUL
+
+1
+-
+4
+
+ARS
+ 
+W
+Saturday 24 September 2016
+ARS
+
+3
+-
+0
+
+CHE
+4 
+Previous Position 6
+
+Liverpool
+6	4	1	1	16	9	7	13	
+L
+Saturday 20 August 2016
+BUR
+
+2
+-
+0
+
+LIV
+ 
+D
+Saturday 27 August 2016
+TOT
+
+1
+-
+1
+
+LIV
+ 
+W
+Saturday 10 September 2016
+LIV
+
+4
+-
+1
+
+LEI
+ 
+W
+Friday 16 September 2016
+CHE
+
+1
+-
+2
+
+LIV
+ 
+W
+Saturday 24 September 2016
+LIV
+
+5
+-
+1
+
+HUL
+5 
+Previous Position 2
+
+Everton
+6	4	1	1	10	4	6	13	
+W
+Saturday 20 August 2016
+WBA
+
+1
+-
+2
+
+EVE
+ 
+W
+Saturday 27 August 2016
+EVE
+
+1
+-
+0
+
+STK
+ 
+W
+Monday 12 September 2016
+SUN
+
+0
+-
+3
+
+EVE
+ 
+W
+Saturday 17 September 2016
+EVE
+
+3
+-
+1
+
+MID
+ 
+L
+Saturday 24 September 2016
+BOU
+
+1
+-
+0
+
+EVE
+6 
+Previous Position 7
+
+Manchester United
+6	4	0	2	12	7	5	12	
+W
+Friday 19 August 2016
+MUN
+
+2
+-
+0
+
+SOU
+ 
+W
+Saturday 27 August 2016
+HUL
+
+0
+-
+1
+
+MUN
+ 
+L
+Saturday 10 September 2016
+MUN
+
+1
+-
+2
+
+MCI
+ 
+L
+Sunday 18 September 2016
+WAT
+
+3
+-
+1
+
+MUN
+ 
+W
+Saturday 24 September 2016
+MUN
+
+4
+-
+1
+
+LEI
+7 
+Previous Position 8
+
+Crystal Palace
+6	3	1	2	10	7	3	10	
+L
+Saturday 20 August 2016
+TOT
+
+1
+-
+0
+
+CRY
+ 
+D
+Saturday 27 August 2016
+CRY
+
+1
+-
+1
+
+BOU
+ 
+W
+Saturday 10 September 2016
+MID
+
+1
+-
+2
+
+CRY
+ 
+W
+Sunday 18 September 2016
+CRY
+
+4
+-
+1
+
+STK
+ 
+W
+Saturday 24 September 2016
+SUN
+
+2
+-
+3
+
+CRY
+8 
+Previous Position 5
+
+Chelsea
+6	3	1	2	10	9	1	10	
+W
+Saturday 20 August 2016
+WAT
+
+1
+-
+2
+
+CHE
+ 
+W
+Saturday 27 August 2016
+CHE
+
+3
+-
+0
+
+BUR
+ 
+D
+Sunday 11 September 2016
+SWA
+
+2
+-
+2
+
+CHE
+ 
+L
+Friday 16 September 2016
+CHE
+
+1
+-
+2
+
+LIV
+ 
+L
+Saturday 24 September 2016
+ARS
+
+3
+-
+0
+
+CHE
+9 
+Previous Position 14
+
+Southampton
+6	2	2	2	7	6	1	8	
+L
+Friday 19 August 2016
+MUN
+
+2
+-
+0
+
+SOU
+ 
+D
+Saturday 27 August 2016
+SOU
+
+1
+-
+1
+
+SUN
+ 
+L
+Saturday 10 September 2016
+ARS
+
+2
+-
+1
+
+SOU
+ 
+W
+Sunday 18 September 2016
+SOU
+
+1
+-
+0
+
+SWA
+ 
+W
+Sunday 25 September 2016
+WHU
+
+0
+-
+3
+
+SOU
+10 
+Previous Position 10
+
+West Bromwich Albion
+6	2	2	2	7	6	1	8	
+L
+Saturday 20 August 2016
+WBA
+
+1
+-
+2
+
+EVE
+ 
+D
+Sunday 28 August 2016
+WBA
+
+0
+-
+0
+
+MID
+ 
+L
+Saturday 10 September 2016
+BOU
+
+1
+-
+0
+
+WBA
+ 
+W
+Saturday 17 September 2016
+WBA
+
+4
+-
+2
+
+WHU
+ 
+D
+Saturday 24 September 2016
+STK
+
+1
+-
+1
+
+WBA
+11 
+Previous Position 9
+
+Watford
+6	2	1	3	10	11	-1	7	
+L
+Saturday 20 August 2016
+WAT
+
+1
+-
+2
+
+CHE
+ 
+L
+Saturday 27 August 2016
+WAT
+
+1
+-
+3
+
+ARS
+ 
+W
+Saturday 10 September 2016
+WHU
+
+2
+-
+4
+
+WAT
+ 
+W
+Sunday 18 September 2016
+WAT
+
+3
+-
+1
+
+MUN
+ 
+L
+Monday 26 September 2016
+BUR
+
+2
+-
+0
+
+WAT
+12 
+Previous Position 11
+
+Leicester City
+6	2	1	3	8	11	-3	7	
+D
+Saturday 20 August 2016
+LEI
+
+0
+-
+0
+
+ARS
+ 
+W
+Saturday 27 August 2016
+LEI
+
+2
+-
+1
+
+SWA
+ 
+L
+Saturday 10 September 2016
+LIV
+
+4
+-
+1
+
+LEI
+ 
+W
+Saturday 17 September 2016
+LEI
+
+3
+-
+0
+
+BUR
+ 
+L
+Saturday 24 September 2016
+MUN
+
+4
+-
+1
+
+LEI
+13 
+Previous Position 16
+
+Burnley
+6	2	1	3	5	8	-3	7	
+W
+Saturday 20 August 2016
+BUR
+
+2
+-
+0
+
+LIV
+ 
+L
+Saturday 27 August 2016
+CHE
+
+3
+-
+0
+
+BUR
+ 
+D
+Saturday 10 September 2016
+BUR
+
+1
+-
+1
+
+HUL
+ 
+L
+Saturday 17 September 2016
+LEI
+
+3
+-
+0
+
+BUR
+ 
+W
+Monday 26 September 2016
+BUR
+
+2
+-
+0
+
+WAT
+14 
+Previous Position 12
+
+Hull City
+6	2	1	3	7	12	-5	7	
+W
+Saturday 20 August 2016
+SWA
+
+0
+-
+2
+
+HUL
+ 
+L
+Saturday 27 August 2016
+HUL
+
+0
+-
+1
+
+MUN
+ 
+D
+Saturday 10 September 2016
+BUR
+
+1
+-
+1
+
+HUL
+ 
+L
+Saturday 17 September 2016
+HUL
+
+1
+-
+4
+
+ARS
+ 
+L
+Saturday 24 September 2016
+LIV
+
+5
+-
+1
+
+HUL
+15 
+Previous Position 17
+
+Bournemouth
+6	2	1	3	4	9	-5	7	
+L
+Sunday 21 August 2016
+WHU
+
+1
+-
+0
+
+BOU
+ 
+D
+Saturday 27 August 2016
+CRY
+
+1
+-
+1
+
+BOU
+ 
+W
+Saturday 10 September 2016
+BOU
+
+1
+-
+0
+
+WBA
+ 
+L
+Saturday 17 September 2016
+MCI
+
+4
+-
+0
+
+BOU
+ 
+W
+Saturday 24 September 2016
+BOU
+
+1
+-
+0
+
+EVE
+16 
+Previous Position 13
+
+Middlesbrough
+6	1	2	3	6	9	-3	5	
+W
+Sunday 21 August 2016
+SUN
+
+1
+-
+2
+
+MID
+ 
+D
+Sunday 28 August 2016
+WBA
+
+0
+-
+0
+
+MID
+ 
+L
+Saturday 10 September 2016
+MID
+
+1
+-
+2
+
+CRY
+ 
+L
+Saturday 17 September 2016
+EVE
+
+3
+-
+1
+
+MID
+ 
+L
+Saturday 24 September 2016
+MID
+
+1
+-
+2
+
+TOT
+17 
+Previous Position 15
+
+Swansea City
+6	1	1	4	5	10	-5	4	
+L
+Saturday 20 August 2016
+SWA
+
+0
+-
+2
+
+HUL
+ 
+L
+Saturday 27 August 2016
+LEI
+
+2
+-
+1
+
+SWA
+ 
+D
+Sunday 11 September 2016
+SWA
+
+2
+-
+2
+
+CHE
+ 
+L
+Sunday 18 September 2016
+SOU
+
+1
+-
+0
+
+SWA
+ 
+L
+Saturday 24 September 2016
+SWA
+
+1
+-
+3
+
+MCI
+18 
+Previous Position 18
+
+West Ham United
+6	1	0	5	7	16	-9	3	
+W
+Sunday 21 August 2016
+WHU
+
+1
+-
+0
+
+BOU
+ 
+L
+Sunday 28 August 2016
+MCI
+
+3
+-
+1
+
+WHU
+ 
+L
+Saturday 10 September 2016
+WHU
+
+2
+-
+4
+
+WAT
+ 
+L
+Saturday 17 September 2016
+WBA
+
+4
+-
+2
+
+WHU
+ 
+L
+Sunday 25 September 2016
+WHU
+
+0
+-
+3
+
+SOU
+19 
+Previous Position 20
+
+Stoke City
+6	0	2	4	4	15	-11	2	
+L
+Saturday 20 August 2016
+STK
+
+1
+-
+4
+
+MCI
+ 
+L
+Saturday 27 August 2016
+EVE
+
+1
+-
+0
+
+STK
+ 
+L
+Saturday 10 September 2016
+STK
+
+0
+-
+4
+
+TOT
+ 
+L
+Sunday 18 September 2016
+CRY
+
+4
+-
+1
+
+STK
+ 
+D
+Saturday 24 September 2016
+STK
+
+1
+-
+1
+
+WBA
+20 
+Previous Position 19
+
+Sunderland
+6	0	1	5	5	12	-7	1	
+L
+Sunday 21 August 2016
+SUN
+
+1
+-
+2
+
+MID
+ 
+D
+Saturday 27 August 2016
+SOU
+
+1
+-
+1
+
+SUN
+ 
+L
+Monday 12 September 2016
+SUN
+
+0
+-
+3
+
+EVE
+ 
+L
+Sunday 18 September 2016
+TOT
+
+1
+-
+0
+
+SUN
+ 
+L
+Saturday 24 September 2016
+SUN
+
+2
+-
+3
+
+CRY

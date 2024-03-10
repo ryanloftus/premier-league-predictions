@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Chelsea
+24	19	2	3	51	17	34	59	
+L
+Wednesday 4 January 2017
+TOT
+
+2
+-
+0
+
+CHE
+ 
+W
+Saturday 14 January 2017
+LEI
+
+0
+-
+3
+
+CHE
+ 
+W
+Sunday 22 January 2017
+CHE
+
+2
+-
+0
+
+HUL
+ 
+D
+Tuesday 31 January 2017
+LIV
+
+1
+-
+1
+
+CHE
+ 
+W
+Saturday 4 February 2017
+CHE
+
+3
+-
+1
+
+ARS
+2 
+Previous Position 2
+
+Tottenham Hotspur
+24	14	8	2	46	16	30	50	
+W
+Wednesday 4 January 2017
+TOT
+
+2
+-
+0
+
+CHE
+ 
+W
+Saturday 14 January 2017
+TOT
+
+4
+-
+0
+
+WBA
+ 
+D
+Saturday 21 January 2017
+MCI
+
+2
+-
+2
+
+TOT
+ 
+D
+Tuesday 31 January 2017
+SUN
+
+0
+-
+0
+
+TOT
+ 
+W
+Saturday 4 February 2017
+TOT
+
+1
+-
+0
+
+MID
+3 
+Previous Position 5
+
+Manchester City
+24	15	4	5	49	29	20	49	
+W
+Monday 2 January 2017
+MCI
+
+2
+-
+1
+
+BUR
+ 
+L
+Sunday 15 January 2017
+EVE
+
+4
+-
+0
+
+MCI
+ 
+D
+Saturday 21 January 2017
+MCI
+
+2
+-
+2
+
+TOT
+ 
+W
+Wednesday 1 February 2017
+WHU
+
+0
+-
+4
+
+MCI
+ 
+W
+Sunday 5 February 2017
+MCI
+
+2
+-
+1
+
+SWA
+4 
+Previous Position 3
+
+Arsenal
+24	14	5	5	52	28	24	47	
+D
+Tuesday 3 January 2017
+BOU
+
+3
+-
+3
+
+ARS
+ 
+W
+Saturday 14 January 2017
+SWA
+
+0
+-
+4
+
+ARS
+ 
+W
+Sunday 22 January 2017
+ARS
+
+2
+-
+1
+
+BUR
+ 
+L
+Tuesday 31 January 2017
+ARS
+
+1
+-
+2
+
+WAT
+ 
+L
+Saturday 4 February 2017
+CHE
+
+3
+-
+1
+
+ARS
+5 
+Previous Position 4
+
+Liverpool
+24	13	7	4	52	30	22	46	
+D
+Monday 2 January 2017
+SUN
+
+2
+-
+2
+
+LIV
+ 
+D
+Sunday 15 January 2017
+MUN
+
+1
+-
+1
+
+LIV
+ 
+L
+Saturday 21 January 2017
+LIV
+
+2
+-
+3
+
+SWA
+ 
+D
+Tuesday 31 January 2017
+LIV
+
+1
+-
+1
+
+CHE
+ 
+L
+Saturday 4 February 2017
+HUL
+
+2
+-
+0
+
+LIV
+6 
+Previous Position 6
+
+Manchester United
+24	12	9	3	36	21	15	45	
+W
+Monday 2 January 2017
+WHU
+
+0
+-
+2
+
+MUN
+ 
+D
+Sunday 15 January 2017
+MUN
+
+1
+-
+1
+
+LIV
+ 
+D
+Saturday 21 January 2017
+STK
+
+1
+-
+1
+
+MUN
+ 
+D
+Wednesday 1 February 2017
+MUN
+
+0
+-
+0
+
+HUL
+ 
+W
+Sunday 5 February 2017
+LEI
+
+0
+-
+3
+
+MUN
+7 
+Previous Position 7
+
+Everton
+24	11	7	6	40	27	13	40	
+W
+Monday 2 January 2017
+EVE
+
+3
+-
+0
+
+SOU
+ 
+W
+Sunday 15 January 2017
+EVE
+
+4
+-
+0
+
+MCI
+ 
+W
+Saturday 21 January 2017
+CRY
+
+0
+-
+1
+
+EVE
+ 
+D
+Wednesday 1 February 2017
+STK
+
+1
+-
+1
+
+EVE
+ 
+W
+Saturday 4 February 2017
+EVE
+
+6
+-
+3
+
+BOU
+8 
+Previous Position 8
+
+West Bromwich Albion
+24	10	6	8	32	29	3	36	
+W
+Monday 2 January 2017
+WBA
+
+3
+-
+1
+
+HUL
+ 
+L
+Saturday 14 January 2017
+TOT
+
+4
+-
+0
+
+WBA
+ 
+W
+Saturday 21 January 2017
+WBA
+
+2
+-
+0
+
+SUN
+ 
+D
+Tuesday 31 January 2017
+MID
+
+1
+-
+1
+
+WBA
+ 
+W
+Saturday 4 February 2017
+WBA
+
+1
+-
+0
+
+STK
+9 
+Previous Position 11
+
+West Ham United
+24	9	4	11	32	41	-9	31	
+L
+Monday 2 January 2017
+WHU
+
+0
+-
+2
+
+MUN
+ 
+W
+Saturday 14 January 2017
+WHU
+
+3
+-
+0
+
+CRY
+ 
+W
+Saturday 21 January 2017
+MID
+
+1
+-
+3
+
+WHU
+ 
+L
+Wednesday 1 February 2017
+WHU
+
+0
+-
+4
+
+MCI
+ 
+W
+Saturday 4 February 2017
+SOU
+
+1
+-
+3
+
+WHU
+10 
+Previous Position 13
+
+Watford
+24	8	6	10	29	40	-11	30	
+L
+Tuesday 3 January 2017
+STK
+
+2
+-
+0
+
+WAT
+ 
+D
+Saturday 14 January 2017
+WAT
+
+0
+-
+0
+
+MID
+ 
+D
+Saturday 21 January 2017
+BOU
+
+2
+-
+2
+
+WAT
+ 
+W
+Tuesday 31 January 2017
+ARS
+
+1
+-
+2
+
+WAT
+ 
+W
+Saturday 4 February 2017
+WAT
+
+2
+-
+1
+
+BUR
+11 
+Previous Position 9
+
+Stoke City
+24	7	8	9	29	36	-7	29	
+W
+Tuesday 3 January 2017
+STK
+
+2
+-
+0
+
+WAT
+ 
+W
+Saturday 14 January 2017
+SUN
+
+1
+-
+3
+
+STK
+ 
+D
+Saturday 21 January 2017
+STK
+
+1
+-
+1
+
+MUN
+ 
+D
+Wednesday 1 February 2017
+STK
+
+1
+-
+1
+
+EVE
+ 
+L
+Saturday 4 February 2017
+WBA
+
+1
+-
+0
+
+STK
+12 
+Previous Position 10
+
+Burnley
+24	9	2	13	26	35	-9	29	
+L
+Monday 2 January 2017
+MCI
+
+2
+-
+1
+
+BUR
+ 
+W
+Saturday 14 January 2017
+BUR
+
+1
+-
+0
+
+SOU
+ 
+L
+Sunday 22 January 2017
+ARS
+
+2
+-
+1
+
+BUR
+ 
+W
+Tuesday 31 January 2017
+BUR
+
+1
+-
+0
+
+LEI
+ 
+L
+Saturday 4 February 2017
+WAT
+
+2
+-
+1
+
+BUR
+13 
+Previous Position 12
+
+Southampton
+24	7	6	11	24	31	-7	27	
+L
+Monday 2 January 2017
+EVE
+
+3
+-
+0
+
+SOU
+ 
+L
+Saturday 14 January 2017
+BUR
+
+1
+-
+0
+
+SOU
+ 
+W
+Sunday 22 January 2017
+SOU
+
+3
+-
+0
+
+LEI
+ 
+L
+Tuesday 31 January 2017
+SWA
+
+2
+-
+1
+
+SOU
+ 
+L
+Saturday 4 February 2017
+SOU
+
+1
+-
+3
+
+WHU
+14 
+Previous Position 14
+
+Bournemouth
+24	7	5	12	35	47	-12	26	
+D
+Tuesday 3 January 2017
+BOU
+
+3
+-
+3
+
+ARS
+ 
+L
+Saturday 14 January 2017
+HUL
+
+3
+-
+1
+
+BOU
+ 
+D
+Saturday 21 January 2017
+BOU
+
+2
+-
+2
+
+WAT
+ 
+L
+Tuesday 31 January 2017
+BOU
+
+0
+-
+2
+
+CRY
+ 
+L
+Saturday 4 February 2017
+EVE
+
+6
+-
+3
+
+BOU
+15 
+Previous Position 15
+
+Middlesbrough
+24	4	9	11	19	27	-8	21	
+D
+Monday 2 January 2017
+MID
+
+0
+-
+0
+
+LEI
+ 
+D
+Saturday 14 January 2017
+WAT
+
+0
+-
+0
+
+MID
+ 
+L
+Saturday 21 January 2017
+MID
+
+1
+-
+3
+
+WHU
+ 
+D
+Tuesday 31 January 2017
+MID
+
+1
+-
+1
+
+WBA
+ 
+L
+Saturday 4 February 2017
+TOT
+
+1
+-
+0
+
+MID
+16 
+Previous Position 16
+
+Leicester City
+24	5	6	13	24	41	-17	21	
+D
+Monday 2 January 2017
+MID
+
+0
+-
+0
+
+LEI
+ 
+L
+Saturday 14 January 2017
+LEI
+
+0
+-
+3
+
+CHE
+ 
+L
+Sunday 22 January 2017
+SOU
+
+3
+-
+0
+
+LEI
+ 
+L
+Tuesday 31 January 2017
+BUR
+
+1
+-
+0
+
+LEI
+ 
+L
+Sunday 5 February 2017
+LEI
+
+0
+-
+3
+
+MUN
+17 
+Previous Position 17
+
+Swansea City
+24	6	3	15	29	54	-25	21	
+W
+Tuesday 3 January 2017
+CRY
+
+1
+-
+2
+
+SWA
+ 
+L
+Saturday 14 January 2017
+SWA
+
+0
+-
+4
+
+ARS
+ 
+W
+Saturday 21 January 2017
+LIV
+
+2
+-
+3
+
+SWA
+ 
+W
+Tuesday 31 January 2017
+SWA
+
+2
+-
+1
+
+SOU
+ 
+L
+Sunday 5 February 2017
+MCI
+
+2
+-
+1
+
+SWA
+18 
+Previous Position 19
+
+Hull City
+24	5	5	14	22	47	-25	20	
+L
+Monday 2 January 2017
+WBA
+
+3
+-
+1
+
+HUL
+ 
+W
+Saturday 14 January 2017
+HUL
+
+3
+-
+1
+
+BOU
+ 
+L
+Sunday 22 January 2017
+CHE
+
+2
+-
+0
+
+HUL
+ 
+D
+Wednesday 1 February 2017
+MUN
+
+0
+-
+0
+
+HUL
+ 
+W
+Saturday 4 February 2017
+HUL
+
+2
+-
+0
+
+LIV
+19 
+Previous Position 18
+
+Crystal Palace
+24	5	4	15	32	45	-13	19	
+L
+Tuesday 3 January 2017
+CRY
+
+1
+-
+2
+
+SWA
+ 
+L
+Saturday 14 January 2017
+WHU
+
+3
+-
+0
+
+CRY
+ 
+L
+Saturday 21 January 2017
+CRY
+
+0
+-
+1
+
+EVE
+ 
+W
+Tuesday 31 January 2017
+BOU
+
+0
+-
+2
+
+CRY
+ 
+L
+Saturday 4 February 2017
+CRY
+
+0
+-
+4
+
+SUN
+20 
+Previous Position 20
+
+Sunderland
+24	5	4	15	24	42	-18	19	
+D
+Monday 2 January 2017
+SUN
+
+2
+-
+2
+
+LIV
+ 
+L
+Saturday 14 January 2017
+SUN
+
+1
+-
+3
+
+STK
+ 
+L
+Saturday 21 January 2017
+WBA
+
+2
+-
+0
+
+SUN
+ 
+D
+Tuesday 31 January 2017
+SUN
+
+0
+-
+0
+
+TOT
+ 
+W
+Saturday 4 February 2017
+CRY
+
+0
+-
+4
+
+SUN

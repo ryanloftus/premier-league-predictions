@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Chelsea
+35	27	3	5	75	29	46	84	
+W
+Saturday 8 April 2017
+BOU
+
+1
+-
+3
+
+CHE
+ 
+L
+Sunday 16 April 2017
+MUN
+
+2
+-
+0
+
+CHE
+ 
+W
+Tuesday 25 April 2017
+CHE
+
+4
+-
+2
+
+SOU
+ 
+W
+Sunday 30 April 2017
+EVE
+
+0
+-
+3
+
+CHE
+ 
+W
+Monday 8 May 2017
+CHE
+
+3
+-
+0
+
+MID
+2 
+Previous Position 2
+
+Tottenham Hotspur
+35	23	8	4	71	23	48	77	
+W
+Saturday 8 April 2017
+TOT
+
+4
+-
+0
+
+WAT
+ 
+W
+Saturday 15 April 2017
+TOT
+
+4
+-
+0
+
+BOU
+ 
+W
+Wednesday 26 April 2017
+CRY
+
+0
+-
+1
+
+TOT
+ 
+W
+Sunday 30 April 2017
+TOT
+
+2
+-
+0
+
+ARS
+ 
+L
+Friday 5 May 2017
+WHU
+
+1
+-
+0
+
+TOT
+3 
+Previous Position 3
+
+Liverpool
+36	20	10	6	71	42	29	70	
+W
+Saturday 8 April 2017
+STK
+
+1
+-
+2
+
+LIV
+ 
+W
+Sunday 16 April 2017
+WBA
+
+0
+-
+1
+
+LIV
+ 
+L
+Sunday 23 April 2017
+LIV
+
+1
+-
+2
+
+CRY
+ 
+W
+Monday 1 May 2017
+WAT
+
+0
+-
+1
+
+LIV
+ 
+D
+Sunday 7 May 2017
+LIV
+
+0
+-
+0
+
+SOU
+4 
+Previous Position 4
+
+Manchester City
+35	20	9	6	70	37	33	69	
+W
+Saturday 8 April 2017
+MCI
+
+3
+-
+1
+
+HUL
+ 
+W
+Saturday 15 April 2017
+SOU
+
+0
+-
+3
+
+MCI
+ 
+D
+Thursday 27 April 2017
+MCI
+
+0
+-
+0
+
+MUN
+ 
+D
+Sunday 30 April 2017
+MID
+
+2
+-
+2
+
+MCI
+ 
+W
+Saturday 6 May 2017
+MCI
+
+5
+-
+0
+
+CRY
+5 
+Previous Position 6
+
+Arsenal
+35	20	6	9	68	42	26	66	
+W
+Monday 17 April 2017
+MID
+
+1
+-
+2
+
+ARS
+ 
+W
+Wednesday 26 April 2017
+ARS
+
+1
+-
+0
+
+LEI
+ 
+L
+Sunday 30 April 2017
+TOT
+
+2
+-
+0
+
+ARS
+ 
+W
+Sunday 7 May 2017
+ARS
+
+2
+-
+0
+
+MUN
+ 
+W
+Wednesday 10 May 2017
+SOU
+
+0
+-
+2
+
+ARS
+6 
+Previous Position 5
+
+Manchester United
+35	17	14	4	51	27	24	65	
+W
+Sunday 16 April 2017
+MUN
+
+2
+-
+0
+
+CHE
+ 
+W
+Sunday 23 April 2017
+BUR
+
+0
+-
+2
+
+MUN
+ 
+D
+Thursday 27 April 2017
+MCI
+
+0
+-
+0
+
+MUN
+ 
+D
+Sunday 30 April 2017
+MUN
+
+1
+-
+1
+
+SWA
+ 
+L
+Sunday 7 May 2017
+ARS
+
+2
+-
+0
+
+MUN
+7 
+Previous Position 7
+
+Everton
+36	16	10	10	60	41	19	58	
+W
+Sunday 9 April 2017
+EVE
+
+4
+-
+2
+
+LEI
+ 
+W
+Saturday 15 April 2017
+EVE
+
+3
+-
+1
+
+BUR
+ 
+D
+Saturday 22 April 2017
+WHU
+
+0
+-
+0
+
+EVE
+ 
+L
+Sunday 30 April 2017
+EVE
+
+0
+-
+3
+
+CHE
+ 
+L
+Saturday 6 May 2017
+SWA
+
+1
+-
+0
+
+EVE
+8 
+Previous Position 8
+
+West Bromwich Albion
+35	12	9	14	41	45	-4	45	
+L
+Tuesday 4 April 2017
+WAT
+
+2
+-
+0
+
+WBA
+ 
+L
+Saturday 8 April 2017
+WBA
+
+0
+-
+1
+
+SOU
+ 
+L
+Sunday 16 April 2017
+WBA
+
+0
+-
+1
+
+LIV
+ 
+L
+Saturday 29 April 2017
+WBA
+
+0
+-
+1
+
+LEI
+ 
+D
+Saturday 6 May 2017
+BUR
+
+2
+-
+2
+
+WBA
+9 
+Previous Position 11
+
+Leicester City
+35	12	7	16	45	54	-9	43	
+L
+Sunday 9 April 2017
+EVE
+
+4
+-
+2
+
+LEI
+ 
+D
+Saturday 15 April 2017
+CRY
+
+2
+-
+2
+
+LEI
+ 
+L
+Wednesday 26 April 2017
+ARS
+
+1
+-
+0
+
+LEI
+ 
+W
+Saturday 29 April 2017
+WBA
+
+0
+-
+1
+
+LEI
+ 
+W
+Saturday 6 May 2017
+LEI
+
+3
+-
+0
+
+WAT
+10 
+Previous Position 9
+
+Southampton
+35	11	9	15	39	46	-7	42	
+L
+Saturday 15 April 2017
+SOU
+
+0
+-
+3
+
+MCI
+ 
+L
+Tuesday 25 April 2017
+CHE
+
+4
+-
+2
+
+SOU
+ 
+D
+Saturday 29 April 2017
+SOU
+
+0
+-
+0
+
+HUL
+ 
+D
+Sunday 7 May 2017
+LIV
+
+0
+-
+0
+
+SOU
+ 
+L
+Wednesday 10 May 2017
+SOU
+
+0
+-
+2
+
+ARS
+11 
+Previous Position 10
+
+Bournemouth
+36	11	9	16	52	65	-13	42	
+L
+Saturday 8 April 2017
+BOU
+
+1
+-
+3
+
+CHE
+ 
+L
+Saturday 15 April 2017
+TOT
+
+4
+-
+0
+
+BOU
+ 
+W
+Saturday 22 April 2017
+BOU
+
+4
+-
+0
+
+MID
+ 
+W
+Saturday 29 April 2017
+SUN
+
+0
+-
+1
+
+BOU
+ 
+D
+Saturday 6 May 2017
+BOU
+
+2
+-
+2
+
+STK
+12 
+Previous Position 15
+
+West Ham United
+36	11	9	16	45	59	-14	42	
+W
+Saturday 8 April 2017
+WHU
+
+1
+-
+0
+
+SWA
+ 
+D
+Saturday 15 April 2017
+SUN
+
+2
+-
+2
+
+WHU
+ 
+D
+Saturday 22 April 2017
+WHU
+
+0
+-
+0
+
+EVE
+ 
+D
+Saturday 29 April 2017
+STK
+
+0
+-
+0
+
+WHU
+ 
+W
+Friday 5 May 2017
+WHU
+
+1
+-
+0
+
+TOT
+13 
+Previous Position 12
+
+Stoke City
+36	10	11	15	39	52	-13	41	
+L
+Saturday 8 April 2017
+STK
+
+1
+-
+2
+
+LIV
+ 
+W
+Saturday 15 April 2017
+STK
+
+3
+-
+1
+
+HUL
+ 
+L
+Saturday 22 April 2017
+SWA
+
+2
+-
+0
+
+STK
+ 
+D
+Saturday 29 April 2017
+STK
+
+0
+-
+0
+
+WHU
+ 
+D
+Saturday 6 May 2017
+BOU
+
+2
+-
+2
+
+STK
+14 
+Previous Position 14
+
+Burnley
+36	11	7	18	37	51	-14	40	
+D
+Saturday 8 April 2017
+MID
+
+0
+-
+0
+
+BUR
+ 
+L
+Saturday 15 April 2017
+EVE
+
+3
+-
+1
+
+BUR
+ 
+L
+Sunday 23 April 2017
+BUR
+
+0
+-
+2
+
+MUN
+ 
+W
+Saturday 29 April 2017
+CRY
+
+0
+-
+2
+
+BUR
+ 
+D
+Saturday 6 May 2017
+BUR
+
+2
+-
+2
+
+WBA
+15 
+Previous Position 13
+
+Watford
+35	11	7	17	37	58	-21	40	
+L
+Saturday 8 April 2017
+TOT
+
+4
+-
+0
+
+WAT
+ 
+W
+Saturday 15 April 2017
+WAT
+
+1
+-
+0
+
+SWA
+ 
+L
+Saturday 22 April 2017
+HUL
+
+2
+-
+0
+
+WAT
+ 
+L
+Monday 1 May 2017
+WAT
+
+0
+-
+1
+
+LIV
+ 
+L
+Saturday 6 May 2017
+LEI
+
+3
+-
+0
+
+WAT
+16 
+Previous Position 16
+
+Crystal Palace
+36	11	5	20	46	61	-15	38	
+D
+Saturday 15 April 2017
+CRY
+
+2
+-
+2
+
+LEI
+ 
+W
+Sunday 23 April 2017
+LIV
+
+1
+-
+2
+
+CRY
+ 
+L
+Wednesday 26 April 2017
+CRY
+
+0
+-
+1
+
+TOT
+ 
+L
+Saturday 29 April 2017
+CRY
+
+0
+-
+2
+
+BUR
+ 
+L
+Saturday 6 May 2017
+MCI
+
+5
+-
+0
+
+CRY
+17 
+Previous Position 18
+
+Swansea City
+36	10	5	21	41	69	-28	35	
+L
+Saturday 8 April 2017
+WHU
+
+1
+-
+0
+
+SWA
+ 
+L
+Saturday 15 April 2017
+WAT
+
+1
+-
+0
+
+SWA
+ 
+W
+Saturday 22 April 2017
+SWA
+
+2
+-
+0
+
+STK
+ 
+D
+Sunday 30 April 2017
+MUN
+
+1
+-
+1
+
+SWA
+ 
+W
+Saturday 6 May 2017
+SWA
+
+1
+-
+0
+
+EVE
+18 
+Previous Position 17
+
+Hull City
+36	9	7	20	36	69	-33	34	
+L
+Saturday 8 April 2017
+MCI
+
+3
+-
+1
+
+HUL
+ 
+L
+Saturday 15 April 2017
+STK
+
+3
+-
+1
+
+HUL
+ 
+W
+Saturday 22 April 2017
+HUL
+
+2
+-
+0
+
+WAT
+ 
+D
+Saturday 29 April 2017
+SOU
+
+0
+-
+0
+
+HUL
+ 
+L
+Saturday 6 May 2017
+HUL
+
+0
+-
+2
+
+SUN
+19 
+Previous Position 19
+
+Middlesbrough
+36	5	13	18	26	48	-22	28	
+L
+Monday 17 April 2017
+MID
+
+1
+-
+2
+
+ARS
+ 
+L
+Saturday 22 April 2017
+BOU
+
+4
+-
+0
+
+MID
+ 
+W
+Wednesday 26 April 2017
+MID
+
+1
+-
+0
+
+SUN
+ 
+D
+Sunday 30 April 2017
+MID
+
+2
+-
+2
+
+MCI
+ 
+L
+Monday 8 May 2017
+CHE
+
+3
+-
+0
+
+MID
+20 
+Previous Position 20
+
+Sunderland
+35	6	6	23	28	60	-32	24	
+L
+Sunday 9 April 2017
+SUN
+
+0
+-
+3
+
+MUN
+ 
+D
+Saturday 15 April 2017
+SUN
+
+2
+-
+2
+
+WHU
+ 
+L
+Wednesday 26 April 2017
+MID
+
+1
+-
+0
+
+SUN
+ 
+L
+Saturday 29 April 2017
+SUN
+
+0
+-
+1
+
+BOU
+ 
+W
+Saturday 6 May 2017
+HUL
+
+0
+-
+2
+
+SUN
