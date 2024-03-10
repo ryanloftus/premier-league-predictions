@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Manchester United
+21	14	4	3	49	16	33	46	
+W
+Saturday 6 December 1997
+LIV
+
+1
+-
+3
+
+MUN
+ 
+W
+Monday 15 December 1997
+MUN
+
+1
+-
+0
+
+AVL
+ 
+W
+Sunday 21 December 1997
+NEW
+
+0
+-
+1
+
+MUN
+ 
+W
+Friday 26 December 1997
+MUN
+
+2
+-
+0
+
+EVE
+ 
+L
+Sunday 28 December 1997
+COV
+
+3
+-
+2
+
+MUN
+2 
+Previous Position 2
+
+Blackburn Rovers
+21	11	8	2	38	21	17	41	
+W
+Saturday 6 December 1997
+BLB
+
+3
+-
+1
+
+BOL
+ 
+W
+Saturday 13 December 1997
+ARS
+
+1
+-
+3
+
+BLB
+ 
+W
+Saturday 20 December 1997
+BLB
+
+3
+-
+0
+
+WHU
+ 
+D
+Friday 26 December 1997
+SHW
+
+0
+-
+0
+
+BLB
+ 
+D
+Sunday 28 December 1997
+BLB
+
+2
+-
+2
+
+CRY
+3 
+Previous Position 3
+
+Chelsea
+21	12	3	6	46	21	25	39	
+W
+Saturday 6 December 1997
+TOT
+
+1
+-
+6
+
+CHE
+ 
+D
+Saturday 13 December 1997
+CHE
+
+0
+-
+0
+
+LEE
+ 
+W
+Saturday 20 December 1997
+SHW
+
+1
+-
+4
+
+CHE
+ 
+D
+Friday 26 December 1997
+CHE
+
+1
+-
+1
+
+WIM
+ 
+L
+Monday 29 December 1997
+SOU
+
+1
+-
+0
+
+CHE
+4 
+Previous Position 4
+
+Liverpool
+20	11	4	5	36	19	17	37	
+L
+Saturday 6 December 1997
+LIV
+
+1
+-
+3
+
+MUN
+ 
+W
+Saturday 13 December 1997
+CRY
+
+0
+-
+3
+
+LIV
+ 
+W
+Saturday 20 December 1997
+LIV
+
+1
+-
+0
+
+COV
+ 
+W
+Friday 26 December 1997
+LIV
+
+3
+-
+1
+
+LEE
+ 
+W
+Sunday 28 December 1997
+NEW
+
+1
+-
+2
+
+LIV
+5 
+Previous Position 5
+
+Leeds United
+21	10	5	6	30	23	7	35	
+D
+Saturday 6 December 1997
+LEE
+
+0
+-
+0
+
+EVE
+ 
+D
+Saturday 13 December 1997
+CHE
+
+0
+-
+0
+
+LEE
+ 
+W
+Saturday 20 December 1997
+LEE
+
+2
+-
+0
+
+BOL
+ 
+L
+Friday 26 December 1997
+LIV
+
+3
+-
+1
+
+LEE
+ 
+D
+Sunday 28 December 1997
+LEE
+
+1
+-
+1
+
+AVL
+6 
+Previous Position 6
+
+Arsenal
+20	9	7	4	35	23	12	34	
+L
+Sunday 30 November 1997
+ARS
+
+0
+-
+1
+
+LIV
+ 
+W
+Saturday 6 December 1997
+NEW
+
+0
+-
+1
+
+ARS
+ 
+L
+Saturday 13 December 1997
+ARS
+
+1
+-
+3
+
+BLB
+ 
+W
+Friday 26 December 1997
+ARS
+
+2
+-
+1
+
+LEI
+ 
+D
+Sunday 28 December 1997
+TOT
+
+1
+-
+1
+
+ARS
+7 
+Previous Position 7
+
+Derby County
+21	9	5	7	34	28	6	32	
+D
+Sunday 14 December 1997
+BOL
+
+3
+-
+3
+
+DER
+ 
+D
+Wednesday 17 December 1997
+NEW
+
+0
+-
+0
+
+DER
+ 
+D
+Saturday 20 December 1997
+DER
+
+0
+-
+0
+
+CRY
+ 
+W
+Friday 26 December 1997
+DER
+
+1
+-
+0
+
+NEW
+ 
+L
+Sunday 28 December 1997
+BAR
+
+1
+-
+0
+
+DER
+8 
+Previous Position 8
+
+West Ham United
+21	10	1	10	28	32	-4	31	
+L
+Saturday 6 December 1997
+DER
+
+2
+-
+0
+
+WHU
+ 
+W
+Saturday 13 December 1997
+WHU
+
+1
+-
+0
+
+SHW
+ 
+L
+Saturday 20 December 1997
+BLB
+
+3
+-
+0
+
+WHU
+ 
+W
+Friday 26 December 1997
+WHU
+
+1
+-
+0
+
+COV
+ 
+W
+Sunday 28 December 1997
+WIM
+
+1
+-
+2
+
+WHU
+9 
+Previous Position 9
+
+Leicester City
+21	7	7	7	25	21	4	28	
+D
+Saturday 6 December 1997
+LEI
+
+1
+-
+1
+
+CRY
+ 
+L
+Saturday 13 December 1997
+SOU
+
+2
+-
+1
+
+LEI
+ 
+L
+Saturday 20 December 1997
+LEI
+
+0
+-
+1
+
+EVE
+ 
+L
+Friday 26 December 1997
+ARS
+
+2
+-
+1
+
+LEI
+ 
+D
+Sunday 28 December 1997
+LEI
+
+1
+-
+1
+
+SHW
+10 
+Previous Position 11
+
+Aston Villa
+21	7	5	9	25	27	-2	26	
+W
+Saturday 6 December 1997
+AVL
+
+3
+-
+0
+
+COV
+ 
+L
+Monday 15 December 1997
+MUN
+
+1
+-
+0
+
+AVL
+ 
+D
+Saturday 20 December 1997
+AVL
+
+1
+-
+1
+
+SOU
+ 
+W
+Friday 26 December 1997
+AVL
+
+4
+-
+1
+
+TOT
+ 
+D
+Sunday 28 December 1997
+LEE
+
+1
+-
+1
+
+AVL
+11 
+Previous Position 10
+
+Newcastle United
+20	7	5	8	21	25	-4	26	
+D
+Saturday 13 December 1997
+BAR
+
+2
+-
+2
+
+NEW
+ 
+D
+Wednesday 17 December 1997
+NEW
+
+0
+-
+0
+
+DER
+ 
+L
+Sunday 21 December 1997
+NEW
+
+0
+-
+1
+
+MUN
+ 
+L
+Friday 26 December 1997
+DER
+
+1
+-
+0
+
+NEW
+ 
+L
+Sunday 28 December 1997
+NEW
+
+1
+-
+2
+
+LIV
+12 
+Previous Position 12
+
+Wimbledon
+20	6	6	8	21	24	-3	24	
+L
+Saturday 29 November 1997
+BOL
+
+1
+-
+0
+
+WIM
+ 
+W
+Sunday 7 December 1997
+WIM
+
+1
+-
+0
+
+SOU
+ 
+D
+Saturday 13 December 1997
+EVE
+
+0
+-
+0
+
+WIM
+ 
+D
+Friday 26 December 1997
+CHE
+
+1
+-
+1
+
+WIM
+ 
+L
+Sunday 28 December 1997
+WIM
+
+1
+-
+2
+
+WHU
+13 
+Previous Position 15
+
+Southampton
+21	7	3	11	25	30	-5	24	
+L
+Sunday 7 December 1997
+WIM
+
+1
+-
+0
+
+SOU
+ 
+W
+Saturday 13 December 1997
+SOU
+
+2
+-
+1
+
+LEI
+ 
+D
+Saturday 20 December 1997
+AVL
+
+1
+-
+1
+
+SOU
+ 
+D
+Friday 26 December 1997
+CRY
+
+1
+-
+1
+
+SOU
+ 
+W
+Monday 29 December 1997
+SOU
+
+1
+-
+0
+
+CHE
+14 
+Previous Position 17
+
+Coventry City
+21	5	8	8	20	28	-8	23	
+L
+Saturday 6 December 1997
+AVL
+
+3
+-
+0
+
+COV
+ 
+W
+Saturday 13 December 1997
+COV
+
+4
+-
+0
+
+TOT
+ 
+L
+Saturday 20 December 1997
+LIV
+
+1
+-
+0
+
+COV
+ 
+L
+Friday 26 December 1997
+WHU
+
+1
+-
+0
+
+COV
+ 
+W
+Sunday 28 December 1997
+COV
+
+3
+-
+2
+
+MUN
+15 
+Previous Position 13
+
+Crystal Palace
+21	5	8	8	20	28	-8	23	
+D
+Saturday 6 December 1997
+LEI
+
+1
+-
+1
+
+CRY
+ 
+L
+Saturday 13 December 1997
+CRY
+
+0
+-
+3
+
+LIV
+ 
+D
+Saturday 20 December 1997
+DER
+
+0
+-
+0
+
+CRY
+ 
+D
+Friday 26 December 1997
+CRY
+
+1
+-
+1
+
+SOU
+ 
+D
+Sunday 28 December 1997
+BLB
+
+2
+-
+2
+
+CRY
+16 
+Previous Position 14
+
+Sheffield Wednesday
+21	6	5	10	32	44	-12	23	
+W
+Monday 8 December 1997
+SHW
+
+2
+-
+1
+
+BAR
+ 
+L
+Saturday 13 December 1997
+WHU
+
+1
+-
+0
+
+SHW
+ 
+L
+Saturday 20 December 1997
+SHW
+
+1
+-
+4
+
+CHE
+ 
+D
+Friday 26 December 1997
+SHW
+
+0
+-
+0
+
+BLB
+ 
+D
+Sunday 28 December 1997
+LEI
+
+1
+-
+1
+
+SHW
+17 
+Previous Position 16
+
+Bolton Wanderers
+21	4	9	8	19	33	-14	21	
+L
+Saturday 6 December 1997
+BLB
+
+3
+-
+1
+
+BOL
+ 
+D
+Sunday 14 December 1997
+BOL
+
+3
+-
+3
+
+DER
+ 
+L
+Saturday 20 December 1997
+LEE
+
+2
+-
+0
+
+BOL
+ 
+D
+Friday 26 December 1997
+BOL
+
+1
+-
+1
+
+BAR
+ 
+L
+Sunday 28 December 1997
+EVE
+
+3
+-
+2
+
+BOL
+18 
+Previous Position 19
+
+Everton
+21	5	5	11	20	31	-11	20	
+D
+Saturday 6 December 1997
+LEE
+
+0
+-
+0
+
+EVE
+ 
+D
+Saturday 13 December 1997
+EVE
+
+0
+-
+0
+
+WIM
+ 
+W
+Saturday 20 December 1997
+LEI
+
+0
+-
+1
+
+EVE
+ 
+L
+Friday 26 December 1997
+MUN
+
+2
+-
+0
+
+EVE
+ 
+W
+Sunday 28 December 1997
+EVE
+
+3
+-
+2
+
+BOL
+19 
+Previous Position 18
+
+Tottenham Hotspur
+21	5	5	11	19	37	-18	20	
+L
+Saturday 6 December 1997
+TOT
+
+1
+-
+6
+
+CHE
+ 
+L
+Saturday 13 December 1997
+COV
+
+4
+-
+0
+
+TOT
+ 
+W
+Saturday 20 December 1997
+TOT
+
+3
+-
+0
+
+BAR
+ 
+L
+Friday 26 December 1997
+AVL
+
+4
+-
+1
+
+TOT
+ 
+D
+Sunday 28 December 1997
+TOT
+
+1
+-
+1
+
+ARS
+20 
+Previous Position 20
+
+Barnsley
+21	5	3	13	19	51	-32	18	
+L
+Monday 8 December 1997
+SHW
+
+2
+-
+1
+
+BAR
+ 
+D
+Saturday 13 December 1997
+BAR
+
+2
+-
+2
+
+NEW
+ 
+L
+Saturday 20 December 1997
+TOT
+
+3
+-
+0
+
+BAR
+ 
+D
+Friday 26 December 1997
+BOL
+
+1
+-
+1
+
+BAR
+ 
+W
+Sunday 28 December 1997
+BAR
+
+1
+-
+0
+
+DER

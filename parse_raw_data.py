@@ -2,9 +2,9 @@ import json
 
 with open("parsed_data.jsonl", "w") as f_out:
     # raw_data directory structure: raw_data/{year season started}/{matchweek of data}.txt
-    for season in range(1995, 1996):
+    for season in range(1995, 1996): # TODO: include all seasons, include seasons from before 1995? (less than 20 teams, can skip data in later stages)
         final_table = dict() # team name -> points after last matchweek
-        for matchweek in range(38, 0, -1):
+        for matchweek in range(38, 0, -1): # TODO: not all seasons have 38 matchweeks
             with open(f"raw_data/{season}/{matchweek}.txt") as f_in:
                 lines = [line.strip("\n") for line in f_in.readlines()]
             for i in range(len(lines)):

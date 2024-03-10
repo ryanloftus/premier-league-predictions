@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Manchester United
+28	18	5	5	57	19	38	59	
+L
+Saturday 31 January 1998
+MUN
+
+0
+-
+1
+
+LEI
+ 
+D
+Saturday 7 February 1998
+MUN
+
+1
+-
+1
+
+BOL
+ 
+W
+Wednesday 18 February 1998
+AVL
+
+0
+-
+2
+
+MUN
+ 
+W
+Saturday 21 February 1998
+MUN
+
+2
+-
+0
+
+DER
+ 
+W
+Saturday 28 February 1998
+CHE
+
+0
+-
+1
+
+MUN
+2 
+Previous Position 2
+
+Arsenal
+26	13	9	4	45	26	19	48	
+D
+Saturday 17 January 1998
+COV
+
+2
+-
+2
+
+ARS
+ 
+W
+Saturday 31 January 1998
+ARS
+
+3
+-
+0
+
+SOU
+ 
+W
+Sunday 8 February 1998
+ARS
+
+2
+-
+0
+
+CHE
+ 
+W
+Saturday 21 February 1998
+ARS
+
+1
+-
+0
+
+CRY
+ 
+D
+Monday 2 March 1998
+WHU
+
+0
+-
+0
+
+ARS
+3 
+Previous Position 5
+
+Blackburn Rovers
+27	13	9	5	49	33	16	48	
+W
+Saturday 17 January 1998
+BLB
+
+5
+-
+0
+
+AVL
+ 
+D
+Saturday 31 January 1998
+LIV
+
+0
+-
+0
+
+BLB
+ 
+L
+Saturday 7 February 1998
+BLB
+
+0
+-
+3
+
+TOT
+ 
+L
+Saturday 21 February 1998
+SOU
+
+3
+-
+0
+
+BLB
+ 
+W
+Saturday 28 February 1998
+BLB
+
+5
+-
+3
+
+LEI
+4 
+Previous Position 3
+
+Liverpool
+28	13	8	7	46	28	18	47	
+D
+Saturday 31 January 1998
+LIV
+
+0
+-
+0
+
+BLB
+ 
+L
+Saturday 7 February 1998
+LIV
+
+2
+-
+3
+
+SOU
+ 
+D
+Saturday 14 February 1998
+SHW
+
+3
+-
+3
+
+LIV
+ 
+D
+Monday 23 February 1998
+LIV
+
+1
+-
+1
+
+EVE
+ 
+L
+Saturday 28 February 1998
+AVL
+
+2
+-
+1
+
+LIV
+5 
+Previous Position 4
+
+Chelsea
+27	14	3	10	52	30	22	45	
+L
+Sunday 18 January 1998
+EVE
+
+3
+-
+1
+
+CHE
+ 
+W
+Saturday 31 January 1998
+CHE
+
+2
+-
+0
+
+BAR
+ 
+L
+Sunday 8 February 1998
+ARS
+
+2
+-
+0
+
+CHE
+ 
+L
+Saturday 21 February 1998
+LEI
+
+2
+-
+0
+
+CHE
+ 
+L
+Saturday 28 February 1998
+CHE
+
+0
+-
+1
+
+MUN
+6 
+Previous Position 6
+
+Derby County
+28	13	6	9	44	34	10	45	
+W
+Saturday 31 January 1998
+DER
+
+2
+-
+1
+
+TOT
+ 
+L
+Saturday 7 February 1998
+DER
+
+0
+-
+1
+
+AVL
+ 
+W
+Saturday 14 February 1998
+EVE
+
+1
+-
+2
+
+DER
+ 
+L
+Saturday 21 February 1998
+MUN
+
+2
+-
+0
+
+DER
+ 
+W
+Saturday 28 February 1998
+DER
+
+3
+-
+0
+
+SHW
+7 
+Previous Position 8
+
+Leeds United
+28	12	6	10	36	30	6	42	
+W
+Saturday 31 January 1998
+CRY
+
+0
+-
+2
+
+LEE
+ 
+L
+Saturday 7 February 1998
+LEI
+
+1
+-
+0
+
+LEE
+ 
+D
+Sunday 22 February 1998
+NEW
+
+1
+-
+1
+
+LEE
+ 
+L
+Saturday 28 February 1998
+LEE
+
+0
+-
+1
+
+SOU
+ 
+W
+Wednesday 4 March 1998
+LEE
+
+1
+-
+0
+
+TOT
+8 
+Previous Position 7
+
+Leicester City
+28	10	10	8	34	28	6	40	
+W
+Saturday 31 January 1998
+MUN
+
+0
+-
+1
+
+LEI
+ 
+W
+Saturday 7 February 1998
+LEI
+
+1
+-
+0
+
+LEE
+ 
+D
+Saturday 14 February 1998
+TOT
+
+1
+-
+1
+
+LEI
+ 
+W
+Saturday 21 February 1998
+LEI
+
+2
+-
+0
+
+CHE
+ 
+L
+Saturday 28 February 1998
+BLB
+
+5
+-
+3
+
+LEI
+9 
+Previous Position 9
+
+West Ham United
+27	12	4	11	38	36	2	40	
+L
+Saturday 17 January 1998
+TOT
+
+1
+-
+0
+
+WHU
+ 
+D
+Saturday 31 January 1998
+WHU
+
+2
+-
+2
+
+EVE
+ 
+W
+Saturday 7 February 1998
+NEW
+
+0
+-
+1
+
+WHU
+ 
+D
+Saturday 21 February 1998
+BOL
+
+1
+-
+1
+
+WHU
+ 
+D
+Monday 2 March 1998
+WHU
+
+0
+-
+0
+
+ARS
+10 
+Previous Position 10
+
+Coventry City
+28	10	9	9	35	35	0	39	
+W
+Saturday 31 January 1998
+BOL
+
+1
+-
+5
+
+COV
+ 
+W
+Saturday 7 February 1998
+COV
+
+1
+-
+0
+
+SHW
+ 
+W
+Wednesday 18 February 1998
+SOU
+
+1
+-
+2
+
+COV
+ 
+W
+Saturday 21 February 1998
+COV
+
+1
+-
+0
+
+BAR
+ 
+W
+Saturday 28 February 1998
+CRY
+
+0
+-
+3
+
+COV
+11 
+Previous Position 11
+
+Southampton
+28	11	4	13	34	37	-3	37	
+L
+Saturday 31 January 1998
+ARS
+
+3
+-
+0
+
+SOU
+ 
+W
+Saturday 7 February 1998
+LIV
+
+2
+-
+3
+
+SOU
+ 
+L
+Wednesday 18 February 1998
+SOU
+
+1
+-
+2
+
+COV
+ 
+W
+Saturday 21 February 1998
+SOU
+
+3
+-
+0
+
+BLB
+ 
+W
+Saturday 28 February 1998
+LEE
+
+0
+-
+1
+
+SOU
+12 
+Previous Position 13
+
+Newcastle United
+27	9	7	11	26	31	-5	34	
+L
+Tuesday 20 January 1998
+LIV
+
+1
+-
+0
+
+NEW
+ 
+W
+Sunday 1 February 1998
+AVL
+
+0
+-
+1
+
+NEW
+ 
+L
+Saturday 7 February 1998
+NEW
+
+0
+-
+1
+
+WHU
+ 
+D
+Sunday 22 February 1998
+NEW
+
+1
+-
+1
+
+LEE
+ 
+D
+Saturday 28 February 1998
+EVE
+
+0
+-
+0
+
+NEW
+13 
+Previous Position 12
+
+Sheffield Wednesday
+28	9	7	12	41	54	-13	34	
+D
+Saturday 31 January 1998
+SHW
+
+1
+-
+1
+
+WIM
+ 
+L
+Saturday 7 February 1998
+COV
+
+1
+-
+0
+
+SHW
+ 
+D
+Saturday 14 February 1998
+SHW
+
+3
+-
+3
+
+LIV
+ 
+W
+Saturday 21 February 1998
+SHW
+
+1
+-
+0
+
+TOT
+ 
+L
+Saturday 28 February 1998
+DER
+
+3
+-
+0
+
+SHW
+14 
+Previous Position 15
+
+Aston Villa
+28	9	6	13	30	39	-9	33	
+L
+Sunday 1 February 1998
+AVL
+
+0
+-
+1
+
+NEW
+ 
+W
+Saturday 7 February 1998
+DER
+
+0
+-
+1
+
+AVL
+ 
+L
+Wednesday 18 February 1998
+AVL
+
+0
+-
+2
+
+MUN
+ 
+L
+Saturday 21 February 1998
+WIM
+
+2
+-
+1
+
+AVL
+ 
+W
+Saturday 28 February 1998
+AVL
+
+2
+-
+1
+
+LIV
+15 
+Previous Position 14
+
+Wimbledon
+26	8	8	10	28	30	-2	32	
+D
+Saturday 17 January 1998
+WIM
+
+0
+-
+0
+
+DER
+ 
+D
+Saturday 31 January 1998
+SHW
+
+1
+-
+1
+
+WIM
+ 
+W
+Monday 9 February 1998
+CRY
+
+0
+-
+3
+
+WIM
+ 
+W
+Saturday 21 February 1998
+WIM
+
+2
+-
+1
+
+AVL
+ 
+L
+Saturday 28 February 1998
+BAR
+
+2
+-
+1
+
+WIM
+16 
+Previous Position 16
+
+Everton
+28	7	9	12	32	40	-8	30	
+D
+Saturday 31 January 1998
+WHU
+
+2
+-
+2
+
+EVE
+ 
+D
+Saturday 7 February 1998
+BAR
+
+2
+-
+2
+
+EVE
+ 
+L
+Saturday 14 February 1998
+EVE
+
+1
+-
+2
+
+DER
+ 
+D
+Monday 23 February 1998
+LIV
+
+1
+-
+1
+
+EVE
+ 
+D
+Saturday 28 February 1998
+EVE
+
+0
+-
+0
+
+NEW
+17 
+Previous Position 17
+
+Tottenham Hotspur
+29	8	6	15	26	44	-18	30	
+W
+Saturday 7 February 1998
+BLB
+
+0
+-
+3
+
+TOT
+ 
+D
+Saturday 14 February 1998
+TOT
+
+1
+-
+1
+
+LEI
+ 
+L
+Saturday 21 February 1998
+SHW
+
+1
+-
+0
+
+TOT
+ 
+W
+Sunday 1 March 1998
+TOT
+
+1
+-
+0
+
+BOL
+ 
+L
+Wednesday 4 March 1998
+LEE
+
+1
+-
+0
+
+TOT
+18 
+Previous Position 20
+
+Barnsley
+27	7	4	16	24	63	-39	25	
+W
+Saturday 17 January 1998
+BAR
+
+1
+-
+0
+
+CRY
+ 
+L
+Saturday 31 January 1998
+CHE
+
+2
+-
+0
+
+BAR
+ 
+D
+Saturday 7 February 1998
+BAR
+
+2
+-
+2
+
+EVE
+ 
+L
+Saturday 21 February 1998
+COV
+
+1
+-
+0
+
+BAR
+ 
+W
+Saturday 28 February 1998
+BAR
+
+2
+-
+1
+
+WIM
+19 
+Previous Position 18
+
+Bolton Wanderers
+27	4	12	11	23	43	-20	24	
+L
+Saturday 17 January 1998
+NEW
+
+2
+-
+1
+
+BOL
+ 
+L
+Saturday 31 January 1998
+BOL
+
+1
+-
+5
+
+COV
+ 
+D
+Saturday 7 February 1998
+MUN
+
+1
+-
+1
+
+BOL
+ 
+D
+Saturday 21 February 1998
+BOL
+
+1
+-
+1
+
+WHU
+ 
+L
+Sunday 1 March 1998
+TOT
+
+1
+-
+0
+
+BOL
+20 
+Previous Position 19
+
+Crystal Palace
+27	5	8	14	21	41	-20	23	
+L
+Saturday 17 January 1998
+BAR
+
+1
+-
+0
+
+CRY
+ 
+L
+Saturday 31 January 1998
+CRY
+
+0
+-
+2
+
+LEE
+ 
+L
+Monday 9 February 1998
+CRY
+
+0
+-
+3
+
+WIM
+ 
+L
+Saturday 21 February 1998
+ARS
+
+1
+-
+0
+
+CRY
+ 
+L
+Saturday 28 February 1998
+CRY
+
+0
+-
+3
+
+COV

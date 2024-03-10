@@ -1,0 +1,660 @@
+1 
+Previous Position 6
+
+Liverpool
+3	2	1	0	6	2	4	7	
+W
+Sunday 16 August 1998
+SOU
+
+1
+-
+2
+
+LIV
+ 
+D
+Saturday 22 August 1998
+LIV
+
+0
+-
+0
+
+ARS
+ 
+W
+Sunday 30 August 1998
+NEW
+
+1
+-
+4
+
+LIV
+2 
+Previous Position 3
+
+Aston Villa
+3	2	1	0	4	1	3	7	
+D
+Saturday 15 August 1998
+EVE
+
+0
+-
+0
+
+AVL
+ 
+W
+Sunday 23 August 1998
+AVL
+
+3
+-
+1
+
+MID
+ 
+W
+Saturday 29 August 1998
+SHW
+
+0
+-
+1
+
+AVL
+3 
+Previous Position 11
+
+Nottingham Forest
+3	2	0	1	4	3	1	6	
+L
+Monday 17 August 1998
+ARS
+
+2
+-
+1
+
+NFO
+ 
+W
+Saturday 22 August 1998
+NFO
+
+1
+-
+0
+
+COV
+ 
+W
+Saturday 29 August 1998
+SOU
+
+1
+-
+2
+
+NFO
+4 
+Previous Position 1
+
+Charlton Athletic
+3	1	2	0	5	0	5	5	
+D
+Saturday 15 August 1998
+NEW
+
+0
+-
+0
+
+CHA
+ 
+W
+Saturday 22 August 1998
+CHA
+
+5
+-
+0
+
+SOU
+ 
+D
+Saturday 29 August 1998
+ARS
+
+0
+-
+0
+
+CHA
+5 
+Previous Position 4
+
+Wimbledon
+3	1	2	0	4	2	2	5	
+W
+Saturday 15 August 1998
+WIM
+
+3
+-
+1
+
+TOT
+ 
+D
+Saturday 22 August 1998
+DER
+
+0
+-
+0
+
+WIM
+ 
+D
+Saturday 29 August 1998
+WIM
+
+1
+-
+1
+
+LEE
+6 
+Previous Position 5
+
+Arsenal
+3	1	2	0	2	1	1	5	
+W
+Monday 17 August 1998
+ARS
+
+2
+-
+1
+
+NFO
+ 
+D
+Saturday 22 August 1998
+LIV
+
+0
+-
+0
+
+ARS
+ 
+D
+Saturday 29 August 1998
+ARS
+
+0
+-
+0
+
+CHA
+7 
+Previous Position 7
+
+Leeds United
+3	1	2	0	2	1	1	5	
+D
+Saturday 15 August 1998
+MID
+
+0
+-
+0
+
+LEE
+ 
+W
+Monday 24 August 1998
+LEE
+
+1
+-
+0
+
+BLB
+ 
+D
+Saturday 29 August 1998
+WIM
+
+1
+-
+1
+
+LEE
+8 
+Previous Position 8
+
+West Ham United
+3	1	2	0	1	0	1	5	
+W
+Saturday 15 August 1998
+SHW
+
+0
+-
+1
+
+WHU
+ 
+D
+Saturday 22 August 1998
+WHU
+
+0
+-
+0
+
+MUN
+ 
+D
+Saturday 29 August 1998
+COV
+
+0
+-
+0
+
+WHU
+9 
+Previous Position 2
+
+Leicester City
+3	1	1	1	4	3	1	4	
+D
+Saturday 15 August 1998
+MUN
+
+2
+-
+2
+
+LEI
+ 
+W
+Saturday 22 August 1998
+LEI
+
+2
+-
+0
+
+EVE
+ 
+L
+Saturday 29 August 1998
+BLB
+
+1
+-
+0
+
+LEI
+10 
+Previous Position 10
+
+Coventry City
+3	1	1	1	2	2	0	4	
+W
+Saturday 15 August 1998
+COV
+
+2
+-
+1
+
+CHE
+ 
+L
+Saturday 22 August 1998
+NFO
+
+1
+-
+0
+
+COV
+ 
+D
+Saturday 29 August 1998
+COV
+
+0
+-
+0
+
+WHU
+11 
+Previous Position 16
+
+Blackburn Rovers
+3	1	1	1	1	1	0	4	
+D
+Saturday 15 August 1998
+BLB
+
+0
+-
+0
+
+DER
+ 
+L
+Monday 24 August 1998
+LEE
+
+1
+-
+0
+
+BLB
+ 
+W
+Saturday 29 August 1998
+BLB
+
+1
+-
+0
+
+LEI
+12 
+Previous Position 9
+
+Sheffield Wednesday
+3	1	0	2	3	2	1	3	
+L
+Saturday 15 August 1998
+SHW
+
+0
+-
+1
+
+WHU
+ 
+W
+Saturday 22 August 1998
+TOT
+
+0
+-
+3
+
+SHW
+ 
+L
+Saturday 29 August 1998
+SHW
+
+0
+-
+1
+
+AVL
+13 
+Previous Position 14
+
+Derby County
+3	0	3	0	1	1	0	3	
+D
+Saturday 15 August 1998
+BLB
+
+0
+-
+0
+
+DER
+ 
+D
+Saturday 22 August 1998
+DER
+
+0
+-
+0
+
+WIM
+ 
+D
+Saturday 29 August 1998
+MID
+
+1
+-
+1
+
+DER
+14 
+Previous Position 19
+
+Tottenham Hotspur
+3	1	0	2	2	6	-4	3	
+L
+Saturday 15 August 1998
+WIM
+
+3
+-
+1
+
+TOT
+ 
+L
+Saturday 22 August 1998
+TOT
+
+0
+-
+3
+
+SHW
+ 
+W
+Saturday 29 August 1998
+EVE
+
+0
+-
+1
+
+TOT
+15 
+Previous Position 12
+
+Manchester United
+2	0	2	0	2	2	0	2	
+D
+Saturday 15 August 1998
+MUN
+
+2
+-
+2
+
+LEI
+ 
+D
+Saturday 22 August 1998
+WHU
+
+0
+-
+0
+
+MUN
+16 
+Previous Position 17
+
+Middlesbrough
+3	0	2	1	2	4	-2	2	
+D
+Saturday 15 August 1998
+MID
+
+0
+-
+0
+
+LEE
+ 
+L
+Sunday 23 August 1998
+AVL
+
+3
+-
+1
+
+MID
+ 
+D
+Saturday 29 August 1998
+MID
+
+1
+-
+1
+
+DER
+17 
+Previous Position 13
+
+Newcastle United
+3	0	2	1	2	5	-3	2	
+D
+Saturday 15 August 1998
+NEW
+
+0
+-
+0
+
+CHA
+ 
+D
+Saturday 22 August 1998
+CHE
+
+1
+-
+1
+
+NEW
+ 
+L
+Sunday 30 August 1998
+NEW
+
+1
+-
+4
+
+LIV
+18 
+Previous Position 15
+
+Chelsea
+2	0	1	1	2	3	-1	1	
+L
+Saturday 15 August 1998
+COV
+
+2
+-
+1
+
+CHE
+ 
+D
+Saturday 22 August 1998
+CHE
+
+1
+-
+1
+
+NEW
+19 
+Previous Position 18
+
+Everton
+3	0	1	2	0	3	-3	1	
+D
+Saturday 15 August 1998
+EVE
+
+0
+-
+0
+
+AVL
+ 
+L
+Saturday 22 August 1998
+LEI
+
+2
+-
+0
+
+EVE
+ 
+L
+Saturday 29 August 1998
+EVE
+
+0
+-
+1
+
+TOT
+20 
+Previous Position 20
+
+Southampton
+3	0	0	3	2	9	-7	0	
+L
+Sunday 16 August 1998
+SOU
+
+1
+-
+2
+
+LIV
+ 
+L
+Saturday 22 August 1998
+CHA
+
+5
+-
+0
+
+SOU
+ 
+L
+Saturday 29 August 1998
+SOU
+
+1
+-
+2
+
+NFO

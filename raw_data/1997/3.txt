@@ -1,0 +1,980 @@
+1 
+Previous Position 1
+
+Blackburn Rovers
+5	4	1	0	15	4	11	13	
+W
+Saturday 9 August 1997
+BLB
+
+1
+-
+0
+
+DER
+ 
+W
+Wednesday 13 August 1997
+AVL
+
+0
+-
+4
+
+BLB
+ 
+D
+Saturday 23 August 1997
+BLB
+
+1
+-
+1
+
+LIV
+ 
+W
+Monday 25 August 1997
+BLB
+
+7
+-
+2
+
+SHW
+ 
+W
+Saturday 30 August 1997
+CRY
+
+1
+-
+2
+
+BLB
+2 
+Previous Position 2
+
+Manchester United
+5	4	1	0	8	0	8	13	
+W
+Sunday 10 August 1997
+TOT
+
+0
+-
+2
+
+MUN
+ 
+W
+Wednesday 13 August 1997
+MUN
+
+1
+-
+0
+
+SOU
+ 
+D
+Saturday 23 August 1997
+LEI
+
+0
+-
+0
+
+MUN
+ 
+W
+Wednesday 27 August 1997
+EVE
+
+0
+-
+2
+
+MUN
+ 
+W
+Saturday 30 August 1997
+MUN
+
+3
+-
+0
+
+COV
+3 
+Previous Position 5
+
+West Ham United
+5	3	1	1	9	6	3	10	
+W
+Saturday 9 August 1997
+BAR
+
+1
+-
+2
+
+WHU
+ 
+W
+Wednesday 13 August 1997
+WHU
+
+2
+-
+1
+
+TOT
+ 
+L
+Saturday 23 August 1997
+EVE
+
+2
+-
+1
+
+WHU
+ 
+D
+Wednesday 27 August 1997
+COV
+
+1
+-
+1
+
+WHU
+ 
+W
+Saturday 30 August 1997
+WHU
+
+3
+-
+1
+
+WIM
+4 
+Previous Position 6
+
+Chelsea
+4	3	0	1	14	5	9	9	
+L
+Saturday 9 August 1997
+COV
+
+3
+-
+2
+
+CHE
+ 
+W
+Sunday 24 August 1997
+BAR
+
+0
+-
+6
+
+CHE
+ 
+W
+Wednesday 27 August 1997
+WIM
+
+0
+-
+2
+
+CHE
+ 
+W
+Saturday 30 August 1997
+CHE
+
+4
+-
+2
+
+SOU
+5 
+Previous Position 3
+
+Arsenal
+5	2	3	0	9	5	4	9	
+D
+Saturday 9 August 1997
+LEE
+
+1
+-
+1
+
+ARS
+ 
+W
+Monday 11 August 1997
+ARS
+
+2
+-
+0
+
+COV
+ 
+W
+Saturday 23 August 1997
+SOU
+
+1
+-
+3
+
+ARS
+ 
+D
+Wednesday 27 August 1997
+LEI
+
+3
+-
+3
+
+ARS
+ 
+D
+Saturday 30 August 1997
+ARS
+
+0
+-
+0
+
+TOT
+6 
+Previous Position 4
+
+Leicester City
+5	2	2	1	6	5	1	8	
+W
+Saturday 9 August 1997
+LEI
+
+1
+-
+0
+
+AVL
+ 
+W
+Wednesday 13 August 1997
+LIV
+
+1
+-
+2
+
+LEI
+ 
+D
+Saturday 23 August 1997
+LEI
+
+0
+-
+0
+
+MUN
+ 
+D
+Wednesday 27 August 1997
+LEI
+
+3
+-
+3
+
+ARS
+ 
+L
+Saturday 30 August 1997
+SHW
+
+1
+-
+0
+
+LEI
+7 
+Previous Position 9
+
+Tottenham Hotspur
+5	2	1	2	5	6	-1	7	
+L
+Sunday 10 August 1997
+TOT
+
+0
+-
+2
+
+MUN
+ 
+L
+Wednesday 13 August 1997
+WHU
+
+2
+-
+1
+
+TOT
+ 
+W
+Saturday 23 August 1997
+TOT
+
+1
+-
+0
+
+DER
+ 
+W
+Wednesday 27 August 1997
+TOT
+
+3
+-
+2
+
+AVL
+ 
+D
+Saturday 30 August 1997
+ARS
+
+0
+-
+0
+
+TOT
+8 
+Previous Position 7
+
+Newcastle United
+2	2	0	0	3	1	2	6	
+W
+Saturday 9 August 1997
+NEW
+
+2
+-
+1
+
+SHW
+ 
+W
+Saturday 23 August 1997
+NEW
+
+1
+-
+0
+
+AVL
+9 
+Previous Position 8
+
+Crystal Palace
+5	2	0	3	5	5	0	6	
+W
+Saturday 9 August 1997
+EVE
+
+1
+-
+2
+
+CRY
+ 
+L
+Tuesday 12 August 1997
+CRY
+
+0
+-
+1
+
+BAR
+ 
+W
+Saturday 23 August 1997
+LEE
+
+0
+-
+2
+
+CRY
+ 
+L
+Wednesday 27 August 1997
+SOU
+
+1
+-
+0
+
+CRY
+ 
+L
+Saturday 30 August 1997
+CRY
+
+1
+-
+2
+
+BLB
+10 
+Previous Position 10
+
+Barnsley
+5	2	0	3	4	10	-6	6	
+L
+Saturday 9 August 1997
+BAR
+
+1
+-
+2
+
+WHU
+ 
+W
+Tuesday 12 August 1997
+CRY
+
+0
+-
+1
+
+BAR
+ 
+L
+Sunday 24 August 1997
+BAR
+
+0
+-
+6
+
+CHE
+ 
+W
+Wednesday 27 August 1997
+BAR
+
+2
+-
+1
+
+BOL
+ 
+L
+Saturday 30 August 1997
+DER
+
+1
+-
+0
+
+BAR
+11 
+Previous Position 11
+
+Liverpool
+4	1	2	1	5	4	1	5	
+D
+Saturday 9 August 1997
+WIM
+
+1
+-
+1
+
+LIV
+ 
+L
+Wednesday 13 August 1997
+LIV
+
+1
+-
+2
+
+LEI
+ 
+D
+Saturday 23 August 1997
+BLB
+
+1
+-
+1
+
+LIV
+ 
+W
+Tuesday 26 August 1997
+LEE
+
+0
+-
+2
+
+LIV
+12 
+Previous Position 13
+
+Bolton Wanderers
+4	1	2	1	4	4	0	5	
+W
+Saturday 9 August 1997
+SOU
+
+0
+-
+1
+
+BOL
+ 
+D
+Saturday 23 August 1997
+COV
+
+2
+-
+2
+
+BOL
+ 
+L
+Wednesday 27 August 1997
+BAR
+
+2
+-
+1
+
+BOL
+ 
+D
+Monday 1 September 1997
+BOL
+
+0
+-
+0
+
+EVE
+13 
+Previous Position 12
+
+Coventry City
+5	1	2	2	6	10	-4	5	
+W
+Saturday 9 August 1997
+COV
+
+3
+-
+2
+
+CHE
+ 
+L
+Monday 11 August 1997
+ARS
+
+2
+-
+0
+
+COV
+ 
+D
+Saturday 23 August 1997
+COV
+
+2
+-
+2
+
+BOL
+ 
+D
+Wednesday 27 August 1997
+COV
+
+1
+-
+1
+
+WHU
+ 
+L
+Saturday 30 August 1997
+MUN
+
+3
+-
+0
+
+COV
+14 
+Previous Position 15
+
+Everton
+4	1	1	2	3	5	-2	4	
+L
+Saturday 9 August 1997
+EVE
+
+1
+-
+2
+
+CRY
+ 
+W
+Saturday 23 August 1997
+EVE
+
+2
+-
+1
+
+WHU
+ 
+L
+Wednesday 27 August 1997
+EVE
+
+0
+-
+2
+
+MUN
+ 
+D
+Monday 1 September 1997
+BOL
+
+0
+-
+0
+
+EVE
+15 
+Previous Position 14
+
+Leeds United
+5	1	1	3	4	7	-3	4	
+D
+Saturday 9 August 1997
+LEE
+
+1
+-
+1
+
+ARS
+ 
+W
+Wednesday 13 August 1997
+SHW
+
+1
+-
+3
+
+LEE
+ 
+L
+Saturday 23 August 1997
+LEE
+
+0
+-
+2
+
+CRY
+ 
+L
+Tuesday 26 August 1997
+LEE
+
+0
+-
+2
+
+LIV
+ 
+L
+Saturday 30 August 1997
+AVL
+
+1
+-
+0
+
+LEE
+16 
+Previous Position 18
+
+Sheffield Wednesday
+5	1	1	3	6	13	-7	4	
+L
+Saturday 9 August 1997
+NEW
+
+2
+-
+1
+
+SHW
+ 
+L
+Wednesday 13 August 1997
+SHW
+
+1
+-
+3
+
+LEE
+ 
+D
+Saturday 23 August 1997
+WIM
+
+1
+-
+1
+
+SHW
+ 
+L
+Monday 25 August 1997
+BLB
+
+7
+-
+2
+
+SHW
+ 
+W
+Saturday 30 August 1997
+SHW
+
+1
+-
+0
+
+LEI
+17 
+Previous Position 19
+
+Derby County
+3	1	0	2	1	2	-1	3	
+L
+Saturday 9 August 1997
+BLB
+
+1
+-
+0
+
+DER
+ 
+L
+Saturday 23 August 1997
+TOT
+
+1
+-
+0
+
+DER
+ 
+W
+Saturday 30 August 1997
+DER
+
+1
+-
+0
+
+BAR
+18 
+Previous Position 16
+
+Southampton
+5	1	0	4	4	9	-5	3	
+L
+Saturday 9 August 1997
+SOU
+
+0
+-
+1
+
+BOL
+ 
+L
+Wednesday 13 August 1997
+MUN
+
+1
+-
+0
+
+SOU
+ 
+L
+Saturday 23 August 1997
+SOU
+
+1
+-
+3
+
+ARS
+ 
+W
+Wednesday 27 August 1997
+SOU
+
+1
+-
+0
+
+CRY
+ 
+L
+Saturday 30 August 1997
+CHE
+
+4
+-
+2
+
+SOU
+19 
+Previous Position 20
+
+Aston Villa
+5	1	0	4	3	9	-6	3	
+L
+Saturday 9 August 1997
+LEI
+
+1
+-
+0
+
+AVL
+ 
+L
+Wednesday 13 August 1997
+AVL
+
+0
+-
+4
+
+BLB
+ 
+L
+Saturday 23 August 1997
+NEW
+
+1
+-
+0
+
+AVL
+ 
+L
+Wednesday 27 August 1997
+TOT
+
+3
+-
+2
+
+AVL
+ 
+W
+Saturday 30 August 1997
+AVL
+
+1
+-
+0
+
+LEE
+20 
+Previous Position 17
+
+Wimbledon
+4	0	2	2	3	7	-4	2	
+D
+Saturday 9 August 1997
+WIM
+
+1
+-
+1
+
+LIV
+ 
+D
+Saturday 23 August 1997
+WIM
+
+1
+-
+1
+
+SHW
+ 
+L
+Wednesday 27 August 1997
+WIM
+
+0
+-
+2
+
+CHE
+ 
+L
+Saturday 30 August 1997
+WHU
+
+3
+-
+1
+
+WIM

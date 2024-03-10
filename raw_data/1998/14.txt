@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Aston Villa
+13	8	4	1	20	10	10	28	
+D
+Saturday 17 October 1998
+WHU
+
+0
+-
+0
+
+AVL
+ 
+D
+Saturday 24 October 1998
+AVL
+
+1
+-
+1
+
+LEI
+ 
+W
+Saturday 7 November 1998
+AVL
+
+3
+-
+2
+
+TOT
+ 
+W
+Saturday 14 November 1998
+SOU
+
+1
+-
+4
+
+AVL
+ 
+L
+Saturday 21 November 1998
+AVL
+
+2
+-
+4
+
+LIV
+2 
+Previous Position 2
+
+Manchester United
+13	7	4	2	27	14	13	25	
+D
+Saturday 24 October 1998
+DER
+
+1
+-
+1
+
+MUN
+ 
+W
+Saturday 31 October 1998
+EVE
+
+1
+-
+4
+
+MUN
+ 
+D
+Sunday 8 November 1998
+MUN
+
+0
+-
+0
+
+NEW
+ 
+W
+Saturday 14 November 1998
+MUN
+
+3
+-
+2
+
+BLB
+ 
+L
+Saturday 21 November 1998
+SHW
+
+3
+-
+1
+
+MUN
+3 
+Previous Position 3
+
+Arsenal
+14	6	6	2	14	6	8	24	
+W
+Sunday 25 October 1998
+BLB
+
+1
+-
+2
+
+ARS
+ 
+W
+Saturday 31 October 1998
+COV
+
+0
+-
+1
+
+ARS
+ 
+W
+Sunday 8 November 1998
+ARS
+
+1
+-
+0
+
+EVE
+ 
+D
+Saturday 14 November 1998
+ARS
+
+0
+-
+0
+
+TOT
+ 
+L
+Saturday 21 November 1998
+WIM
+
+1
+-
+0
+
+ARS
+4 
+Previous Position 4
+
+Chelsea
+12	6	5	1	21	12	9	23	
+W
+Saturday 17 October 1998
+CHE
+
+2
+-
+1
+
+CHA
+ 
+D
+Sunday 25 October 1998
+LEE
+
+0
+-
+0
+
+CHE
+ 
+D
+Sunday 8 November 1998
+WHU
+
+1
+-
+1
+
+CHE
+ 
+W
+Saturday 14 November 1998
+CHE
+
+3
+-
+0
+
+WIM
+ 
+W
+Saturday 21 November 1998
+LEI
+
+2
+-
+4
+
+CHE
+5 
+Previous Position 5
+
+Leeds United
+14	5	8	1	20	11	9	23	
+D
+Sunday 25 October 1998
+LEE
+
+0
+-
+0
+
+CHE
+ 
+D
+Saturday 31 October 1998
+DER
+
+2
+-
+2
+
+LEE
+ 
+W
+Sunday 8 November 1998
+LEE
+
+2
+-
+1
+
+SHW
+ 
+W
+Saturday 14 November 1998
+LIV
+
+1
+-
+3
+
+LEE
+ 
+W
+Saturday 21 November 1998
+LEE
+
+4
+-
+1
+
+CHA
+6 
+Previous Position 6
+
+West Ham United
+14	6	5	3	18	15	3	23	
+L
+Saturday 24 October 1998
+CHA
+
+4
+-
+2
+
+WHU
+ 
+W
+Saturday 31 October 1998
+NEW
+
+0
+-
+3
+
+WHU
+ 
+D
+Sunday 8 November 1998
+WHU
+
+1
+-
+1
+
+CHE
+ 
+W
+Saturday 14 November 1998
+WHU
+
+3
+-
+2
+
+LEI
+ 
+W
+Sunday 22 November 1998
+DER
+
+0
+-
+2
+
+WHU
+7 
+Previous Position 7
+
+Middlesbrough
+14	5	7	2	23	16	7	22	
+D
+Saturday 24 October 1998
+WIM
+
+2
+-
+2
+
+MID
+ 
+D
+Sunday 1 November 1998
+MID
+
+1
+-
+1
+
+NFO
+ 
+D
+Saturday 7 November 1998
+SOU
+
+3
+-
+3
+
+MID
+ 
+D
+Saturday 14 November 1998
+CHA
+
+1
+-
+1
+
+MID
+ 
+W
+Saturday 21 November 1998
+MID
+
+2
+-
+0
+
+COV
+8 
+Previous Position 10
+
+Wimbledon
+14	5	5	4	18	22	-4	20	
+D
+Saturday 24 October 1998
+WIM
+
+2
+-
+2
+
+MID
+ 
+D
+Saturday 31 October 1998
+WIM
+
+1
+-
+1
+
+BLB
+ 
+W
+Saturday 7 November 1998
+NFO
+
+0
+-
+1
+
+WIM
+ 
+L
+Saturday 14 November 1998
+CHE
+
+3
+-
+0
+
+WIM
+ 
+W
+Saturday 21 November 1998
+WIM
+
+1
+-
+0
+
+ARS
+9 
+Previous Position 12
+
+Liverpool
+14	5	4	5	24	19	5	19	
+W
+Saturday 24 October 1998
+LIV
+
+5
+-
+1
+
+NFO
+ 
+L
+Saturday 31 October 1998
+LEI
+
+1
+-
+0
+
+LIV
+ 
+L
+Saturday 7 November 1998
+LIV
+
+1
+-
+2
+
+DER
+ 
+L
+Saturday 14 November 1998
+LIV
+
+1
+-
+3
+
+LEE
+ 
+W
+Saturday 21 November 1998
+AVL
+
+2
+-
+4
+
+LIV
+10 
+Previous Position 14
+
+Tottenham Hotspur
+14	5	4	5	18	21	-3	19	
+W
+Saturday 24 October 1998
+TOT
+
+2
+-
+0
+
+NEW
+ 
+D
+Monday 2 November 1998
+TOT
+
+2
+-
+2
+
+CHA
+ 
+L
+Saturday 7 November 1998
+AVL
+
+3
+-
+2
+
+TOT
+ 
+D
+Saturday 14 November 1998
+ARS
+
+0
+-
+0
+
+TOT
+ 
+W
+Saturday 21 November 1998
+TOT
+
+2
+-
+0
+
+NFO
+11 
+Previous Position 8
+
+Derby County
+14	4	6	4	14	14	0	18	
+D
+Saturday 24 October 1998
+DER
+
+1
+-
+1
+
+MUN
+ 
+D
+Saturday 31 October 1998
+DER
+
+2
+-
+2
+
+LEE
+ 
+W
+Saturday 7 November 1998
+LIV
+
+1
+-
+2
+
+DER
+ 
+D
+Monday 16 November 1998
+NFO
+
+2
+-
+2
+
+DER
+ 
+L
+Sunday 22 November 1998
+DER
+
+0
+-
+2
+
+WHU
+12 
+Previous Position 9
+
+Leicester City
+14	4	5	5	15	17	-2	17	
+D
+Saturday 24 October 1998
+AVL
+
+1
+-
+1
+
+LEI
+ 
+W
+Saturday 31 October 1998
+LEI
+
+1
+-
+0
+
+LIV
+ 
+D
+Saturday 7 November 1998
+CHA
+
+0
+-
+0
+
+LEI
+ 
+L
+Saturday 14 November 1998
+WHU
+
+3
+-
+2
+
+LEI
+ 
+L
+Saturday 21 November 1998
+LEI
+
+2
+-
+4
+
+CHE
+13 
+Previous Position 11
+
+Charlton Athletic
+14	3	7	4	21	21	0	16	
+W
+Saturday 24 October 1998
+CHA
+
+4
+-
+2
+
+WHU
+ 
+D
+Monday 2 November 1998
+TOT
+
+2
+-
+2
+
+CHA
+ 
+D
+Saturday 7 November 1998
+CHA
+
+0
+-
+0
+
+LEI
+ 
+D
+Saturday 14 November 1998
+CHA
+
+1
+-
+1
+
+MID
+ 
+L
+Saturday 21 November 1998
+LEE
+
+4
+-
+1
+
+CHA
+14 
+Previous Position 13
+
+Newcastle United
+14	4	4	6	16	18	-2	16	
+L
+Saturday 24 October 1998
+TOT
+
+2
+-
+0
+
+NEW
+ 
+L
+Saturday 31 October 1998
+NEW
+
+0
+-
+3
+
+WHU
+ 
+D
+Sunday 8 November 1998
+MUN
+
+0
+-
+0
+
+NEW
+ 
+D
+Saturday 14 November 1998
+NEW
+
+1
+-
+1
+
+SHW
+ 
+L
+Monday 23 November 1998
+EVE
+
+1
+-
+0
+
+NEW
+15 
+Previous Position 16
+
+Sheffield Wednesday
+14	4	3	7	13	14	-1	15	
+D
+Saturday 24 October 1998
+SHW
+
+0
+-
+0
+
+EVE
+ 
+D
+Saturday 31 October 1998
+SHW
+
+0
+-
+0
+
+SOU
+ 
+L
+Sunday 8 November 1998
+LEE
+
+2
+-
+1
+
+SHW
+ 
+D
+Saturday 14 November 1998
+NEW
+
+1
+-
+1
+
+SHW
+ 
+W
+Saturday 21 November 1998
+SHW
+
+3
+-
+1
+
+MUN
+16 
+Previous Position 17
+
+Everton
+14	3	6	5	8	14	-6	15	
+D
+Saturday 24 October 1998
+SHW
+
+0
+-
+0
+
+EVE
+ 
+L
+Saturday 31 October 1998
+EVE
+
+1
+-
+4
+
+MUN
+ 
+L
+Sunday 8 November 1998
+ARS
+
+1
+-
+0
+
+EVE
+ 
+L
+Sunday 15 November 1998
+COV
+
+3
+-
+0
+
+EVE
+ 
+W
+Monday 23 November 1998
+EVE
+
+1
+-
+0
+
+NEW
+17 
+Previous Position 15
+
+Coventry City
+14	4	2	8	12	20	-8	14	
+L
+Saturday 24 October 1998
+SOU
+
+2
+-
+1
+
+COV
+ 
+L
+Saturday 31 October 1998
+COV
+
+0
+-
+1
+
+ARS
+ 
+W
+Saturday 7 November 1998
+BLB
+
+1
+-
+2
+
+COV
+ 
+W
+Sunday 15 November 1998
+COV
+
+3
+-
+0
+
+EVE
+ 
+L
+Saturday 21 November 1998
+MID
+
+2
+-
+0
+
+COV
+18 
+Previous Position 18
+
+Nottingham Forest
+14	2	4	8	10	22	-12	10	
+L
+Saturday 24 October 1998
+LIV
+
+5
+-
+1
+
+NFO
+ 
+D
+Sunday 1 November 1998
+MID
+
+1
+-
+1
+
+NFO
+ 
+L
+Saturday 7 November 1998
+NFO
+
+0
+-
+1
+
+WIM
+ 
+D
+Monday 16 November 1998
+NFO
+
+2
+-
+2
+
+DER
+ 
+L
+Saturday 21 November 1998
+TOT
+
+2
+-
+0
+
+NFO
+19 
+Previous Position 20
+
+Southampton
+14	2	4	8	12	30	-18	10	
+W
+Saturday 24 October 1998
+SOU
+
+2
+-
+1
+
+COV
+ 
+D
+Saturday 31 October 1998
+SHW
+
+0
+-
+0
+
+SOU
+ 
+D
+Saturday 7 November 1998
+SOU
+
+3
+-
+3
+
+MID
+ 
+L
+Saturday 14 November 1998
+SOU
+
+1
+-
+4
+
+AVL
+ 
+W
+Saturday 21 November 1998
+BLB
+
+0
+-
+2
+
+SOU
+20 
+Previous Position 19
+
+Blackburn Rovers
+14	2	3	9	14	22	-8	9	
+L
+Sunday 25 October 1998
+BLB
+
+1
+-
+2
+
+ARS
+ 
+D
+Saturday 31 October 1998
+WIM
+
+1
+-
+1
+
+BLB
+ 
+L
+Saturday 7 November 1998
+BLB
+
+1
+-
+2
+
+COV
+ 
+L
+Saturday 14 November 1998
+MUN
+
+3
+-
+2
+
+BLB
+ 
+L
+Saturday 21 November 1998
+BLB
+
+0
+-
+2
+
+SOU

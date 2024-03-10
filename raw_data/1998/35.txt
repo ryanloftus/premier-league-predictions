@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Manchester United
+32	19	10	3	72	32	40	67	
+W
+Saturday 27 February 1999
+MUN
+
+2
+-
+1
+
+SOU
+ 
+W
+Saturday 13 March 1999
+NEW
+
+1
+-
+2
+
+MUN
+ 
+W
+Sunday 21 March 1999
+MUN
+
+3
+-
+1
+
+EVE
+ 
+D
+Saturday 3 April 1999
+WIM
+
+1
+-
+1
+
+MUN
+ 
+W
+Saturday 17 April 1999
+MUN
+
+3
+-
+0
+
+SHW
+2 
+Previous Position 2
+
+Arsenal
+33	18	12	3	48	14	34	66	
+W
+Saturday 13 March 1999
+EVE
+
+0
+-
+2
+
+ARS
+ 
+W
+Saturday 20 March 1999
+ARS
+
+2
+-
+0
+
+COV
+ 
+D
+Saturday 3 April 1999
+SOU
+
+0
+-
+0
+
+ARS
+ 
+W
+Tuesday 6 April 1999
+ARS
+
+1
+-
+0
+
+BLB
+ 
+W
+Monday 19 April 1999
+ARS
+
+5
+-
+1
+
+WIM
+3 
+Previous Position 3
+
+Chelsea
+33	17	13	3	49	26	23	64	
+W
+Sunday 21 March 1999
+AVL
+
+0
+-
+3
+
+CHE
+ 
+W
+Saturday 3 April 1999
+CHA
+
+0
+-
+1
+
+CHE
+ 
+W
+Sunday 11 April 1999
+WIM
+
+1
+-
+2
+
+CHE
+ 
+D
+Wednesday 14 April 1999
+MID
+
+0
+-
+0
+
+CHE
+ 
+D
+Sunday 18 April 1999
+CHE
+
+2
+-
+2
+
+LEI
+4 
+Previous Position 4
+
+Leeds United
+33	16	11	6	53	29	24	59	
+W
+Saturday 13 March 1999
+SHW
+
+0
+-
+2
+
+LEE
+ 
+W
+Saturday 20 March 1999
+LEE
+
+4
+-
+1
+
+DER
+ 
+W
+Saturday 3 April 1999
+LEE
+
+3
+-
+1
+
+NFO
+ 
+D
+Monday 12 April 1999
+LEE
+
+0
+-
+0
+
+LIV
+ 
+D
+Saturday 17 April 1999
+CHA
+
+1
+-
+1
+
+LEE
+5 
+Previous Position 5
+
+Aston Villa
+34	14	10	10	45	39	6	52	
+L
+Sunday 21 March 1999
+AVL
+
+0
+-
+3
+
+CHE
+ 
+D
+Friday 2 April 1999
+AVL
+
+0
+-
+0
+
+WHU
+ 
+D
+Tuesday 6 April 1999
+LEI
+
+2
+-
+2
+
+AVL
+ 
+W
+Saturday 10 April 1999
+AVL
+
+3
+-
+0
+
+SOU
+ 
+W
+Saturday 17 April 1999
+LIV
+
+0
+-
+1
+
+AVL
+6 
+Previous Position 6
+
+West Ham United
+34	14	9	11	39	41	-2	51	
+W
+Saturday 20 March 1999
+WHU
+
+2
+-
+0
+
+NEW
+ 
+D
+Friday 2 April 1999
+AVL
+
+0
+-
+0
+
+WHU
+ 
+L
+Monday 5 April 1999
+WHU
+
+0
+-
+1
+
+CHA
+ 
+D
+Saturday 10 April 1999
+LEI
+
+0
+-
+0
+
+WHU
+ 
+W
+Saturday 17 April 1999
+WHU
+
+5
+-
+1
+
+DER
+7 
+Previous Position 7
+
+Middlesbrough
+34	12	14	8	46	42	4	50	
+D
+Saturday 3 April 1999
+BLB
+
+0
+-
+0
+
+MID
+ 
+W
+Monday 5 April 1999
+MID
+
+3
+-
+1
+
+WIM
+ 
+W
+Saturday 10 April 1999
+MID
+
+2
+-
+0
+
+CHA
+ 
+D
+Wednesday 14 April 1999
+MID
+
+0
+-
+0
+
+CHE
+ 
+W
+Saturday 17 April 1999
+COV
+
+1
+-
+2
+
+MID
+8 
+Previous Position 8
+
+Derby County
+33	12	11	10	37	41	-4	47	
+W
+Saturday 13 March 1999
+DER
+
+3
+-
+2
+
+LIV
+ 
+L
+Saturday 20 March 1999
+LEE
+
+4
+-
+1
+
+DER
+ 
+L
+Saturday 3 April 1999
+DER
+
+3
+-
+4
+
+NEW
+ 
+W
+Saturday 10 April 1999
+DER
+
+1
+-
+0
+
+NFO
+ 
+L
+Saturday 17 April 1999
+WHU
+
+5
+-
+1
+
+DER
+9 
+Previous Position 12
+
+Tottenham Hotspur
+33	11	13	9	40	38	2	46	
+W
+Saturday 13 March 1999
+TOT
+
+1
+-
+0
+
+AVL
+ 
+L
+Saturday 3 April 1999
+TOT
+
+0
+-
+2
+
+LEI
+ 
+D
+Monday 5 April 1999
+NEW
+
+1
+-
+1
+
+TOT
+ 
+W
+Saturday 17 April 1999
+NFO
+
+0
+-
+1
+
+TOT
+ 
+W
+Tuesday 20 April 1999
+CHA
+
+1
+-
+4
+
+TOT
+10 
+Previous Position 9
+
+Liverpool
+33	12	8	13	57	43	14	44	
+W
+Saturday 3 April 1999
+LIV
+
+3
+-
+2
+
+EVE
+ 
+D
+Monday 5 April 1999
+NFO
+
+2
+-
+2
+
+LIV
+ 
+D
+Monday 12 April 1999
+LEE
+
+0
+-
+0
+
+LIV
+ 
+L
+Saturday 17 April 1999
+LIV
+
+0
+-
+1
+
+AVL
+ 
+L
+Wednesday 21 April 1999
+LIV
+
+0
+-
+1
+
+LEI
+11 
+Previous Position 10
+
+Newcastle United
+34	11	10	13	45	49	-4	43	
+L
+Saturday 20 March 1999
+WHU
+
+2
+-
+0
+
+NEW
+ 
+W
+Saturday 3 April 1999
+DER
+
+3
+-
+4
+
+NEW
+ 
+D
+Monday 5 April 1999
+NEW
+
+1
+-
+1
+
+TOT
+ 
+L
+Saturday 17 April 1999
+NEW
+
+1
+-
+3
+
+EVE
+ 
+D
+Wednesday 21 April 1999
+SHW
+
+1
+-
+1
+
+NEW
+12 
+Previous Position 13
+
+Leicester City
+33	10	13	10	35	41	-6	43	
+W
+Saturday 3 April 1999
+TOT
+
+0
+-
+2
+
+LEI
+ 
+D
+Tuesday 6 April 1999
+LEI
+
+2
+-
+2
+
+AVL
+ 
+D
+Saturday 10 April 1999
+LEI
+
+0
+-
+0
+
+WHU
+ 
+D
+Sunday 18 April 1999
+CHE
+
+2
+-
+2
+
+LEI
+ 
+W
+Wednesday 21 April 1999
+LIV
+
+0
+-
+1
+
+LEI
+13 
+Previous Position 11
+
+Wimbledon
+34	10	11	13	38	55	-17	41	
+L
+Saturday 20 March 1999
+BLB
+
+3
+-
+1
+
+WIM
+ 
+D
+Saturday 3 April 1999
+WIM
+
+1
+-
+1
+
+MUN
+ 
+L
+Monday 5 April 1999
+MID
+
+3
+-
+1
+
+WIM
+ 
+L
+Sunday 11 April 1999
+WIM
+
+1
+-
+2
+
+CHE
+ 
+L
+Monday 19 April 1999
+ARS
+
+5
+-
+1
+
+WIM
+14 
+Previous Position 14
+
+Sheffield Wednesday
+34	11	6	17	39	40	-1	39	
+L
+Saturday 20 March 1999
+SOU
+
+1
+-
+0
+
+SHW
+ 
+L
+Saturday 3 April 1999
+SHW
+
+1
+-
+2
+
+COV
+ 
+W
+Monday 5 April 1999
+EVE
+
+1
+-
+2
+
+SHW
+ 
+L
+Saturday 17 April 1999
+MUN
+
+3
+-
+0
+
+SHW
+ 
+D
+Wednesday 21 April 1999
+SHW
+
+1
+-
+1
+
+NEW
+15 
+Previous Position 16
+
+Everton
+34	9	10	15	31	41	-10	37	
+L
+Sunday 21 March 1999
+MUN
+
+3
+-
+1
+
+EVE
+ 
+L
+Saturday 3 April 1999
+LIV
+
+3
+-
+2
+
+EVE
+ 
+L
+Monday 5 April 1999
+EVE
+
+1
+-
+2
+
+SHW
+ 
+W
+Sunday 11 April 1999
+EVE
+
+2
+-
+0
+
+COV
+ 
+W
+Saturday 17 April 1999
+NEW
+
+1
+-
+3
+
+EVE
+16 
+Previous Position 15
+
+Coventry City
+34	10	7	17	35	47	-12	37	
+L
+Saturday 20 March 1999
+ARS
+
+2
+-
+0
+
+COV
+ 
+W
+Saturday 3 April 1999
+SHW
+
+1
+-
+2
+
+COV
+ 
+W
+Monday 5 April 1999
+COV
+
+1
+-
+0
+
+SOU
+ 
+L
+Sunday 11 April 1999
+EVE
+
+2
+-
+0
+
+COV
+ 
+L
+Saturday 17 April 1999
+COV
+
+1
+-
+2
+
+MID
+17 
+Previous Position 18
+
+Blackburn Rovers
+33	7	11	15	35	46	-11	32	
+D
+Saturday 13 March 1999
+COV
+
+1
+-
+1
+
+BLB
+ 
+W
+Saturday 20 March 1999
+BLB
+
+3
+-
+1
+
+WIM
+ 
+D
+Saturday 3 April 1999
+BLB
+
+0
+-
+0
+
+MID
+ 
+L
+Tuesday 6 April 1999
+ARS
+
+1
+-
+0
+
+BLB
+ 
+D
+Saturday 17 April 1999
+SOU
+
+3
+-
+3
+
+BLB
+18 
+Previous Position 17
+
+Charlton Athletic
+34	7	11	16	36	48	-12	32	
+L
+Saturday 3 April 1999
+CHA
+
+0
+-
+1
+
+CHE
+ 
+W
+Monday 5 April 1999
+WHU
+
+0
+-
+1
+
+CHA
+ 
+L
+Saturday 10 April 1999
+MID
+
+2
+-
+0
+
+CHA
+ 
+D
+Saturday 17 April 1999
+CHA
+
+1
+-
+1
+
+LEE
+ 
+L
+Tuesday 20 April 1999
+CHA
+
+1
+-
+4
+
+TOT
+19 
+Previous Position 19
+
+Southampton
+34	8	7	19	31	63	-32	31	
+W
+Saturday 20 March 1999
+SOU
+
+1
+-
+0
+
+SHW
+ 
+D
+Saturday 3 April 1999
+SOU
+
+0
+-
+0
+
+ARS
+ 
+L
+Monday 5 April 1999
+COV
+
+1
+-
+0
+
+SOU
+ 
+L
+Saturday 10 April 1999
+AVL
+
+3
+-
+0
+
+SOU
+ 
+D
+Saturday 17 April 1999
+SOU
+
+3
+-
+3
+
+BLB
+20 
+Previous Position 20
+
+Nottingham Forest
+34	4	9	21	30	66	-36	21	
+L
+Saturday 20 March 1999
+NFO
+
+1
+-
+2
+
+MID
+ 
+L
+Saturday 3 April 1999
+LEE
+
+3
+-
+1
+
+NFO
+ 
+D
+Monday 5 April 1999
+NFO
+
+2
+-
+2
+
+LIV
+ 
+L
+Saturday 10 April 1999
+DER
+
+1
+-
+0
+
+NFO
+ 
+L
+Saturday 17 April 1999
+NFO
+
+0
+-
+1
+
+TOT
