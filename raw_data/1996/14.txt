@@ -1,0 +1,1080 @@
+1 
+Previous Position 2
+
+Arsenal
+16	10	4	2	32	14	18	34	
+D
+Saturday 2 November 1996
+WIM
+
+2
+-
+2
+
+ARS
+ 
+L
+Saturday 16 November 1996
+MUN
+
+1
+-
+0
+
+ARS
+ 
+W
+Sunday 24 November 1996
+ARS
+
+3
+-
+1
+
+TOT
+ 
+W
+Saturday 30 November 1996
+NEW
+
+1
+-
+2
+
+ARS
+ 
+W
+Wednesday 4 December 1996
+ARS
+
+3
+-
+1
+
+SOU
+2 
+Previous Position 3
+
+Liverpool
+15	9	4	2	26	13	13	31	
+L
+Sunday 3 November 1996
+BLB
+
+3
+-
+0
+
+LIV
+ 
+W
+Saturday 16 November 1996
+LEE
+
+0
+-
+2
+
+LIV
+ 
+D
+Wednesday 20 November 1996
+LIV
+
+1
+-
+1
+
+EVE
+ 
+D
+Saturday 23 November 1996
+LIV
+
+1
+-
+1
+
+WIM
+ 
+W
+Monday 2 December 1996
+TOT
+
+0
+-
+2
+
+LIV
+3 
+Previous Position 1
+
+Newcastle United
+15	9	2	4	26	17	9	29	
+L
+Saturday 26 October 1996
+LEI
+
+2
+-
+0
+
+NEW
+ 
+W
+Sunday 3 November 1996
+NEW
+
+3
+-
+1
+
+MID
+ 
+D
+Saturday 16 November 1996
+NEW
+
+1
+-
+1
+
+WHU
+ 
+D
+Saturday 23 November 1996
+CHE
+
+1
+-
+1
+
+NEW
+ 
+L
+Saturday 30 November 1996
+NEW
+
+1
+-
+2
+
+ARS
+4 
+Previous Position 4
+
+Wimbledon
+15	8	4	3	26	16	10	28	
+D
+Saturday 26 October 1996
+MID
+
+0
+-
+0
+
+WIM
+ 
+D
+Saturday 2 November 1996
+WIM
+
+2
+-
+2
+
+ARS
+ 
+D
+Saturday 16 November 1996
+WIM
+
+2
+-
+2
+
+COV
+ 
+D
+Saturday 23 November 1996
+LIV
+
+1
+-
+1
+
+WIM
+ 
+W
+Saturday 30 November 1996
+WIM
+
+1
+-
+0
+
+NFO
+5 
+Previous Position 8
+
+Aston Villa
+16	8	3	5	21	15	6	27	
+W
+Saturday 2 November 1996
+AVL
+
+2
+-
+0
+
+NFO
+ 
+L
+Saturday 16 November 1996
+AVL
+
+1
+-
+3
+
+LEI
+ 
+W
+Saturday 23 November 1996
+COV
+
+1
+-
+2
+
+AVL
+ 
+W
+Saturday 30 November 1996
+AVL
+
+1
+-
+0
+
+MID
+ 
+W
+Wednesday 4 December 1996
+WHU
+
+0
+-
+2
+
+AVL
+6 
+Previous Position 7
+
+Manchester United
+15	7	5	3	29	22	7	26	
+L
+Saturday 26 October 1996
+SOU
+
+6
+-
+3
+
+MUN
+ 
+L
+Saturday 2 November 1996
+MUN
+
+1
+-
+2
+
+CHE
+ 
+W
+Saturday 16 November 1996
+MUN
+
+1
+-
+0
+
+ARS
+ 
+D
+Saturday 23 November 1996
+MID
+
+2
+-
+2
+
+MUN
+ 
+W
+Saturday 30 November 1996
+MUN
+
+3
+-
+1
+
+LEI
+7 
+Previous Position 5
+
+Chelsea
+15	6	6	3	23	21	2	24	
+W
+Saturday 26 October 1996
+CHE
+
+3
+-
+1
+
+TOT
+ 
+W
+Saturday 2 November 1996
+MUN
+
+1
+-
+2
+
+CHE
+ 
+D
+Saturday 16 November 1996
+BLB
+
+1
+-
+1
+
+CHE
+ 
+D
+Saturday 23 November 1996
+CHE
+
+1
+-
+1
+
+NEW
+ 
+L
+Sunday 1 December 1996
+LEE
+
+2
+-
+0
+
+CHE
+8 
+Previous Position 6
+
+Everton
+15	6	5	4	23	18	5	23	
+D
+Monday 4 November 1996
+EVE
+
+1
+-
+1
+
+COV
+ 
+W
+Saturday 16 November 1996
+EVE
+
+7
+-
+1
+
+SOU
+ 
+D
+Wednesday 20 November 1996
+LIV
+
+1
+-
+1
+
+EVE
+ 
+W
+Saturday 23 November 1996
+LEI
+
+1
+-
+2
+
+EVE
+ 
+L
+Saturday 30 November 1996
+EVE
+
+1
+-
+3
+
+SUN
+9 
+Previous Position 11
+
+Derby County
+15	5	6	4	17	17	0	21	
+L
+Sunday 27 October 1996
+LIV
+
+2
+-
+1
+
+DER
+ 
+W
+Saturday 2 November 1996
+DER
+
+2
+-
+0
+
+LEI
+ 
+W
+Sunday 17 November 1996
+DER
+
+2
+-
+1
+
+MID
+ 
+D
+Saturday 23 November 1996
+WHU
+
+1
+-
+1
+
+DER
+ 
+W
+Saturday 30 November 1996
+DER
+
+2
+-
+1
+
+COV
+10 
+Previous Position 10
+
+Sheffield Wednesday
+15	5	6	4	16	18	-2	21	
+D
+Saturday 26 October 1996
+COV
+
+0
+-
+0
+
+SHW
+ 
+D
+Saturday 2 November 1996
+SHW
+
+1
+-
+1
+
+SOU
+ 
+W
+Monday 18 November 1996
+SHW
+
+2
+-
+0
+
+NFO
+ 
+D
+Saturday 23 November 1996
+SUN
+
+1
+-
+1
+
+SHW
+ 
+D
+Saturday 30 November 1996
+SHW
+
+0
+-
+0
+
+WHU
+11 
+Previous Position 9
+
+Tottenham Hotspur
+15	6	2	7	15	16	-1	20	
+L
+Saturday 26 October 1996
+CHE
+
+3
+-
+1
+
+TOT
+ 
+W
+Saturday 2 November 1996
+TOT
+
+1
+-
+0
+
+WHU
+ 
+W
+Saturday 16 November 1996
+TOT
+
+2
+-
+0
+
+SUN
+ 
+L
+Sunday 24 November 1996
+ARS
+
+3
+-
+1
+
+TOT
+ 
+L
+Monday 2 December 1996
+TOT
+
+0
+-
+2
+
+LIV
+12 
+Previous Position 12
+
+Leicester City
+16	6	2	8	16	21	-5	20	
+L
+Saturday 2 November 1996
+DER
+
+2
+-
+0
+
+LEI
+ 
+W
+Saturday 16 November 1996
+AVL
+
+1
+-
+3
+
+LEI
+ 
+L
+Saturday 23 November 1996
+LEI
+
+1
+-
+2
+
+EVE
+ 
+L
+Saturday 30 November 1996
+MUN
+
+3
+-
+1
+
+LEI
+ 
+W
+Tuesday 3 December 1996
+MID
+
+0
+-
+2
+
+LEI
+13 
+Previous Position 14
+
+Leeds United
+15	6	1	8	15	20	-5	19	
+L
+Saturday 26 October 1996
+ARS
+
+3
+-
+0
+
+LEE
+ 
+W
+Saturday 2 November 1996
+LEE
+
+3
+-
+0
+
+SUN
+ 
+L
+Saturday 16 November 1996
+LEE
+
+0
+-
+2
+
+LIV
+ 
+W
+Saturday 23 November 1996
+SOU
+
+0
+-
+2
+
+LEE
+ 
+W
+Sunday 1 December 1996
+LEE
+
+2
+-
+0
+
+CHE
+14 
+Previous Position 16
+
+Sunderland
+15	4	5	6	13	18	-5	17	
+W
+Saturday 26 October 1996
+SUN
+
+1
+-
+0
+
+AVL
+ 
+L
+Saturday 2 November 1996
+LEE
+
+3
+-
+0
+
+SUN
+ 
+L
+Saturday 16 November 1996
+TOT
+
+2
+-
+0
+
+SUN
+ 
+D
+Saturday 23 November 1996
+SUN
+
+1
+-
+1
+
+SHW
+ 
+W
+Saturday 30 November 1996
+EVE
+
+1
+-
+3
+
+SUN
+15 
+Previous Position 13
+
+West Ham United
+16	4	5	7	13	20	-7	17	
+L
+Saturday 2 November 1996
+TOT
+
+1
+-
+0
+
+WHU
+ 
+D
+Saturday 16 November 1996
+NEW
+
+1
+-
+1
+
+WHU
+ 
+D
+Saturday 23 November 1996
+WHU
+
+1
+-
+1
+
+DER
+ 
+D
+Saturday 30 November 1996
+SHW
+
+0
+-
+0
+
+WHU
+ 
+L
+Wednesday 4 December 1996
+WHU
+
+0
+-
+2
+
+AVL
+16 
+Previous Position 15
+
+Middlesbrough
+16	3	5	8	20	28	-8	14	
+L
+Sunday 3 November 1996
+NEW
+
+3
+-
+1
+
+MID
+ 
+L
+Sunday 17 November 1996
+DER
+
+2
+-
+1
+
+MID
+ 
+D
+Saturday 23 November 1996
+MID
+
+2
+-
+2
+
+MUN
+ 
+L
+Saturday 30 November 1996
+AVL
+
+1
+-
+0
+
+MID
+ 
+L
+Tuesday 3 December 1996
+MID
+
+0
+-
+2
+
+LEI
+17 
+Previous Position 17
+
+Southampton
+16	3	4	9	24	31	-7	13	
+D
+Saturday 2 November 1996
+SHW
+
+1
+-
+1
+
+SOU
+ 
+L
+Saturday 16 November 1996
+EVE
+
+7
+-
+1
+
+SOU
+ 
+L
+Saturday 23 November 1996
+SOU
+
+0
+-
+2
+
+LEE
+ 
+L
+Saturday 30 November 1996
+BLB
+
+2
+-
+1
+
+SOU
+ 
+L
+Wednesday 4 December 1996
+ARS
+
+3
+-
+1
+
+SOU
+18 
+Previous Position 19
+
+Blackburn Rovers
+15	2	6	7	15	20	-5	12	
+L
+Saturday 26 October 1996
+WHU
+
+2
+-
+1
+
+BLB
+ 
+W
+Sunday 3 November 1996
+BLB
+
+3
+-
+0
+
+LIV
+ 
+D
+Saturday 16 November 1996
+BLB
+
+1
+-
+1
+
+CHE
+ 
+D
+Monday 25 November 1996
+NFO
+
+2
+-
+2
+
+BLB
+ 
+W
+Saturday 30 November 1996
+BLB
+
+2
+-
+1
+
+SOU
+19 
+Previous Position 18
+
+Coventry City
+15	1	7	7	9	21	-12	10	
+D
+Saturday 26 October 1996
+COV
+
+0
+-
+0
+
+SHW
+ 
+D
+Monday 4 November 1996
+EVE
+
+1
+-
+1
+
+COV
+ 
+D
+Saturday 16 November 1996
+WIM
+
+2
+-
+2
+
+COV
+ 
+L
+Saturday 23 November 1996
+COV
+
+1
+-
+2
+
+AVL
+ 
+L
+Saturday 30 November 1996
+DER
+
+2
+-
+1
+
+COV
+20 
+Previous Position 20
+
+Nottingham Forest
+15	1	6	8	12	25	-13	9	
+L
+Monday 28 October 1996
+NFO
+
+0
+-
+1
+
+EVE
+ 
+L
+Saturday 2 November 1996
+AVL
+
+2
+-
+0
+
+NFO
+ 
+L
+Monday 18 November 1996
+SHW
+
+2
+-
+0
+
+NFO
+ 
+D
+Monday 25 November 1996
+NFO
+
+2
+-
+2
+
+BLB
+ 
+L
+Saturday 30 November 1996
+WIM
+
+1
+-
+0
+
+NFO

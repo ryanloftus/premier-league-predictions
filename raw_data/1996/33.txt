@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Manchester United
+32	18	9	5	63	36	27	63	
+W
+Saturday 1 March 1997
+MUN
+
+3
+-
+1
+
+COV
+ 
+L
+Saturday 8 March 1997
+SUN
+
+2
+-
+1
+
+MUN
+ 
+W
+Saturday 15 March 1997
+MUN
+
+2
+-
+0
+
+SHW
+ 
+W
+Saturday 22 March 1997
+EVE
+
+0
+-
+2
+
+MUN
+ 
+L
+Saturday 5 April 1997
+MUN
+
+2
+-
+3
+
+DER
+2 
+Previous Position 3
+
+Arsenal
+33	17	9	7	55	28	27	60	
+W
+Saturday 1 March 1997
+EVE
+
+0
+-
+2
+
+ARS
+ 
+W
+Saturday 8 March 1997
+ARS
+
+2
+-
+0
+
+NFO
+ 
+W
+Saturday 15 March 1997
+SOU
+
+0
+-
+2
+
+ARS
+ 
+L
+Monday 24 March 1997
+ARS
+
+1
+-
+2
+
+LIV
+ 
+W
+Saturday 5 April 1997
+CHE
+
+0
+-
+3
+
+ARS
+3 
+Previous Position 2
+
+Liverpool
+32	17	9	6	54	28	26	60	
+L
+Sunday 2 March 1997
+AVL
+
+1
+-
+0
+
+LIV
+ 
+W
+Monday 10 March 1997
+LIV
+
+4
+-
+3
+
+NEW
+ 
+D
+Saturday 15 March 1997
+NFO
+
+1
+-
+1
+
+LIV
+ 
+W
+Monday 24 March 1997
+ARS
+
+1
+-
+2
+
+LIV
+ 
+L
+Sunday 6 April 1997
+LIV
+
+1
+-
+2
+
+COV
+4 
+Previous Position 4
+
+Newcastle United
+31	15	8	8	60	37	23	53	
+L
+Saturday 1 March 1997
+NEW
+
+0
+-
+1
+
+SOU
+ 
+L
+Monday 10 March 1997
+LIV
+
+4
+-
+3
+
+NEW
+ 
+W
+Saturday 15 March 1997
+NEW
+
+4
+-
+0
+
+COV
+ 
+D
+Sunday 23 March 1997
+WIM
+
+1
+-
+1
+
+NEW
+ 
+D
+Saturday 5 April 1997
+NEW
+
+1
+-
+1
+
+SUN
+5 
+Previous Position 5
+
+Aston Villa
+32	15	8	9	40	28	12	53	
+W
+Sunday 2 March 1997
+AVL
+
+1
+-
+0
+
+LIV
+ 
+L
+Wednesday 5 March 1997
+LEI
+
+1
+-
+0
+
+AVL
+ 
+D
+Saturday 15 March 1997
+AVL
+
+0
+-
+0
+
+WHU
+ 
+W
+Saturday 22 March 1997
+BLB
+
+0
+-
+2
+
+AVL
+ 
+W
+Saturday 5 April 1997
+AVL
+
+3
+-
+1
+
+EVE
+6 
+Previous Position 6
+
+Chelsea
+32	13	10	9	51	47	4	49	
+L
+Wednesday 12 March 1997
+WHU
+
+3
+-
+2
+
+CHE
+ 
+W
+Sunday 16 March 1997
+CHE
+
+6
+-
+2
+
+SUN
+ 
+W
+Wednesday 19 March 1997
+CHE
+
+1
+-
+0
+
+SOU
+ 
+L
+Saturday 22 March 1997
+MID
+
+1
+-
+0
+
+CHE
+ 
+L
+Saturday 5 April 1997
+CHE
+
+0
+-
+3
+
+ARS
+7 
+Previous Position 7
+
+Sheffield Wednesday
+31	12	13	6	41	37	4	49	
+W
+Saturday 1 March 1997
+SHW
+
+3
+-
+1
+
+MID
+ 
+W
+Wednesday 5 March 1997
+NFO
+
+0
+-
+3
+
+SHW
+ 
+W
+Wednesday 12 March 1997
+SHW
+
+2
+-
+1
+
+SUN
+ 
+L
+Saturday 15 March 1997
+MUN
+
+2
+-
+0
+
+SHW
+ 
+D
+Saturday 22 March 1997
+SHW
+
+2
+-
+2
+
+LEE
+8 
+Previous Position 8
+
+Wimbledon
+31	12	10	9	42	38	4	46	
+D
+Monday 3 March 1997
+COV
+
+1
+-
+1
+
+WIM
+ 
+L
+Saturday 15 March 1997
+BLB
+
+3
+-
+1
+
+WIM
+ 
+D
+Tuesday 18 March 1997
+WIM
+
+1
+-
+1
+
+WHU
+ 
+D
+Sunday 23 March 1997
+WIM
+
+1
+-
+1
+
+NEW
+ 
+L
+Saturday 5 April 1997
+TOT
+
+1
+-
+0
+
+WIM
+9 
+Previous Position 10
+
+Tottenham Hotspur
+32	12	6	14	39	43	-4	42	
+W
+Tuesday 4 March 1997
+SUN
+
+0
+-
+4
+
+TOT
+ 
+W
+Saturday 15 March 1997
+TOT
+
+1
+-
+0
+
+LEE
+ 
+D
+Wednesday 19 March 1997
+LEI
+
+1
+-
+1
+
+TOT
+ 
+L
+Saturday 22 March 1997
+DER
+
+4
+-
+2
+
+TOT
+ 
+W
+Saturday 5 April 1997
+TOT
+
+1
+-
+0
+
+WIM
+10 
+Previous Position 9
+
+Leeds United
+33	11	9	13	26	34	-8	42	
+W
+Saturday 8 March 1997
+LEE
+
+1
+-
+0
+
+EVE
+ 
+D
+Wednesday 12 March 1997
+LEE
+
+0
+-
+0
+
+SOU
+ 
+L
+Saturday 15 March 1997
+TOT
+
+1
+-
+0
+
+LEE
+ 
+D
+Saturday 22 March 1997
+SHW
+
+2
+-
+2
+
+LEE
+ 
+D
+Monday 7 April 1997
+LEE
+
+0
+-
+0
+
+BLB
+11 
+Previous Position 11
+
+Leicester City
+31	10	9	12	37	44	-7	39	
+W
+Wednesday 5 March 1997
+LEI
+
+1
+-
+0
+
+AVL
+ 
+D
+Saturday 8 March 1997
+COV
+
+0
+-
+0
+
+LEI
+ 
+L
+Saturday 15 March 1997
+LEI
+
+1
+-
+3
+
+MID
+ 
+D
+Wednesday 19 March 1997
+LEI
+
+1
+-
+1
+
+TOT
+ 
+D
+Saturday 22 March 1997
+SOU
+
+2
+-
+2
+
+LEI
+12 
+Previous Position 14
+
+Derby County
+32	9	11	12	38	49	-11	38	
+W
+Saturday 1 March 1997
+DER
+
+3
+-
+2
+
+CHE
+ 
+L
+Wednesday 5 March 1997
+MID
+
+6
+-
+1
+
+DER
+ 
+L
+Saturday 15 March 1997
+EVE
+
+1
+-
+0
+
+DER
+ 
+W
+Saturday 22 March 1997
+DER
+
+4
+-
+2
+
+TOT
+ 
+W
+Saturday 5 April 1997
+MUN
+
+2
+-
+3
+
+DER
+13 
+Previous Position 12
+
+Blackburn Rovers
+32	8	13	11	33	32	1	37	
+D
+Tuesday 11 March 1997
+BLB
+
+1
+-
+1
+
+NFO
+ 
+W
+Saturday 15 March 1997
+BLB
+
+3
+-
+1
+
+WIM
+ 
+L
+Wednesday 19 March 1997
+MID
+
+2
+-
+1
+
+BLB
+ 
+L
+Saturday 22 March 1997
+BLB
+
+0
+-
+2
+
+AVL
+ 
+D
+Monday 7 April 1997
+LEE
+
+0
+-
+0
+
+BLB
+14 
+Previous Position 13
+
+Everton
+32	9	9	14	38	48	-10	36	
+D
+Wednesday 5 March 1997
+SOU
+
+2
+-
+2
+
+EVE
+ 
+L
+Saturday 8 March 1997
+LEE
+
+1
+-
+0
+
+EVE
+ 
+W
+Saturday 15 March 1997
+EVE
+
+1
+-
+0
+
+DER
+ 
+L
+Saturday 22 March 1997
+EVE
+
+0
+-
+2
+
+MUN
+ 
+L
+Saturday 5 April 1997
+AVL
+
+3
+-
+1
+
+EVE
+15 
+Previous Position 16
+
+Sunderland
+33	8	10	15	30	49	-19	34	
+W
+Saturday 8 March 1997
+SUN
+
+2
+-
+1
+
+MUN
+ 
+L
+Wednesday 12 March 1997
+SHW
+
+2
+-
+1
+
+SUN
+ 
+L
+Sunday 16 March 1997
+CHE
+
+6
+-
+2
+
+SUN
+ 
+D
+Saturday 22 March 1997
+SUN
+
+1
+-
+1
+
+NFO
+ 
+D
+Saturday 5 April 1997
+NEW
+
+1
+-
+1
+
+SUN
+16 
+Previous Position 15
+
+West Ham United
+31	8	9	14	31	41	-10	33	
+L
+Saturday 1 March 1997
+LEE
+
+1
+-
+0
+
+WHU
+ 
+W
+Wednesday 12 March 1997
+WHU
+
+3
+-
+2
+
+CHE
+ 
+D
+Saturday 15 March 1997
+AVL
+
+0
+-
+0
+
+WHU
+ 
+D
+Tuesday 18 March 1997
+WIM
+
+1
+-
+1
+
+WHU
+ 
+W
+Saturday 22 March 1997
+COV
+
+1
+-
+3
+
+WHU
+17 
+Previous Position 19
+
+Coventry City
+33	7	12	14	29	47	-18	33	
+D
+Monday 3 March 1997
+COV
+
+1
+-
+1
+
+WIM
+ 
+D
+Saturday 8 March 1997
+COV
+
+0
+-
+0
+
+LEI
+ 
+L
+Saturday 15 March 1997
+NEW
+
+4
+-
+0
+
+COV
+ 
+L
+Saturday 22 March 1997
+COV
+
+1
+-
+3
+
+WHU
+ 
+W
+Sunday 6 April 1997
+LIV
+
+1
+-
+2
+
+COV
+18 
+Previous Position 17
+
+Middlesbrough
+31	9	8	14	44	52	-8	32	
+W
+Wednesday 5 March 1997
+MID
+
+6
+-
+1
+
+DER
+ 
+W
+Saturday 15 March 1997
+LEI
+
+1
+-
+3
+
+MID
+ 
+W
+Wednesday 19 March 1997
+MID
+
+2
+-
+1
+
+BLB
+ 
+W
+Saturday 22 March 1997
+MID
+
+1
+-
+0
+
+CHE
+ 
+D
+Monday 24 March 1997
+MID
+
+1
+-
+1
+
+NFO
+19 
+Previous Position 18
+
+Nottingham Forest
+34	6	13	15	29	52	-23	31	
+D
+Tuesday 11 March 1997
+BLB
+
+1
+-
+1
+
+NFO
+ 
+D
+Saturday 15 March 1997
+NFO
+
+1
+-
+1
+
+LIV
+ 
+D
+Saturday 22 March 1997
+SUN
+
+1
+-
+1
+
+NFO
+ 
+D
+Monday 24 March 1997
+MID
+
+1
+-
+1
+
+NFO
+ 
+L
+Saturday 5 April 1997
+NFO
+
+1
+-
+3
+
+SOU
+20 
+Previous Position 20
+
+Southampton
+32	7	9	16	42	52	-10	30	
+D
+Wednesday 12 March 1997
+LEE
+
+0
+-
+0
+
+SOU
+ 
+L
+Saturday 15 March 1997
+SOU
+
+0
+-
+2
+
+ARS
+ 
+L
+Wednesday 19 March 1997
+CHE
+
+1
+-
+0
+
+SOU
+ 
+D
+Saturday 22 March 1997
+SOU
+
+2
+-
+2
+
+LEI
+ 
+W
+Saturday 5 April 1997
+NFO
+
+1
+-
+3
+
+SOU

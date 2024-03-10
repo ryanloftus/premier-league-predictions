@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Liverpool
+24	13	7	4	41	20	21	46	
+D
+Thursday 26 December 1996
+LIV
+
+1
+-
+1
+
+LEI
+ 
+W
+Sunday 29 December 1996
+SOU
+
+0
+-
+1
+
+LIV
+ 
+L
+Wednesday 1 January 1997
+CHE
+
+1
+-
+0
+
+LIV
+ 
+D
+Saturday 11 January 1997
+LIV
+
+0
+-
+0
+
+WHU
+ 
+W
+Saturday 18 January 1997
+LIV
+
+3
+-
+0
+
+AVL
+2 
+Previous Position 2
+
+Manchester United
+23	12	8	3	46	26	20	44	
+W
+Thursday 26 December 1996
+NFO
+
+0
+-
+4
+
+MUN
+ 
+W
+Saturday 28 December 1996
+MUN
+
+1
+-
+0
+
+LEE
+ 
+D
+Wednesday 1 January 1997
+MUN
+
+0
+-
+0
+
+AVL
+ 
+W
+Sunday 12 January 1997
+TOT
+
+1
+-
+2
+
+MUN
+ 
+W
+Saturday 18 January 1997
+COV
+
+0
+-
+2
+
+MUN
+3 
+Previous Position 3
+
+Arsenal
+23	12	7	4	42	22	20	43	
+D
+Thursday 26 December 1996
+SHW
+
+0
+-
+0
+
+ARS
+ 
+D
+Saturday 28 December 1996
+ARS
+
+2
+-
+2
+
+AVL
+ 
+W
+Wednesday 1 January 1997
+ARS
+
+2
+-
+0
+
+MID
+ 
+L
+Saturday 11 January 1997
+SUN
+
+1
+-
+0
+
+ARS
+ 
+W
+Sunday 19 January 1997
+ARS
+
+3
+-
+1
+
+EVE
+4 
+Previous Position 4
+
+Newcastle United
+23	11	6	6	42	26	16	39	
+L
+Thursday 26 December 1996
+BLB
+
+1
+-
+0
+
+NEW
+ 
+W
+Saturday 28 December 1996
+NEW
+
+7
+-
+1
+
+TOT
+ 
+W
+Wednesday 1 January 1997
+NEW
+
+3
+-
+0
+
+LEE
+ 
+D
+Saturday 11 January 1997
+AVL
+
+2
+-
+2
+
+NEW
+ 
+D
+Saturday 18 January 1997
+SOU
+
+2
+-
+2
+
+NEW
+5 
+Previous Position 5
+
+Wimbledon
+21	11	5	5	34	25	9	38	
+W
+Saturday 14 December 1996
+WIM
+
+1
+-
+0
+
+BLB
+ 
+L
+Sunday 22 December 1996
+AVL
+
+5
+-
+0
+
+WIM
+ 
+W
+Saturday 28 December 1996
+EVE
+
+1
+-
+3
+
+WIM
+ 
+D
+Saturday 11 January 1997
+WIM
+
+1
+-
+1
+
+DER
+ 
+L
+Saturday 18 January 1997
+LEI
+
+1
+-
+0
+
+WIM
+6 
+Previous Position 7
+
+Chelsea
+23	10	8	5	36	32	4	38	
+W
+Thursday 26 December 1996
+AVL
+
+0
+-
+2
+
+CHE
+ 
+D
+Saturday 28 December 1996
+CHE
+
+2
+-
+2
+
+SHW
+ 
+W
+Wednesday 1 January 1997
+CHE
+
+1
+-
+0
+
+LIV
+ 
+L
+Saturday 11 January 1997
+NFO
+
+2
+-
+0
+
+CHE
+ 
+W
+Saturday 18 January 1997
+CHE
+
+3
+-
+1
+
+DER
+7 
+Previous Position 6
+
+Aston Villa
+23	10	6	7	31	24	7	36	
+L
+Thursday 26 December 1996
+AVL
+
+0
+-
+2
+
+CHE
+ 
+D
+Saturday 28 December 1996
+ARS
+
+2
+-
+2
+
+AVL
+ 
+D
+Wednesday 1 January 1997
+MUN
+
+0
+-
+0
+
+AVL
+ 
+D
+Saturday 11 January 1997
+AVL
+
+2
+-
+2
+
+NEW
+ 
+L
+Saturday 18 January 1997
+LIV
+
+3
+-
+0
+
+AVL
+8 
+Previous Position 8
+
+Sheffield Wednesday
+22	7	10	5	25	27	-2	31	
+D
+Saturday 21 December 1996
+TOT
+
+1
+-
+1
+
+SHW
+ 
+D
+Thursday 26 December 1996
+SHW
+
+0
+-
+0
+
+ARS
+ 
+D
+Saturday 28 December 1996
+CHE
+
+2
+-
+2
+
+SHW
+ 
+W
+Saturday 11 January 1997
+SHW
+
+2
+-
+1
+
+EVE
+ 
+L
+Saturday 18 January 1997
+MID
+
+4
+-
+2
+
+SHW
+9 
+Previous Position 9
+
+Everton
+23	7	7	9	31	34	-3	28	
+L
+Thursday 26 December 1996
+MID
+
+4
+-
+2
+
+EVE
+ 
+L
+Saturday 28 December 1996
+EVE
+
+1
+-
+3
+
+WIM
+ 
+L
+Wednesday 1 January 1997
+EVE
+
+0
+-
+2
+
+BLB
+ 
+L
+Saturday 11 January 1997
+SHW
+
+2
+-
+1
+
+EVE
+ 
+L
+Sunday 19 January 1997
+ARS
+
+3
+-
+1
+
+EVE
+10 
+Previous Position 10
+
+Tottenham Hotspur
+22	8	4	10	24	30	-6	28	
+D
+Saturday 21 December 1996
+TOT
+
+1
+-
+1
+
+SHW
+ 
+W
+Thursday 26 December 1996
+TOT
+
+3
+-
+1
+
+SOU
+ 
+L
+Saturday 28 December 1996
+NEW
+
+7
+-
+1
+
+TOT
+ 
+L
+Sunday 12 January 1997
+TOT
+
+1
+-
+2
+
+MUN
+ 
+L
+Sunday 19 January 1997
+NFO
+
+2
+-
+1
+
+TOT
+11 
+Previous Position 12
+
+Leeds United
+23	8	4	11	21	27	-6	28	
+L
+Thursday 26 December 1996
+LEE
+
+1
+-
+3
+
+COV
+ 
+L
+Saturday 28 December 1996
+MUN
+
+1
+-
+0
+
+LEE
+ 
+L
+Wednesday 1 January 1997
+NEW
+
+3
+-
+0
+
+LEE
+ 
+W
+Saturday 11 January 1997
+LEE
+
+3
+-
+0
+
+LEI
+ 
+W
+Monday 20 January 1997
+WHU
+
+0
+-
+2
+
+LEE
+12 
+Previous Position 11
+
+Sunderland
+23	7	7	9	22	30	-8	28	
+W
+Thursday 26 December 1996
+SUN
+
+2
+-
+0
+
+DER
+ 
+L
+Saturday 28 December 1996
+WHU
+
+2
+-
+0
+
+SUN
+ 
+D
+Wednesday 1 January 1997
+COV
+
+2
+-
+2
+
+SUN
+ 
+W
+Saturday 11 January 1997
+SUN
+
+1
+-
+0
+
+ARS
+ 
+D
+Saturday 18 January 1997
+SUN
+
+0
+-
+0
+
+BLB
+13 
+Previous Position 16
+
+Leicester City
+22	7	5	10	21	30	-9	26	
+L
+Saturday 21 December 1996
+LEI
+
+0
+-
+2
+
+COV
+ 
+D
+Thursday 26 December 1996
+LIV
+
+1
+-
+1
+
+LEI
+ 
+D
+Saturday 28 December 1996
+LEI
+
+2
+-
+2
+
+NFO
+ 
+L
+Saturday 11 January 1997
+LEE
+
+3
+-
+0
+
+LEI
+ 
+W
+Saturday 18 January 1997
+LEI
+
+1
+-
+0
+
+WIM
+14 
+Previous Position 14
+
+Blackburn Rovers
+22	5	9	8	23	22	1	24	
+W
+Thursday 26 December 1996
+BLB
+
+1
+-
+0
+
+NEW
+ 
+D
+Saturday 28 December 1996
+DER
+
+0
+-
+0
+
+BLB
+ 
+W
+Wednesday 1 January 1997
+EVE
+
+0
+-
+2
+
+BLB
+ 
+W
+Saturday 11 January 1997
+BLB
+
+4
+-
+0
+
+COV
+ 
+D
+Saturday 18 January 1997
+SUN
+
+0
+-
+0
+
+BLB
+15 
+Previous Position 13
+
+Derby County
+22	5	9	8	22	29	-7	24	
+L
+Saturday 21 December 1996
+SOU
+
+3
+-
+1
+
+DER
+ 
+L
+Thursday 26 December 1996
+SUN
+
+2
+-
+0
+
+DER
+ 
+D
+Saturday 28 December 1996
+DER
+
+0
+-
+0
+
+BLB
+ 
+D
+Saturday 11 January 1997
+WIM
+
+1
+-
+1
+
+DER
+ 
+L
+Saturday 18 January 1997
+CHE
+
+3
+-
+1
+
+DER
+16 
+Previous Position 15
+
+Coventry City
+23	5	8	10	22	33	-11	23	
+W
+Thursday 26 December 1996
+LEE
+
+1
+-
+3
+
+COV
+ 
+W
+Saturday 28 December 1996
+COV
+
+3
+-
+0
+
+MID
+ 
+D
+Wednesday 1 January 1997
+COV
+
+2
+-
+2
+
+SUN
+ 
+L
+Saturday 11 January 1997
+BLB
+
+4
+-
+0
+
+COV
+ 
+L
+Saturday 18 January 1997
+COV
+
+0
+-
+2
+
+MUN
+17 
+Previous Position 18
+
+Nottingham Forest
+23	5	8	10	23	37	-14	23	
+L
+Thursday 26 December 1996
+NFO
+
+0
+-
+4
+
+MUN
+ 
+D
+Saturday 28 December 1996
+LEI
+
+2
+-
+2
+
+NFO
+ 
+W
+Wednesday 1 January 1997
+WHU
+
+0
+-
+1
+
+NFO
+ 
+W
+Saturday 11 January 1997
+NFO
+
+2
+-
+0
+
+CHE
+ 
+W
+Sunday 19 January 1997
+NFO
+
+2
+-
+1
+
+TOT
+18 
+Previous Position 17
+
+West Ham United
+22	5	7	10	18	28	-10	22	
+L
+Saturday 21 December 1996
+CHE
+
+3
+-
+1
+
+WHU
+ 
+W
+Saturday 28 December 1996
+WHU
+
+2
+-
+0
+
+SUN
+ 
+L
+Wednesday 1 January 1997
+WHU
+
+0
+-
+1
+
+NFO
+ 
+D
+Saturday 11 January 1997
+LIV
+
+0
+-
+0
+
+WHU
+ 
+L
+Monday 20 January 1997
+WHU
+
+0
+-
+2
+
+LEE
+19 
+Previous Position 19
+
+Southampton
+22	5	5	12	31	39	-8	20	
+W
+Saturday 21 December 1996
+SOU
+
+3
+-
+1
+
+DER
+ 
+L
+Thursday 26 December 1996
+TOT
+
+3
+-
+1
+
+SOU
+ 
+L
+Sunday 29 December 1996
+SOU
+
+0
+-
+1
+
+LIV
+ 
+W
+Saturday 11 January 1997
+MID
+
+0
+-
+1
+
+SOU
+ 
+D
+Saturday 18 January 1997
+SOU
+
+2
+-
+2
+
+NEW
+20 
+Previous Position 20
+
+Middlesbrough
+23	5	6	12	29	43	-14	18	
+W
+Thursday 26 December 1996
+MID
+
+4
+-
+2
+
+EVE
+ 
+L
+Saturday 28 December 1996
+COV
+
+3
+-
+0
+
+MID
+ 
+L
+Wednesday 1 January 1997
+ARS
+
+2
+-
+0
+
+MID
+ 
+L
+Saturday 11 January 1997
+MID
+
+0
+-
+1
+
+SOU
+ 
+W
+Saturday 18 January 1997
+MID
+
+4
+-
+2
+
+SHW
