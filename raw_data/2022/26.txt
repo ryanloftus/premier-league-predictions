@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Arsenal
+26	20	3	3	59	25	34	63	
+L
+Wednesday 15 February 2023
+ARS
+
+1
+-
+3
+
+MCI
+ 
+W
+Saturday 18 February 2023
+AVL
+
+2
+-
+4
+
+ARS
+ 
+W
+Saturday 25 February 2023
+LEI
+
+0
+-
+1
+
+ARS
+ 
+W
+Wednesday 1 March 2023
+ARS
+
+4
+-
+0
+
+EVE
+ 
+W
+Saturday 4 March 2023
+ARS
+
+3
+-
+2
+
+BOU
+2 
+Previous Position 2
+
+Manchester City
+26	18	4	4	66	25	41	58	
+W
+Sunday 12 February 2023
+MCI
+
+3
+-
+1
+
+AVL
+ 
+W
+Wednesday 15 February 2023
+ARS
+
+1
+-
+3
+
+MCI
+ 
+D
+Saturday 18 February 2023
+NFO
+
+1
+-
+1
+
+MCI
+ 
+W
+Saturday 25 February 2023
+BOU
+
+1
+-
+4
+
+MCI
+ 
+W
+Saturday 4 March 2023
+MCI
+
+2
+-
+0
+
+NEW
+3 
+Previous Position 3
+
+Manchester United
+25	15	4	6	41	35	6	49	
+W
+Saturday 4 February 2023
+MUN
+
+2
+-
+1
+
+CRY
+ 
+D
+Wednesday 8 February 2023
+MUN
+
+2
+-
+2
+
+LEE
+ 
+W
+Sunday 12 February 2023
+LEE
+
+0
+-
+2
+
+MUN
+ 
+W
+Sunday 19 February 2023
+MUN
+
+3
+-
+0
+
+LEI
+ 
+L
+Sunday 5 March 2023
+LIV
+
+7
+-
+0
+
+MUN
+4 
+Previous Position 4
+
+Tottenham Hotspur
+26	14	3	9	46	36	10	45	
+W
+Sunday 5 February 2023
+TOT
+
+1
+-
+0
+
+MCI
+ 
+L
+Saturday 11 February 2023
+LEI
+
+4
+-
+1
+
+TOT
+ 
+W
+Sunday 19 February 2023
+TOT
+
+2
+-
+0
+
+WHU
+ 
+W
+Sunday 26 February 2023
+TOT
+
+2
+-
+0
+
+CHE
+ 
+L
+Saturday 4 March 2023
+WOL
+
+1
+-
+0
+
+TOT
+5 
+Previous Position 6
+
+Liverpool
+25	12	6	7	47	28	19	42	
+W
+Monday 13 February 2023
+LIV
+
+2
+-
+0
+
+EVE
+ 
+W
+Saturday 18 February 2023
+NEW
+
+0
+-
+2
+
+LIV
+ 
+D
+Saturday 25 February 2023
+CRY
+
+0
+-
+0
+
+LIV
+ 
+W
+Wednesday 1 March 2023
+LIV
+
+2
+-
+0
+
+WOL
+ 
+W
+Sunday 5 March 2023
+LIV
+
+7
+-
+0
+
+MUN
+6 
+Previous Position 5
+
+Newcastle United
+24	10	11	3	35	17	18	41	
+D
+Saturday 21 January 2023
+CRY
+
+0
+-
+0
+
+NEW
+ 
+D
+Saturday 4 February 2023
+NEW
+
+1
+-
+1
+
+WHU
+ 
+D
+Saturday 11 February 2023
+BOU
+
+1
+-
+1
+
+NEW
+ 
+L
+Saturday 18 February 2023
+NEW
+
+0
+-
+2
+
+LIV
+ 
+L
+Saturday 4 March 2023
+MCI
+
+2
+-
+0
+
+NEW
+7 
+Previous Position 7
+
+Fulham
+26	11	6	9	38	34	4	39	
+D
+Friday 3 February 2023
+CHE
+
+0
+-
+0
+
+FUL
+ 
+W
+Saturday 11 February 2023
+FUL
+
+2
+-
+0
+
+NFO
+ 
+W
+Saturday 18 February 2023
+BHA
+
+0
+-
+1
+
+FUL
+ 
+D
+Friday 24 February 2023
+FUL
+
+1
+-
+1
+
+WOL
+ 
+L
+Monday 6 March 2023
+BRE
+
+3
+-
+2
+
+FUL
+8 
+Previous Position 8
+
+Brighton And Hove Albion
+23	11	5	7	43	29	14	38	
+D
+Saturday 21 January 2023
+LEI
+
+2
+-
+2
+
+BHA
+ 
+W
+Saturday 4 February 2023
+BHA
+
+1
+-
+0
+
+BOU
+ 
+D
+Saturday 11 February 2023
+CRY
+
+1
+-
+1
+
+BHA
+ 
+L
+Saturday 18 February 2023
+BHA
+
+0
+-
+1
+
+FUL
+ 
+W
+Saturday 4 March 2023
+BHA
+
+4
+-
+0
+
+WHU
+9 
+Previous Position 9
+
+Brentford
+24	9	11	4	40	32	8	38	
+D
+Sunday 22 January 2023
+LEE
+
+0
+-
+0
+
+BRE
+ 
+W
+Saturday 4 February 2023
+BRE
+
+3
+-
+0
+
+SOU
+ 
+D
+Saturday 11 February 2023
+ARS
+
+1
+-
+1
+
+BRE
+ 
+D
+Saturday 18 February 2023
+BRE
+
+1
+-
+1
+
+CRY
+ 
+W
+Monday 6 March 2023
+BRE
+
+3
+-
+2
+
+FUL
+10 
+Previous Position 10
+
+Chelsea
+25	9	7	9	24	25	-1	34	
+D
+Friday 3 February 2023
+CHE
+
+0
+-
+0
+
+FUL
+ 
+D
+Saturday 11 February 2023
+WHU
+
+1
+-
+1
+
+CHE
+ 
+L
+Saturday 18 February 2023
+CHE
+
+0
+-
+1
+
+SOU
+ 
+L
+Sunday 26 February 2023
+TOT
+
+2
+-
+0
+
+CHE
+ 
+W
+Saturday 4 March 2023
+CHE
+
+1
+-
+0
+
+LEE
+11 
+Previous Position 11
+
+Aston Villa
+25	10	4	11	31	38	-7	34	
+L
+Saturday 4 February 2023
+AVL
+
+2
+-
+4
+
+LEI
+ 
+L
+Sunday 12 February 2023
+MCI
+
+3
+-
+1
+
+AVL
+ 
+L
+Saturday 18 February 2023
+AVL
+
+2
+-
+4
+
+ARS
+ 
+W
+Saturday 25 February 2023
+EVE
+
+0
+-
+2
+
+AVL
+ 
+W
+Saturday 4 March 2023
+AVL
+
+1
+-
+0
+
+CRY
+12 
+Previous Position 12
+
+Crystal Palace
+25	6	9	10	21	32	-11	27	
+L
+Saturday 4 February 2023
+MUN
+
+2
+-
+1
+
+CRY
+ 
+D
+Saturday 11 February 2023
+CRY
+
+1
+-
+1
+
+BHA
+ 
+D
+Saturday 18 February 2023
+BRE
+
+1
+-
+1
+
+CRY
+ 
+D
+Saturday 25 February 2023
+CRY
+
+0
+-
+0
+
+LIV
+ 
+L
+Saturday 4 March 2023
+AVL
+
+1
+-
+0
+
+CRY
+13 
+Previous Position 15
+
+Wolverhampton Wanderers
+26	7	6	13	19	35	-16	27	
+W
+Saturday 11 February 2023
+SOU
+
+1
+-
+2
+
+WOL
+ 
+L
+Saturday 18 February 2023
+WOL
+
+0
+-
+1
+
+BOU
+ 
+D
+Friday 24 February 2023
+FUL
+
+1
+-
+1
+
+WOL
+ 
+L
+Wednesday 1 March 2023
+LIV
+
+2
+-
+0
+
+WOL
+ 
+W
+Saturday 4 March 2023
+WOL
+
+1
+-
+0
+
+TOT
+14 
+Previous Position 13
+
+Nottingham Forest
+25	6	8	11	20	44	-24	26	
+W
+Sunday 5 February 2023
+NFO
+
+1
+-
+0
+
+LEE
+ 
+L
+Saturday 11 February 2023
+FUL
+
+2
+-
+0
+
+NFO
+ 
+D
+Saturday 18 February 2023
+NFO
+
+1
+-
+1
+
+MCI
+ 
+L
+Saturday 25 February 2023
+WHU
+
+4
+-
+0
+
+NFO
+ 
+D
+Sunday 5 March 2023
+NFO
+
+2
+-
+2
+
+EVE
+15 
+Previous Position 14
+
+Leicester City
+25	7	3	15	36	43	-7	24	
+W
+Saturday 4 February 2023
+AVL
+
+2
+-
+4
+
+LEI
+ 
+W
+Saturday 11 February 2023
+LEI
+
+4
+-
+1
+
+TOT
+ 
+L
+Sunday 19 February 2023
+MUN
+
+3
+-
+0
+
+LEI
+ 
+L
+Saturday 25 February 2023
+LEI
+
+0
+-
+1
+
+ARS
+ 
+L
+Saturday 4 March 2023
+SOU
+
+1
+-
+0
+
+LEI
+16 
+Previous Position 16
+
+West Ham United
+25	6	5	14	23	33	-10	23	
+D
+Saturday 4 February 2023
+NEW
+
+1
+-
+1
+
+WHU
+ 
+D
+Saturday 11 February 2023
+WHU
+
+1
+-
+1
+
+CHE
+ 
+L
+Sunday 19 February 2023
+TOT
+
+2
+-
+0
+
+WHU
+ 
+W
+Saturday 25 February 2023
+WHU
+
+4
+-
+0
+
+NFO
+ 
+L
+Saturday 4 March 2023
+BHA
+
+4
+-
+0
+
+WHU
+17 
+Previous Position 17
+
+Leeds United
+25	5	7	13	29	40	-11	22	
+D
+Wednesday 8 February 2023
+MUN
+
+2
+-
+2
+
+LEE
+ 
+L
+Sunday 12 February 2023
+LEE
+
+0
+-
+2
+
+MUN
+ 
+L
+Saturday 18 February 2023
+EVE
+
+1
+-
+0
+
+LEE
+ 
+W
+Saturday 25 February 2023
+LEE
+
+1
+-
+0
+
+SOU
+ 
+L
+Saturday 4 March 2023
+CHE
+
+1
+-
+0
+
+LEE
+18 
+Previous Position 18
+
+Everton
+26	5	7	14	19	38	-19	22	
+L
+Monday 13 February 2023
+LIV
+
+2
+-
+0
+
+EVE
+ 
+W
+Saturday 18 February 2023
+EVE
+
+1
+-
+0
+
+LEE
+ 
+L
+Saturday 25 February 2023
+EVE
+
+0
+-
+2
+
+AVL
+ 
+L
+Wednesday 1 March 2023
+ARS
+
+4
+-
+0
+
+EVE
+ 
+D
+Sunday 5 March 2023
+NFO
+
+2
+-
+2
+
+EVE
+19 
+Previous Position 20
+
+Southampton
+25	6	3	16	20	41	-21	21	
+L
+Saturday 4 February 2023
+BRE
+
+3
+-
+0
+
+SOU
+ 
+L
+Saturday 11 February 2023
+SOU
+
+1
+-
+2
+
+WOL
+ 
+W
+Saturday 18 February 2023
+CHE
+
+0
+-
+1
+
+SOU
+ 
+L
+Saturday 25 February 2023
+LEE
+
+1
+-
+0
+
+SOU
+ 
+W
+Saturday 4 March 2023
+SOU
+
+1
+-
+0
+
+LEI
+20 
+Previous Position 19
+
+Bournemouth
+25	5	6	14	24	51	-27	21	
+L
+Saturday 4 February 2023
+BHA
+
+1
+-
+0
+
+BOU
+ 
+D
+Saturday 11 February 2023
+BOU
+
+1
+-
+1
+
+NEW
+ 
+W
+Saturday 18 February 2023
+WOL
+
+0
+-
+1
+
+BOU
+ 
+L
+Saturday 25 February 2023
+BOU
+
+1
+-
+4
+
+MCI
+ 
+L
+Saturday 4 March 2023
+ARS
+
+3
+-
+2
+
+BOU

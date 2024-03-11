@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Manchester City
+20	16	2	2	51	12	39	50	
+W
+Saturday 11 December 2021
+MCI
+
+1
+-
+0
+
+WOL
+ 
+W
+Tuesday 14 December 2021
+MCI
+
+7
+-
+0
+
+LEE
+ 
+W
+Sunday 19 December 2021
+NEW
+
+0
+-
+4
+
+MCI
+ 
+W
+Sunday 26 December 2021
+MCI
+
+6
+-
+3
+
+LEI
+ 
+W
+Wednesday 29 December 2021
+BRE
+
+0
+-
+1
+
+MCI
+2 
+Previous Position 3
+
+Chelsea
+20	12	6	2	43	14	29	42	
+W
+Saturday 11 December 2021
+CHE
+
+3
+-
+2
+
+LEE
+ 
+D
+Thursday 16 December 2021
+CHE
+
+1
+-
+1
+
+EVE
+ 
+D
+Sunday 19 December 2021
+WOL
+
+0
+-
+0
+
+CHE
+ 
+W
+Sunday 26 December 2021
+AVL
+
+1
+-
+3
+
+CHE
+ 
+D
+Wednesday 29 December 2021
+CHE
+
+1
+-
+1
+
+BHA
+3 
+Previous Position 2
+
+Liverpool
+19	12	5	2	50	16	34	41	
+W
+Saturday 4 December 2021
+WOL
+
+0
+-
+1
+
+LIV
+ 
+W
+Saturday 11 December 2021
+LIV
+
+1
+-
+0
+
+AVL
+ 
+W
+Thursday 16 December 2021
+LIV
+
+3
+-
+1
+
+NEW
+ 
+D
+Sunday 19 December 2021
+TOT
+
+2
+-
+2
+
+LIV
+ 
+L
+Tuesday 28 December 2021
+LEI
+
+1
+-
+0
+
+LIV
+4 
+Previous Position 4
+
+Arsenal
+19	11	2	6	32	23	9	35	
+L
+Monday 6 December 2021
+EVE
+
+2
+-
+1
+
+ARS
+ 
+W
+Saturday 11 December 2021
+ARS
+
+3
+-
+0
+
+SOU
+ 
+W
+Wednesday 15 December 2021
+ARS
+
+2
+-
+0
+
+WHU
+ 
+W
+Saturday 18 December 2021
+LEE
+
+1
+-
+4
+
+ARS
+ 
+W
+Sunday 26 December 2021
+NOR
+
+0
+-
+5
+
+ARS
+5 
+Previous Position 6
+
+West Ham United
+19	9	4	6	34	25	9	31	
+W
+Saturday 4 December 2021
+WHU
+
+3
+-
+2
+
+CHE
+ 
+D
+Sunday 12 December 2021
+BUR
+
+0
+-
+0
+
+WHU
+ 
+L
+Wednesday 15 December 2021
+ARS
+
+2
+-
+0
+
+WHU
+ 
+L
+Sunday 26 December 2021
+WHU
+
+2
+-
+3
+
+SOU
+ 
+W
+Tuesday 28 December 2021
+WAT
+
+1
+-
+4
+
+WHU
+6 
+Previous Position 7
+
+Manchester United
+18	9	4	5	30	26	4	31	
+W
+Thursday 2 December 2021
+MUN
+
+3
+-
+2
+
+ARS
+ 
+W
+Sunday 5 December 2021
+MUN
+
+1
+-
+0
+
+CRY
+ 
+W
+Saturday 11 December 2021
+NOR
+
+0
+-
+1
+
+MUN
+ 
+D
+Monday 27 December 2021
+NEW
+
+1
+-
+1
+
+MUN
+ 
+W
+Thursday 30 December 2021
+MUN
+
+3
+-
+1
+
+BUR
+7 
+Previous Position 5
+
+Tottenham Hotspur
+17	9	3	5	22	20	2	30	
+W
+Thursday 2 December 2021
+TOT
+
+2
+-
+0
+
+BRE
+ 
+W
+Sunday 5 December 2021
+TOT
+
+3
+-
+0
+
+NOR
+ 
+D
+Sunday 19 December 2021
+TOT
+
+2
+-
+2
+
+LIV
+ 
+W
+Sunday 26 December 2021
+TOT
+
+3
+-
+0
+
+CRY
+ 
+D
+Tuesday 28 December 2021
+SOU
+
+1
+-
+1
+
+TOT
+8 
+Previous Position 8
+
+Wolverhampton Wanderers
+18	7	4	7	13	14	-1	25	
+D
+Wednesday 1 December 2021
+WOL
+
+0
+-
+0
+
+BUR
+ 
+L
+Saturday 4 December 2021
+WOL
+
+0
+-
+1
+
+LIV
+ 
+L
+Saturday 11 December 2021
+MCI
+
+1
+-
+0
+
+WOL
+ 
+W
+Wednesday 15 December 2021
+BHA
+
+0
+-
+1
+
+WOL
+ 
+D
+Sunday 19 December 2021
+WOL
+
+0
+-
+0
+
+CHE
+9 
+Previous Position 10
+
+Leicester City
+18	7	4	7	31	33	-2	25	
+D
+Wednesday 1 December 2021
+SOU
+
+2
+-
+2
+
+LEI
+ 
+L
+Sunday 5 December 2021
+AVL
+
+2
+-
+1
+
+LEI
+ 
+W
+Sunday 12 December 2021
+LEI
+
+4
+-
+0
+
+NEW
+ 
+L
+Sunday 26 December 2021
+MCI
+
+6
+-
+3
+
+LEI
+ 
+W
+Tuesday 28 December 2021
+LEI
+
+1
+-
+0
+
+LIV
+10 
+Previous Position 9
+
+Brighton And Hove Albion
+18	5	9	4	17	18	-1	24	
+D
+Wednesday 1 December 2021
+WHU
+
+1
+-
+1
+
+BHA
+ 
+D
+Saturday 4 December 2021
+SOU
+
+1
+-
+1
+
+BHA
+ 
+L
+Wednesday 15 December 2021
+BHA
+
+0
+-
+1
+
+WOL
+ 
+W
+Sunday 26 December 2021
+BHA
+
+2
+-
+0
+
+BRE
+ 
+D
+Wednesday 29 December 2021
+CHE
+
+1
+-
+1
+
+BHA
+11 
+Previous Position 12
+
+Crystal Palace
+19	5	8	6	27	27	0	23	
+L
+Sunday 5 December 2021
+MUN
+
+1
+-
+0
+
+CRY
+ 
+W
+Sunday 12 December 2021
+CRY
+
+3
+-
+1
+
+EVE
+ 
+D
+Wednesday 15 December 2021
+CRY
+
+2
+-
+2
+
+SOU
+ 
+L
+Sunday 26 December 2021
+TOT
+
+3
+-
+0
+
+CRY
+ 
+W
+Tuesday 28 December 2021
+CRY
+
+3
+-
+0
+
+NOR
+12 
+Previous Position 11
+
+Aston Villa
+18	7	1	10	24	28	-4	22	
+L
+Wednesday 1 December 2021
+AVL
+
+1
+-
+2
+
+MCI
+ 
+W
+Sunday 5 December 2021
+AVL
+
+2
+-
+1
+
+LEI
+ 
+L
+Saturday 11 December 2021
+LIV
+
+1
+-
+0
+
+AVL
+ 
+W
+Tuesday 14 December 2021
+NOR
+
+0
+-
+2
+
+AVL
+ 
+L
+Sunday 26 December 2021
+AVL
+
+1
+-
+3
+
+CHE
+13 
+Previous Position 14
+
+Southampton
+19	4	9	6	20	29	-9	21	
+D
+Saturday 4 December 2021
+SOU
+
+1
+-
+1
+
+BHA
+ 
+L
+Saturday 11 December 2021
+ARS
+
+3
+-
+0
+
+SOU
+ 
+D
+Wednesday 15 December 2021
+CRY
+
+2
+-
+2
+
+SOU
+ 
+W
+Sunday 26 December 2021
+WHU
+
+2
+-
+3
+
+SOU
+ 
+D
+Tuesday 28 December 2021
+SOU
+
+1
+-
+1
+
+TOT
+14 
+Previous Position 13
+
+Brentford
+18	5	5	8	21	25	-4	20	
+L
+Thursday 2 December 2021
+TOT
+
+2
+-
+0
+
+BRE
+ 
+D
+Sunday 5 December 2021
+LEE
+
+2
+-
+2
+
+BRE
+ 
+W
+Friday 10 December 2021
+BRE
+
+2
+-
+1
+
+WAT
+ 
+L
+Sunday 26 December 2021
+BHA
+
+2
+-
+0
+
+BRE
+ 
+L
+Wednesday 29 December 2021
+BRE
+
+0
+-
+1
+
+MCI
+15 
+Previous Position 15
+
+Everton
+17	5	4	8	21	29	-8	19	
+L
+Sunday 28 November 2021
+BRE
+
+1
+-
+0
+
+EVE
+ 
+L
+Wednesday 1 December 2021
+EVE
+
+1
+-
+4
+
+LIV
+ 
+W
+Monday 6 December 2021
+EVE
+
+2
+-
+1
+
+ARS
+ 
+L
+Sunday 12 December 2021
+CRY
+
+3
+-
+1
+
+EVE
+ 
+D
+Thursday 16 December 2021
+CHE
+
+1
+-
+1
+
+EVE
+16 
+Previous Position 16
+
+Leeds United
+18	3	7	8	18	36	-18	16	
+W
+Tuesday 30 November 2021
+LEE
+
+1
+-
+0
+
+CRY
+ 
+D
+Sunday 5 December 2021
+LEE
+
+2
+-
+2
+
+BRE
+ 
+L
+Saturday 11 December 2021
+CHE
+
+3
+-
+2
+
+LEE
+ 
+L
+Tuesday 14 December 2021
+MCI
+
+7
+-
+0
+
+LEE
+ 
+L
+Saturday 18 December 2021
+LEE
+
+1
+-
+4
+
+ARS
+17 
+Previous Position 17
+
+Watford
+17	4	1	12	22	35	-13	13	
+L
+Sunday 28 November 2021
+LEI
+
+4
+-
+2
+
+WAT
+ 
+L
+Wednesday 1 December 2021
+WAT
+
+1
+-
+2
+
+CHE
+ 
+L
+Saturday 4 December 2021
+WAT
+
+1
+-
+3
+
+MCI
+ 
+L
+Friday 10 December 2021
+BRE
+
+2
+-
+1
+
+WAT
+ 
+L
+Tuesday 28 December 2021
+WAT
+
+1
+-
+4
+
+WHU
+18 
+Previous Position 18
+
+Burnley
+16	1	8	7	15	24	-9	11	
+D
+Saturday 20 November 2021
+BUR
+
+3
+-
+3
+
+CRY
+ 
+D
+Wednesday 1 December 2021
+WOL
+
+0
+-
+0
+
+BUR
+ 
+L
+Saturday 4 December 2021
+NEW
+
+1
+-
+0
+
+BUR
+ 
+D
+Sunday 12 December 2021
+BUR
+
+0
+-
+0
+
+WHU
+ 
+L
+Thursday 30 December 2021
+MUN
+
+3
+-
+1
+
+BUR
+19 
+Previous Position 19
+
+Newcastle United
+19	1	8	10	19	42	-23	11	
+W
+Saturday 4 December 2021
+NEW
+
+1
+-
+0
+
+BUR
+ 
+L
+Sunday 12 December 2021
+LEI
+
+4
+-
+0
+
+NEW
+ 
+L
+Thursday 16 December 2021
+LIV
+
+3
+-
+1
+
+NEW
+ 
+L
+Sunday 19 December 2021
+NEW
+
+0
+-
+4
+
+MCI
+ 
+D
+Monday 27 December 2021
+NEW
+
+1
+-
+1
+
+MUN
+20 
+Previous Position 20
+
+Norwich City
+19	2	4	13	8	42	-34	10	
+L
+Sunday 5 December 2021
+TOT
+
+3
+-
+0
+
+NOR
+ 
+L
+Saturday 11 December 2021
+NOR
+
+0
+-
+1
+
+MUN
+ 
+L
+Tuesday 14 December 2021
+NOR
+
+0
+-
+2
+
+AVL
+ 
+L
+Sunday 26 December 2021
+NOR
+
+0
+-
+5
+
+ARS
+ 
+L
+Tuesday 28 December 2021
+CRY
+
+3
+-
+0
+
+NOR

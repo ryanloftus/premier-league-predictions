@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Arsenal
+8	7	0	1	20	8	12	21	
+W
+Saturday 27 August 2022
+ARS
+
+2
+-
+1
+
+FUL
+ 
+W
+Wednesday 31 August 2022
+ARS
+
+2
+-
+1
+
+AVL
+ 
+L
+Sunday 4 September 2022
+MUN
+
+3
+-
+1
+
+ARS
+ 
+W
+Sunday 18 September 2022
+BRE
+
+0
+-
+3
+
+ARS
+ 
+W
+Saturday 1 October 2022
+ARS
+
+3
+-
+1
+
+TOT
+2 
+Previous Position 2
+
+Manchester City
+8	6	2	0	29	9	20	20	
+W
+Saturday 27 August 2022
+MCI
+
+4
+-
+2
+
+CRY
+ 
+W
+Wednesday 31 August 2022
+MCI
+
+6
+-
+0
+
+NFO
+ 
+D
+Saturday 3 September 2022
+AVL
+
+1
+-
+1
+
+MCI
+ 
+W
+Saturday 17 September 2022
+WOL
+
+0
+-
+3
+
+MCI
+ 
+W
+Sunday 2 October 2022
+MCI
+
+6
+-
+3
+
+MUN
+3 
+Previous Position 3
+
+Tottenham Hotspur
+8	5	2	1	19	10	9	17	
+W
+Sunday 28 August 2022
+NFO
+
+0
+-
+2
+
+TOT
+ 
+D
+Wednesday 31 August 2022
+WHU
+
+1
+-
+1
+
+TOT
+ 
+W
+Saturday 3 September 2022
+TOT
+
+2
+-
+1
+
+FUL
+ 
+W
+Saturday 17 September 2022
+TOT
+
+6
+-
+2
+
+LEI
+ 
+L
+Saturday 1 October 2022
+ARS
+
+3
+-
+1
+
+TOT
+4 
+Previous Position 4
+
+Brighton And Hove Albion
+7	4	2	1	14	8	6	14	
+W
+Sunday 21 August 2022
+WHU
+
+0
+-
+2
+
+BHA
+ 
+W
+Saturday 27 August 2022
+BHA
+
+1
+-
+0
+
+LEE
+ 
+L
+Tuesday 30 August 2022
+FUL
+
+2
+-
+1
+
+BHA
+ 
+W
+Sunday 4 September 2022
+BHA
+
+5
+-
+2
+
+LEI
+ 
+D
+Saturday 1 October 2022
+LIV
+
+3
+-
+3
+
+BHA
+5 
+Previous Position 7
+
+Chelsea
+7	4	1	2	10	10	0	13	
+L
+Sunday 21 August 2022
+LEE
+
+3
+-
+0
+
+CHE
+ 
+W
+Saturday 27 August 2022
+CHE
+
+2
+-
+1
+
+LEI
+ 
+L
+Tuesday 30 August 2022
+SOU
+
+2
+-
+1
+
+CHE
+ 
+W
+Saturday 3 September 2022
+CHE
+
+2
+-
+1
+
+WHU
+ 
+W
+Saturday 1 October 2022
+CRY
+
+1
+-
+2
+
+CHE
+6 
+Previous Position 5
+
+Manchester United
+7	4	0	3	11	14	-3	12	
+W
+Monday 22 August 2022
+MUN
+
+2
+-
+1
+
+LIV
+ 
+W
+Saturday 27 August 2022
+SOU
+
+0
+-
+1
+
+MUN
+ 
+W
+Thursday 1 September 2022
+LEI
+
+0
+-
+1
+
+MUN
+ 
+W
+Sunday 4 September 2022
+MUN
+
+3
+-
+1
+
+ARS
+ 
+L
+Sunday 2 October 2022
+MCI
+
+6
+-
+3
+
+MUN
+7 
+Previous Position 10
+
+Newcastle United
+8	2	5	1	12	8	4	11	
+D
+Sunday 28 August 2022
+WOL
+
+1
+-
+1
+
+NEW
+ 
+L
+Wednesday 31 August 2022
+LIV
+
+2
+-
+1
+
+NEW
+ 
+D
+Saturday 3 September 2022
+NEW
+
+0
+-
+0
+
+CRY
+ 
+D
+Saturday 17 September 2022
+NEW
+
+1
+-
+1
+
+BOU
+ 
+W
+Saturday 1 October 2022
+FUL
+
+1
+-
+4
+
+NEW
+8 
+Previous Position 6
+
+Fulham
+8	3	2	3	13	15	-2	11	
+L
+Saturday 27 August 2022
+ARS
+
+2
+-
+1
+
+FUL
+ 
+W
+Tuesday 30 August 2022
+FUL
+
+2
+-
+1
+
+BHA
+ 
+L
+Saturday 3 September 2022
+TOT
+
+2
+-
+1
+
+FUL
+ 
+W
+Friday 16 September 2022
+NFO
+
+2
+-
+3
+
+FUL
+ 
+L
+Saturday 1 October 2022
+FUL
+
+1
+-
+4
+
+NEW
+9 
+Previous Position 8
+
+Liverpool
+7	2	4	1	18	9	9	10	
+L
+Monday 22 August 2022
+MUN
+
+2
+-
+1
+
+LIV
+ 
+W
+Saturday 27 August 2022
+LIV
+
+9
+-
+0
+
+BOU
+ 
+W
+Wednesday 31 August 2022
+LIV
+
+2
+-
+1
+
+NEW
+ 
+D
+Saturday 3 September 2022
+EVE
+
+0
+-
+0
+
+LIV
+ 
+D
+Saturday 1 October 2022
+LIV
+
+3
+-
+3
+
+BHA
+10 
+Previous Position 9
+
+Brentford
+8	2	4	2	15	12	3	10	
+D
+Saturday 27 August 2022
+BRE
+
+1
+-
+1
+
+EVE
+ 
+D
+Tuesday 30 August 2022
+CRY
+
+1
+-
+1
+
+BRE
+ 
+W
+Saturday 3 September 2022
+BRE
+
+5
+-
+2
+
+LEE
+ 
+L
+Sunday 18 September 2022
+BRE
+
+0
+-
+3
+
+ARS
+ 
+D
+Saturday 1 October 2022
+BOU
+
+0
+-
+0
+
+BRE
+11 
+Previous Position 13
+
+Everton
+8	2	4	2	7	7	0	10	
+D
+Saturday 27 August 2022
+BRE
+
+1
+-
+1
+
+EVE
+ 
+D
+Tuesday 30 August 2022
+LEE
+
+1
+-
+1
+
+EVE
+ 
+D
+Saturday 3 September 2022
+EVE
+
+0
+-
+0
+
+LIV
+ 
+W
+Sunday 18 September 2022
+EVE
+
+1
+-
+0
+
+WHU
+ 
+W
+Saturday 1 October 2022
+SOU
+
+1
+-
+2
+
+EVE
+12 
+Previous Position 11
+
+Leeds United
+7	2	3	2	10	10	0	9	
+W
+Sunday 21 August 2022
+LEE
+
+3
+-
+0
+
+CHE
+ 
+L
+Saturday 27 August 2022
+BHA
+
+1
+-
+0
+
+LEE
+ 
+D
+Tuesday 30 August 2022
+LEE
+
+1
+-
+1
+
+EVE
+ 
+L
+Saturday 3 September 2022
+BRE
+
+5
+-
+2
+
+LEE
+ 
+D
+Sunday 2 October 2022
+LEE
+
+0
+-
+0
+
+AVL
+13 
+Previous Position 12
+
+Bournemouth
+8	2	3	3	6	19	-13	9	
+L
+Saturday 27 August 2022
+LIV
+
+9
+-
+0
+
+BOU
+ 
+D
+Wednesday 31 August 2022
+BOU
+
+0
+-
+0
+
+WOL
+ 
+W
+Saturday 3 September 2022
+NFO
+
+2
+-
+3
+
+BOU
+ 
+D
+Saturday 17 September 2022
+NEW
+
+1
+-
+1
+
+BOU
+ 
+D
+Saturday 1 October 2022
+BOU
+
+0
+-
+0
+
+BRE
+14 
+Previous Position 15
+
+Aston Villa
+8	2	2	4	6	10	-4	8	
+L
+Sunday 28 August 2022
+AVL
+
+0
+-
+1
+
+WHU
+ 
+L
+Wednesday 31 August 2022
+ARS
+
+2
+-
+1
+
+AVL
+ 
+D
+Saturday 3 September 2022
+AVL
+
+1
+-
+1
+
+MCI
+ 
+W
+Friday 16 September 2022
+AVL
+
+1
+-
+0
+
+SOU
+ 
+D
+Sunday 2 October 2022
+LEE
+
+0
+-
+0
+
+AVL
+15 
+Previous Position 18
+
+West Ham United
+8	2	1	5	5	9	-4	7	
+W
+Sunday 28 August 2022
+AVL
+
+0
+-
+1
+
+WHU
+ 
+D
+Wednesday 31 August 2022
+WHU
+
+1
+-
+1
+
+TOT
+ 
+L
+Saturday 3 September 2022
+CHE
+
+2
+-
+1
+
+WHU
+ 
+L
+Sunday 18 September 2022
+EVE
+
+1
+-
+0
+
+WHU
+ 
+W
+Saturday 1 October 2022
+WHU
+
+2
+-
+0
+
+WOL
+16 
+Previous Position 14
+
+Southampton
+8	2	1	5	8	13	-5	7	
+L
+Saturday 27 August 2022
+SOU
+
+0
+-
+1
+
+MUN
+ 
+W
+Tuesday 30 August 2022
+SOU
+
+2
+-
+1
+
+CHE
+ 
+L
+Saturday 3 September 2022
+WOL
+
+1
+-
+0
+
+SOU
+ 
+L
+Friday 16 September 2022
+AVL
+
+1
+-
+0
+
+SOU
+ 
+L
+Saturday 1 October 2022
+SOU
+
+1
+-
+2
+
+EVE
+17 
+Previous Position 16
+
+Crystal Palace
+7	1	3	3	8	11	-3	6	
+W
+Saturday 20 August 2022
+CRY
+
+3
+-
+1
+
+AVL
+ 
+L
+Saturday 27 August 2022
+MCI
+
+4
+-
+2
+
+CRY
+ 
+D
+Tuesday 30 August 2022
+CRY
+
+1
+-
+1
+
+BRE
+ 
+D
+Saturday 3 September 2022
+NEW
+
+0
+-
+0
+
+CRY
+ 
+L
+Saturday 1 October 2022
+CRY
+
+1
+-
+2
+
+CHE
+18 
+Previous Position 17
+
+Wolverhampton Wanderers
+8	1	3	4	3	9	-6	6	
+D
+Sunday 28 August 2022
+WOL
+
+1
+-
+1
+
+NEW
+ 
+D
+Wednesday 31 August 2022
+BOU
+
+0
+-
+0
+
+WOL
+ 
+W
+Saturday 3 September 2022
+WOL
+
+1
+-
+0
+
+SOU
+ 
+L
+Saturday 17 September 2022
+WOL
+
+0
+-
+3
+
+MCI
+ 
+L
+Saturday 1 October 2022
+WHU
+
+2
+-
+0
+
+WOL
+19 
+Previous Position 20
+
+Leicester City
+8	1	1	6	14	22	-8	4	
+L
+Saturday 27 August 2022
+CHE
+
+2
+-
+1
+
+LEI
+ 
+L
+Thursday 1 September 2022
+LEI
+
+0
+-
+1
+
+MUN
+ 
+L
+Sunday 4 September 2022
+BHA
+
+5
+-
+2
+
+LEI
+ 
+L
+Saturday 17 September 2022
+TOT
+
+6
+-
+2
+
+LEI
+ 
+W
+Monday 3 October 2022
+LEI
+
+4
+-
+0
+
+NFO
+20 
+Previous Position 19
+
+Nottingham Forest
+8	1	1	6	6	21	-15	4	
+L
+Sunday 28 August 2022
+NFO
+
+0
+-
+2
+
+TOT
+ 
+L
+Wednesday 31 August 2022
+MCI
+
+6
+-
+0
+
+NFO
+ 
+L
+Saturday 3 September 2022
+NFO
+
+2
+-
+3
+
+BOU
+ 
+L
+Friday 16 September 2022
+NFO
+
+2
+-
+3
+
+FUL
+ 
+L
+Monday 3 October 2022
+LEI
+
+4
+-
+0
+
+NFO

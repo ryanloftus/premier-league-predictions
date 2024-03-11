@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Manchester City
+23	18	3	2	55	14	41	57	
+W
+Sunday 26 December 2021
+MCI
+
+6
+-
+3
+
+LEI
+ 
+W
+Wednesday 29 December 2021
+BRE
+
+0
+-
+1
+
+MCI
+ 
+W
+Saturday 1 January 2022
+ARS
+
+1
+-
+2
+
+MCI
+ 
+W
+Saturday 15 January 2022
+MCI
+
+1
+-
+0
+
+CHE
+ 
+D
+Saturday 22 January 2022
+SOU
+
+1
+-
+1
+
+MCI
+2 
+Previous Position 2
+
+Liverpool
+22	14	6	2	58	19	39	48	
+D
+Sunday 19 December 2021
+TOT
+
+2
+-
+2
+
+LIV
+ 
+L
+Tuesday 28 December 2021
+LEI
+
+1
+-
+0
+
+LIV
+ 
+D
+Sunday 2 January 2022
+CHE
+
+2
+-
+2
+
+LIV
+ 
+W
+Sunday 16 January 2022
+LIV
+
+3
+-
+0
+
+BRE
+ 
+W
+Sunday 23 January 2022
+CRY
+
+1
+-
+3
+
+LIV
+3 
+Previous Position 3
+
+Chelsea
+24	13	8	3	48	18	30	47	
+D
+Wednesday 29 December 2021
+CHE
+
+1
+-
+1
+
+BHA
+ 
+D
+Sunday 2 January 2022
+CHE
+
+2
+-
+2
+
+LIV
+ 
+L
+Saturday 15 January 2022
+MCI
+
+1
+-
+0
+
+CHE
+ 
+D
+Tuesday 18 January 2022
+BHA
+
+1
+-
+1
+
+CHE
+ 
+W
+Sunday 23 January 2022
+CHE
+
+2
+-
+0
+
+TOT
+4 
+Previous Position 7
+
+Manchester United
+22	11	5	6	36	30	6	38	
+W
+Thursday 30 December 2021
+MUN
+
+3
+-
+1
+
+BUR
+ 
+L
+Monday 3 January 2022
+MUN
+
+0
+-
+1
+
+WOL
+ 
+D
+Saturday 15 January 2022
+AVL
+
+2
+-
+2
+
+MUN
+ 
+W
+Wednesday 19 January 2022
+BRE
+
+1
+-
+3
+
+MUN
+ 
+W
+Saturday 22 January 2022
+MUN
+
+1
+-
+0
+
+WHU
+5 
+Previous Position 4
+
+West Ham United
+23	11	4	8	41	31	10	37	
+W
+Tuesday 28 December 2021
+WAT
+
+1
+-
+4
+
+WHU
+ 
+W
+Saturday 1 January 2022
+CRY
+
+2
+-
+3
+
+WHU
+ 
+W
+Wednesday 12 January 2022
+WHU
+
+2
+-
+0
+
+NOR
+ 
+L
+Sunday 16 January 2022
+WHU
+
+2
+-
+3
+
+LEE
+ 
+L
+Saturday 22 January 2022
+MUN
+
+1
+-
+0
+
+WHU
+6 
+Previous Position 6
+
+Arsenal
+21	11	3	7	33	25	8	36	
+W
+Wednesday 15 December 2021
+ARS
+
+2
+-
+0
+
+WHU
+ 
+W
+Saturday 18 December 2021
+LEE
+
+1
+-
+4
+
+ARS
+ 
+W
+Sunday 26 December 2021
+NOR
+
+0
+-
+5
+
+ARS
+ 
+L
+Saturday 1 January 2022
+ARS
+
+1
+-
+2
+
+MCI
+ 
+D
+Sunday 23 January 2022
+ARS
+
+0
+-
+0
+
+BUR
+7 
+Previous Position 5
+
+Tottenham Hotspur
+20	11	3	6	26	24	2	36	
+W
+Sunday 26 December 2021
+TOT
+
+3
+-
+0
+
+CRY
+ 
+D
+Tuesday 28 December 2021
+SOU
+
+1
+-
+1
+
+TOT
+ 
+W
+Saturday 1 January 2022
+WAT
+
+0
+-
+1
+
+TOT
+ 
+W
+Wednesday 19 January 2022
+LEI
+
+2
+-
+3
+
+TOT
+ 
+L
+Sunday 23 January 2022
+CHE
+
+2
+-
+0
+
+TOT
+8 
+Previous Position 8
+
+Wolverhampton Wanderers
+21	10	4	7	19	16	3	34	
+W
+Wednesday 15 December 2021
+BHA
+
+0
+-
+1
+
+WOL
+ 
+D
+Sunday 19 December 2021
+WOL
+
+0
+-
+0
+
+CHE
+ 
+W
+Monday 3 January 2022
+MUN
+
+0
+-
+1
+
+WOL
+ 
+W
+Saturday 15 January 2022
+WOL
+
+3
+-
+1
+
+SOU
+ 
+W
+Saturday 22 January 2022
+BRE
+
+1
+-
+2
+
+WOL
+9 
+Previous Position 9
+
+Brighton And Hove Albion
+22	6	12	4	23	23	0	30	
+D
+Wednesday 29 December 2021
+CHE
+
+1
+-
+1
+
+BHA
+ 
+W
+Sunday 2 January 2022
+EVE
+
+2
+-
+3
+
+BHA
+ 
+D
+Friday 14 January 2022
+BHA
+
+1
+-
+1
+
+CRY
+ 
+D
+Tuesday 18 January 2022
+BHA
+
+1
+-
+1
+
+CHE
+ 
+D
+Sunday 23 January 2022
+LEI
+
+1
+-
+1
+
+BHA
+10 
+Previous Position 10
+
+Leicester City
+20	7	5	8	34	37	-3	26	
+W
+Sunday 12 December 2021
+LEI
+
+4
+-
+0
+
+NEW
+ 
+L
+Sunday 26 December 2021
+MCI
+
+6
+-
+3
+
+LEI
+ 
+W
+Tuesday 28 December 2021
+LEI
+
+1
+-
+0
+
+LIV
+ 
+L
+Wednesday 19 January 2022
+LEI
+
+2
+-
+3
+
+TOT
+ 
+D
+Sunday 23 January 2022
+LEI
+
+1
+-
+1
+
+BHA
+11 
+Previous Position 13
+
+Aston Villa
+21	8	2	11	28	32	-4	26	
+W
+Tuesday 14 December 2021
+NOR
+
+0
+-
+2
+
+AVL
+ 
+L
+Sunday 26 December 2021
+AVL
+
+1
+-
+3
+
+CHE
+ 
+L
+Sunday 2 January 2022
+BRE
+
+2
+-
+1
+
+AVL
+ 
+D
+Saturday 15 January 2022
+AVL
+
+2
+-
+2
+
+MUN
+ 
+W
+Saturday 22 January 2022
+EVE
+
+0
+-
+1
+
+AVL
+12 
+Previous Position 12
+
+Southampton
+22	5	10	7	26	34	-8	25	
+W
+Sunday 26 December 2021
+WHU
+
+2
+-
+3
+
+SOU
+ 
+D
+Tuesday 28 December 2021
+SOU
+
+1
+-
+1
+
+TOT
+ 
+W
+Tuesday 11 January 2022
+SOU
+
+4
+-
+1
+
+BRE
+ 
+L
+Saturday 15 January 2022
+WOL
+
+3
+-
+1
+
+SOU
+ 
+D
+Saturday 22 January 2022
+SOU
+
+1
+-
+1
+
+MCI
+13 
+Previous Position 11
+
+Crystal Palace
+22	5	9	8	31	34	-3	24	
+L
+Sunday 26 December 2021
+TOT
+
+3
+-
+0
+
+CRY
+ 
+W
+Tuesday 28 December 2021
+CRY
+
+3
+-
+0
+
+NOR
+ 
+L
+Saturday 1 January 2022
+CRY
+
+2
+-
+3
+
+WHU
+ 
+D
+Friday 14 January 2022
+BHA
+
+1
+-
+1
+
+CRY
+ 
+L
+Sunday 23 January 2022
+CRY
+
+1
+-
+3
+
+LIV
+14 
+Previous Position 14
+
+Brentford
+23	6	5	12	26	38	-12	23	
+W
+Sunday 2 January 2022
+BRE
+
+2
+-
+1
+
+AVL
+ 
+L
+Tuesday 11 January 2022
+SOU
+
+4
+-
+1
+
+BRE
+ 
+L
+Sunday 16 January 2022
+LIV
+
+3
+-
+0
+
+BRE
+ 
+L
+Wednesday 19 January 2022
+BRE
+
+1
+-
+3
+
+MUN
+ 
+L
+Saturday 22 January 2022
+BRE
+
+1
+-
+2
+
+WOL
+15 
+Previous Position 15
+
+Leeds United
+21	5	7	9	24	40	-16	22	
+L
+Tuesday 14 December 2021
+MCI
+
+7
+-
+0
+
+LEE
+ 
+L
+Saturday 18 December 2021
+LEE
+
+1
+-
+4
+
+ARS
+ 
+W
+Sunday 2 January 2022
+LEE
+
+3
+-
+1
+
+BUR
+ 
+W
+Sunday 16 January 2022
+WHU
+
+2
+-
+3
+
+LEE
+ 
+L
+Saturday 22 January 2022
+LEE
+
+0
+-
+1
+
+NEW
+16 
+Previous Position 16
+
+Everton
+20	5	4	11	24	35	-11	19	
+L
+Sunday 12 December 2021
+CRY
+
+3
+-
+1
+
+EVE
+ 
+D
+Thursday 16 December 2021
+CHE
+
+1
+-
+1
+
+EVE
+ 
+L
+Sunday 2 January 2022
+EVE
+
+2
+-
+3
+
+BHA
+ 
+L
+Saturday 15 January 2022
+NOR
+
+2
+-
+1
+
+EVE
+ 
+L
+Saturday 22 January 2022
+EVE
+
+0
+-
+1
+
+AVL
+17 
+Previous Position 18
+
+Norwich City
+22	4	4	14	13	45	-32	16	
+L
+Sunday 26 December 2021
+NOR
+
+0
+-
+5
+
+ARS
+ 
+L
+Tuesday 28 December 2021
+CRY
+
+3
+-
+0
+
+NOR
+ 
+L
+Wednesday 12 January 2022
+WHU
+
+2
+-
+0
+
+NOR
+ 
+W
+Saturday 15 January 2022
+NOR
+
+2
+-
+1
+
+EVE
+ 
+W
+Friday 21 January 2022
+WAT
+
+0
+-
+3
+
+NOR
+18 
+Previous Position 17
+
+Watford
+21	4	3	14	23	40	-17	15	
+L
+Tuesday 28 December 2021
+WAT
+
+1
+-
+4
+
+WHU
+ 
+L
+Saturday 1 January 2022
+WAT
+
+0
+-
+1
+
+TOT
+ 
+D
+Saturday 15 January 2022
+NEW
+
+1
+-
+1
+
+WAT
+ 
+L
+Friday 21 January 2022
+WAT
+
+0
+-
+3
+
+NOR
+ 
+D
+Saturday 5 February 2022
+BUR
+
+0
+-
+0
+
+WAT
+19 
+Previous Position 19
+
+Newcastle United
+21	2	9	10	21	43	-22	15	
+L
+Thursday 16 December 2021
+LIV
+
+3
+-
+1
+
+NEW
+ 
+L
+Sunday 19 December 2021
+NEW
+
+0
+-
+4
+
+MCI
+ 
+D
+Monday 27 December 2021
+NEW
+
+1
+-
+1
+
+MUN
+ 
+D
+Saturday 15 January 2022
+NEW
+
+1
+-
+1
+
+WAT
+ 
+W
+Saturday 22 January 2022
+LEE
+
+0
+-
+1
+
+NEW
+20 
+Previous Position 20
+
+Burnley
+19	1	10	8	16	27	-11	13	
+D
+Sunday 12 December 2021
+BUR
+
+0
+-
+0
+
+WHU
+ 
+L
+Thursday 30 December 2021
+MUN
+
+3
+-
+1
+
+BUR
+ 
+L
+Sunday 2 January 2022
+LEE
+
+3
+-
+1
+
+BUR
+ 
+D
+Sunday 23 January 2022
+ARS
+
+0
+-
+0
+
+BUR
+ 
+D
+Saturday 5 February 2022
+BUR
+
+0
+-
+0
+
+WAT

@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Manchester City
+33	25	5	3	80	21	59	80	
+D
+Monday 14 March 2022
+CRY
+
+0
+-
+0
+
+MCI
+ 
+W
+Saturday 2 April 2022
+BUR
+
+0
+-
+2
+
+MCI
+ 
+D
+Sunday 10 April 2022
+MCI
+
+2
+-
+2
+
+LIV
+ 
+W
+Wednesday 20 April 2022
+MCI
+
+3
+-
+0
+
+BHA
+ 
+W
+Saturday 23 April 2022
+MCI
+
+5
+-
+1
+
+WAT
+2 
+Previous Position 2
+
+Liverpool
+33	24	7	2	85	22	63	79	
+W
+Wednesday 16 March 2022
+ARS
+
+0
+-
+2
+
+LIV
+ 
+W
+Saturday 2 April 2022
+LIV
+
+2
+-
+0
+
+WAT
+ 
+D
+Sunday 10 April 2022
+MCI
+
+2
+-
+2
+
+LIV
+ 
+W
+Tuesday 19 April 2022
+LIV
+
+4
+-
+0
+
+MUN
+ 
+W
+Sunday 24 April 2022
+LIV
+
+2
+-
+0
+
+EVE
+3 
+Previous Position 3
+
+Chelsea
+33	19	9	5	68	28	40	66	
+L
+Saturday 2 April 2022
+CHE
+
+1
+-
+4
+
+BRE
+ 
+W
+Saturday 9 April 2022
+SOU
+
+0
+-
+6
+
+CHE
+ 
+L
+Wednesday 20 April 2022
+CHE
+
+2
+-
+4
+
+ARS
+ 
+W
+Sunday 24 April 2022
+CHE
+
+1
+-
+0
+
+WHU
+ 
+D
+Thursday 28 April 2022
+MUN
+
+1
+-
+1
+
+CHE
+4 
+Previous Position 5
+
+Arsenal
+33	19	3	11	52	40	12	60	
+L
+Monday 4 April 2022
+CRY
+
+3
+-
+0
+
+ARS
+ 
+L
+Saturday 9 April 2022
+ARS
+
+1
+-
+2
+
+BHA
+ 
+L
+Saturday 16 April 2022
+SOU
+
+1
+-
+0
+
+ARS
+ 
+W
+Wednesday 20 April 2022
+CHE
+
+2
+-
+4
+
+ARS
+ 
+W
+Saturday 23 April 2022
+ARS
+
+3
+-
+1
+
+MUN
+5 
+Previous Position 4
+
+Tottenham Hotspur
+33	18	4	11	56	38	18	58	
+W
+Sunday 20 March 2022
+TOT
+
+3
+-
+1
+
+WHU
+ 
+W
+Sunday 3 April 2022
+TOT
+
+5
+-
+1
+
+NEW
+ 
+W
+Saturday 9 April 2022
+AVL
+
+0
+-
+4
+
+TOT
+ 
+L
+Saturday 16 April 2022
+TOT
+
+0
+-
+1
+
+BHA
+ 
+D
+Saturday 23 April 2022
+BRE
+
+0
+-
+0
+
+TOT
+6 
+Previous Position 6
+
+Manchester United
+35	15	10	10	54	52	2	55	
+L
+Saturday 9 April 2022
+EVE
+
+1
+-
+0
+
+MUN
+ 
+W
+Saturday 16 April 2022
+MUN
+
+3
+-
+2
+
+NOR
+ 
+L
+Tuesday 19 April 2022
+LIV
+
+4
+-
+0
+
+MUN
+ 
+L
+Saturday 23 April 2022
+ARS
+
+3
+-
+1
+
+MUN
+ 
+D
+Thursday 28 April 2022
+MUN
+
+1
+-
+1
+
+CHE
+7 
+Previous Position 7
+
+West Ham United
+34	15	7	12	52	44	8	52	
+L
+Sunday 20 March 2022
+TOT
+
+3
+-
+1
+
+WHU
+ 
+W
+Sunday 3 April 2022
+WHU
+
+2
+-
+1
+
+EVE
+ 
+L
+Sunday 10 April 2022
+BRE
+
+2
+-
+0
+
+WHU
+ 
+D
+Sunday 17 April 2022
+WHU
+
+1
+-
+1
+
+BUR
+ 
+L
+Sunday 24 April 2022
+CHE
+
+1
+-
+0
+
+WHU
+8 
+Previous Position 8
+
+Wolverhampton Wanderers
+33	15	4	14	33	29	4	49	
+W
+Sunday 13 March 2022
+EVE
+
+0
+-
+1
+
+WOL
+ 
+L
+Friday 18 March 2022
+WOL
+
+2
+-
+3
+
+LEE
+ 
+W
+Saturday 2 April 2022
+WOL
+
+2
+-
+1
+
+AVL
+ 
+L
+Friday 8 April 2022
+NEW
+
+1
+-
+0
+
+WOL
+ 
+L
+Sunday 24 April 2022
+BUR
+
+1
+-
+0
+
+WOL
+9 
+Previous Position 11
+
+Newcastle United
+34	11	10	13	40	55	-15	43	
+L
+Sunday 3 April 2022
+TOT
+
+5
+-
+1
+
+NEW
+ 
+W
+Friday 8 April 2022
+NEW
+
+1
+-
+0
+
+WOL
+ 
+W
+Sunday 17 April 2022
+NEW
+
+2
+-
+1
+
+LEI
+ 
+W
+Wednesday 20 April 2022
+NEW
+
+1
+-
+0
+
+CRY
+ 
+W
+Saturday 23 April 2022
+NOR
+
+0
+-
+3
+
+NEW
+10 
+Previous Position 9
+
+Leicester City
+32	11	9	12	47	51	-4	42	
+D
+Saturday 2 April 2022
+MUN
+
+1
+-
+1
+
+LEI
+ 
+W
+Sunday 10 April 2022
+LEI
+
+2
+-
+1
+
+CRY
+ 
+L
+Sunday 17 April 2022
+NEW
+
+2
+-
+1
+
+LEI
+ 
+D
+Wednesday 20 April 2022
+EVE
+
+1
+-
+1
+
+LEI
+ 
+D
+Saturday 23 April 2022
+LEI
+
+0
+-
+0
+
+AVL
+11 
+Previous Position 10
+
+Brighton And Hove Albion
+34	9	14	11	31	42	-11	41	
+D
+Saturday 2 April 2022
+BHA
+
+0
+-
+0
+
+NOR
+ 
+W
+Saturday 9 April 2022
+ARS
+
+1
+-
+2
+
+BHA
+ 
+W
+Saturday 16 April 2022
+TOT
+
+0
+-
+1
+
+BHA
+ 
+L
+Wednesday 20 April 2022
+MCI
+
+3
+-
+0
+
+BHA
+ 
+D
+Sunday 24 April 2022
+BHA
+
+2
+-
+2
+
+SOU
+12 
+Previous Position 12
+
+Brentford
+34	11	7	16	41	49	-8	40	
+L
+Sunday 20 March 2022
+LEI
+
+2
+-
+1
+
+BRE
+ 
+W
+Saturday 2 April 2022
+CHE
+
+1
+-
+4
+
+BRE
+ 
+W
+Sunday 10 April 2022
+BRE
+
+2
+-
+0
+
+WHU
+ 
+W
+Saturday 16 April 2022
+WAT
+
+1
+-
+2
+
+BRE
+ 
+D
+Saturday 23 April 2022
+BRE
+
+0
+-
+0
+
+TOT
+13 
+Previous Position 13
+
+Southampton
+34	9	13	12	40	56	-16	40	
+D
+Saturday 2 April 2022
+LEE
+
+1
+-
+1
+
+SOU
+ 
+L
+Saturday 9 April 2022
+SOU
+
+0
+-
+6
+
+CHE
+ 
+W
+Saturday 16 April 2022
+SOU
+
+1
+-
+0
+
+ARS
+ 
+L
+Thursday 21 April 2022
+BUR
+
+2
+-
+0
+
+SOU
+ 
+D
+Sunday 24 April 2022
+BHA
+
+2
+-
+2
+
+SOU
+14 
+Previous Position 14
+
+Crystal Palace
+33	8	14	11	43	41	2	38	
+D
+Monday 14 March 2022
+CRY
+
+0
+-
+0
+
+MCI
+ 
+W
+Monday 4 April 2022
+CRY
+
+3
+-
+0
+
+ARS
+ 
+L
+Sunday 10 April 2022
+LEI
+
+2
+-
+1
+
+CRY
+ 
+L
+Wednesday 20 April 2022
+NEW
+
+1
+-
+0
+
+CRY
+ 
+D
+Monday 25 April 2022
+CRY
+
+0
+-
+0
+
+LEE
+15 
+Previous Position 15
+
+Aston Villa
+32	11	4	17	42	46	-4	37	
+L
+Sunday 13 March 2022
+WHU
+
+2
+-
+1
+
+AVL
+ 
+L
+Saturday 19 March 2022
+AVL
+
+0
+-
+1
+
+ARS
+ 
+L
+Saturday 2 April 2022
+WOL
+
+2
+-
+1
+
+AVL
+ 
+L
+Saturday 9 April 2022
+AVL
+
+0
+-
+4
+
+TOT
+ 
+D
+Saturday 23 April 2022
+LEI
+
+0
+-
+0
+
+AVL
+16 
+Previous Position 16
+
+Leeds United
+33	8	10	15	38	68	-30	34	
+W
+Sunday 13 March 2022
+LEE
+
+2
+-
+1
+
+NOR
+ 
+W
+Friday 18 March 2022
+WOL
+
+2
+-
+3
+
+LEE
+ 
+D
+Saturday 2 April 2022
+LEE
+
+1
+-
+1
+
+SOU
+ 
+W
+Saturday 9 April 2022
+WAT
+
+0
+-
+3
+
+LEE
+ 
+D
+Monday 25 April 2022
+CRY
+
+0
+-
+0
+
+LEE
+17 
+Previous Position 18
+
+Burnley
+33	6	13	14	29	45	-16	31	
+W
+Wednesday 6 April 2022
+BUR
+
+3
+-
+2
+
+EVE
+ 
+L
+Sunday 10 April 2022
+NOR
+
+2
+-
+0
+
+BUR
+ 
+D
+Sunday 17 April 2022
+WHU
+
+1
+-
+1
+
+BUR
+ 
+W
+Thursday 21 April 2022
+BUR
+
+2
+-
+0
+
+SOU
+ 
+W
+Sunday 24 April 2022
+BUR
+
+1
+-
+0
+
+WOL
+18 
+Previous Position 17
+
+Everton
+32	8	5	19	34	55	-21	29	
+L
+Sunday 3 April 2022
+WHU
+
+2
+-
+1
+
+EVE
+ 
+L
+Wednesday 6 April 2022
+BUR
+
+3
+-
+2
+
+EVE
+ 
+W
+Saturday 9 April 2022
+EVE
+
+1
+-
+0
+
+MUN
+ 
+D
+Wednesday 20 April 2022
+EVE
+
+1
+-
+1
+
+LEI
+ 
+L
+Sunday 24 April 2022
+LIV
+
+2
+-
+0
+
+EVE
+19 
+Previous Position 19
+
+Watford
+33	6	4	23	31	67	-36	22	
+W
+Sunday 13 March 2022
+SOU
+
+1
+-
+2
+
+WAT
+ 
+L
+Saturday 2 April 2022
+LIV
+
+2
+-
+0
+
+WAT
+ 
+L
+Saturday 9 April 2022
+WAT
+
+0
+-
+3
+
+LEE
+ 
+L
+Saturday 16 April 2022
+WAT
+
+1
+-
+2
+
+BRE
+ 
+L
+Saturday 23 April 2022
+MCI
+
+5
+-
+1
+
+WAT
+20 
+Previous Position 20
+
+Norwich City
+33	5	6	22	22	69	-47	21	
+L
+Sunday 13 March 2022
+LEE
+
+2
+-
+1
+
+NOR
+ 
+D
+Saturday 2 April 2022
+BHA
+
+0
+-
+0
+
+NOR
+ 
+W
+Sunday 10 April 2022
+NOR
+
+2
+-
+0
+
+BUR
+ 
+L
+Saturday 16 April 2022
+MUN
+
+3
+-
+2
+
+NOR
+ 
+L
+Saturday 23 April 2022
+NOR
+
+0
+-
+3
+
+NEW

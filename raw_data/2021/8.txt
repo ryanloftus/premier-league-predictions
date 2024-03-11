@@ -1,0 +1,1080 @@
+1 
+Previous Position 1
+
+Chelsea
+8	6	1	1	16	3	13	19	
+W
+Saturday 11 September 2021
+CHE
+
+3
+-
+0
+
+AVL
+ 
+W
+Sunday 19 September 2021
+TOT
+
+0
+-
+3
+
+CHE
+ 
+L
+Saturday 25 September 2021
+CHE
+
+0
+-
+1
+
+MCI
+ 
+W
+Saturday 2 October 2021
+CHE
+
+3
+-
+1
+
+SOU
+ 
+W
+Saturday 16 October 2021
+BRE
+
+0
+-
+1
+
+CHE
+2 
+Previous Position 2
+
+Liverpool
+8	5	3	0	22	6	16	18	
+W
+Sunday 12 September 2021
+LEE
+
+0
+-
+3
+
+LIV
+ 
+W
+Saturday 18 September 2021
+LIV
+
+3
+-
+0
+
+CRY
+ 
+D
+Saturday 25 September 2021
+BRE
+
+3
+-
+3
+
+LIV
+ 
+D
+Sunday 3 October 2021
+LIV
+
+2
+-
+2
+
+MCI
+ 
+W
+Saturday 16 October 2021
+WAT
+
+0
+-
+5
+
+LIV
+3 
+Previous Position 3
+
+Manchester City
+8	5	2	1	16	3	13	17	
+W
+Saturday 11 September 2021
+LEI
+
+0
+-
+1
+
+MCI
+ 
+D
+Saturday 18 September 2021
+MCI
+
+0
+-
+0
+
+SOU
+ 
+W
+Saturday 25 September 2021
+CHE
+
+0
+-
+1
+
+MCI
+ 
+D
+Sunday 3 October 2021
+LIV
+
+2
+-
+2
+
+MCI
+ 
+W
+Saturday 16 October 2021
+MCI
+
+2
+-
+0
+
+BUR
+4 
+Previous Position 6
+
+Brighton And Hove Albion
+8	4	3	1	8	5	3	15	
+W
+Saturday 11 September 2021
+BRE
+
+0
+-
+1
+
+BHA
+ 
+W
+Sunday 19 September 2021
+BHA
+
+2
+-
+1
+
+LEI
+ 
+D
+Monday 27 September 2021
+CRY
+
+1
+-
+1
+
+BHA
+ 
+D
+Saturday 2 October 2021
+BHA
+
+0
+-
+0
+
+ARS
+ 
+D
+Saturday 16 October 2021
+NOR
+
+0
+-
+0
+
+BHA
+5 
+Previous Position 8
+
+Tottenham Hotspur
+8	5	0	3	9	12	-3	15	
+L
+Saturday 11 September 2021
+CRY
+
+3
+-
+0
+
+TOT
+ 
+L
+Sunday 19 September 2021
+TOT
+
+0
+-
+3
+
+CHE
+ 
+L
+Sunday 26 September 2021
+ARS
+
+3
+-
+1
+
+TOT
+ 
+W
+Sunday 3 October 2021
+TOT
+
+2
+-
+1
+
+AVL
+ 
+W
+Sunday 17 October 2021
+NEW
+
+2
+-
+3
+
+TOT
+6 
+Previous Position 4
+
+Manchester United
+8	4	2	2	16	10	6	14	
+W
+Saturday 11 September 2021
+MUN
+
+4
+-
+1
+
+NEW
+ 
+W
+Sunday 19 September 2021
+WHU
+
+1
+-
+2
+
+MUN
+ 
+L
+Saturday 25 September 2021
+MUN
+
+0
+-
+1
+
+AVL
+ 
+D
+Saturday 2 October 2021
+MUN
+
+1
+-
+1
+
+EVE
+ 
+L
+Saturday 16 October 2021
+LEI
+
+4
+-
+2
+
+MUN
+7 
+Previous Position 9
+
+West Ham United
+8	4	2	2	15	10	5	14	
+D
+Saturday 11 September 2021
+SOU
+
+0
+-
+0
+
+WHU
+ 
+L
+Sunday 19 September 2021
+WHU
+
+1
+-
+2
+
+MUN
+ 
+W
+Saturday 25 September 2021
+LEE
+
+1
+-
+2
+
+WHU
+ 
+L
+Sunday 3 October 2021
+WHU
+
+1
+-
+2
+
+BRE
+ 
+W
+Sunday 17 October 2021
+EVE
+
+0
+-
+1
+
+WHU
+8 
+Previous Position 5
+
+Everton
+8	4	2	2	13	9	4	14	
+W
+Monday 13 September 2021
+EVE
+
+3
+-
+1
+
+BUR
+ 
+L
+Saturday 18 September 2021
+AVL
+
+3
+-
+0
+
+EVE
+ 
+W
+Saturday 25 September 2021
+EVE
+
+2
+-
+0
+
+NOR
+ 
+D
+Saturday 2 October 2021
+MUN
+
+1
+-
+1
+
+EVE
+ 
+L
+Sunday 17 October 2021
+EVE
+
+0
+-
+1
+
+WHU
+9 
+Previous Position 7
+
+Brentford
+8	3	3	2	10	7	3	12	
+L
+Saturday 11 September 2021
+BRE
+
+0
+-
+1
+
+BHA
+ 
+W
+Saturday 18 September 2021
+WOL
+
+0
+-
+2
+
+BRE
+ 
+D
+Saturday 25 September 2021
+BRE
+
+3
+-
+3
+
+LIV
+ 
+W
+Sunday 3 October 2021
+WHU
+
+1
+-
+2
+
+BRE
+ 
+L
+Saturday 16 October 2021
+BRE
+
+0
+-
+1
+
+CHE
+10 
+Previous Position 12
+
+Wolverhampton Wanderers
+8	4	0	4	8	8	0	12	
+W
+Saturday 11 September 2021
+WAT
+
+0
+-
+2
+
+WOL
+ 
+L
+Saturday 18 September 2021
+WOL
+
+0
+-
+2
+
+BRE
+ 
+W
+Sunday 26 September 2021
+SOU
+
+0
+-
+1
+
+WOL
+ 
+W
+Saturday 2 October 2021
+WOL
+
+2
+-
+1
+
+NEW
+ 
+W
+Saturday 16 October 2021
+AVL
+
+2
+-
+3
+
+WOL
+11 
+Previous Position 13
+
+Leicester City
+8	3	2	3	13	14	-1	11	
+L
+Saturday 11 September 2021
+LEI
+
+0
+-
+1
+
+MCI
+ 
+L
+Sunday 19 September 2021
+BHA
+
+2
+-
+1
+
+LEI
+ 
+D
+Saturday 25 September 2021
+LEI
+
+2
+-
+2
+
+BUR
+ 
+D
+Sunday 3 October 2021
+CRY
+
+2
+-
+2
+
+LEI
+ 
+W
+Saturday 16 October 2021
+LEI
+
+4
+-
+2
+
+MUN
+12 
+Previous Position 11
+
+Arsenal
+8	3	2	3	7	12	-5	11	
+W
+Saturday 11 September 2021
+ARS
+
+1
+-
+0
+
+NOR
+ 
+W
+Saturday 18 September 2021
+BUR
+
+0
+-
+1
+
+ARS
+ 
+W
+Sunday 26 September 2021
+ARS
+
+3
+-
+1
+
+TOT
+ 
+D
+Saturday 2 October 2021
+BHA
+
+0
+-
+0
+
+ARS
+ 
+D
+Monday 18 October 2021
+ARS
+
+2
+-
+2
+
+CRY
+13 
+Previous Position 10
+
+Aston Villa
+8	3	1	4	12	12	0	10	
+L
+Saturday 11 September 2021
+CHE
+
+3
+-
+0
+
+AVL
+ 
+W
+Saturday 18 September 2021
+AVL
+
+3
+-
+0
+
+EVE
+ 
+W
+Saturday 25 September 2021
+MUN
+
+0
+-
+1
+
+AVL
+ 
+L
+Sunday 3 October 2021
+TOT
+
+2
+-
+1
+
+AVL
+ 
+L
+Saturday 16 October 2021
+AVL
+
+2
+-
+3
+
+WOL
+14 
+Previous Position 14
+
+Crystal Palace
+8	1	5	2	10	13	-3	8	
+W
+Saturday 11 September 2021
+CRY
+
+3
+-
+0
+
+TOT
+ 
+L
+Saturday 18 September 2021
+LIV
+
+3
+-
+0
+
+CRY
+ 
+D
+Monday 27 September 2021
+CRY
+
+1
+-
+1
+
+BHA
+ 
+D
+Sunday 3 October 2021
+CRY
+
+2
+-
+2
+
+LEI
+ 
+D
+Monday 18 October 2021
+ARS
+
+2
+-
+2
+
+CRY
+15 
+Previous Position 17
+
+Southampton
+8	1	4	3	6	10	-4	7	
+D
+Saturday 11 September 2021
+SOU
+
+0
+-
+0
+
+WHU
+ 
+D
+Saturday 18 September 2021
+MCI
+
+0
+-
+0
+
+SOU
+ 
+L
+Sunday 26 September 2021
+SOU
+
+0
+-
+1
+
+WOL
+ 
+L
+Saturday 2 October 2021
+CHE
+
+3
+-
+1
+
+SOU
+ 
+W
+Saturday 16 October 2021
+SOU
+
+1
+-
+0
+
+LEE
+16 
+Previous Position 15
+
+Watford
+8	2	1	5	7	15	-8	7	
+L
+Saturday 11 September 2021
+WAT
+
+0
+-
+2
+
+WOL
+ 
+W
+Saturday 18 September 2021
+NOR
+
+1
+-
+3
+
+WAT
+ 
+D
+Saturday 25 September 2021
+WAT
+
+1
+-
+1
+
+NEW
+ 
+L
+Saturday 2 October 2021
+LEE
+
+1
+-
+0
+
+WAT
+ 
+L
+Saturday 16 October 2021
+WAT
+
+0
+-
+5
+
+LIV
+17 
+Previous Position 16
+
+Leeds United
+8	1	3	4	7	15	-8	6	
+L
+Sunday 12 September 2021
+LEE
+
+0
+-
+3
+
+LIV
+ 
+D
+Friday 17 September 2021
+NEW
+
+1
+-
+1
+
+LEE
+ 
+L
+Saturday 25 September 2021
+LEE
+
+1
+-
+2
+
+WHU
+ 
+W
+Saturday 2 October 2021
+LEE
+
+1
+-
+0
+
+WAT
+ 
+L
+Saturday 16 October 2021
+SOU
+
+1
+-
+0
+
+LEE
+18 
+Previous Position 18
+
+Burnley
+8	0	3	5	5	13	-8	3	
+L
+Monday 13 September 2021
+EVE
+
+3
+-
+1
+
+BUR
+ 
+L
+Saturday 18 September 2021
+BUR
+
+0
+-
+1
+
+ARS
+ 
+D
+Saturday 25 September 2021
+LEI
+
+2
+-
+2
+
+BUR
+ 
+D
+Saturday 2 October 2021
+BUR
+
+0
+-
+0
+
+NOR
+ 
+L
+Saturday 16 October 2021
+MCI
+
+2
+-
+0
+
+BUR
+19 
+Previous Position 19
+
+Newcastle United
+8	0	3	5	10	19	-9	3	
+L
+Saturday 11 September 2021
+MUN
+
+4
+-
+1
+
+NEW
+ 
+D
+Friday 17 September 2021
+NEW
+
+1
+-
+1
+
+LEE
+ 
+D
+Saturday 25 September 2021
+WAT
+
+1
+-
+1
+
+NEW
+ 
+L
+Saturday 2 October 2021
+WOL
+
+2
+-
+1
+
+NEW
+ 
+L
+Sunday 17 October 2021
+NEW
+
+2
+-
+3
+
+TOT
+20 
+Previous Position 20
+
+Norwich City
+8	0	2	6	2	16	-14	2	
+L
+Saturday 11 September 2021
+ARS
+
+1
+-
+0
+
+NOR
+ 
+L
+Saturday 18 September 2021
+NOR
+
+1
+-
+3
+
+WAT
+ 
+L
+Saturday 25 September 2021
+EVE
+
+2
+-
+0
+
+NOR
+ 
+D
+Saturday 2 October 2021
+BUR
+
+0
+-
+0
+
+NOR
+ 
+D
+Saturday 16 October 2021
+NOR
+
+0
+-
+0
+
+BHA

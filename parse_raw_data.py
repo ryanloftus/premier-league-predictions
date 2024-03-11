@@ -1,11 +1,21 @@
 import json
+import os
 
-with open("parsed_data.jsonl", "w") as f_out:
+def get_final_matchweek(season):
+    files = os.listdir(f"raw_data/{season}")
+    matchweeks = [int(file.split(".")[0]) for file in files]
+    return max(matchweeks)
+
+with open("labeled_examples.jsonl", "w") as f_out:
     # raw_data directory structure: raw_data/{year season started}/{matchweek of data}.txt
     for season in range(1995, 2023):
         final_table = dict() # team name -> points after last matchweek
-        for matchweek in range(38, 0, -1): # TODO: not all seasons have 38 matchweeks
-            with open(f"raw_data/{season}/{matchweek}.txt") as f_in:
+        final_matchweek = get_final_matchweek(season)
+        for matchweek in range(final_matchweek, 0, -1):
+            data_filename = f"raw_data/{season}/{matchweek}.txt"
+            if not os.path.exists(data_filename):
+                continue
+            with open(data_filename) as f_in:
                 lines = [line.strip("\n") for line in f_in.readlines()]
             for i in range(len(lines)):
                 # the only lines in raw data that end with tab are the ones containing a team's record,
@@ -26,7 +36,7 @@ with open("parsed_data.jsonl", "w") as f_out:
                         "goal_difference": stats[6],
                         "points": stats[7],
                     }
-                    if matchweek == 38:
+                    if matchweek == final_matchweek:
                         final_table[team] = entry["points"]
                     entry["final_points"] = final_table[team]
                     f_out.write(json.dumps(entry) + "\n")
