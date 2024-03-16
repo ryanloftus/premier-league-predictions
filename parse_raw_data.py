@@ -22,11 +22,13 @@ with open("labeled_examples.jsonl", "w") as f_out:
                 # this line is preceded by a line containing team's name
                 if lines[i].endswith("\t"):
                     team = lines[i-1].strip()
+                    position = int(lines[i-4])
                     stats = [int(stat) for stat in lines[i].split("\t")[:8]]
                     entry = {
                         "season": season,
                         "matchweek": matchweek,
                         "team": team,
+                        "position": position,
                         "games_played": stats[0],
                         "wins": stats[1],
                         "draws": stats[2],
