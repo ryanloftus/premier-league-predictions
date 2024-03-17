@@ -42,3 +42,29 @@ with open("labeled_examples.jsonl", "w") as f_out:
                         final_table[team] = entry["points"]
                     entry["final_points"] = final_table[team]
                     f_out.write(json.dumps(entry) + "\n")
+
+season_to_predict = 2023
+matchweek_to_predict = 28
+with open("unlabeled_examples.jsonl", "w") as f_out, \
+     open(f"raw_data/{season_to_predict}/{matchweek_to_predict}.txt") as f_in:
+    lines = [line.strip("\n") for line in f_in.readlines()]
+    for i in range(len(lines)):
+        if lines[i].endswith("\t"):
+            team = lines[i-1].strip()
+            position = int(lines[i-4])
+            stats = [int(stat) for stat in lines[i].split("\t")[:8]]
+            entry = {
+                "season": season_to_predict,
+                "matchweek": matchweek_to_predict,
+                "team": team,
+                "position": position,
+                "games_played": stats[0],
+                "wins": stats[1],
+                "draws": stats[2],
+                "losses": stats[3],
+                "goals_for": stats[4],
+                "goals_against": stats[5],
+                "goal_difference": stats[6],
+                "points": stats[7],
+            }
+            f_out.write(json.dumps(entry) + "\n")
